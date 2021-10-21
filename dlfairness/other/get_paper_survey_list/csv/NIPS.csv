@@ -1,0 +1,235 @@
+Conf,Title,Link
+NIPS2020,A Fair Classifier Using Kernel Density Estimation.,https://proceedings.neurips.cc/paper/2020/hash/ac3870fcad1cfc367825cda0101eee62-Abstract.html
+NIPS2020,"A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection.",https://proceedings.neurips.cc/paper/2020/hash/b2eeb7362ef83deff5c7813a67e14f0a-Abstract.html
+NIPS2020,An Unbiased Risk Estimator for Learning with Augmented Classes.,https://proceedings.neurips.cc/paper/2020/hash/747c1bcceb6109a4ef936bc70cfe67de-Abstract.html
+NIPS2020,Auditing Differentially Private Machine Learning - How Private is Private SGD?,https://proceedings.neurips.cc/paper/2020/hash/fc4ddc15f9f4b4b06ef7844d6bb53abf-Abstract.html
+NIPS2020,Automatically Learning Compact Quality-aware Surrogates for Optimization Problems.,https://proceedings.neurips.cc/paper/2020/hash/6d0c932802f6953f70eb20931645fa40-Abstract.html
+NIPS2020,Balanced Meta-Softmax for Long-Tailed Visual Recognition.,https://proceedings.neurips.cc/paper/2020/hash/2ba61cc3a8f44143e1f2f13b2b729ab3-Abstract.html
+NIPS2020,Batch Normalization Biases Residual Blocks Towards the Identity Function in Deep Networks.,https://proceedings.neurips.cc/paper/2020/hash/e6b738eca0e6792ba8a9cbcba6c1881d-Abstract.html
+NIPS2020,Bias no more - high-probability data-dependent regret bounds for adversarial bandits and MDPs.,https://proceedings.neurips.cc/paper/2020/hash/b2ea5e977c5fc1ccfa74171a9723dd61-Abstract.html
+NIPS2020,Biased Stochastic First-Order Methods for Conditional Stochastic Optimization and Applications in Meta Learning.,https://proceedings.neurips.cc/paper/2020/hash/1cdf14d1e3699d61d237cf76ce1c2dca-Abstract.html
+NIPS2020,BlockGAN - Learning 3D Object-aware Scene Representations from Unlabelled Images.,https://proceedings.neurips.cc/paper/2020/hash/4b29fa4efe4fb7bc667c7b301b74d52d-Abstract.html
+NIPS2020,Can I Trust My Fairness Metric? Assessing Fairness with Unlabeled Data and Bayesian Inference.,https://proceedings.neurips.cc/paper/2020/hash/d83de59e10227072a9c034ce10029c39-Abstract.html
+NIPS2020,Can Implicit Bias Explain Generalization? Stochastic Convex Optimization as a Case Study.,https://proceedings.neurips.cc/paper/2020/hash/57cd30d9088b0185cf0ebca1a472ff1d-Abstract.html
+NIPS2020,CrossTransformers - spatially-aware few-shot transfer.,https://proceedings.neurips.cc/paper/2020/hash/fa28c6cdf8dd6f41a657c3d7caa5c709-Abstract.html
+NIPS2020,Debiased Contrastive Learning.,https://proceedings.neurips.cc/paper/2020/hash/63c3ddcc7b23daa1e42dc41f9a44a873-Abstract.html
+NIPS2020,Debiasing Averaged Stochastic Gradient Descent to handle missing values.,https://proceedings.neurips.cc/paper/2020/hash/972ededf6c4d7c1405ef53f27d961eda-Abstract.html
+NIPS2020,Debiasing Distributed Second Order Optimization with Surrogate Sketching and Scaled Regularization.,https://proceedings.neurips.cc/paper/2020/hash/4a46fbfca3f1465a27b210f4bdfe6ab3-Abstract.html
+NIPS2020,"Demystifying Contrastive Self-Supervised Learning - Invariances, Augmentations and Dataset Biases.",https://proceedings.neurips.cc/paper/2020/hash/22f791da07b0d8a2504c2537c560001c-Abstract.html
+NIPS2020,Discovering Symbolic Models from Deep Learning with Inductive Biases.,https://proceedings.neurips.cc/paper/2020/hash/c9f2f917078bd2db12f23c3b413d9cba-Abstract.html
+NIPS2020,Discriminative Sounding Objects Localization via Self-supervised Audiovisual Matching.,https://proceedings.neurips.cc/paper/2020/hash/7288251b27c8f0e73f4d7f483b06a785-Abstract.html
+NIPS2020,Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning.,https://proceedings.neurips.cc/paper/2020/hash/a7968b4339a1b85b7dbdb362dc44f9c4-Abstract.html
+NIPS2020,Elastic-InfoGAN - Unsupervised Disentangled Representation Learning in Class-Imbalanced Data.,https://proceedings.neurips.cc/paper/2020/hash/d1e39c9bda5c80ac3d8ea9d658163967-Abstract.html
+NIPS2020,Ensuring Fairness Beyond the Training Data.,https://proceedings.neurips.cc/paper/2020/hash/d6539d3b57159babf6a72e106beb45bd-Abstract.html
+NIPS2020,Entropic Optimal Transport between Unbalanced Gaussian Measures has a Closed Form.,https://proceedings.neurips.cc/paper/2020/hash/766e428d1e232bbdd58664b41346196c-Abstract.html
+NIPS2020,Estimating Training Data Influence by Tracing Gradient Descent.,https://proceedings.neurips.cc/paper/2020/hash/e6385d39ec9394f2f3a354d9d2b88eec-Abstract.html
+NIPS2020,Exploiting MMD and Sinkhorn Divergences for Fair and Transferable Representation Learning.,https://proceedings.neurips.cc/paper/2020/hash/af9c0e0c1dee63e5acad8b7ed1a5be96-Abstract.html
+NIPS2020,Fair Hierarchical Clustering.,https://proceedings.neurips.cc/paper/2020/hash/f10f2da9a238b746d2bac55759915f0d-Abstract.html
+NIPS2020,Fair Multiple Decision Making Through Soft Interventions.,https://proceedings.neurips.cc/paper/2020/hash/d0921d442ee91b896ad95059d13df618-Abstract.html
+NIPS2020,Fair Performance Metric Elicitation.,https://proceedings.neurips.cc/paper/2020/hash/7ec2442aa04c157590b2fa1a7d093a33-Abstract.html
+NIPS2020,Fair regression via plug-in estimator and recalibration with statistical guarantees.,https://proceedings.neurips.cc/paper/2020/hash/ddd808772c035aed516d42ad3559be5f-Abstract.html
+NIPS2020,Fair regression with Wasserstein barycenters.,https://proceedings.neurips.cc/paper/2020/hash/51cdbd2611e844ece5d80878eb770436-Abstract.html
+NIPS2020,Fairness constraints can help exact inference in structured prediction.,https://proceedings.neurips.cc/paper/2020/hash/8248a99e81e752cb9b41da3fc43fbe7f-Abstract.html
+NIPS2020,Fairness in Streaming Submodular Maximization - Algorithms and Hardness.,https://proceedings.neurips.cc/paper/2020/hash/9d752cb08ef466fc480fba981cfa44a1-Abstract.html
+NIPS2020,Fairness with Overlapping Groups; a Probabilistic Perspective.,https://proceedings.neurips.cc/paper/2020/hash/29c0605a3bab4229e46723f89cf59d83-Abstract.html
+NIPS2020,Fairness without Demographics through Adversarially Reweighted Learning.,https://proceedings.neurips.cc/paper/2020/hash/07fc15c9d169ee48573edd749d25945d-Abstract.html
+NIPS2020,Fast Unbalanced Optimal Transport on a Tree.,https://proceedings.neurips.cc/paper/2020/hash/dba31bb5c75992690f20c2d3b370ec7c-Abstract.html
+NIPS2020,GRAF - Generative Radiance Fields for 3D-Aware Image Synthesis.,https://proceedings.neurips.cc/paper/2020/hash/e92e1b476bb5262d793fd40931e0ed53-Abstract.html
+NIPS2020,GreedyFool - Distortion-Aware Sparse Adversarial Attack.,https://proceedings.neurips.cc/paper/2020/hash/8169e05e2a0debcb15458f2cc1eff0ea-Abstract.html
+NIPS2020,Group-Fair Online Allocation in Continuous Time.,https://proceedings.neurips.cc/paper/2020/hash/9ec0cfdc84044494e10582436e013e64-Abstract.html
+NIPS2020,HAWQ-V2 - Hessian Aware trace-Weighted Quantization of Neural Networks.,https://proceedings.neurips.cc/paper/2020/hash/d77c703536718b95308130ff2e5cf9ee-Abstract.html
+NIPS2020,Hold me tight! Influence of discriminative features on deep network boundaries.,https://proceedings.neurips.cc/paper/2020/hash/1ea97de85eb634d580161c603422437f-Abstract.html
+NIPS2020,How do fair decisions fare in long-term qualification?,https://proceedings.neurips.cc/paper/2020/hash/d6d231705f96d5a35aeb3a76402e49a3-Abstract.html
+NIPS2020,Identifying Causal-Effect Inference Failure with Uncertainty-Aware Models.,https://proceedings.neurips.cc/paper/2020/hash/860b37e28ec7ba614f00f9246949561d-Abstract.html
+NIPS2020,Implicit Bias in Deep Linear Classification - Initialization Scale vs Training Accuracy.,https://proceedings.neurips.cc/paper/2020/hash/fc2022c89b61c76bbef978f1370660bf-Abstract.html
+NIPS2020,Input-Aware Dynamic Backdoor Attack.,https://proceedings.neurips.cc/paper/2020/hash/234e691320c0ad5b45ee3c96d0d7b8f8-Abstract.html
+NIPS2020,Intra-Processing Methods for Debiasing Neural Networks.,https://proceedings.neurips.cc/paper/2020/hash/1d8d70dddf147d2d92a634817f01b239-Abstract.html
+NIPS2020,Investigating Gender Bias in Language Models Using Causal Mediation Analysis.,https://proceedings.neurips.cc/paper/2020/hash/92650b2e92217715fe312e6fa7b90d82-Abstract.html
+NIPS2020,KFC - A Scalable Approximation Algorithm for $k$-center Fair Clustering.,https://proceedings.neurips.cc/paper/2020/hash/a6d259bfbfa2062843ef543e21d7ec8e-Abstract.html
+NIPS2020,Label-Aware Neural Tangent Kernel - Toward Better Generalization and Local Elasticity.,https://proceedings.neurips.cc/paper/2020/hash/b6b90237b3ebd1e462a5d11dbc5c4dae-Abstract.html
+NIPS2020,Learning Certified Individually Fair Representations.,https://proceedings.neurips.cc/paper/2020/hash/55d491cf951b1b920900684d71419282-Abstract.html
+NIPS2020,Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction.,https://proceedings.neurips.cc/paper/2020/hash/6ad4174eba19ecb5fed17411a34ff5e6-Abstract.html
+NIPS2020,Learning Semantic-aware Normalization for Generative Adversarial Networks.,https://proceedings.neurips.cc/paper/2020/hash/f885a14eaf260d7d9f93c750e1174228-Abstract.html
+NIPS2020,Learning Strategy-Aware Linear Classifiers.,https://proceedings.neurips.cc/paper/2020/hash/ae87a54e183c075c494c4d397d126a66-Abstract.html
+NIPS2020,Learning from Failure - De-biasing Classifier from Biased Classifier.,https://proceedings.neurips.cc/paper/2020/hash/eddc3427c5d77843c2253f1e799fe933-Abstract.html
+NIPS2020,MATE - Plugging in Model Awareness to Task Embedding for Meta Learning.,https://proceedings.neurips.cc/paper/2020/hash/8989e07fc124e7a9bcbdebcc8ace2bc0-Abstract.html
+NIPS2020,MESA - Boost Ensemble Imbalanced Learning with MEta-SAmpler.,https://proceedings.neurips.cc/paper/2020/hash/a64bd53139f71961c5c31a9af03d775e-Abstract.html
+NIPS2020,Metric-Free Individual Fairness in Online Learning.,https://proceedings.neurips.cc/paper/2020/hash/80b618ebcac7aa97a6dac2ba65cb7e36-Abstract.html
+NIPS2020,Minimax Dynamics of Optimally Balanced Spiking Networks of Excitatory and Inhibitory Neurons.,https://proceedings.neurips.cc/paper/2020/hash/33cf42b38bbcf1dd6ba6b0f0cd005328-Abstract.html
+NIPS2020,Mitigating Forgetting in Online Continual Learning via Instance-Aware Parameterization.,https://proceedings.neurips.cc/paper/2020/hash/ca4b5656b7e193e6bb9064c672ac8dce-Abstract.html
+NIPS2020,Neutralizing Self-Selection Bias in Sampling for Sortition.,https://proceedings.neurips.cc/paper/2020/hash/48237d9f2dea8c74c2a72126cf63d933-Abstract.html
+NIPS2020,OTLDA - A Geometry-aware Optimal Transport Approach for Topic Modeling.,https://proceedings.neurips.cc/paper/2020/hash/d800149d2f947ad4d64f34668f8b20f6-Abstract.html
+NIPS2020,On Completeness-aware Concept-Based Explanations in Deep Neural Networks.,https://proceedings.neurips.cc/paper/2020/hash/ecb287ff763c169694f682af52c1f309-Abstract.html
+NIPS2020,"On the Ergodicity, Bias and Asymptotic Normality of Randomized Midpoint Sampling Method.",https://proceedings.neurips.cc/paper/2020/hash/5265d33c184af566aeb7ef8afd0b9b03-Abstract.html
+NIPS2020,Passport-aware Normalization for Deep Model Protection.,https://proceedings.neurips.cc/paper/2020/hash/ff1418e8cc993fe8abcfe3ce2003e5c5-Abstract.html
+NIPS2020,Posterior Re-calibration for Imbalanced Datasets.,https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b9c478459944a2d9ca5-Abstract.html
+NIPS2020,"Predictive coding in balanced neural networks with noise, chaos and delays.",https://proceedings.neurips.cc/paper/2020/hash/c236337b043acf93c7df397fdb9082b3-Abstract.html
+NIPS2020,Privacy Amplification via Random Check-Ins.,https://proceedings.neurips.cc/paper/2020/hash/313f422ac583444ba6045cd122653b0e-Abstract.html
+NIPS2020,Probabilistic Fair Clustering.,https://proceedings.neurips.cc/paper/2020/hash/95f2b84de5660ddf45c8a34933a2e66f-Abstract.html
+NIPS2020,Ratio Trace Formulation of Wasserstein Discriminant Analysis.,https://proceedings.neurips.cc/paper/2020/hash/c37f9e1283cbd4a6edfd778fc8b1c652-Abstract.html
+NIPS2020,Removing Bias in Multi-modal Classifiers - Regularization by Maximizing Functional Entropies.,https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html
+NIPS2020,Rethinking the Value of Labels for Improving Class-Imbalanced Learning.,https://proceedings.neurips.cc/paper/2020/hash/e025b6279c1b88d3ec0eca6fcb6e6280-Abstract.html
+NIPS2020,Robust Correction of Sampling Bias using Cumulative Distribution Functions.,https://proceedings.neurips.cc/paper/2020/hash/24368c745de15b3d2d6279667debcba3-Abstract.html
+NIPS2020,Robust Optimization for Fairness with Noisy Protected Groups.,https://proceedings.neurips.cc/paper/2020/hash/37d097caf1299d9aa79c2c2b843d2d78-Abstract.html
+NIPS2020,Robust Recovery via Implicit Bias of Discrepant Learning Rates for Double Over-parameterization.,https://proceedings.neurips.cc/paper/2020/hash/cd42c963390a9cd025d007dacfa99351-Abstract.html
+NIPS2020,Robustness Analysis of Non-Convex Stochastic Gradient Descent using Biased Expectations.,https://proceedings.neurips.cc/paper/2020/hash/bd4d08cd70f4be1982372107b3b448ef-Abstract.html
+NIPS2020,Self-Distillation Amplifies Regularization in Hilbert Space.,https://proceedings.neurips.cc/paper/2020/hash/2288f691b58edecadcc9a8691762b4fd-Abstract.html
+NIPS2020,Sense and Sensitivity Analysis - Simple Post-Hoc Analysis of Bias Due to Unobserved Confounding.,https://proceedings.neurips.cc/paper/2020/hash/7d265aa7147bd3913fb84c7963a209d1-Abstract.html
+NIPS2020,Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness.,https://proceedings.neurips.cc/paper/2020/hash/543e83748234f7cbab21aa0ade66565f-Abstract.html
+NIPS2020,The Advantage of Conditional Meta-Learning for Biased Regularization and Fine Tuning.,https://proceedings.neurips.cc/paper/2020/hash/0a716fe8c7745e51a3185fc8be6ca23a-Abstract.html
+NIPS2020,The Origins and Prevalence of Texture Bias in Convolutional Neural Networks.,https://proceedings.neurips.cc/paper/2020/hash/db5f9f42a7157abe65bb145000b5871a-Abstract.html
+NIPS2020,The Pitfalls of Simplicity Bias in Neural Networks.,https://proceedings.neurips.cc/paper/2020/hash/6cfe0e6127fa25df2a0ef2ae1067d915-Abstract.html
+NIPS2020,Transferable Calibration with Lower Bias and Variance in Domain Adaptation.,https://proceedings.neurips.cc/paper/2020/hash/df12ecd077efc8c23881028604dbb8cc-Abstract.html
+NIPS2020,Unbalanced Sobolev Descent.,https://proceedings.neurips.cc/paper/2020/hash/c5f5c23be1b71adb51ea9dc8e9d444a8-Abstract.html
+NIPS2020,Uncertainty Aware Semi-Supervised Learning on Graph Data.,https://proceedings.neurips.cc/paper/2020/hash/968c9b4f09cbb7d7925f38aea3484111-Abstract.html
+NIPS2020,Uncertainty-Aware Learning for Zero-Shot Semantic Segmentation.,https://proceedings.neurips.cc/paper/2020/hash/f73b76ce8949fe29bf2a537cfa420e8f-Abstract.html
+NIPS2020,Uncertainty-aware Self-training for Few-shot Text Classification.,https://proceedings.neurips.cc/paper/2020/hash/f23d125da1e29e34c552f448610ff25f-Abstract.html
+NIPS2020,Understanding Double Descent Requires A Fine-Grained Bias-Variance Decomposition.,https://proceedings.neurips.cc/paper/2020/hash/7d420e2b2939762031eed0447a9be19f-Abstract.html
+NIPS2020,Wasserstein Distances for Stereo Disparity Estimation.,https://proceedings.neurips.cc/paper/2020/hash/fe7ecc4de28b2c83c016b5c6c2acd826-Abstract.html
+NIPS2020,Your GAN is Secretly an Energy-based Model and You Should Use Discriminator Driven Latent Sampling.,https://proceedings.neurips.cc/paper/2020/hash/90525e70b7842930586545c6f1c9310c-Abstract.html
+NIPS2019,A Debiased MDI Feature Importance Measure for Random Forests.,http://papers.nips.cc/paper/9017-a-debiased-mdi-feature-importance-measure-for-random-forests
+NIPS2019,Almost Horizon-Free Structure-Aware Best Policy Identification with a Generative Model.,http://papers.nips.cc/paper/8800-almost-horizon-free-structure-aware-best-policy-identification-with-a-generative-model
+NIPS2019,Are sample means in multi-armed bandits positively or negatively biased?,http://papers.nips.cc/paper/8932-are-sample-means-in-multi-armed-bandits-positively-or-negatively-biased
+NIPS2019,Assessing Disparate Impact of Personalized Interventions - Identifiability and Bounds.,http://papers.nips.cc/paper/8603-assessing-disparate-impact-of-personalized-interventions-identifiability-and-bounds
+NIPS2019,Assessing Social and Intersectional Biases in Contextualized Word Representations.,http://papers.nips.cc/paper/9479-assessing-social-and-intersectional-biases-in-contextualized-word-representations
+NIPS2019,AttentionXML - Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification.,http://papers.nips.cc/paper/8817-attentionxml-label-tree-based-attention-aware-deep-model-for-high-performance-extreme-multi-label-text-classification
+NIPS2019,"Average Individual Fairness - Algorithms, Generalization and Experiments.",http://papers.nips.cc/paper/9034-average-individual-fairness-algorithms-generalization-and-experiments
+NIPS2019,Balancing Efficiency and Fairness in On-Demand Ridesourcing.,http://papers.nips.cc/paper/8772-balancing-efficiency-and-fairness-in-on-demand-ridesourcing
+NIPS2019,Beyond Online Balanced Descent - An Optimal Algorithm for Smoothed Online Optimization.,http://papers.nips.cc/paper/8463-beyond-online-balanced-descent-an-optimal-algorithm-for-smoothed-online-optimization
+NIPS2019,Bias Correction of Learned Generative Models using Likelihood-Free Importance Weighting.,http://papers.nips.cc/paper/9286-bias-correction-of-learned-generative-models-using-likelihood-free-importance-weighting
+NIPS2019,Biases for Emergent Communication in Multi-agent Reinforcement Learning.,http://papers.nips.cc/paper/9470-biases-for-emergent-communication-in-multi-agent-reinforcement-learning
+NIPS2019,Characterizing Bias in Classifiers using Generative Models.,http://papers.nips.cc/paper/8780-characterizing-bias-in-classifiers-using-generative-models
+NIPS2019,Combining Generative and Discriminative Models for Hybrid Inference.,http://papers.nips.cc/paper/9532-combining-generative-and-discriminative-models-for-hybrid-inference
+NIPS2019,Convergence-Rate-Matching Discretization of Accelerated Optimization Flows Through Opportunistic State-Triggered Control.,http://papers.nips.cc/paper/9170-convergence-rate-matching-discretization-of-accelerated-optimization-flows-through-opportunistic-state-triggered-control
+NIPS2019,Coresets for Clustering with Fairness Constraints.,http://papers.nips.cc/paper/8976-coresets-for-clustering-with-fairness-constraints
+NIPS2019,Debiased Bayesian inference for average treatment effects.,http://papers.nips.cc/paper/9364-debiased-bayesian-inference-for-average-treatment-effects
+NIPS2019,Differential Privacy Has Disparate Impact on Model Accuracy.,http://papers.nips.cc/paper/9681-differential-privacy-has-disparate-impact-on-model-accuracy
+NIPS2019,Discrimination in Online Markets - Effects of Social Bias on Learning from Reviews and Policy Design.,http://papers.nips.cc/paper/8487-discrimination-in-online-markets-effects-of-social-bias-on-learning-from-reviews-and-policy-design
+NIPS2019,Discriminative Topic Modeling with Logistic LDA.,http://papers.nips.cc/paper/8902-discriminative-topic-modeling-with-logistic-lda
+NIPS2019,Discriminator optimal transport.,http://papers.nips.cc/paper/8906-discriminator-optimal-transport
+NIPS2019,Disentangling Influence - Using disentangled representations to audit model predictions.,http://papers.nips.cc/paper/8699-disentangling-influence-using-disentangled-representations-to-audit-model-predictions
+NIPS2019,Distribution Learning of a Random Spatial Field with a Location-Unaware Mobile Sensor.,http://papers.nips.cc/paper/9412-distribution-learning-of-a-random-spatial-field-with-a-location-unaware-mobile-sensor
+NIPS2019,"Distribution oblivious, risk-aware algorithms for multi-armed bandits with unbounded rewards.",http://papers.nips.cc/paper/9305-distribution-oblivious-risk-aware-algorithms-for-multi-armed-bandits-with-unbounded-rewards
+NIPS2019,Dynamic Incentive-Aware Learning - Robust Pricing in Contextual Auctions.,http://papers.nips.cc/paper/9169-dynamic-incentive-aware-learning-robust-pricing-in-contextual-auctions
+NIPS2019,Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network.,http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network
+NIPS2019,Efficient Near-Optimal Testing of Community Changes in Balanced Stochastic Block Models.,http://papers.nips.cc/paper/9224-efficient-near-optimal-testing-of-community-changes-in-balanced-stochastic-block-models
+NIPS2019,Equal Opportunity in Online Classification with Partial Feedback.,http://papers.nips.cc/paper/9099-equal-opportunity-in-online-classification-with-partial-feedback
+NIPS2019,Exploring Algorithmic Fairness in Robust Graph Covering Problems.,http://papers.nips.cc/paper/9707-exploring-algorithmic-fairness-in-robust-graph-covering-problems
+NIPS2019,Extending Stein&apos;s unbiased risk estimator to train deep denoisers with correlated pairs of noisy images.,http://papers.nips.cc/paper/8426-extending-steins-unbiased-risk-estimator-to-train-deep-denoisers-with-correlated-pairs-of-noisy-images
+NIPS2019,Fair Algorithms for Clustering.,http://papers.nips.cc/paper/8741-fair-algorithms-for-clustering
+NIPS2019,Finding the Needle in the Haystack with Convolutions - on the benefits of architectural bias.,http://papers.nips.cc/paper/9131-finding-the-needle-in-the-haystack-with-convolutions-on-the-benefits-of-architectural-bias
+NIPS2019,Geometry-Aware Neural Rendering.,http://papers.nips.cc/paper/9331-geometry-aware-neural-rendering
+NIPS2019,Graph-based Discriminators - Sample Complexity and Expressiveness.,http://papers.nips.cc/paper/8895-graph-based-discriminators-sample-complexity-and-expressiveness
+NIPS2019,Group Retention when Using Machine Learning in Sequential Decision Making - the Interplay between User Dynamics and Fairness.,http://papers.nips.cc/paper/9662-group-retention-when-using-machine-learning-in-sequential-decision-making-the-interplay-between-user-dynamics-and-fairness
+NIPS2019,Inducing brain-relevant bias in natural language processing models.,http://papers.nips.cc/paper/9559-inducing-brain-relevant-bias-in-natural-language-processing-models
+NIPS2019,Inherent Tradeoffs in Learning Fair Representations.,http://papers.nips.cc/paper/9698-inherent-tradeoffs-in-learning-fair-representations
+NIPS2019,Integrating Bayesian and Discriminative Sparse Kernel Machines for Multi-class Active Learning.,http://papers.nips.cc/paper/8500-integrating-bayesian-and-discriminative-sparse-kernel-machines-for-multi-class-active-learning
+NIPS2019,Keeping Your Distance - Solving Sparse Reward Tasks Using Self-Balancing Shaped Rewards.,http://papers.nips.cc/paper/9225-keeping-your-distance-solving-sparse-reward-tasks-using-self-balancing-shaped-rewards
+NIPS2019,Learner-aware Teaching - Inverse Reinforcement Learning with Preferences and Constraints.,http://papers.nips.cc/paper/8668-learner-aware-teaching-inverse-reinforcement-learning-with-preferences-and-constraints
+NIPS2019,Learning Fairness in Multi-Agent Systems.,http://papers.nips.cc/paper/9537-learning-fairness-in-multi-agent-systems
+NIPS2019,Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss.,http://papers.nips.cc/paper/8435-learning-imbalanced-datasets-with-label-distribution-aware-margin-loss
+NIPS2019,Leveraging Labeled and Unlabeled Data for Consistent Fair Binary Classification.,http://papers.nips.cc/paper/9437-leveraging-labeled-and-unlabeled-data-for-consistent-fair-binary-classification
+NIPS2019,Loaded DiCE - Trading off Bias and Variance in Any-Order Score Function Gradient Estimators for Reinforcement Learning.,http://papers.nips.cc/paper/9026-loaded-dice-trading-off-bias-and-variance-in-any-order-score-function-gradient-estimators-for-reinforcement-learning
+NIPS2019,Multi-Criteria Dimensionality Reduction with Applications to Fairness.,http://papers.nips.cc/paper/9652-multi-criteria-dimensionality-reduction-with-applications-to-fairness
+NIPS2019,Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation.,http://papers.nips.cc/paper/8296-multimodal-model-agnostic-meta-learning-via-task-aware-modulation
+NIPS2019,Near Neighbor - Who is the Fairest of Them All?,http://papers.nips.cc/paper/9476-near-neighbor-who-is-the-fairest-of-them-all
+NIPS2019,Noise-tolerant fair classification.,http://papers.nips.cc/paper/8322-noise-tolerant-fair-classification
+NIPS2019,ObjectNet - A large-scale bias-controlled dataset for pushing the limits of object recognition models.,http://papers.nips.cc/paper/9142-objectnet-a-large-scale-bias-controlled-dataset-for-pushing-the-limits-of-object-recognition-models
+NIPS2019,Offline Contextual Bandits with High Probability Fairness Guarantees.,http://papers.nips.cc/paper/9630-offline-contextual-bandits-with-high-probability-fairness-guarantees
+NIPS2019,On Testing for Biases in Peer Review.,http://papers.nips.cc/paper/8770-on-testing-for-biases-in-peer-review
+NIPS2019,On the Fairness of Disentangled Representations.,http://papers.nips.cc/paper/9603-on-the-fairness-of-disentangled-representations
+NIPS2019,On the Inductive Bias of Neural Tangent Kernels.,http://papers.nips.cc/paper/9449-on-the-inductive-bias-of-neural-tangent-kernels
+NIPS2019,On the Transfer of Inductive Bias from Simulation to the Real World - a New Disentanglement Dataset.,http://papers.nips.cc/paper/9704-on-the-transfer-of-inductive-bias-from-simulation-to-the-real-world-a-new-disentanglement-dataset
+NIPS2019,PC-Fairness - A Unified Framework for Measuring Causality-based Fairness.,http://papers.nips.cc/paper/8601-pc-fairness-a-unified-framework-for-measuring-causality-based-fairness
+NIPS2019,Paradoxes in Fair Machine Learning.,http://papers.nips.cc/paper/9043-paradoxes-in-fair-machine-learning
+NIPS2019,Policy Evaluation with Latent Confounders via Optimal Balance.,http://papers.nips.cc/paper/8729-policy-evaluation-with-latent-confounders-via-optimal-balance
+NIPS2019,Policy Learning for Fairness in Ranking.,http://papers.nips.cc/paper/8782-policy-learning-for-fairness-in-ranking
+NIPS2019,Precision-Recall Balanced Topic Modelling.,http://papers.nips.cc/paper/8900-precision-recall-balanced-topic-modelling
+NIPS2019,Privacy Amplification by Mixing and Diffusion Mechanisms.,http://papers.nips.cc/paper/9485-privacy-amplification-by-mixing-and-diffusion-mechanisms
+NIPS2019,Quality Aware Generative Adversarial Networks.,http://papers.nips.cc/paper/8560-quality-aware-generative-adversarial-networks
+NIPS2019,RUBi - Reducing Unimodal Biases for Visual Question Answering.,http://papers.nips.cc/paper/8371-rubi-reducing-unimodal-biases-for-visual-question-answering
+NIPS2019,Random deep neural networks are biased towards simple functions.,http://papers.nips.cc/paper/8471-random-deep-neural-networks-are-biased-towards-simple-functions
+NIPS2019,Regret Minimization for Reinforcement Learning by Evaluating the Optimal Bias Function.,http://papers.nips.cc/paper/8549-regret-minimization-for-reinforcement-learning-by-evaluating-the-optimal-bias-function
+NIPS2019,Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference.,http://papers.nips.cc/paper/8720-scalable-spike-source-localization-in-extracellular-recordings-using-amortized-variational-inference
+NIPS2019,Scene Representation Networks - Continuous 3D-Structure-Aware Neural Scene Representations.,http://papers.nips.cc/paper/8396-scene-representation-networks-continuous-3d-structure-aware-neural-scene-representations
+NIPS2019,Spatial-Aware Feature Aggregation for Image based Cross-View Geo-Localization.,http://papers.nips.cc/paper/9199-spatial-aware-feature-aggregation-for-image-based-cross-view-geo-localization
+NIPS2019,SySCD - A System-Aware Parallel Coordinate Descent Algorithm.,http://papers.nips.cc/paper/8349-syscd-a-system-aware-parallel-coordinate-descent-algorithm
+NIPS2019,The Fairness of Risk Scores Beyond Classification - Bipartite Ranking and the XAUC Metric.,http://papers.nips.cc/paper/8604-the-fairness-of-risk-scores-beyond-classification-bipartite-ranking-and-the-xauc-metric
+NIPS2019,The Implicit Bias of AdaGrad on Separable Data.,http://papers.nips.cc/paper/8991-the-implicit-bias-of-adagrad-on-separable-data
+NIPS2019,Towards Hardware-Aware Tractable Learning of Probabilistic Models.,http://papers.nips.cc/paper/9525-towards-hardware-aware-tractable-learning-of-probabilistic-models
+NIPS2019,Unlocking Fairness - a Trade-off Revisited.,http://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited
+NIPS2019,Why Can&apos;t I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition.,http://papers.nips.cc/paper/8372-why-cant-i-dance-in-the-mall-learning-to-mitigate-scene-bias-in-action-recognition
+NIPS2018,3D-Aware Scene Manipulation via Inverse Graphics.,http://papers.nips.cc/paper/7459-3d-aware-scene-manipulation-via-inverse-graphics
+NIPS2018,Algorithmic Regularization in Learning Deep Homogeneous Models - Layers are Automatically Balanced.,http://papers.nips.cc/paper/7321-algorithmic-regularization-in-learning-deep-homogeneous-models-layers-are-automatically-balanced
+NIPS2018,Balanced Policy Evaluation and Learning.,http://papers.nips.cc/paper/8105-balanced-policy-evaluation-and-learning
+NIPS2018,Bias and Generalization in Deep Generative Models - An Empirical Study.,http://papers.nips.cc/paper/8277-bias-and-generalization-in-deep-generative-models-an-empirical-study
+NIPS2018,CatBoost - unbiased boosting with categorical features.,http://papers.nips.cc/paper/7898-catboost-unbiased-boosting-with-categorical-features
+NIPS2018,Context-aware Synthesis and Placement of Object Instances.,http://papers.nips.cc/paper/8240-context-aware-synthesis-and-placement-of-object-instances
+NIPS2018,Data Amplification - A Unified and Competitive Approach to Property Estimation.,http://papers.nips.cc/paper/8099-data-amplification-a-unified-and-competitive-approach-to-property-estimation
+NIPS2018,Discrimination-aware Channel Pruning for Deep Neural Networks.,http://papers.nips.cc/paper/7367-discrimination-aware-channel-pruning-for-deep-neural-networks
+NIPS2018,Does mitigating ML&apos;s impact disparity require treatment disparity?,http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity
+NIPS2018,Empirical Risk Minimization Under Fairness Constraints.,http://papers.nips.cc/paper/7544-empirical-risk-minimization-under-fairness-constraints
+NIPS2018,Enhancing the Accuracy and Fairness of Human Decision Making.,http://papers.nips.cc/paper/7448-enhancing-the-accuracy-and-fairness-of-human-decision-making
+NIPS2018,Equality of Opportunity in Classification - A Causal Approach.,http://papers.nips.cc/paper/7625-equality-of-opportunity-in-classification-a-causal-approach
+NIPS2018,Experimental Design for Cost-Aware Learning of Causal Graphs.,http://papers.nips.cc/paper/7774-experimental-design-for-cost-aware-learning-of-causal-graphs
+NIPS2018,Fairness Behind a Veil of Ignorance - A Welfare Analysis for Automated Decision Making.,http://papers.nips.cc/paper/7402-fairness-behind-a-veil-of-ignorance-a-welfare-analysis-for-automated-decision-making
+NIPS2018,Fairness Through Computationally-Bounded Awareness.,http://papers.nips.cc/paper/7733-fairness-through-computationally-bounded-awareness
+NIPS2018,Geometry-Aware Recurrent Neural Networks for Active Visual Recognition.,http://papers.nips.cc/paper/7755-geometry-aware-recurrent-neural-networks-for-active-visual-recognition
+NIPS2018,Hunting for Discriminatory Proxies in Linear Regression Models.,http://papers.nips.cc/paper/7708-hunting-for-discriminatory-proxies-in-linear-regression-models
+NIPS2018,Implicit Bias of Gradient Descent on Linear Convolutional Networks.,http://papers.nips.cc/paper/8156-implicit-bias-of-gradient-descent-on-linear-convolutional-networks
+NIPS2018,Improving Neural Program Synthesis with Inferred Execution Traces.,http://papers.nips.cc/paper/8107-improving-neural-program-synthesis-with-inferred-execution-traces
+NIPS2018,Iterative Value-Aware Model Learning.,http://papers.nips.cc/paper/8121-iterative-value-aware-model-learning
+NIPS2018,Learning from discriminative feature feedback.,http://papers.nips.cc/paper/7651-learning-from-discriminative-feature-feedback
+NIPS2018,"Learning to Play With Intrinsically-Motivated, Self-Aware Agents.",http://papers.nips.cc/paper/8059-learning-to-play-with-intrinsically-motivated-self-aware-agents
+NIPS2018,Nonparametric Bayesian Lomax delegate racing for survival analysis with competing risks.,http://papers.nips.cc/paper/7748-nonparametric-bayesian-lomax-delegate-racing-for-survival-analysis-with-competing-risks
+NIPS2018,On preserving non-discrimination when combining expert advice.,http://papers.nips.cc/paper/8058-on-preserving-non-discrimination-when-combining-expert-advice
+NIPS2018,Online Learning with an Unknown Fairness Metric.,http://papers.nips.cc/paper/7526-online-learning-with-an-unknown-fairness-metric
+NIPS2018,Power-law efficient neural codes provide general link between perceptual bias and discriminability.,http://papers.nips.cc/paper/7754-power-law-efficient-neural-codes-provide-general-link-between-perceptual-bias-and-discriminability
+NIPS2018,Predict Responsibly - Improving Fairness and Accuracy by Learning to Defer.,http://papers.nips.cc/paper/7853-predict-responsibly-improving-fairness-and-accuracy-by-learning-to-defer
+NIPS2018,Privacy Amplification by Subsampling - Tight Analyses via Couplings and Divergences.,http://papers.nips.cc/paper/7865-privacy-amplification-by-subsampling-tight-analyses-via-couplings-and-divergences
+NIPS2018,Representation Balancing MDPs for Off-policy Policy Evaluation.,http://papers.nips.cc/paper/7530-representation-balancing-mdps-for-off-policy-policy-evaluation
+NIPS2018,Robot Learning in Homes - Improving Generalization and Reducing Dataset Bias.,http://papers.nips.cc/paper/8123-robot-learning-in-homes-improving-generalization-and-reducing-dataset-bias
+NIPS2018,Structure-Aware Convolutional Neural Networks.,http://papers.nips.cc/paper/7287-structure-aware-convolutional-neural-networks
+NIPS2018,The Everlasting Database - Statistical Validity at a Fair Price.,http://papers.nips.cc/paper/7888-the-everlasting-database-statistical-validity-at-a-fair-price
+NIPS2018,The Price of Fair PCA - One Extra dimension.,http://papers.nips.cc/paper/8294-the-price-of-fair-pca-one-extra-dimension
+NIPS2018,Uncertainty-Aware Attention for Reliable Interpretation and Prediction.,http://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction
+NIPS2018,Unsupervised Text Style Transfer using Language Models as Discriminators.,http://papers.nips.cc/paper/7959-unsupervised-text-style-transfer-using-language-models-as-discriminators
+NIPS2018,Virtual Class Enhanced Discriminative Embedding Learning.,http://papers.nips.cc/paper/7464-virtual-class-enhanced-discriminative-embedding-learning
+NIPS2018,Why Is My Classifier Discriminatory?,http://papers.nips.cc/paper/7613-why-is-my-classifier-discriminatory
+NIPS2018,Why so gloomy? A Bayesian explanation of human pessimism bias in the multi-armed bandit task.,http://papers.nips.cc/paper/7764-why-so-gloomy-a-bayesian-explanation-of-human-pessimism-bias-in-the-multi-armed-bandit-task
+NIPS2017,Active Bias - Training More Accurate Neural Networks by Emphasizing High Variance Samples.,http://papers.nips.cc/paper/6701-active-bias-training-more-accurate-neural-networks-by-emphasizing-high-variance-samples
+NIPS2017,Avoiding Discrimination through Causal Reasoning.,http://papers.nips.cc/paper/6668-avoiding-discrimination-through-causal-reasoning
+NIPS2017,Balancing information exposure in social networks.,http://papers.nips.cc/paper/7052-balancing-information-exposure-in-social-networks
+NIPS2017,Best of Both Worlds - Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model.,http://papers.nips.cc/paper/6635-best-of-both-worlds-transferring-knowledge-from-discriminative-learning-to-a-generative-visual-dialog-model
+NIPS2017,Beyond Parity - Fairness Objectives for Collaborative Filtering.,http://papers.nips.cc/paper/6885-beyond-parity-fairness-objectives-for-collaborative-filtering
+NIPS2017,Compression-aware Training of Deep Networks.,http://papers.nips.cc/paper/6687-compression-aware-training-of-deep-networks
+NIPS2017,Counterfactual Fairness.,http://papers.nips.cc/paper/6995-counterfactual-fairness
+NIPS2017,Discriminative State Space Models.,http://papers.nips.cc/paper/7150-discriminative-state-space-models
+NIPS2017,Dual Discriminator Generative Adversarial Nets.,http://papers.nips.cc/paper/6860-dual-discriminator-generative-adversarial-nets
+NIPS2017,Fair Clustering Through Fairlets.,http://papers.nips.cc/paper/7088-fair-clustering-through-fairlets
+NIPS2017,From Parity to Preference-based Notions of Fairness in Classification.,http://papers.nips.cc/paper/6627-from-parity-to-preference-based-notions-of-fairness-in-classification
+NIPS2017,Gradients of Generative Models for Improved Discriminative Analysis of Tandem Mass Spectra.,http://papers.nips.cc/paper/7155-gradients-of-generative-models-for-improved-discriminative-analysis-of-tandem-mass-spectra
+NIPS2017,Linear Convergence of a Frank-Wolfe Type Algorithm over Trace-Norm Balls.,http://papers.nips.cc/paper/7199-linear-convergence-of-a-frank-wolfe-type-algorithm-over-trace-norm-balls
+NIPS2017,Matching on Balanced Nonlinear Representations for Treatment Effects Estimation.,http://papers.nips.cc/paper/6694-matching-on-balanced-nonlinear-representations-for-treatment-effects-estimation
+NIPS2017,On Fairness and Calibration.,http://papers.nips.cc/paper/7151-on-fairness-and-calibration
+NIPS2017,"On Separability of Loss Functions, and Revisiting Discriminative Vs Generative Models.",http://papers.nips.cc/paper/7280-on-separability-of-loss-functions-and-revisiting-discriminative-vs-generative-models
+NIPS2017,Optimized Pre-Processing for Discrimination Prevention.,http://papers.nips.cc/paper/6988-optimized-pre-processing-for-discrimination-prevention
+NIPS2017,Position-based Multiple-play Bandit Problem with Unknown Position Bias.,http://papers.nips.cc/paper/7085-position-based-multiple-play-bandit-problem-with-unknown-position-bias
+NIPS2017,"REBAR - Low-variance, unbiased gradient estimates for discrete latent variable models.",http://papers.nips.cc/paper/6856-rebar-low-variance-unbiased-gradient-estimates-for-discrete-latent-variable-models
+NIPS2017,Recycling Privileged Learning and Distribution Matching for Fairness.,http://papers.nips.cc/paper/6670-recycling-privileged-learning-and-distribution-matching-for-fairness
+NIPS2017,Scalable Demand-Aware Recommendation.,http://papers.nips.cc/paper/6835-scalable-demand-aware-recommendation
+NIPS2017,State Aware Imitation Learning.,http://papers.nips.cc/paper/6884-state-aware-imitation-learning
+NIPS2017,Toward Robustness against Label Noise in Training Deep Discriminative Neural Networks.,http://papers.nips.cc/paper/7143-toward-robustness-against-label-noise-in-training-deep-discriminative-neural-networks
+NIPS2017,Unbiased estimates for linear regression via volume sampling.,http://papers.nips.cc/paper/6901-unbiased-estimates-for-linear-regression-via-volume-sampling
+NIPS2017,When Worlds Collide - Integrating Different Counterfactual Assumptions in Fairness.,http://papers.nips.cc/paper/7220-when-worlds-collide-integrating-different-counterfactual-assumptions-in-fairness
+NIPS2016,A Bayesian method for reducing bias in neural representational similarity analysis.,http://papers.nips.cc/paper/6131-a-bayesian-method-for-reducing-bias-in-neural-representational-similarity-analysis
+NIPS2016,Backprop KF - Learning Discriminative Deterministic State Estimators.,http://papers.nips.cc/paper/6090-backprop-kf-learning-discriminative-deterministic-state-estimators
+NIPS2016,Balancing Suspense and Surprise - Timely Decision Making with Endogenous Information Acquisition.,http://papers.nips.cc/paper/6062-balancing-suspense-and-surprise-timely-decision-making-with-endogenous-information-acquisition
+NIPS2016,Discriminative Gaifman Models.,http://papers.nips.cc/paper/6098-discriminative-gaifman-models
+NIPS2016,Efficient High-Order Interaction-Aware Feature Selection Based on Conditional Mutual Information.,http://papers.nips.cc/paper/6584-efficient-high-order-interaction-aware-feature-selection-based-on-conditional-mutual-information
+NIPS2016,Equality of Opportunity in Supervised Learning.,http://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning
+NIPS2016,Fairness in Learning - Classic and Contextual Bandits.,http://papers.nips.cc/paper/6355-fairness-in-learning-classic-and-contextual-bandits
+NIPS2016,High resolution neural connectivity from incomplete tracing data using nonnegative spline regression.,http://papers.nips.cc/paper/6244-high-resolution-neural-connectivity-from-incomplete-tracing-data-using-nonnegative-spline-regression
+NIPS2016,Large Margin Discriminant Dimensionality Reduction in Prediction Space.,http://papers.nips.cc/paper/6458-large-margin-discriminant-dimensionality-reduction-in-prediction-space
+NIPS2016,Local Similarity-Aware Deep Feature Embedding.,http://papers.nips.cc/paper/6368-local-similarity-aware-deep-feature-embedding
+NIPS2016,Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.,http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings

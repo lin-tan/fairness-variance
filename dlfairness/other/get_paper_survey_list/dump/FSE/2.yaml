@@ -1,0 +1,379 @@
+A formal verification tool for Ethereum VM bytecode.:
+- https://doi.org/10.1145/3236024.3264591
+- 2018
+A novel automated approach for software effort estimation based on data augmentation.:
+- https://doi.org/10.1145/3236024.3236052
+- 2018
+ASketch - a sketching framework for Alloy.:
+- https://doi.org/10.1145/3236024.3264594
+- 2018
+Adversarial symbolic execution for detecting concurrency-related cache timing leaks.:
+- https://doi.org/10.1145/3236024.3236028
+- 2018
+AlloyInEcore - embedding of first-order relational logic into meta-object facility for automated model reasoning.:
+- https://doi.org/10.1145/3236024.3264588
+- 2018
+An empirical study on crash recovery bugs in large-scale distributed systems.:
+- https://doi.org/10.1145/3236024.3236030
+- 2018
+AppFlow - using machine learning to synthesize robust, reusable UI tests.:
+- https://doi.org/10.1145/3236024.3236055
+- 2018
+Applications of psychological science for actionable analytics.:
+- https://doi.org/10.1145/3236024.3236050
+- 2018
+Are mobile banking apps secure? what can be improved?:
+- https://doi.org/10.1145/3236024.3275523
+- 2018
+Augmenting stack overflow with API usage patterns mined from GitHub.:
+- https://doi.org/10.1145/3236024.3264585
+- 2018
+Automated patch extraction via syntax- and semantics-aware Delta debugging on source code changes.:
+- https://doi.org/10.1145/3236024.3236047
+- 2018
+Automated refactoring of nested-IF formulae in spreadsheets.:
+- https://doi.org/10.1145/3236024.3275532
+- 2018
+Automated scenario-based integration testing of distributed systems.:
+- https://doi.org/10.1145/3236024.3275431
+- 2018
+Automated support for mobile application testing and maintenance.:
+- https://doi.org/10.1145/3236024.3275425
+- 2018
+Be careful of when - an empirical study on time-related misuse of issue tracking data.:
+- https://doi.org/10.1145/3236024.3236054
+- 2018
+Behind every great deep learning framework is an even greater programming languages concept (keynote).:
+- https://doi.org/10.1145/3236024.3280855
+- 2018
+? Beyond testing configurable systems - applying variational execution to automatic
+  program repair and higher order mutation testing.
+: - https://doi.org/10.1145/3236024.3264837
+  - 2018
+BigSift - automated debugging of big data analytics in data-intensive scalable computing.:
+- https://doi.org/10.1145/3236024.3264586
+- 2018
+Bug synthesis - challenging bug-finding tools with deep faults.:
+- https://doi.org/10.1145/3236024.3236084
+- 2018
+Bugs in the wild - examining the effectiveness of static analyzers at finding real-world bugs.:
+- https://doi.org/10.1145/3236024.3275439
+- 2018
+Building lean continuous integration and delivery pipelines by applying DevOps principles - a case study at Varidesk.:
+- https://doi.org/10.1145/3236024.3275528
+- 2018
+CloudRaid - hunting concurrency bugs in the cloud via log-mining.:
+- https://doi.org/10.1145/3236024.3236071
+- 2018
+Code vectors - understanding programs through embedded abstracted symbolic traces.:
+- https://doi.org/10.1145/3236024.3236085
+- 2018
+Complementing global and local contexts in representing API descriptions to improve API retrieval tasks.:
+- https://doi.org/10.1145/3236024.3236036
+- 2018
+Concurrency verification with maximal path causality.:
+- https://doi.org/10.1145/3236024.3236048
+- 2018
+DLFuzz - differential fuzzing testing of deep learning systems.:
+- https://doi.org/10.1145/3236024.3264835
+- 2018
+DSM - a specification mining tool using recurrent neural network based language model.:
+- https://doi.org/10.1145/3236024.3264597
+- 2018
+Dara - hybrid model checking of distributed systems.:
+- https://doi.org/10.1145/3236024.3275438
+- 2018
+Darwinian data structure selection.:
+- https://doi.org/10.1145/3236024.3236043
+- 2018
+Data race detection on compressed traces.:
+- https://doi.org/10.1145/3236024.3236025
+- 2018
+Deep learning type inference.:
+- https://doi.org/10.1145/3236024.3236051
+- 2018
+DeepSim - deep learning code functional similarity.:
+- https://doi.org/10.1145/3236024.3236068
+- 2018
+Design and validation of precooked developer dashboards.:
+- https://doi.org/10.1145/3236024.3275530
+- 2018
+Detecting speech act types in developer question/answer conversations during bug repair.:
+- https://doi.org/10.1145/3236024.3236031
+- 2018
+Detection of energy inefficiencies in Android wear watch faces.:
+- https://doi.org/10.1145/3236024.3236073
+- 2018
+Diversity and decorum in open source communities.:
+- https://doi.org/10.1145/3236024.3275441
+- 2018
+Do Android taint analysis tools keep their promises?:
+- https://doi.org/10.1145/3236024.3236029
+- 2018
+Do the dependency conflicts in my project matter?:
+- https://doi.org/10.1145/3236024.3236056
+- 2018
+Does ACM&apos;s code of ethics change ethical decision making in software development?:
+- https://doi.org/10.1145/3236024.3264833
+- 2018
+EClone - detect semantic clones in Ethereum via symbolic transaction sketch.:
+- https://doi.org/10.1145/3236024.3264596
+- 2018
+Ecosystem-level determinants of sustained activity in open-source projects - a case study of the PyPI ecosystem.:
+- https://doi.org/10.1145/3236024.3236062
+- 2018
+Efficient static checking of library updates.:
+- https://doi.org/10.1145/3236024.3275535
+- 2018
+FACTS - automated black-box testing of FinTech systems.:
+- https://doi.org/10.1145/3236024.3275533
+- 2018
+FOT - a versatile, configurable, extensible fuzzing framework.:
+- https://doi.org/10.1145/3236024.3264593
+- 2018
+Feature-interaction aware configuration prioritization.:
+- https://doi.org/10.1145/3236024.3275437
+- 2018
+Feedback-directed differential testing of interactive debuggers.:
+- https://doi.org/10.1145/3236024.3236037
+- 2018
+FraudDroid - automated ad fraud detection for Android apps.:
+- https://doi.org/10.1145/3236024.3236045
+- 2018
+Gamifying static analysis.:
+- https://doi.org/10.1145/3236024.3264830
+- 2018
+How Dance(Sport) can help to produce better software.:
+- https://doi.org/10.1145/3236024.3275436
+- 2018
+How are spreadsheet templates used in practice - a case study on Enron.:
+- https://doi.org/10.1145/3236024.3264834
+- 2018
+How do developers resolve merge conflicts? an investigation into the processes, tools, and improvements.:
+- https://doi.org/10.1145/3236024.3275430
+- 2018
+How should compilers explain problems to developers?:
+- https://doi.org/10.1145/3236024.3236040
+- 2018
+How well are regular expressions tested in the wild?:
+- https://doi.org/10.1145/3236024.3236072
+- 2018
+INFAR - insight extraction from app reviews.:
+- https://doi.org/10.1145/3236024.3264595
+- 2018
+Identifying impactful service system problems via log analysis.:
+- https://doi.org/10.1145/3236024.3236083
+- 2018
+Improving IR-based bug localization with context-aware query reformulation.:
+- https://doi.org/10.1145/3236024.3236065
+- 2018
+Intelligent bug fixing with software bug knowledge graph.:
+- https://doi.org/10.1145/3236024.3275428
+- 2018
+Large-scale study of substitutability in the presence of effects.:
+- https://doi.org/10.1145/3236024.3236075
+- 2018
+Learning to sample - exploiting similarities across environments to learn performance models for configurable systems.:
+- https://doi.org/10.1145/3236024.3236074
+- 2018
+MODE - automated neural network model debugging via state differential analysis and input selection.:
+- https://doi.org/10.1145/3236024.3236082
+- 2018
+MemFix - static analysis-based repair of memory deallocation errors for C.:
+- https://doi.org/10.1145/3236024.3236079
+- 2018
+Mining error-handling specifications for systems software.:
+- https://doi.org/10.1145/3236024.3275440
+- 2018
+Model transformation languages under a magnifying glass - a controlled experiment with Xtend, ATL, and QVT.:
+- https://doi.org/10.1145/3236024.3236046
+- 2018
+Modeling and testing a family of surgical robots - an experience report.:
+- https://doi.org/10.1145/3236024.3275534
+- 2018
+Modify, enhance, select - co-evolution of combinatorial models and test plans.:
+- https://doi.org/10.1145/3236024.3236067
+- 2018
+Moving towards objective measures of program comprehension.:
+- https://doi.org/10.1145/3236024.3275426
+- 2018
+NAR-miner - discovering negative association rules from code for bug detection.:
+- https://doi.org/10.1145/3236024.3236032
+- 2018
+Neural-augmented static analysis of Android communication.:
+- https://doi.org/10.1145/3236024.3236066
+- 2018
+On the adoption of neural networks in modeling software reliability.:
+- https://doi.org/10.1145/3236024.3275433
+- 2018
+On the naturalness of proofs.:
+- https://doi.org/10.1145/3236024.3264832
+- 2018
+One size does not fit all - an empirical study of containerized continuous deployment workflows.:
+- https://doi.org/10.1145/3236024.3236033
+- 2018
+Operationalizing human values in software - a research roadmap.:
+- https://doi.org/10.1145/3236024.3264843
+- 2018
+Optimizing test prioritization via test distribution analysis.:
+- https://doi.org/10.1145/3236024.3236053
+- 2018
+Oreo - detection of clones in the twilight zone.:
+- https://doi.org/10.1145/3236024.3236026
+- 2018
+PAFL - extend fuzzing optimizations of single mode to industrial parallel mode.:
+- https://doi.org/10.1145/3236024.3275525
+- 2018
+Parameterized model counting for string and numeric constraints.:
+- https://doi.org/10.1145/3236024.3236064
+- 2018
+Path-based function embedding and its application to error-handling specification mining.:
+- https://doi.org/10.1145/3236024.3236059
+- 2018
+Performance comprehension at WiredTiger.:
+- https://doi.org/10.1145/3236024.3236081
+- 2018
+Phys - probabilistic physical unit assignment and inconsistency detection.:
+- https://doi.org/10.1145/3236024.3236035
+- 2018
+PowerStation - automatically detecting and fixing inefficiencies of database-backed web applications in IDE.:
+- https://doi.org/10.1145/3236024.3264589
+- 2018
+Practical AJAX race detection for JavaScript web applications.:
+- https://doi.org/10.1145/3236024.3236038
+- 2018
+Practices and tools for better software testing.:
+- https://doi.org/10.1145/3236024.3275424
+- 2018
+Predicting Node failure in cloud service systems.:
+- https://doi.org/10.1145/3236024.3236060
+- 2018
+? Proceedings of the 2018 ACM Joint Meeting on European Software Engineering Conference
+  and Symposium on the Foundations of Software Engineering, ESEC/SIGSOFT FSE 2018,
+  Lake Buena Vista, FL, USA, November 04-09, 2018
+: - http://dl.acm.org/citation.cfm?id=3236024
+  - 2018
+Putback-based bidirectional model transformations.:
+- https://doi.org/10.1145/3236024.3236070
+- 2018
+PyDriller - Python framework for mining software repositories.:
+- https://doi.org/10.1145/3236024.3264598
+- 2018
+Quality assurance automation in autonomous systems.:
+- https://doi.org/10.1145/3236024.3275429
+- 2018
+RefiNym - using names to refine types.:
+- https://doi.org/10.1145/3236024.3236042
+- 2018
+Regression test selection for TizenRT.:
+- https://doi.org/10.1145/3236024.3275527
+- 2018
+Reshaping distributed agile and adaptive development environment.:
+- https://doi.org/10.1145/3236024.3275435
+- 2018
+Salient-class location - help developers understand code change in code review.:
+- https://doi.org/10.1145/3236024.3264841
+- 2018
+Scalability-first pointer analysis with self-tuning context-sensitivity.:
+- https://doi.org/10.1145/3236024.3236041
+- 2018
+Semantic inference from natural language privacy policies and Android code.:
+- https://doi.org/10.1145/3236024.3275427
+- 2018
+Singularity - pattern fuzzing for worst case complexity.:
+- https://doi.org/10.1145/3236024.3236039
+- 2018
+SketchFix - a tool for automated program repair approach using lazy candidate generation.:
+- https://doi.org/10.1145/3236024.3264600
+- 2018
+Software development challenges with air-gap isolation.:
+- https://doi.org/10.1145/3236024.3275526
+- 2018
+Software engineering collaboratories (SEClabs) and collaboratories as a service (CaaS).:
+- https://doi.org/10.1145/3236024.3264839
+- 2018
+Software fairness.:
+- https://doi.org/10.1145/3236024.3264838
+- 2018
+Stochastic energy optimization for mobile GPS applications.:
+- https://doi.org/10.1145/3236024.3236076
+- 2018
+Symbolic execution with existential second-order constraints.:
+- https://doi.org/10.1145/3236024.3236049
+- 2018
+Syntax-guided synthesis of Datalog programs.:
+- https://doi.org/10.1145/3236024.3236034
+- 2018
+Ten years of hunting for similar code for fun and profit (keynote).:
+- https://doi.org/10.1145/3236024.3280856
+- 2018
+Testing and validating end user programmed calculated fields.:
+- https://doi.org/10.1145/3236024.3275531
+- 2018
+Testing multithreaded programs via thread speed control.:
+- https://doi.org/10.1145/3236024.3236077
+- 2018
+Testing probabilistic programming systems.:
+- https://doi.org/10.1145/3236024.3236057
+- 2018
+The case for experiment-oriented computing.:
+- https://doi.org/10.1145/3236024.3264831
+- 2018
+The impact of failing, flaky, and high failure tests on the number of crash reports associated with Firefox builds.:
+- https://doi.org/10.1145/3236024.3275529
+- 2018
+The impact of regular expression denial of service (ReDoS) in practice - an empirical study at the ecosystem scale.:
+- https://doi.org/10.1145/3236024.3236027
+- 2018
+Themis - automatically testing software for discrimination.:
+- https://doi.org/10.1145/3236024.3264590
+- 2018
+Towards a theory of software development expertise.:
+- https://doi.org/10.1145/3236024.3236061
+- 2018
+Towards counterexample-guided k-induction for fast bug detection.:
+- https://doi.org/10.1145/3236024.3264840
+- 2018
+Towards data-driven vulnerability prediction for requirements.:
+- https://doi.org/10.1145/3236024.3264836
+- 2018
+Towards learning-augmented languages.:
+- https://doi.org/10.1145/3236024.3275432
+- 2018
+Towards quantifying the development value of code contributions.:
+- https://doi.org/10.1145/3236024.3264842
+- 2018
+Type migration in large-scale code bases.:
+- https://doi.org/10.1145/3236024.3275434
+- 2018
+Using finite-state models for log differencing.:
+- https://doi.org/10.1145/3236024.3236069
+- 2018
+VT-revolution - interactive programming tutorials made possible.:
+- https://doi.org/10.1145/3236024.3264587
+- 2018
+Verifying the long-run behavior of probabilistic system models in the presence of uncertainty.:
+- https://doi.org/10.1145/3236024.3236078
+- 2018
+Vista - web test repair using computer vision.:
+- https://doi.org/10.1145/3236024.3264592
+- 2018
+Visual web test repair.:
+- https://doi.org/10.1145/3236024.3236063
+- 2018
+VulSeeker-pro - enhanced semantic learning based binary vulnerability seeker with emulation.:
+- https://doi.org/10.1145/3236024.3275524
+- 2018
+WarningsGuru - integrating statistical bug models with static analysis to provide timely and specific bug warnings.:
+- https://doi.org/10.1145/3236024.3264599
+- 2018
+What makes a code change easier to review - an empirical investigation on code change reviewability.:
+- https://doi.org/10.1145/3236024.3236080
+- 2018
+? Which generated test failures are fault revealing? prioritizing failures based on
+  inferred precondition violations using PAF.
+: - https://doi.org/10.1145/3236024.3236058
+  - 2018
+Winning the app production rally.:
+- https://doi.org/10.1145/3236024.3236044
+- 2018

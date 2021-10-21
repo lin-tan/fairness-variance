@@ -1,0 +1,326 @@
+42 variability bugs in the linux kernel - a qualitative analysis.:
+- https://doi.org/10.1145/2642937.2642990
+- 2014
+8Cage - lightweight fault-based test generation for simulink.:
+- https://doi.org/10.1145/2642937.2648622
+- 2014
+A dynamic analysis to support object-sharing code refactorings.:
+- https://doi.org/10.1145/2642937.2642992
+- 2014
+A proposal for revisiting coverage testing metrics.:
+- https://doi.org/10.1145/2642937.2653471
+- 2014
+A requirements monitoring infrastructure for systems of systems.:
+- https://doi.org/10.1145/2642937.2653468
+- 2014
+A tool chain for generating the description files of highly available software.:
+- https://doi.org/10.1145/2642937.2648626
+- 2014
+A web based UML modeling tool with touch screens.:
+- https://doi.org/10.1145/2642937.2648619
+- 2014
+? ACM/IEEE International Conference on Automated Software Engineering, ASE &apos;14,
+  Vasteras, Sweden - September 15 - 19, 2014
+: - http://dl.acm.org/citation.cfm?id=2642937
+  - 2014
+Abstraction-aware verifying compiler for yet another MDD.:
+- https://doi.org/10.1145/2642937.2642952
+- 2014
+Accelerated test execution using GPUs.:
+- https://doi.org/10.1145/2642937.2642957
+- 2014
+Active code search - incorporating user feedback to improve code search relevance.:
+- https://doi.org/10.1145/2642937.2642947
+- 2014
+An empirical evaluation and comparison of manual and automated test selection.:
+- https://doi.org/10.1145/2642937.2643019
+- 2014
+An empirical study on reducing omission errors in practice.:
+- https://doi.org/10.1145/2642937.2642956
+- 2014
+? Angels and monsters - an empirical investigation of potential test effectiveness
+  and efficiency improvement from strongly subsuming higher order mutation.
+: - https://doi.org/10.1145/2642937.2643008
+  - 2014
+Assertion guided abstraction - a cooperative optimization for dynamic partial order reduction.:
+- https://doi.org/10.1145/2642937.2642998
+- 2014
+Assigning time budgets to component functions in the design of time-critical automotive systems.:
+- https://doi.org/10.1145/2642937.2643015
+- 2014
+AugIR - the conceptual design and evaluation of an augmented interaction room.:
+- https://doi.org/10.1145/2642937.2653467
+- 2014
+Automated analysis of multithreaded programs for performance modeling.:
+- https://doi.org/10.1145/2642937.2642979
+- 2014
+Automated domain-specific C verification with mbeddr.:
+- https://doi.org/10.1145/2642937.2642938
+- 2014
+Automated requirements analysis for a molecular watchdog timer.:
+- https://doi.org/10.1145/2642937.2643007
+- 2014
+Automated synthesis and deployment of cloud applications.:
+- https://doi.org/10.1145/2642937.2642980
+- 2014
+Automated unit test generation for classes with environment dependencies.:
+- https://doi.org/10.1145/2642937.2642986
+- 2014
+Automated variability analysis and testing of an E-commerce site. - an experience report.:
+- https://doi.org/10.1145/2642937.2642939
+- 2014
+Automatic early defects detection in use case documents.:
+- https://doi.org/10.1145/2642937.2642969
+- 2014
+Automatic verification of interactions in asynchronous systems with unbounded buffers.:
+- https://doi.org/10.1145/2642937.2643016
+- 2014
+Automating regression verification.:
+- https://doi.org/10.1145/2642937.2642987
+- 2014
+Automating the formalization of product comparison matrices.:
+- https://doi.org/10.1145/2642937.2643000
+- 2014
+Behavioral resource-aware model inference.:
+- https://doi.org/10.1145/2642937.2642988
+- 2014
+CoCoTest - a tool for model-in-the-loop testing of continuous controllers.:
+- https://doi.org/10.1145/2642937.2648625
+- 2014
+Combining rule-based and information retrieval techniques to assign software change requests.:
+- https://doi.org/10.1145/2642937.2642964
+- 2014
+Compatibility testing using patterns-based trace comparison.:
+- https://doi.org/10.1145/2642937.2642942
+- 2014
+Concurrent transformation components using contention context sensors.:
+- https://doi.org/10.1145/2642937.2642995
+- 2014
+Constructing adaptive configuration dialogs using crowd data.:
+- https://doi.org/10.1145/2642937.2642960
+- 2014
+Continuous test generation - enhancing continuous integration with automated test generation.:
+- https://doi.org/10.1145/2642937.2643002
+- 2014
+Derailer - interactive security analysis for web applications.:
+- https://doi.org/10.1145/2642937.2643012
+- 2014
+Determining the most probable root causes of run-time errors in simulink models.:
+- https://doi.org/10.1145/2642937.2653465
+- 2014
+Discriminating influences among instructions in a dynamic slice.:
+- https://doi.org/10.1145/2642937.2642962
+- 2014
+Diver - precise dynamic impact analysis using dependence-based trace pruning.:
+- https://doi.org/10.1145/2642937.2642950
+- 2014
+Docovery - toward generic automatic document recovery.:
+- https://doi.org/10.1145/2642937.2643004
+- 2014
+Dompletion - DOM-aware JavaScript code completion.:
+- https://doi.org/10.1145/2642937.2642981
+- 2014
+Droidmarking - resilient software watermarking for impeding android application repackaging.:
+- https://doi.org/10.1145/2642937.2642977
+- 2014
+DupFinder - integrated tool support for duplicate bug report detection.:
+- https://doi.org/10.1145/2642937.2648627
+- 2014
+Embrace your issues - compassing the software engineering landscape using bug reports.:
+- https://doi.org/10.1145/2642937.2653469
+- 2014
+Evaluation of string constraint solvers in the context of symbolic execution.:
+- https://doi.org/10.1145/2642937.2643003
+- 2014
+Exact and approximate probabilistic symbolic execution for nondeterministic programs.:
+- https://doi.org/10.1145/2642937.2643011
+- 2014
+Finding HTML presentation failures using image comparison techniques.:
+- https://doi.org/10.1145/2642937.2642966
+- 2014
+Fine-grained and accurate source code differencing.:
+- https://doi.org/10.1145/2642937.2642982
+- 2014
+Firecrow - a tool for web application analysis and reus.:
+- https://doi.org/10.1145/2642937.2648620
+- 2014
+Formalisation of the integration of behavior trees.:
+- https://doi.org/10.1145/2642937.2642945
+- 2014
+From out-place transformation evolution to in-place model patching.:
+- https://doi.org/10.1145/2642937.2642946
+- 2014
+Fusion fault localizers.:
+- https://doi.org/10.1145/2642937.2642983
+- 2014
+HUSACCT - architecture compliance checking with rich sets of module and rule types.:
+- https://doi.org/10.1145/2642937.2648624
+- 2014
+Improvement of applications&apos; stability through robust APIs.:
+- https://doi.org/10.1145/2642937.2653473
+- 2014
+Improving the accuracy of oracle verdicts through automated model steering.:
+- https://doi.org/10.1145/2642937.2642989
+- 2014
+Incremental symbolic execution for automated test suite maintenance.:
+- https://doi.org/10.1145/2642937.2642961
+- 2014
+Information flows as a permission mechanism.:
+- https://doi.org/10.1145/2642937.2643018
+- 2014
+Interrogative-guided re-ranking for question-oriented software text retrieval.:
+- https://doi.org/10.1145/2642937.2642953
+- 2014
+Issues of automated software composition in AI planning.:
+- https://doi.org/10.1145/2642937.2653470
+- 2014
+Keynote talk - EasyChair.:
+- https://doi.org/10.1145/2642937.2643085
+- 2014
+Keynote talk - experiences from developing industrial software systems with long lifecycles.:
+- https://doi.org/10.1145/2642937.2643087
+- 2014
+Keynote talk - the logic of information design.:
+- https://doi.org/10.1145/2642937.2643086
+- 2014
+Language fuzzing using constraint logic programming.:
+- https://doi.org/10.1145/2642937.2642963
+- 2014
+Leveraging existing tests in automated test generation for web applications.:
+- https://doi.org/10.1145/2642937.2642991
+- 2014
+Localization of concurrency bugs using shared memory access pairs.:
+- https://doi.org/10.1145/2642937.2642972
+- 2014
+MIMIC - locating and understanding bugs by analyzing mimicked executions.:
+- https://doi.org/10.1145/2642937.2643014
+- 2014
+MPAnalyzer - a tool for finding unintended inconsistencies in program source code.:
+- https://doi.org/10.1145/2642937.2648616
+- 2014
+Meta-Model validation and verification with MetaBest.:
+- https://doi.org/10.1145/2642937.2648617
+- 2014
+MiL testing of highly configurable continuous controllers - scalable search using surrogate models.:
+- https://doi.org/10.1145/2642937.2642978
+- 2014
+Minimal strongly unsatisfiable subsets of reactive system specifications.:
+- https://doi.org/10.1145/2642937.2642968
+- 2014
+Model-driven development of content management systems based on Joomla.:
+- https://doi.org/10.1145/2642937.2653474
+- 2014
+Multi-objective optimization in rule-based design space exploration.:
+- https://doi.org/10.1145/2642937.2643005
+- 2014
+NeedFeed - taming change notifications by modeling code relevance.:
+- https://doi.org/10.1145/2642937.2642985
+- 2014
+PBGT tool - an integrated modeling and testing environment for pattern-based GUI testing.:
+- https://doi.org/10.1145/2642937.2648618
+- 2014
+Pattern-based auto-completion of UML modeling activities.:
+- https://doi.org/10.1145/2642937.2642949
+- 2014
+Personas in the middle - automated support for creating personas as focal points in feature gathering forums.:
+- https://doi.org/10.1145/2642937.2642958
+- 2014
+PiE - programming in eliza.:
+- https://doi.org/10.1145/2642937.2642967
+- 2014
+Potential biases in bug localization - do they matter?:
+- https://doi.org/10.1145/2642937.2642997
+- 2014
+PrefFinder - getting the right preference in configurable software systems.:
+- https://doi.org/10.1145/2642937.2643009
+- 2014
+Program analysis for secure big data processing.:
+- https://doi.org/10.1145/2642937.2643006
+- 2014
+Recommendation system for software refactoring using innovization and interactive dynamic optimization.:
+- https://doi.org/10.1145/2642937.2642965
+- 2014
+Recommending refactorings based on team co-maintenance patterns.:
+- https://doi.org/10.1145/2642937.2642948
+- 2014
+Resilient user interface level tests.:
+- https://doi.org/10.1145/2642937.2642954
+- 2014
+Scaling exact multi-objective combinatorial optimization by parallelization.:
+- https://doi.org/10.1145/2642937.2642971
+- 2014
+SeSAME - modeling and analyzing high-quality service compositions.:
+- https://doi.org/10.1145/2642937.2648621
+- 2014
+Search-based inference of polynomial metamorphic relations.:
+- https://doi.org/10.1145/2642937.2642994
+- 2014
+Seeking the user interface.:
+- https://doi.org/10.1145/2642937.2642976
+- 2014
+Static, lightweight includes resolution for PHP.:
+- https://doi.org/10.1145/2642937.2643017
+- 2014
+Statistical learning approach for mining API usage mappings for code migration.:
+- https://doi.org/10.1145/2642937.2643010
+- 2014
+Studying task allocation decisions of novice agile teams with data from agile project management tools.:
+- https://doi.org/10.1145/2642937.2642959
+- 2014
+SymCrash - selective recording for reproducing crashes.:
+- https://doi.org/10.1145/2642937.2642993
+- 2014
+Symbolic state validation through runtime data.:
+- https://doi.org/10.1145/2642937.2642973
+- 2014
+Taming test inputs for separation assurance.:
+- https://doi.org/10.1145/2642937.2642940
+- 2014
+Targeted test input generation using symbolic-concrete backward execution.:
+- https://doi.org/10.1145/2642937.2642951
+- 2014
+The confidence in our k-tails.:
+- https://doi.org/10.1145/2642937.2642944
+- 2014
+Towards an intelligent domain-specific traceability solution.:
+- https://doi.org/10.1145/2642937.2642970
+- 2014
+Towards self-healing smartphone software via automated patching.:
+- https://doi.org/10.1145/2642937.2642955
+- 2014
+Tracing software build processes to uncover license compliance inconsistencies.:
+- https://doi.org/10.1145/2642937.2643013
+- 2014
+Tracking down root causes of defects in simulink models.:
+- https://doi.org/10.1145/2642937.2642943
+- 2014
+Tracking load-time configuration options.:
+- https://doi.org/10.1145/2642937.2643001
+- 2014
+Transferring an automated test generation tool to practice - from pex to fakes and code digger.:
+- https://doi.org/10.1145/2642937.2642941
+- 2014
+Understanding performance stairs - elucidating heuristics.:
+- https://doi.org/10.1145/2642937.2642975
+- 2014
+Using visual dataflow programming for interactive model comparison.:
+- https://doi.org/10.1145/2642937.2642984
+- 2014
+Utilizing feature location techniques for feature addition and feature enhancement.:
+- https://doi.org/10.1145/2642937.2653466
+- 2014
+Validating ajax applications using a delay-based mutation technique.:
+- https://doi.org/10.1145/2642937.2642996
+- 2014
+Variability-aware change impact analysis of multi-language product lines.:
+- https://doi.org/10.1145/2642937.2653472
+- 2014
+Verifying self-adaptive applications suffering uncertainty.:
+- https://doi.org/10.1145/2642937.2642999
+- 2014
+Workspace updates of visual models.:
+- https://doi.org/10.1145/2642937.2648623
+- 2014
+symMMU - symbolically executed runtime libraries for symbolic memory access.:
+- https://doi.org/10.1145/2642937.2642974
+- 2014

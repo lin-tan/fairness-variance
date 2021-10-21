@@ -1,0 +1,305 @@
+APEx - automated inference of error specifications for C APIs.:
+- https://doi.org/10.1145/2970276.2970354
+- 2016
+API recommendation system for software development.:
+- https://doi.org/10.1145/2970276.2975940
+- 2016
+An automated collaborative requirements engineering tool for better validation of requirements.:
+- https://doi.org/10.1145/2970276.2970295
+- 2016
+An empirical evaluation of two user interfaces of an interactive program verifier.:
+- https://doi.org/10.1145/2970276.2970303
+- 2016
+An empirical investigation into the nature of test smells.:
+- https://doi.org/10.1145/2970276.2970340
+- 2016
+An empirical study on dependence clusters for effort-aware fault-proneness prediction.:
+- https://doi.org/10.1145/2970276.2970353
+- 2016
+An end-user oriented tool suite for development of mobile applications.:
+- https://doi.org/10.1145/2970276.2970279
+- 2016
+An extensible framework for variable-precision data-flow analyses in MPS.:
+- https://doi.org/10.1145/2970276.2970296
+- 2016
+AnModeler - a tool for generating domain models from textual specifications.:
+- https://doi.org/10.1145/2970276.2970289
+- 2016
+Applying combinatorial test data generation to big data applications.:
+- https://doi.org/10.1145/2970276.2970325
+- 2016
+Array length inference for C library bindings.:
+- https://doi.org/10.1145/2970276.2970310
+- 2016
+Automated model-based Android GUI testing using multi-level GUI comparison criteria.:
+- https://doi.org/10.1145/2970276.2970313
+- 2016
+Automated testing and notification of mobile app privacy leak-cause behaviours.:
+- https://doi.org/10.1145/2970276.2975935
+- 2016
+Automatic microbenchmark generation to prevent dead code elimination and constant folding.:
+- https://doi.org/10.1145/2970276.2970346
+- 2016
+Automatic runtime recovery via error handler synthesis.:
+- https://doi.org/10.1145/2970276.2970360
+- 2016
+Automatic test image generation using procedural noise.:
+- https://doi.org/10.1145/2970276.2970333
+- 2016
+Automatically recommending code reviewers based on their expertise - an empirical comparison.:
+- https://doi.org/10.1145/2970276.2970306
+- 2016
+Battery-aware transformations in mobile applications.:
+- https://doi.org/10.1145/2970276.2970324
+- 2016
+BovInspector - automatic inspection and repair of buffer overflow vulnerabilities.:
+- https://doi.org/10.1145/2970276.2970282
+- 2016
+Bugram - bug detection with n-gram language models.:
+- https://doi.org/10.1145/2970276.2970341
+- 2016
+CORRECT - code reviewer recommendation at GitHub for Vendasta technologies.:
+- https://doi.org/10.1145/2970276.2970283
+- 2016
+CVExplorer - identifying candidate developers by mining and exploring their open source contributions.:
+- https://doi.org/10.1145/2970276.2970285
+- 2016
+Changing microsoft&apos;s build - revolution or evolution.:
+- https://doi.org/10.1145/2970276.2985779
+- 2016
+Conc-iSE - incremental symbolic execution of concurrent software.:
+- https://doi.org/10.1145/2970276.2970332
+- 2016
+Continuous detection of design flaws in evolving object-oriented programs using incremental multi-pattern matching.:
+- https://doi.org/10.1145/2970276.2970338
+- 2016
+CrowdService - serving the individuals through mobile crowdsourcing and service composition.:
+- https://doi.org/10.1145/2970276.2970334
+- 2016
+DSL-maps - from requirements to design of domain-specific languages.:
+- https://doi.org/10.1145/2970276.2970328
+- 2016
+Deep learning code fragments for code clone detection.:
+- https://doi.org/10.1145/2970276.2970326
+- 2016
+Developer targeted analytics - supporting software development decisions with runtime information.:
+- https://doi.org/10.1145/2970276.2975939
+- 2016
+DistIA - a cost-effective dynamic impact analysis for distributed programs.:
+- https://doi.org/10.1145/2970276.2970352
+- 2016
+Efficient detection of inconsistencies in a multi-developer engineering environment.:
+- https://doi.org/10.1145/2970276.2970304
+- 2016
+Evaluating non-adequate test-case reduction.:
+- https://doi.org/10.1145/2970276.2970361
+- 2016
+Evaluating the evaluations of code recommender systems - a reality check.:
+- https://doi.org/10.1145/2970276.2970330
+- 2016
+Factoring requirement dependencies in software requirement selection using graphs and integer programming.:
+- https://doi.org/10.1145/2970276.2975936
+- 2016
+Finding access control bugs in web applications with CanCheck.:
+- https://doi.org/10.1145/2970276.2970350
+- 2016
+Fine-tuning spectrum based fault localisation with frequent method item sets.:
+- https://doi.org/10.1145/2970276.2970308
+- 2016
+GUICat - GUI testing as a service.:
+- https://doi.org/10.1145/2970276.2970294
+- 2016
+Generating test cases to expose concurrency bugs in Android applications.:
+- https://doi.org/10.1145/2970276.2970320
+- 2016
+Goal-conflict detection based on temporal satisfiability checking.:
+- https://doi.org/10.1145/2970276.2970349
+- 2016
+Greedy combinatorial test case generation using unsatisfiable cores.:
+- https://doi.org/10.1145/2970276.2970335
+- 2016
+How good are the specs? a study of the bug-finding effectiveness of existing Java API specifications.:
+- https://doi.org/10.1145/2970276.2970356
+- 2016
+HybriDroid - static analysis framework for Android hybrid applications.:
+- https://doi.org/10.1145/2970276.2970368
+- 2016
+Identifying domain elements from textual specifications.:
+- https://doi.org/10.1145/2970276.2970323
+- 2016
+IncA - a DSL for the definition of incremental program analyses.:
+- https://doi.org/10.1145/2970276.2970298
+- 2016
+Inferring annotations for device drivers from verification histories.:
+- https://doi.org/10.1145/2970276.2970305
+- 2016
+Learning a dual-language vector space for domain-specific cross-lingual question retrieval.:
+- https://doi.org/10.1145/2970276.2970317
+- 2016
+Lightweight collection and storage of software repository data with DataRover.:
+- https://doi.org/10.1145/2970276.2970286
+- 2016
+Local-based active classification of test report to assist crowdsourced testing.:
+- https://doi.org/10.1145/2970276.2970300
+- 2016
+LockPeeker - detecting latent locks in Java APIs.:
+- https://doi.org/10.1145/2970276.2970355
+- 2016
+Locus - locating bugs from software changes.:
+- https://doi.org/10.1145/2970276.2970359
+- 2016
+MACKE - compositional analysis of low-level vulnerabilities with symbolic execution.:
+- https://doi.org/10.1145/2970276.2970281
+- 2016
+Migrating cascading style sheets to preprocessors by introducing mixins.:
+- https://doi.org/10.1145/2970276.2970348
+- 2016
+Mining input grammars from dynamic taints.:
+- https://doi.org/10.1145/2970276.2970321
+- 2016
+Mining revision histories to detect cross-language clones without intermediates.:
+- https://doi.org/10.1145/2970276.2970363
+- 2016
+Model driven design of heterogeneous synchronous embedded systems.:
+- https://doi.org/10.1145/2970276.2970280
+- 2016
+Model-based whitebox fuzzing for program binaries.:
+- https://doi.org/10.1145/2970276.2970316
+- 2016
+Move-optimized source code tree differencing.:
+- https://doi.org/10.1145/2970276.2970315
+- 2016
+Multi-objective test report prioritization using image understanding.:
+- https://doi.org/10.1145/2970276.2970367
+- 2016
+On essential configuration complexity - measuring interactions in highly-configurable systems.:
+- https://doi.org/10.1145/2970276.2970322
+- 2016
+Optimizing customized program coverage.:
+- https://doi.org/10.1145/2970276.2970351
+- 2016
+Phrase-based extraction of user opinions in mobile app reviews.:
+- https://doi.org/10.1145/2970276.2970365
+- 2016
+Practical guidelines for change recommendation using association rule mining.:
+- https://doi.org/10.1145/2970276.2970327
+- 2016
+Precise semantic history slicing through dynamic delta refinement.:
+- https://doi.org/10.1145/2970276.2970336
+- 2016
+Predicting semantically linkable knowledge in developer online forums via convolutional neural network.:
+- https://doi.org/10.1145/2970276.2970357
+- 2016
+? Privacy preserving via interval covering based subclass division and manifold learning
+  based bi-directional obfuscation for effort estimation.
+: - https://doi.org/10.1145/2970276.2970302
+  - 2016
+? Proceedings of the 31st IEEE/ACM International Conference on Automated Software
+  Engineering, ASE 2016, Singapore, September 3-7, 2016
+: - https://doi.org/10.1145/2970276
+  - 2016
+ProcessPAIR - a tool for automated performance analysis and improvement recommendation in software development.:
+- https://doi.org/10.1145/2970276.2970284
+- 2016
+Program generation for performance.:
+- https://doi.org/10.1145/2970276.2985778
+- 2016
+QUICKAR - automatic query reformulation for concept location using crowdsourced knowledge.:
+- https://doi.org/10.1145/2970276.2970362
+- 2016
+Radius aware probabilistic testing of deadlocks with guarantees.:
+- https://doi.org/10.1145/2970276.2970307
+- 2016
+Recommending relevant classes for bug reports using multi-objective search.:
+- https://doi.org/10.1145/2970276.2970344
+- 2016
+Reflection-aware static analysis of Android apps.:
+- https://doi.org/10.1145/2970276.2970277
+- 2016
+Relda2 - an effective static analysis tool for resource leak detection in Android apps.:
+- https://doi.org/10.1145/2970276.2970278
+- 2016
+SOFIA - an automated security oracle for black-box testing of SQL-injection vulnerabilities.:
+- https://doi.org/10.1145/2970276.2970343
+- 2016
+SimilarTech - automatically recommend analogical libraries across different programming languages.:
+- https://doi.org/10.1145/2970276.2970290
+- 2016
+Sound static deadlock analysis for C/Pthreads.:
+- https://doi.org/10.1145/2970276.2970309
+- 2016
+Static race detection for device drivers - the Goblint approach.:
+- https://doi.org/10.1145/2970276.2970337
+- 2016
+Statistical analysis of large sets of models.:
+- https://doi.org/10.1145/2970276.2975938
+- 2016
+StraightTaint - decoupled offline symbolic taint analysis.:
+- https://doi.org/10.1145/2970276.2970299
+- 2016
+SuperMod - tool support for collaborative filtered model-driven software product line engineering.:
+- https://doi.org/10.1145/2970276.2970288
+- 2016
+Supporting oracle construction via static analysis.:
+- https://doi.org/10.1145/2970276.2970366
+- 2016
+Symbolic execution of complex program driven by machine learning based constraint solving.:
+- https://doi.org/10.1145/2970276.2970364
+- 2016
+Symbolic execution of stored procedures in database management systems.:
+- https://doi.org/10.1145/2970276.2970318
+- 2016
+Taming Android fragmentation - characterizing and detecting compatibility issues for Android apps.:
+- https://doi.org/10.1145/2970276.2970312
+- 2016
+TeeVML - tool support for semi-automatic integration testing environment emulation.:
+- https://doi.org/10.1145/2970276.2970291
+- 2016
+Test case permutation to improve execution time.:
+- https://doi.org/10.1145/2970276.2970331
+- 2016
+Testing advanced driver assistance systems using multi-objective search and neural networks.:
+- https://doi.org/10.1145/2970276.2970311
+- 2016
+The IDE as a scriptable information system.:
+- https://doi.org/10.1145/2970276.2970329
+- 2016
+The interactive verification debugger - effective understanding of interactive proof attempts.:
+- https://doi.org/10.1145/2970276.2970292
+- 2016
+The power of probabilistic thinking.:
+- https://doi.org/10.1145/2970276.2985780
+- 2016
+Too much automation? the bellwether effect and its implications for transfer learning.:
+- https://doi.org/10.1145/2970276.2970339
+- 2016
+Towards automatically generating descriptive names for unit tests.:
+- https://doi.org/10.1145/2970276.2970342
+- 2016
+Towards bounded model checking using nonlinear programming solver.:
+- https://doi.org/10.1145/2970276.2970319
+- 2016
+Towards efficient and effective automatic program repair.:
+- https://doi.org/10.1145/2970276.2975934
+- 2016
+Traceability maintenance - factors and guidelines.:
+- https://doi.org/10.1145/2970276.2970314
+- 2016
+Usage, costs, and benefits of continuous integration in open-source projects.:
+- https://doi.org/10.1145/2970276.2970358
+- 2016
+Verifying simulink stateflow model - timed automata approach.:
+- https://doi.org/10.1145/2970276.2970293
+- 2016
+Visual contract extractor - a tool for reverse engineering visual contracts using dynamic analysis.:
+- https://doi.org/10.1145/2970276.2970287
+- 2016
+Visualization of combinatorial models and test plans.:
+- https://doi.org/10.1145/2970276.2970301
+- 2016
+What developers want and need from program analysis - an empirical study.:
+- https://doi.org/10.1145/2970276.2970347
+- 2016
+What makes killing a mutant hard.:
+- https://doi.org/10.1145/2970276.2970345
+- 2016

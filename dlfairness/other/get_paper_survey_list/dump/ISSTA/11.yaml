@@ -1,0 +1,79 @@
+A comparative study of programmer-written and automatically inferred contracts.:
+- https://doi.org/10.1145/1572272.1572284
+- 2009
+A formal analysis of requirements-based testing.:
+- https://doi.org/10.1145/1572272.1572279
+- 2009
+AVA - automated interpretation of dynamically detected anomalies.:
+- https://doi.org/10.1145/1572272.1572300
+- 2009
+Advanced code coverage analysis using substring holes.:
+- https://doi.org/10.1145/1572272.1572278
+- 2009
+Analyzing singularity channel contracts.:
+- https://doi.org/10.1145/1572272.1572275
+- 2009
+Automatic mining of functionally equivalent code fragments via random testing.:
+- https://doi.org/10.1145/1572272.1572283
+- 2009
+Automatic system testing of programs without test oracles.:
+- https://doi.org/10.1145/1572272.1572295
+- 2009
+Clustering test cases to achieve effective and scalable prioritisation incorporating expert knowledge.:
+- https://doi.org/10.1145/1572272.1572296
+- 2009
+Detecting code clones in binary executables.:
+- https://doi.org/10.1145/1572272.1572287
+- 2009
+Efficient mutation testing by checking invariant violations.:
+- https://doi.org/10.1145/1572272.1572282
+- 2009
+Exception analysis and points-to analysis - better together.:
+- https://doi.org/10.1145/1572272.1572274
+- 2009
+Fault localization and repair for Java runtime exceptions.:
+- https://doi.org/10.1145/1572272.1572291
+- 2009
+HAMPI - a solver for string constraints.:
+- https://doi.org/10.1145/1572272.1572286
+- 2009
+Identifying bug signatures using discriminative graph mining.:
+- https://doi.org/10.1145/1572272.1572290
+- 2009
+Identifying semantic differences in AspectJ programs.:
+- https://doi.org/10.1145/1572272.1572276
+- 2009
+Incremental covering array failure characterization in large configuration spaces.:
+- https://doi.org/10.1145/1572272.1572294
+- 2009
+Loop-extended symbolic execution on binary programs.:
+- https://doi.org/10.1145/1572272.1572299
+- 2009
+Memory slicing.:
+- https://doi.org/10.1145/1572272.1572292
+- 2009
+Penumbra - automatically identifying failure-relevant inputs using dynamic tainting.:
+- https://doi.org/10.1145/1572272.1572301
+- 2009
+Precise interface identification to improve testing and analysis of web applications.:
+- https://doi.org/10.1145/1572272.1572305
+- 2009
+Precise pointer reasoning for dynamic test generation.:
+- https://doi.org/10.1145/1572272.1572288
+- 2009
+? Proceedings of the Eighteenth International Symposium on Software Testing and Analysis,
+  ISSTA 2009, Chicago, IL, USA, July 19-23, 2009
+: - https://doi.org/10.1145/1572272
+  - 2009
+Specifying the worst case - orthogonal modeling of hardware errors.:
+- https://doi.org/10.1145/1572272.1572304
+- 2009
+Testing CPU emulators.:
+- https://doi.org/10.1145/1572272.1572303
+- 2009
+The influence of size and coverage on test suite effectiveness.:
+- https://doi.org/10.1145/1572272.1572280
+- 2009
+Time-aware test-case prioritization using integer linear programming.:
+- https://doi.org/10.1145/1572272.1572297
+- 2009

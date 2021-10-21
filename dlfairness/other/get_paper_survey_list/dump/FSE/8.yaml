@@ -1,0 +1,184 @@
+? 20th ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE-20),
+  SIGSOFT/FSE&apos;12, Cary, NC, USA - November 11 - 16, 2012
+: - http://dl.acm.org/citation.cfm?id=2393596
+  - 2012
+A case study of cross-system porting in forked projects.:
+- https://doi.org/10.1145/2393596.2393659
+- 2012
+A field study of refactoring challenges and benefits.:
+- https://doi.org/10.1145/2393596.2393655
+- 2012
+AUSUM - approach for unsupervised bug report summarization.:
+- https://doi.org/10.1145/2393596.2393607
+- 2012
+An industrial study on the risk of software changes.:
+- https://doi.org/10.1145/2393596.2393670
+- 2012
+Assessing the value of branches with what-if analysis.:
+- https://doi.org/10.1145/2393596.2393648
+- 2012
+Asynchronous programs with prioritized task-buffers.:
+- https://doi.org/10.1145/2393596.2393652
+- 2012
+Automated concolic testing of smartphone apps.:
+- https://doi.org/10.1145/2393596.2393666
+- 2012
+Automated extraction of security policies from natural-language software documents.:
+- https://doi.org/10.1145/2393596.2393608
+- 2012
+Automating adaptive maintenance changes with SrcML and LINQ.:
+- https://doi.org/10.1145/2393596.2393604
+- 2012
+Automating presentation changes in dynamic web applications via collaborative hybrid analysis.:
+- https://doi.org/10.1145/2393596.2393614
+- 2012
+CarFast - achieving higher statement coverage faster.:
+- https://doi.org/10.1145/2393596.2393636
+- 2012
+Concept-based failure clustering.:
+- https://doi.org/10.1145/2393596.2393629
+- 2012
+Conditional model checking - a technique to pass information between verifiers.:
+- https://doi.org/10.1145/2393596.2393664
+- 2012
+DTAM - dynamic taint analysis of multi-threaded programs for relevancy.:
+- https://doi.org/10.1145/2393596.2393650
+- 2012
+Dealing with uncertainty in early software architecture.:
+- https://doi.org/10.1145/2393596.2393621
+- 2012
+Detecting and analyzing insecure component usage.:
+- https://doi.org/10.1145/2393596.2393599
+- 2012
+Dione - an integrated measurement and defect prediction solution.:
+- https://doi.org/10.1145/2393596.2393619
+- 2012
+Do crosscutting concerns cause modularity problems?:
+- https://doi.org/10.1145/2393596.2393654
+- 2012
+Efficiently scripting change-resilient tests.:
+- https://doi.org/10.1145/2393596.2393643
+- 2012
+FaultTracer - a change impact and regression fault analysis tool for evolving Java programs.:
+- https://doi.org/10.1145/2393596.2393642
+- 2012
+From pixels to bytes - evolutionary scenario based design with video.:
+- https://doi.org/10.1145/2393596.2393631
+- 2012
+Green - reducing, reusing and recycling constraints in program analysis.:
+- https://doi.org/10.1145/2393596.2393665
+- 2012
+Has this bug been reported?:
+- https://doi.org/10.1145/2393596.2393628
+- 2012
+History slicing - assisting code-evolution tasks.:
+- https://doi.org/10.1145/2393596.2393646
+- 2012
+How do developers react to API deprecation? - the case of a smalltalk ecosystem.:
+- https://doi.org/10.1145/2393596.2393662
+- 2012
+How do developers use parallel libraries?:
+- https://doi.org/10.1145/2393596.2393660
+- 2012
+How do software engineers understand code changes? - an exploratory study in industry.:
+- https://doi.org/10.1145/2393596.2393656
+- 2012
+Improving software developers&apos; fluency by recommending development environment commands.:
+- https://doi.org/10.1145/2393596.2393645
+- 2012
+Inference and checking of context-sensitive pluggable types.:
+- https://doi.org/10.1145/2393596.2393626
+- 2012
+MayPar - a may-happen-in-parallel analyzer for concurrent objects.:
+- https://doi.org/10.1145/2393596.2393611
+- 2012
+Mining the execution history of a software system to infer the best time for its adaptation.:
+- https://doi.org/10.1145/2393596.2393616
+- 2012
+Multi-layered approach for recovering links between bug reports and fixes.:
+- https://doi.org/10.1145/2393596.2393671
+- 2012
+Practical change impact analysis based on static program slicing for industrial software systems.:
+- https://doi.org/10.1145/2393596.2393610
+- 2012
+Predicting null-pointer dereferences in concurrent programs.:
+- https://doi.org/10.1145/2393596.2393651
+- 2012
+REPERTOIRE - a cross-system porting analysis tool for forked software projects.:
+- https://doi.org/10.1145/2393596.2393603
+- 2012
+ReImInfer - method purity inference for Java.:
+- https://doi.org/10.1145/2393596.2393640
+- 2012
+Recalling the &quot;imprecision&quot; of cross-project defect prediction.:
+- https://doi.org/10.1145/2393596.2393669
+- 2012
+Retargeting Android applications to Java bytecode.:
+- https://doi.org/10.1145/2393596.2393600
+- 2012
+Rubicon - bounded verification of web applications.:
+- https://doi.org/10.1145/2393596.2393667
+- 2012
+Sando - an extensible local code search framework.:
+- https://doi.org/10.1145/2393596.2393612
+- 2012
+Scalable malware clustering through coarse-grained behavior modeling.:
+- https://doi.org/10.1145/2393596.2393627
+- 2012
+Scalable test data generation from multidimensional models.:
+- https://doi.org/10.1145/2393596.2393637
+- 2012
+Searching connected API subgraph via text phrases.:
+- https://doi.org/10.1145/2393596.2393606
+- 2012
+SecuriTAS - a tool for engineering adaptive security.:
+- https://doi.org/10.1145/2393596.2393618
+- 2012
+Seeing the forest and the trees - focusing team interaction on value and effort drivers.:
+- https://doi.org/10.1145/2393596.2393630
+- 2012
+Seeking the ground truth - a retroactive study on the evolution and migration of software libraries.:
+- https://doi.org/10.1145/2393596.2393661
+- 2012
+SelfMotion - a declarative language for adaptive service-oriented mobile apps.:
+- https://doi.org/10.1145/2393596.2393602
+- 2012
+Semantic fault diagnosis - automatic natural-language fault descriptions.:
+- https://doi.org/10.1145/2393596.2393623
+- 2012
+Service selection for happy users - making user-intuitive quality abstractions.:
+- https://doi.org/10.1145/2393596.2393632
+- 2012
+Software change contracts.:
+- https://doi.org/10.1145/2393596.2393622
+- 2012
+T-Morph - revealing buggy behaviors of TinyOS applications via rule mining and visualization.:
+- https://doi.org/10.1145/2393596.2393615
+- 2012
+Test input generation using dynamic programming.:
+- https://doi.org/10.1145/2393596.2393635
+- 2012
+Testing mined specifications.:
+- https://doi.org/10.1145/2393596.2393598
+- 2012
+TouchDevelop - app development on mobile devices.:
+- https://doi.org/10.1145/2393596.2393641
+- 2012
+Toward measuring program comprehension with functional magnetic resonance imaging.:
+- https://doi.org/10.1145/2393596.2393624
+- 2012
+Toward semantic search via SMT solver.:
+- https://doi.org/10.1145/2393596.2393625
+- 2012
+UMLtoCSP (UOST) - a tool for efficient verification of UML/OCL class diagrams through model slicing.:
+- https://doi.org/10.1145/2393596.2393639
+- 2012
+Understanding myths and realities of test-suite evolution.:
+- https://doi.org/10.1145/2393596.2393634
+- 2012
+Variability points and design pattern usage in architectural tactics.:
+- https://doi.org/10.1145/2393596.2393657
+- 2012
+Who is going to mentor newcomers in open source projects?:
+- https://doi.org/10.1145/2393596.2393647
+- 2012

@@ -1,0 +1,5 @@
+#!/bin/bash
+CUDA_VISIBLE_DEVICES=0 python train.py --save_dir 0_linear --log_dir 0_linear --layer conv5 --no_avgpool --adv_capacity 300 --adv_lambda 2.0 --dropout 0.2 --batch_size 32 --num_epochs 60 --batch_balanced --learning_rate 0.0001 --seed 1
+CUDA_VISIBLE_DEVICES=0 python train.py --save_dir 0_linear --log_dir 0_linear --layer conv5 --no_avgpool --adv_capacity 300 --adv_lambda 2.0 --dropout 0.2 --batch_size 32 --num_epochs 120 --batch_balanced --resume --finetune --adv_on --learning_rate 0.000005 --seed 1 --variance_logging
+CUDA_VISIBLE_DEVICES=0 python3 natural_leakage.py --num_rounds 1 --num_epochs 100 --learning_rate 0.00005 --batch_size 128 --no_image --seed 1
+CUDA_VISIBLE_DEVICES=0 python attacker.py --exp_id conv5_300_2.0_0.2_0_linear --layer conv5 --no_avgpool --adv_capacity 300 --adv_lambda 2.0 --dropout 0.2 --num_rounds 1 --num_epochs 100 --learning_rate 0.00005 --batch_size 128 --seed 1

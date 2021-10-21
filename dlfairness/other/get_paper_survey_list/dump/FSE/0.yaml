@@ -1,0 +1,513 @@
+A behavioral notion of robustness for software systems.:
+- https://doi.org/10.1145/3368089.3409753
+- 2020
+A comprehensive study on challenges in deploying deep learning based software.:
+- https://doi.org/10.1145/3368089.3409759
+- 2020
+A first look at good first issues on GitHub.:
+- https://doi.org/10.1145/3368089.3409746
+- 2020
+A first look at the integration of machine learning models in complex autonomous driving systems - a case study on Apollo.:
+- https://doi.org/10.1145/3368089.3417063
+- 2020
+A principled approach to GraphQL query cost analysis.:
+- https://doi.org/10.1145/3368089.3409670
+- 2020
+A randomized controlled trial on the effects of embedded computer language switching.:
+- https://doi.org/10.1145/3368089.3409701
+- 2020
+A theory of the engagement in open source projects via summer of code programs.:
+- https://doi.org/10.1145/3368089.3409724
+- 2020
+AMS - generating AutoML search spaces from weak specifications.:
+- https://doi.org/10.1145/3368089.3409700
+- 2020
+API method recommendation via explicit matching of functionality verb phrases.:
+- https://doi.org/10.1145/3368089.3409731
+- 2020
+ARCADE - an extensible workbench for architecture recovery, change, and decay evaluation.:
+- https://doi.org/10.1145/3368089.3417941
+- 2020
+ARDiff - scaling program equivalence checking via iterative abstraction and refinement of common code.:
+- https://doi.org/10.1145/3368089.3409757
+- 2020
+Adapting bug prediction models to predict reverted commits at Wayfair.:
+- https://doi.org/10.1145/3368089.3417062
+- 2020
+All your app links are belong to us - understanding the threats of instant apps based attacks.:
+- https://doi.org/10.1145/3368089.3409702
+- 2020
+AlloyMC - Alloy meets model counting.:
+- https://doi.org/10.1145/3368089.3417938
+- 2020
+An empirical analysis of the costs of clone- and platform-oriented software reuse.:
+- https://doi.org/10.1145/3368089.3409684
+- 2020
+? An empirical study of bots in software development - characteristics and challenges
+  from a practitioner&apos;s perspective.
+: - https://doi.org/10.1145/3368089.3409680
+  - 2020
+An evaluation of methods to port legacy code to SGX enclaves.:
+- https://doi.org/10.1145/3368089.3409726
+- 2020
+Assisting the elite-driven open source development through activity data.:
+- https://doi.org/10.1145/3368089.3418541
+- 2020
+Attention tracking for developers.:
+- https://doi.org/10.1145/3368089.3418778
+- 2020
+Automated construction of energy test oracles for Android.:
+- https://doi.org/10.1145/3368089.3409677
+- 2020
+Automatically identifying performance issue reports with heuristic linguistic patterns.:
+- https://doi.org/10.1145/3368089.3409674
+- 2020
+BEE - a tool for structuring and analyzing bug reports.:
+- https://doi.org/10.1145/3368089.3417928
+- 2020
+Baital - an adaptive weighted sampling approach for improved t-wise coverage.:
+- https://doi.org/10.1145/3368089.3409744
+- 2020
+Beware the evolving &apos;intelligent&apos; web service! an integration architecture tactic to guard AI-first components.:
+- https://doi.org/10.1145/3368089.3409688
+- 2020
+Beyond accuracy - assessing software documentation quality.:
+- https://doi.org/10.1145/3368089.3417045
+- 2020
+Biases and differences in code review using medical imaging and eye-tracking - genders, humans, and machines.:
+- https://doi.org/10.1145/3368089.3409681
+- 2020
+Block public access - trust safety verification of access control policies.:
+- https://doi.org/10.1145/3368089.3409728
+- 2020
+Boosting fuzzer efficiency - an information theoretic perspective.:
+- https://doi.org/10.1145/3368089.3409748
+- 2020
+Borrowing your enemy&apos;s arrows - the case of code reuse in Android via direct inter-app code invocation.:
+- https://doi.org/10.1145/3368089.3409745
+- 2020
+BugsInPy - a database of existing bugs in Python programs to enable controlled testing and debugging studies.:
+- https://doi.org/10.1145/3368089.3417943
+- 2020
+C2S - translating natural language comments to formal program specifications.:
+- https://doi.org/10.1145/3368089.3409716
+- 2020
+CRSG - a serious game for teaching code review.:
+- https://doi.org/10.1145/3368089.3417932
+- 2020
+Calm energy accounting for multithreaded Java applications.:
+- https://doi.org/10.1145/3368089.3409703
+- 2020
+Can microtask programming work in industry?:
+- https://doi.org/10.1145/3368089.3417046
+- 2020
+Change impact analysis in Simulink designs of embedded systems.:
+- https://doi.org/10.1145/3368089.3417060
+- 2020
+Clustering test steps in natural language toward automating test automation.:
+- https://doi.org/10.1145/3368089.3417067
+- 2020
+Code recommendation for exception handling.:
+- https://doi.org/10.1145/3368089.3409690
+- 2020
+Community expectations for research artifacts and evaluation processes.:
+- https://doi.org/10.1145/3368089.3409767
+- 2020
+Configuration smells in continuous delivery pipelines - a linter and a six-month study on GitLab.:
+- https://doi.org/10.1145/3368089.3409709
+- 2020
+Continuous experimentation on artificial intelligence software - a research agenda.:
+- https://doi.org/10.1145/3368089.3417039
+- 2020
+Correlations between deep neural network model coverage criteria and model quality.:
+- https://doi.org/10.1145/3368089.3409671
+- 2020
+Cost measures matter for mutation testing study validity.:
+- https://doi.org/10.1145/3368089.3409742
+- 2020
+CrFuzz - fuzzing multi-purpose programs through input validation.:
+- https://doi.org/10.1145/3368089.3409769
+- 2020
+DENAS - automated rule generation by knowledge extraction from neural networks.:
+- https://doi.org/10.1145/3368089.3409733
+- 2020
+Dads - dynamic slicing continuously-running distributed programs with budget constraints.:
+- https://doi.org/10.1145/3368089.3417920
+- 2020
+Deep learning library testing via effective model generation.:
+- https://doi.org/10.1145/3368089.3409761
+- 2020
+DeepCommenter - a deep code comment generation tool with hybrid lexical and syntactical information.:
+- https://doi.org/10.1145/3368089.3417926
+- 2020
+DeepSearch - a simple and effective blackbox attack for deep neural networks.:
+- https://doi.org/10.1145/3368089.3409750
+- 2020
+Detecting and understanding JavaScript global identifier conflicts on the web.:
+- https://doi.org/10.1145/3368089.3409747
+- 2020
+Detecting critical bugs in SMT solvers using blackbox mutational fuzzing.:
+- https://doi.org/10.1145/3368089.3409763
+- 2020
+Detecting numerical bugs in neural network architectures.:
+- https://doi.org/10.1145/3368089.3409720
+- 2020
+Detecting optimization bugs in database engines via non-optimizing reference engine construction.:
+- https://doi.org/10.1145/3368089.3409710
+- 2020
+DiffTech - a tool for differencing similar technologies from question-and-answer discussions.:
+- https://doi.org/10.1145/3368089.3417931
+- 2020
+Dimensions of software configuration - on the configuration context in modern software development.:
+- https://doi.org/10.1145/3368089.3409675
+- 2020
+Do the machine learning models on a crowd sourced platform exhibit bias? an empirical study on model fairness.:
+- https://doi.org/10.1145/3368089.3409704
+- 2020
+Docable - evaluating the executability of software tutorials.:
+- https://doi.org/10.1145/3368089.3409706
+- 2020
+Does stress impact technical interview performance?:
+- https://doi.org/10.1145/3368089.3409712
+- 2020
+Domain-independent interprocedural program analysis using block-abstraction memoization.:
+- https://doi.org/10.1145/3368089.3409718
+- 2020
+Dynamic slicing for deep neural networks.:
+- https://doi.org/10.1145/3368089.3409676
+- 2020
+Dynamically reconfiguring software microbenchmarks - reducing execution time without sacrificing result quality.:
+- https://doi.org/10.1145/3368089.3409683
+- 2020
+? ESEC/FSE &apos;20 - 28th ACM Joint European Software Engineering Conference and
+  Symposium on the Foundations of Software Engineering, Virtual Event, USA, November
+  8-13, 2020
+: - https://doi.org/10.1145/3368089
+  - 2020
+Efficient binary-level coverage analysis.:
+- https://doi.org/10.1145/3368089.3409694
+- 2020
+Efficient customer incident triage via linking with system incidents.:
+- https://doi.org/10.1145/3368089.3417061
+- 2020
+Efficient incident identification from multi-dimensional issue reports via meta-heuristic search.:
+- https://doi.org/10.1145/3368089.3409741
+- 2020
+Efficiently finding higher-order mutants.:
+- https://doi.org/10.1145/3368089.3409713
+- 2020
+Effort-aware just-in-time defect identification in practice - a case study at Alibaba.:
+- https://doi.org/10.1145/3368089.3417048
+- 2020
+Enhancing developer interactions with programming screencasts through accurate code extraction.:
+- https://doi.org/10.1145/3368089.3417925
+- 2020
+Enhancing developers&apos; support on pull requests activities with software bots.:
+- https://doi.org/10.1145/3368089.3418539
+- 2020
+Enhancing the interoperability between deep learning frameworks by model conversion.:
+- https://doi.org/10.1145/3368089.3417051
+- 2020
+Establishing key performance indicators for measuring software-development processes at a large organization.:
+- https://doi.org/10.1145/3368089.3417057
+- 2020
+Estimating GPU memory consumption of deep learning models.:
+- https://doi.org/10.1145/3368089.3417050
+- 2020
+Evolutionary improvement of assertion oracles.:
+- https://doi.org/10.1145/3368089.3409758
+- 2020
+Exempla gratis (E.G.) - code examples for free.:
+- https://doi.org/10.1145/3368089.3417052
+- 2020
+Exploring how deprecated Python library APIs are (not) handled.:
+- https://doi.org/10.1145/3368089.3409735
+- 2020
+Exploring the evolution of software practices.:
+- https://doi.org/10.1145/3368089.3409766
+- 2020
+FREPA - an automated and formal approach to requirement modeling and analysis in aircraft control domain.:
+- https://doi.org/10.1145/3368089.3417047
+- 2020
+Fairway - a way to build fair ML software.:
+- https://doi.org/10.1145/3368089.3409697
+- 2020
+Fireteam - a small-team development practice in industry.:
+- https://doi.org/10.1145/3368089.3417068
+- 2020
+Flexeme - untangling commits using lexical flows.:
+- https://doi.org/10.1145/3368089.3409693
+- 2020
+FrUITeR - a framework for evaluating UI test reuse.:
+- https://doi.org/10.1145/3368089.3409708
+- 2020
+Fuzzing - on the exponential cost of vulnerability discovery.:
+- https://doi.org/10.1145/3368089.3409729
+- 2020
+Global cost/quality management across multiple applications.:
+- https://doi.org/10.1145/3368089.3409721
+- 2020
+Graph-based trace analysis for microservice architecture understanding and problem diagnosis.:
+- https://doi.org/10.1145/3368089.3417066
+- 2020
+HISyn - human learning-inspired natural language programming.:
+- https://doi.org/10.1145/3368089.3409673
+- 2020
+Harvey - a greybox fuzzer for smart contracts.:
+- https://doi.org/10.1145/3368089.3417064
+- 2020
+Heard it through the Gitvine - an empirical study of tool diffusion across the npm ecosystem.:
+- https://doi.org/10.1145/3368089.3409705
+- 2020
+How to mitigate the incident? an effective troubleshooting guide recommendation technique for online service systems.:
+- https://doi.org/10.1145/3368089.3417054
+- 2020
+Identifying linked incidents in large-scale online service systems.:
+- https://doi.org/10.1145/3368089.3409768
+- 2020
+Impact of programming languages on energy consumption for mobile devices.:
+- https://doi.org/10.1145/3368089.3418777
+- 2020
+Improving cybersecurity hygiene through JIT patching.:
+- https://doi.org/10.1145/3368089.3417056
+- 2020
+Inductive program synthesis over noisy data.:
+- https://doi.org/10.1145/3368089.3409732
+- 2020
+Inferring and securing software configurations using automated reasoning.:
+- https://doi.org/10.1145/3368089.3417041
+- 2020
+Inherent vacuity for GR(1) specifications.:
+- https://doi.org/10.1145/3368089.3409669
+- 2020
+IntelliCode compose - code generation using transformer.:
+- https://doi.org/10.1145/3368089.3417058
+- 2020
+Intelligent REST API data fuzzing.:
+- https://doi.org/10.1145/3368089.3409719
+- 2020
+Interactive, effort-aware library version harmonization.:
+- https://doi.org/10.1145/3368089.3409689
+- 2020
+Interval counterexamples for loop invariant learning.:
+- https://doi.org/10.1145/3368089.3409752
+- 2020
+Is neuron coverage a meaningful measure for testing deep neural networks?:
+- https://doi.org/10.1145/3368089.3409754
+- 2020
+JITO - a tool for just-in-time defect identification and localization.:
+- https://doi.org/10.1145/3368089.3417927
+- 2020
+JShrink - in-depth investigation into debloating modern Java applications.:
+- https://doi.org/10.1145/3368089.3409738
+- 2020
+Java Ranger - statically summarizing regions for efficient symbolic execution of Java.:
+- https://doi.org/10.1145/3368089.3409734
+- 2020
+Learning to extract transaction function from requirements - an industrial case on financial software.:
+- https://doi.org/10.1145/3368089.3417053
+- 2020
+LibComp - an IntelliJ plugin for comparing Java libraries.:
+- https://doi.org/10.1145/3368089.3417922
+- 2020
+MCBAT - a practical tool for model counting constraints on bounded integer arrays.:
+- https://doi.org/10.1145/3368089.3417937
+- 2020
+MTFuzz - fuzzing with a multi-task neural network.:
+- https://doi.org/10.1145/3368089.3409723
+- 2020
+Machine learning based test data generation for safety-critical software.:
+- https://doi.org/10.1145/3368089.3418538
+- 2020
+Machine translation testing via pathological invariance.:
+- https://doi.org/10.1145/3368089.3409756
+- 2020
+Making symbolic execution promising by learning aggressive state-pruning strategy.:
+- https://doi.org/10.1145/3368089.3409755
+- 2020
+Mining assumptions for software components using machine learning.:
+- https://doi.org/10.1145/3368089.3409737
+- 2020
+Mining input grammars from dynamic control flow.:
+- https://doi.org/10.1145/3368089.3409679
+- 2020
+ModCon - a model-based testing platform for smart contracts.:
+- https://doi.org/10.1145/3368089.3417939
+- 2020
+Model-based exploration of the frontier of behaviours for deep learning system testing.:
+- https://doi.org/10.1145/3368089.3409730
+- 2020
+Modular collaborative program analysis in OPAL.:
+- https://doi.org/10.1145/3368089.3409765
+- 2020
+Mono2Micro - an AI-based toolchain for evolving monolithic enterprise applications to a microservice architecture.:
+- https://doi.org/10.1145/3368089.3417933
+- 2020
+MutAPK 2.0 - a tool for reducing mutation testing effort of Android apps.:
+- https://doi.org/10.1145/3368089.3417942
+- 2020
+Next generation automated software evolution refactoring at scale.:
+- https://doi.org/10.1145/3368089.3417042
+- 2020
+Object detection for graphical user interface - old fashioned or deep learning or a combination?:
+- https://doi.org/10.1145/3368089.3409691
+- 2020
+On decomposing a deep neural network into modules.:
+- https://doi.org/10.1145/3368089.3409668
+- 2020
+On the naturalness of hardware descriptions.:
+- https://doi.org/10.1145/3368089.3409692
+- 2020
+On the relationship between design discussions and design quality - a case study of Apache projects.:
+- https://doi.org/10.1145/3368089.3409707
+- 2020
+On the relationship between refactoring actions and bugs - a differentiated replication.:
+- https://doi.org/10.1145/3368089.3409695
+- 2020
+Online sports betting through the prism of software engineering.:
+- https://doi.org/10.1145/3368089.3417049
+- 2020
+Operational calibration - debugging confidence errors for DNNs in the field.:
+- https://doi.org/10.1145/3368089.3409696
+- 2020
+PAClab - a program analysis collaboratory.:
+- https://doi.org/10.1145/3368089.3417936
+- 2020
+PCA - memory leak detection using partial call-path analysis.:
+- https://doi.org/10.1145/3368089.3417923
+- 2020
+PRF - a framework for building automatic program repair prototypes for JVM-based languages.:
+- https://doi.org/10.1145/3368089.3417929
+- 2020
+PRODeep - a platform for robustness verification of deep neural networks.:
+- https://doi.org/10.1145/3368089.3417918
+- 2020
+Past-sensitive pointer analysis for symbolic execution.:
+- https://doi.org/10.1145/3368089.3409698
+- 2020
+Questions for data scientists in software engineering - a replication.:
+- https://doi.org/10.1145/3368089.3409717
+- 2020
+Real-time incident prediction for online service systems.:
+- https://doi.org/10.1145/3368089.3409672
+- 2020
+Recommender systems - metric suggestion mechanisms applied to adaptable software dashboards.:
+- https://doi.org/10.1145/3368089.3418779
+- 2020
+Recommending stack overflow posts for fixing runtime exceptions using failure scenario matching.:
+- https://doi.org/10.1145/3368089.3409764
+- 2020
+Reducing DNN labelling cost using surprise adequacy - an industrial case study for autonomous driving.:
+- https://doi.org/10.1145/3368089.3417065
+- 2020
+Reducing implicit gender biases in software development - does intergroup contact theory work?:
+- https://doi.org/10.1145/3368089.3409762
+- 2020
+Repairing confusion and bias errors for DNN-based image classifiers.:
+- https://doi.org/10.1145/3368089.3418776
+- 2020
+Reusing software engineering knowledge from developer communication.:
+- https://doi.org/10.1145/3368089.3418540
+- 2020
+Revealing the complexity of automotive software.:
+- https://doi.org/10.1145/3368089.3417038
+- 2020
+Robotics software engineering - a perspective from the service robotics domain.:
+- https://doi.org/10.1145/3368089.3409743
+- 2020
+RulePad - interactive authoring of checkable design rules.:
+- https://doi.org/10.1145/3368089.3409751
+- 2020
+SVMRanker - a general termination analysis framework of loop programs via SVM.:
+- https://doi.org/10.1145/3368089.3417930
+- 2020
+SWAN - a static analysis framework for swift.:
+- https://doi.org/10.1145/3368089.3417924
+- 2020
+Scaling static taint analysis to industrial SOA applications - a case study at Alibaba.:
+- https://doi.org/10.1145/3368089.3417059
+- 2020
+Search-based adversarial testing and improvement of constrained credit scoring systems.:
+- https://doi.org/10.1145/3368089.3409739
+- 2020
+Selecting third-party libraries - the practitioners&apos; perspective.:
+- https://doi.org/10.1145/3368089.3409711
+- 2020
+SinkFinder - harvesting hundreds of unknown interesting function pairs with just one seed.:
+- https://doi.org/10.1145/3368089.3409678
+- 2020
+Software documentation and augmented reality - love or arranged marriage?:
+- https://doi.org/10.1145/3368089.3417044
+- 2020
+Static asynchronous component misuse detection for Android applications.:
+- https://doi.org/10.1145/3368089.3409699
+- 2020
+Synthesizing correct code for machine learning programs.:
+- https://doi.org/10.1145/3368089.3418780
+- 2020
+Testing machine learning code using polyhedral region.:
+- https://doi.org/10.1145/3368089.3417043
+- 2020
+Testing self-adaptive software with probabilistic guarantees on performance metrics.:
+- https://doi.org/10.1145/3368089.3409685
+- 2020
+Thinking aloud about confusing code - a qualitative investigation of program comprehension and atoms of confusion.:
+- https://doi.org/10.1145/3368089.3409714
+- 2020
+Threshy - supporting safe usage of intelligent web services.:
+- https://doi.org/10.1145/3368089.3417919
+- 2020
+Towards automated verification of smart contract fairness.:
+- https://doi.org/10.1145/3368089.3409740
+- 2020
+Towards intelligent incident management - why we need it and how we make it.:
+- https://doi.org/10.1145/3368089.3417055
+- 2020
+Towards learning visual semantics.:
+- https://doi.org/10.1145/3368089.3417040
+- 2020
+Towards transferring lean software startup practices in software engineering education.:
+- https://doi.org/10.1145/3368089.3418542
+- 2020
+TypeWriter - neural type prediction with search-based validation.:
+- https://doi.org/10.1145/3368089.3409715
+- 2020
+UBITect - a precise and scalable method to detect use-before-initialization bugs in Linux kernel.:
+- https://doi.org/10.1145/3368089.3409686
+- 2020
+UIED - a hybrid tool for GUI element detection.:
+- https://doi.org/10.1145/3368089.3417940
+- 2020
+UIScreens - extracting user interface screens from mobile programming video tutorials.:
+- https://doi.org/10.1145/3368089.3417935
+- 2020
+Understanding and automatically detecting conflicting interactions between smart home IoT applications.:
+- https://doi.org/10.1145/3368089.3409682
+- 2020
+Understanding and discovering software configuration dependencies in cloud and datacenter systems.:
+- https://doi.org/10.1145/3368089.3409727
+- 2020
+Understanding build issue resolution in practice - symptoms and fix patterns.:
+- https://doi.org/10.1145/3368089.3409760
+- 2020
+Understanding the impact of GitHub suggested changes on recommendations between developers.:
+- https://doi.org/10.1145/3368089.3409722
+- 2020
+Understanding type changes in Java.:
+- https://doi.org/10.1145/3368089.3409725
+- 2020
+WebJShrink - a web service for debloating Java bytecode.:
+- https://doi.org/10.1145/3368089.3417934
+- 2020
+WebRR - self-replay enhanced robust record/replay for web application testing.:
+- https://doi.org/10.1145/3368089.3417069
+- 2020
+When does my program do this? learning circumstances of software behavior.:
+- https://doi.org/10.1145/3368089.3409687
+- 2020
+eQual - informing early design decisions.:
+- https://doi.org/10.1145/3368089.3409749
+- 2020
+tsDetect - an open source test smells detection tool.:
+- https://doi.org/10.1145/3368089.3417921
+- 2020

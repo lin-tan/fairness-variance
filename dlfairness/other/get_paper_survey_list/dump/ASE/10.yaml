@@ -1,0 +1,265 @@
+A bounded statistical approach for model checking of unbounded until properties.:
+- https://doi.org/10.1145/1858996.1859043
+- 2010
+A program differencing algorithm for verilog HDL.:
+- https://doi.org/10.1145/1858996.1859093
+- 2010
+A sentence-matching method for automatic license identification of source code files.:
+- https://doi.org/10.1145/1858996.1859088
+- 2010
+A two-step technique for extract class refactoring.:
+- https://doi.org/10.1145/1858996.1859024
+- 2010
+A visual interactive debugger based on symbolic execution.:
+- https://doi.org/10.1145/1858996.1859022
+- 2010
+? ASE 2010, 25th IEEE/ACM International Conference on Automated Software Engineering,
+  Antwerp, Belgium, September 20-24, 2010
+: - https://doi.org/10.1145/1858996
+  - 2010
+An automated approach for finding variable-constant pairing bugs.:
+- https://doi.org/10.1145/1858996.1859014
+- 2010
+An experience report on scaling tools for mining software repositories using MapReduce.:
+- https://doi.org/10.1145/1858996.1859050
+- 2010
+Analyzing security architectures.:
+- https://doi.org/10.1145/1858996.1859001
+- 2010
+Apt-pbo - solving the software dependency problem using pseudo-boolean optimization.:
+- https://doi.org/10.1145/1858996.1859087
+- 2010
+Architectural style as an independent variable.:
+- https://doi.org/10.1145/1858996.1859026
+- 2010
+Automated SQL query generation for systematic testing of database engines.:
+- https://doi.org/10.1145/1858996.1859063
+- 2010
+Automated model grouping.:
+- https://doi.org/10.1145/1858996.1859096
+- 2010
+Automated program repair through the evolution of assembly code.:
+- https://doi.org/10.1145/1858996.1859059
+- 2010
+Automated support for repairing input-model faults.:
+- https://doi.org/10.1145/1858996.1859039
+- 2010
+Automatic construction of an effective training set for prioritizing static analysis warnings.:
+- https://doi.org/10.1145/1858996.1859013
+- 2010
+Automatic detection of nocuous coordination ambiguities in natural language requirements.:
+- https://doi.org/10.1145/1858996.1859007
+- 2010
+Automatic inference of abstract type behavior.:
+- https://doi.org/10.1145/1858996.1859097
+- 2010
+Automatically documenting program changes.:
+- https://doi.org/10.1145/1858996.1859005
+- 2010
+C2O - a tool for guided decision-making.:
+- https://doi.org/10.1145/1858996.1859077
+- 2010
+Checking roundoff errors using counterexample-guided narrowing.:
+- https://doi.org/10.1145/1858996.1859056
+- 2010
+CoGenTe - a tool for code generator testing.:
+- https://doi.org/10.1145/1858996.1859070
+- 2010
+Deriving behavior of multi-user processes from interactive requirements validation.:
+- https://doi.org/10.1145/1858996.1859073
+- 2010
+Detecting user-visible failures in AJAX web applications by analyzing users&apos; interaction behaviors.:
+- https://doi.org/10.1145/1858996.1859025
+- 2010
+Detection of recurring software vulnerabilities.:
+- https://doi.org/10.1145/1858996.1859089
+- 2010
+Deviance from perfection is a better criterion than closeness to evil when identifying risky code.:
+- https://doi.org/10.1145/1858996.1859015
+- 2010
+Dynamic and transparent analysis of commodity production systems.:
+- https://doi.org/10.1145/1858996.1859085
+- 2010
+Eliminating navigation errors in web applications via model checking and runtime enforcement of navigation state machines.:
+- https://doi.org/10.1145/1858996.1859044
+- 2010
+Eliminating products to test in a software product line.:
+- https://doi.org/10.1145/1858996.1859021
+- 2010
+End-user oriented critic specification for domain-specific visual language tools.:
+- https://doi.org/10.1145/1858996.1859055
+- 2010
+Enumeration refactoring - a tool for automatically converting Java constants to enumerated types.:
+- https://doi.org/10.1145/1858996.1859036
+- 2010
+Error-avoiding adaptors for black-box software components.:
+- https://doi.org/10.1145/1858996.1859095
+- 2010
+Extraction and visualization of traceability relationships between documents and source code.:
+- https://doi.org/10.1145/1858996.1859098
+- 2010
+Flexible and scalable consistency checking on product line variability models.:
+- https://doi.org/10.1145/1858996.1859009
+- 2010
+How did you specify your test suite.:
+- https://doi.org/10.1145/1858996.1859084
+- 2010
+Impendulo - debugging the programmer.:
+- https://doi.org/10.1145/1858996.1859071
+- 2010
+Integrating model verification and self-adaptation.:
+- https://doi.org/10.1145/1858996.1859060
+- 2010
+JCCD - a flexible and extensible API for implementing custom code clone detectors.:
+- https://doi.org/10.1145/1858996.1859029
+- 2010
+JRF-E - using model checking to give advice on eliminating memory model-related bugs.:
+- https://doi.org/10.1145/1858996.1859042
+- 2010
+Kadre - domain-specific architectural recovery for scientific software systems.:
+- https://doi.org/10.1145/1858996.1859062
+- 2010
+Keynote address - model engineering for model-driven engineering.:
+- https://doi.org/10.1145/1858996.1858999
+- 2010
+Keynote address - the actual implementation will be derived from the formal specification -- KBSA, 1983.:
+- https://doi.org/10.1145/1858996.1858998
+- 2010
+Keynote address - toward compositional software engineering.:
+- https://doi.org/10.1145/1858996.1858997
+- 2010
+MODA - automated test generation for database applications via mock objects.:
+- https://doi.org/10.1145/1858996.1859053
+- 2010
+Matching dependence-related queries in the system dependence graph.:
+- https://doi.org/10.1145/1858996.1859091
+- 2010
+MiTV - multiple-implementation testing of user-input validators for web applications.:
+- https://doi.org/10.1145/1858996.1859019
+- 2010
+MoDisco - a generic and extensible framework for model driven reverse engineering.:
+- https://doi.org/10.1145/1858996.1859032
+- 2010
+Model checking graph representation of precise boolean inter-procedural flow analysis.:
+- https://doi.org/10.1145/1858996.1859099
+- 2010
+Model comparison with GenericDiff.:
+- https://doi.org/10.1145/1858996.1859020
+- 2010
+Model-driven reverse engineering of legacy graphical user interfaces.:
+- https://doi.org/10.1145/1858996.1859023
+- 2010
+Model/analyzer - a tool for detecting, visualizing and fixing design errors in UML.:
+- https://doi.org/10.1145/1858996.1859069
+- 2010
+PLASMA - a plan-based layered architecture for software model-driven adaptation.:
+- https://doi.org/10.1145/1858996.1859092
+- 2010
+PeerUnit - a framework for testing peer-to-peer systems.:
+- https://doi.org/10.1145/1858996.1859030
+- 2010
+PlayGo - towards a comprehensive tool for scenario based programming.:
+- https://doi.org/10.1145/1858996.1859075
+- 2010
+REMES tool-chain - a set of integrated tools for behavioral modeling and analysis of embedded systems.:
+- https://doi.org/10.1145/1858996.1859076
+- 2010
+RESISTing reliability degradation through proactive reconfiguration.:
+- https://doi.org/10.1145/1858996.1859011
+- 2010
+Random unit-test generation with MUT-aware sequence recommendation.:
+- https://doi.org/10.1145/1858996.1859054
+- 2010
+Reac2o - a runtime for enterprise system models.:
+- https://doi.org/10.1145/1858996.1859034
+- 2010
+Realizing architecture frameworks through megamodelling techniques.:
+- https://doi.org/10.1145/1858996.1859057
+- 2010
+Reconfigurable run-time support for distributed service component architectures.:
+- https://doi.org/10.1145/1858996.1859031
+- 2010
+Recovering inter-project dependencies in software ecosystems.:
+- https://doi.org/10.1145/1858996.1859058
+- 2010
+Reducing estimation uncertainty with continuous assessment - tracking the &quot;cone of uncertainty&quot;.:
+- https://doi.org/10.1145/1858996.1859065
+- 2010
+RuMoR - monitoring and recovery for BPEL applications.:
+- https://doi.org/10.1145/1858996.1859068
+- 2010
+Scenario-based and value-based specification mining - better together.:
+- https://doi.org/10.1145/1858996.1859081
+- 2010
+Seamlessly integrated, but loosely coupled - building user interfaces from heterogeneous components.:
+- https://doi.org/10.1145/1858996.1859017
+- 2010
+Search-carrying code.:
+- https://doi.org/10.1145/1858996.1859079
+- 2010
+Security-driven model-based dynamic adaptation.:
+- https://doi.org/10.1145/1858996.1859040
+- 2010
+Software design sketching with calico.:
+- https://doi.org/10.1145/1858996.1859003
+- 2010
+Solving string constraints lazily.:
+- https://doi.org/10.1145/1858996.1859080
+- 2010
+SpecDiff - debugging formal specifications.:
+- https://doi.org/10.1145/1858996.1859072
+- 2010
+Symbolic PathFinder - symbolic execution of Java bytecode.:
+- https://doi.org/10.1145/1858996.1859035
+- 2010
+Tag and prune - a pragmatic approach to software product line implementation.:
+- https://doi.org/10.1145/1858996.1859064
+- 2010
+Test generation to expose changes in evolving programs.:
+- https://doi.org/10.1145/1858996.1859083
+- 2010
+Text mining in supporting software systems risk assurance.:
+- https://doi.org/10.1145/1858996.1859027
+- 2010
+The influence of multiple artifacts on the effectiveness of software testing.:
+- https://doi.org/10.1145/1858996.1859100
+- 2010
+Timesheet assistant - mining and reporting developer effort.:
+- https://doi.org/10.1145/1858996.1859049
+- 2010
+Tool support for code generation from a UMLsec property.:
+- https://doi.org/10.1145/1858996.1859074
+- 2010
+Tool support for continuous maintenance of state machine models in program code.:
+- https://doi.org/10.1145/1858996.1859033
+- 2010
+Tool support for essential use cases to better capture software requirements.:
+- https://doi.org/10.1145/1858996.1859047
+- 2010
+Tool support for quality-driven development of software architectures.:
+- https://doi.org/10.1145/1858996.1859018
+- 2010
+Towards automatically generating summary comments for Java methods.:
+- https://doi.org/10.1145/1858996.1859006
+- 2010
+Towards mining replacement queries for hard-to-retrieve traces.:
+- https://doi.org/10.1145/1858996.1859046
+- 2010
+Using transitive changesets to support feature location.:
+- https://doi.org/10.1145/1858996.1859066
+- 2010
+Variability modeling in the real - a perspective from the operating systems domain.:
+- https://doi.org/10.1145/1858996.1859010
+- 2010
+Verification-driven slicing of UML/OCL models.:
+- https://doi.org/10.1145/1858996.1859038
+- 2010
+VikiBuilder - end-user specification and generation of visual wikis.:
+- https://doi.org/10.1145/1858996.1859002
+- 2010
+When to use data from other projects for effort estimation.:
+- https://doi.org/10.1145/1858996.1859061
+- 2010
+iMashup - assisting end-user programming for the service-oriented web.:
+- https://doi.org/10.1145/1858996.1859052
+- 2010

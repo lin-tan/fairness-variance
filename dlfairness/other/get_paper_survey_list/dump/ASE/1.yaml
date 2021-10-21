@@ -1,0 +1,467 @@
+? 34th IEEE/ACM International Conference on Automated Software Engineering, ASE 2019,
+  San Diego, CA, USA, November 11-15, 2019
+: - https://ieeexplore.ieee.org/xpl/conhome/8949433/proceeding
+  - 2019
+A Journey Towards Providing Intelligence and Actionable Insights to Development Teams in Software Delivery.:
+- https://doi.org/10.1109/ASE.2019.00142
+- 2019
+A Machine Learning Based Approach to Identify SQL Injection Vulnerabilities.:
+- https://doi.org/10.1109/ASE.2019.00164
+- 2019
+A Qualitative Analysis of Android Taint-Analysis Results.:
+- https://doi.org/10.1109/ASE.2019.00020
+- 2019
+A Quantitative Analysis Framework for Recurrent Neural Network.:
+- https://doi.org/10.1109/ASE.2019.00102
+- 2019
+A Study of Oracle Approximations in Testing Deep Learning Libraries.:
+- https://doi.org/10.1109/ASE.2019.00078
+- 2019
+ACTGAN - Automatic Configuration Tuning for Software Systems with Generative Adversarial Networks.:
+- https://doi.org/10.1109/ASE.2019.00051
+- 2019
+API Design Implications of Boilerplate Client Code.:
+- https://doi.org/10.1109/ASE.2019.00153
+- 2019
+Accurate Modeling of Performance Histories for Evolving Software Systems.:
+- https://doi.org/10.1109/ASE.2019.00065
+- 2019
+Accurate String Constraints Solution Counting with Weighted Automata.:
+- https://doi.org/10.1109/ASE.2019.00049
+- 2019
+Active Hotspot - An Issue-Oriented Model to Monitor Software Evolution and Degradation.:
+- https://doi.org/10.1109/ASE.2019.00095
+- 2019
+An Approach for Investigating Emotion Dynamics in Software Development.:
+- https://doi.org/10.1109/ASE.2019.00158
+- 2019
+? An Empirical Study Towards Characterizing Deep Learning Development and Deployment
+  Across Different Frameworks and Platforms.
+: - https://doi.org/10.1109/ASE.2019.00080
+  - 2019
+An Experience Report of Generating Load Tests Using Log-Recovered Workloads at Varying Granularities of User Behaviour.:
+- https://doi.org/10.1109/ASE.2019.00068
+- 2019
+An Image-Inspired and CNN-Based Android Malware Detection Approach.:
+- https://doi.org/10.1109/ASE.2019.00155
+- 2019
+An Industrial Experience Report on Performance-Aware Refactoring on a Database-Centric Web Application.:
+- https://doi.org/10.1109/ASE.2019.00066
+- 2019
+Apricot - A Weight-Adaptation Approach to Fixing Deep Learning Models.:
+- https://doi.org/10.1109/ASE.2019.00043
+- 2019
+Ares - Inferring Error Specifications through Static Analysis.:
+- https://doi.org/10.1109/ASE.2019.00130
+- 2019
+Assessing the Generalizability of Code2vec Token Embeddings.:
+- https://doi.org/10.1109/ASE.2019.00011
+- 2019
+AutoFocus - Interpreting Attention-Based Neural Networks by Code Perturbation.:
+- https://doi.org/10.1109/ASE.2019.00014
+- 2019
+Automated Refactoring to Reactive Programming.:
+- https://doi.org/10.1109/ASE.2019.00082
+- 2019
+Automated Trainability Evaluation for Smart Software Functions.:
+- https://doi.org/10.1109/ASE.2019.00096
+- 2019
+Automatic Generation of Graphical User Interface Prototypes from Unrestricted Natural Language Requirements.:
+- https://doi.org/10.1109/ASE.2019.00148
+- 2019
+Automatic Generation of Pull Request Descriptions.:
+- https://doi.org/10.1109/ASE.2019.00026
+- 2019
+Automatic Self-Validation for Code Coverage Profilers.:
+- https://doi.org/10.1109/ASE.2019.00018
+- 2019
+Automatically Repairing Binary Programs Using Adapter Synthesis.:
+- https://doi.org/10.1109/ASE.2019.00149
+- 2019
+Automating App Review Response Generation.:
+- https://doi.org/10.1109/ASE.2019.00025
+- 2019
+Automating CUDA Synchronization via Program Transformation.:
+- https://doi.org/10.1109/ASE.2019.00075
+- 2019
+Automating Non-Blocking Synchronization In Concurrent Data Abstractions.:
+- https://doi.org/10.1109/ASE.2019.00074
+- 2019
+B2SFinder - Detecting Open-Source Software Reuse in COTS Software.:
+- https://doi.org/10.1109/ASE.2019.00100
+- 2019
+Batch Alias Analysis.:
+- https://doi.org/10.1109/ASE.2019.00091
+- 2019
+Better Development of Safety Critical Systems - Chinese High Speed Railway System Development Experience Report.:
+- https://doi.org/10.1109/ASE.2019.00143
+- 2019
+Boosting Neural Commit Message Generation with Code Semantic Analysis.:
+- https://doi.org/10.1109/ASE.2019.00162
+- 2019
+BuRRiTo - A Framework to Extract, Specify, Verify and Analyze Business Rules.:
+- https://doi.org/10.1109/ASE.2019.00134
+- 2019
+CLCDSA - Cross Language Code Clone Detection using Syntactical Features and API Documentation.:
+- https://doi.org/10.1109/ASE.2019.00099
+- 2019
+CONVUL - An Effective Tool for Detecting Concurrency Vulnerabilities.:
+- https://doi.org/10.1109/ASE.2019.00125
+- 2019
+Cautious Adaptation of Defiant Components.:
+- https://doi.org/10.1109/ASE.2019.00094
+- 2019
+Characterizing Android App Signing Issues.:
+- https://doi.org/10.1109/ASE.2019.00035
+- 2019
+CoRA - Decomposing and Describing Tangled Code Changes for Reviewer.:
+- https://doi.org/10.1109/ASE.2019.00101
+- 2019
+CocoQa - Question Answering for Coding Conventions Over Knowledge Graphs.:
+- https://doi.org/10.1109/ASE.2019.00108
+- 2019
+Code-First Model-Driven Engineering - On the Agile Adoption of MDE Tooling.:
+- https://doi.org/10.1109/ASE.2019.00086
+- 2019
+CodeKernel - A Graph Kernel Based Approach to the Selection of API Usage Examples.:
+- https://doi.org/10.1109/ASE.2019.00061
+- 2019
+Combining Program Analysis and Statistical Language Model for Code Statement Completion.:
+- https://doi.org/10.1109/ASE.2019.00072
+- 2019
+Combining Spectrum-Based Fault Localization and Statistical Debugging - An Empirical Study.:
+- https://doi.org/10.1109/ASE.2019.00054
+- 2019
+Compile-Time Detection of Machine Image Sniping.:
+- https://doi.org/10.1109/ASE.2019.00154
+- 2019
+Continuous Incident Triage for Large-Scale Online Service Systems.:
+- https://doi.org/10.1109/ASE.2019.00042
+- 2019
+Coverage-Guided Fuzzing for Feedforward Neural Networks.:
+- https://doi.org/10.1109/ASE.2019.00127
+- 2019
+Crowdsourced Report Generation via Bug Screenshot Understanding.:
+- https://doi.org/10.1109/ASE.2019.00161
+- 2019
+DIRE - A Neural Approach to Decompiled Identifier Naming.:
+- https://doi.org/10.1109/ASE.2019.00064
+- 2019
+DaPanda - Detecting Aggressive Push Notifications in Android Apps.:
+- https://doi.org/10.1109/ASE.2019.00017
+- 2019
+Debreach - Mitigating Compression Side Channels via Static Analysis and Transformation.:
+- https://doi.org/10.1109/ASE.2019.00088
+- 2019
+DeepMutation++ - A Mutation Testing Framework for Deep Learning Systems.:
+- https://doi.org/10.1109/ASE.2019.00126
+- 2019
+Demystifying Application Performance Management Libraries for Android.:
+- https://doi.org/10.1109/ASE.2019.00069
+- 2019
+Detecting Error-Handling Bugs without Error Specification Input.:
+- https://doi.org/10.1109/ASE.2019.00029
+- 2019
+Developer Reputation Estimator (DRE).:
+- https://doi.org/10.1109/ASE.2019.00107
+- 2019
+Discovering, Explaining and Summarizing Controversial Discussions in Community Q&amp;A Sites.:
+- https://doi.org/10.1109/ASE.2019.00024
+- 2019
+Efficient Test Generation Guided by Field Coverage Criteria.:
+- https://doi.org/10.1109/ASE.2019.00019
+- 2019
+Efficient Transaction-Based Deterministic Replay for Multi-threaded Programs.:
+- https://doi.org/10.1109/ASE.2019.00076
+- 2019
+Emotions Extracted from Text vs. True Emotions-An Empirical Evaluation in SE Context.:
+- https://doi.org/10.1109/ASE.2019.00031
+- 2019
+Empirical Evaluation of the Impact of Class Overlap on Software Defect Prediction.:
+- https://doi.org/10.1109/ASE.2019.00071
+- 2019
+Empirical Study of Programming to an Interface.:
+- https://doi.org/10.1109/ASE.2019.00083
+- 2019
+Empirical Study of Python Call Graph.:
+- https://doi.org/10.1109/ASE.2019.00160
+- 2019
+Enabling Continuous Improvement of a Continuous Integration Process.:
+- https://doi.org/10.1109/ASE.2019.00151
+- 2019
+Experience Paper - Search-Based Testing in Automated Driving Control Applications.:
+- https://doi.org/10.1109/ASE.2019.00013
+- 2019
+FPChecker - Detecting Floating-Point Exceptions in GPU Applications.:
+- https://doi.org/10.1109/ASE.2019.00118
+- 2019
+Feature-Interaction Aware Configuration Prioritization for Configurable Code.:
+- https://doi.org/10.1109/ASE.2019.00053
+- 2019
+Fine-Grain Memory Object Representation in Symbolic Execution.:
+- https://doi.org/10.1109/ASE.2019.00089
+- 2019
+FogWorkflowSim - An Automated Simulation Toolkit for Workflow Performance Evaluation in Fog Computing.:
+- https://doi.org/10.1109/ASE.2019.00115
+- 2019
+Generating Tests to Analyse Dynamically-Typed Programs.:
+- https://doi.org/10.1109/ASE.2019.00146
+- 2019
+Get Rid of Inline Assembly through Verification-Oriented Lifting.:
+- https://doi.org/10.1109/ASE.2019.00060
+- 2019
+Goal-Driven Exploration for Android Applications.:
+- https://doi.org/10.1109/ASE.2019.00021
+- 2019
+Grading-Based Test Suite Augmentation.:
+- https://doi.org/10.1109/ASE.2019.00030
+- 2019
+History-Guided Configuration Diversification for Compiler Test-Program Generation.:
+- https://doi.org/10.1109/ASE.2019.00037
+- 2019
+How Do API Selections Affect the Runtime Performance of Data Analytics Tasks?:
+- https://doi.org/10.1109/ASE.2019.00067
+- 2019
+Humanoid - A Deep Learning-Based Approach to Automated Black-box Android App Testing.:
+- https://doi.org/10.1109/ASE.2019.00104
+- 2019
+Improving Collaboration Efficiency in Fork-Based Development.:
+- https://doi.org/10.1109/ASE.2019.00144
+- 2019
+Improving Patch Quality by Enhancing Key Components of Automatic Program Repair.:
+- https://doi.org/10.1109/ASE.2019.00147
+- 2019
+Improving the Decision-Making Process of Self-Adaptive Systems by Accounting for Tactic Volatility.:
+- https://doi.org/10.1109/ASE.2019.00092
+- 2019
+InFix - Automatically Repairing Novice Program Inputs.:
+- https://doi.org/10.1109/ASE.2019.00045
+- 2019
+Inference of Properties from Requirements and Automation of Their Formal Verification.:
+- https://doi.org/10.1109/ASE.2019.00145
+- 2019
+Inferring Program Transformations From Singular Examples via Big Code.:
+- https://doi.org/10.1109/ASE.2019.00033
+- 2019
+Kotless - A Serverless Framework for Kotlin.:
+- https://doi.org/10.1109/ASE.2019.00114
+- 2019
+LIRAT - Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform.:
+- https://doi.org/10.1109/ASE.2019.00103
+- 2019
+Lancer - Your Code Tell Me What You Need.:
+- https://doi.org/10.1109/ASE.2019.00137
+- 2019
+Learning from Examples to Find Fully Qualified Names of API Elements in Code Snippets.:
+- https://doi.org/10.1109/ASE.2019.00032
+- 2019
+Learning-Guided Network Fuzzing for Testing Cyber-Physical System Defences.:
+- https://doi.org/10.1109/ASE.2019.00093
+- 2019
+Logzip - Extracting Hidden Structures via Iterative Clustering for Log Compression.:
+- https://doi.org/10.1109/ASE.2019.00085
+- 2019
+MAP-Coverage - A Novel Coverage Criterion for Testing Thread-Safe Classes.:
+- https://doi.org/10.1109/ASE.2019.00073
+- 2019
+MARBLE - Mining for Boilerplate Code to Identify API Usability Problems.:
+- https://doi.org/10.1109/ASE.2019.00063
+- 2019
+Machine Learning Based Recommendation of Method Names - How Far are We.:
+- https://doi.org/10.1109/ASE.2019.00062
+- 2019
+MalScan - Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis.:
+- https://doi.org/10.1109/ASE.2019.00023
+- 2019
+Manticore - A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts.:
+- https://doi.org/10.1109/ASE.2019.00133
+- 2019
+Model Checking Embedded Control Software using OS-in-the-Loop CEGAR.:
+- https://doi.org/10.1109/ASE.2019.00059
+- 2019
+MuSC - A Tool for Mutation Testing of Ethereum Smart Contract.:
+- https://doi.org/10.1109/ASE.2019.00136
+- 2019
+Multi-modal Attention Network Learning for Semantic Source Code Retrieval.:
+- https://doi.org/10.1109/ASE.2019.00012
+- 2019
+MutAPK - Source-Codeless Mutant Generation for Android Apps.:
+- https://doi.org/10.1109/ASE.2019.00109
+- 2019
+Mutation Analysis for Coq.:
+- https://doi.org/10.1109/ASE.2019.00057
+- 2019
+NeuralVis - Visualizing and Interpreting Deep Learning Models.:
+- https://doi.org/10.1109/ASE.2019.00113
+- 2019
+OAUTHLINT - An Empirical Study on OAuth Bugs in Android Applications.:
+- https://doi.org/10.1109/ASE.2019.00036
+- 2019
+PHANTA - Diversified Test Code Quality Measurement for Modern Software Development.:
+- https://doi.org/10.1109/ASE.2019.00138
+- 2019
+PMExec - An Execution Engine of Partial UML-RT Models.:
+- https://doi.org/10.1109/ASE.2019.00131
+- 2019
+PTracer - A Linux Kernel Patch Trace Bot.:
+- https://doi.org/10.1109/ASE.2019.00140
+- 2019
+Pangolin - An SFL-Based Toolset for Feature Localization.:
+- https://doi.org/10.1109/ASE.2019.00119
+- 2019
+PeASS - A Tool for Identifying Performance Changes at Code Level.:
+- https://doi.org/10.1109/ASE.2019.00123
+- 2019
+Performance-Boosting Sparsification of the IFDS Algorithm with Applications to Taint Analysis.:
+- https://doi.org/10.1109/ASE.2019.00034
+- 2019
+PraPR - Practical Program Repair via Bytecode Mutation.:
+- https://doi.org/10.1109/ASE.2019.00116
+- 2019
+Predicting Licenses for Changed Source Code.:
+- https://doi.org/10.1109/ASE.2019.00070
+- 2019
+Prema - A Tool for Precise Requirements Editing, Modeling and Analysis.:
+- https://doi.org/10.1109/ASE.2019.00128
+- 2019
+Property Inference for Deep Neural Networks.:
+- https://doi.org/10.1109/ASE.2019.00079
+- 2019
+RANDR - Record and Replay for Android Applications via Targeted Runtime Instrumentation.:
+- https://doi.org/10.1109/ASE.2019.00022
+- 2019
+RENN - Efficient Reverse Execution with Neural-Network-Assisted Alias Analysis.:
+- https://doi.org/10.1109/ASE.2019.00090
+- 2019
+Re-Factoring Based Program Repair Applied to Programming Assignments.:
+- https://doi.org/10.1109/ASE.2019.00044
+- 2019
+ReduKtor - How We Stopped Worrying About Bugs in Kotlin Compiler.:
+- https://doi.org/10.1109/ASE.2019.00038
+- 2019
+RefBot - Intelligent Software Refactoring Bot.:
+- https://doi.org/10.1109/ASE.2019.00081
+- 2019
+Regexes are Hard - Decision-Making, Difficulties, and Risks in Programming Regular Expressions.:
+- https://doi.org/10.1109/ASE.2019.00047
+- 2019
+Retrieve and Refine - Exemplar-Based Neural Comment Generation.:
+- https://doi.org/10.1109/ASE.2019.00152
+- 2019
+Root Cause Localization for Unreproducible Builds via Causality Analysis Over System Call Tracing.:
+- https://doi.org/10.1109/ASE.2019.00056
+- 2019
+SCMiner - Localizing System-Level Concurrency Faults from Large System Call Traces.:
+- https://doi.org/10.1109/ASE.2019.00055
+- 2019
+SEGATE - Unveiling Semantic Inconsistencies between Code and Specification of String Inputs.:
+- https://doi.org/10.1109/ASE.2019.00028
+- 2019
+SGUARD - A Feature-Based Clustering Tool for Effective Spreadsheet Defect Detection.:
+- https://doi.org/10.1109/ASE.2019.00122
+- 2019
+SPrinter - A Static Checker for Finding Smart Pointer Errors in C++ Programs.:
+- https://doi.org/10.1109/ASE.2019.00117
+- 2019
+SWAN_ASSIST - Semi-Automated Detection of Code-Specific, Security-Relevant Methods.:
+- https://doi.org/10.1109/ASE.2019.00110
+- 2019
+Semistructured Merge in JavaScript Systems.:
+- https://doi.org/10.1109/ASE.2019.00098
+- 2019
+SiMPOSE - Configurable N-Way Program Merging Strategies for Superimposition-Based Analysis of Variant-Rich Software.:
+- https://doi.org/10.1109/ASE.2019.00120
+- 2019
+Sip4J - Statically Inferring Access Permission Contracts for Parallelising Sequential Java Programs.:
+- https://doi.org/10.1109/ASE.2019.00111
+- 2019
+Size and Accuracy in Model Inference.:
+- https://doi.org/10.1109/ASE.2019.00087
+- 2019
+Statistical Log Differencing.:
+- https://doi.org/10.1109/ASE.2019.00084
+- 2019
+Subformula Caching for Model Counting and Quantitative Program Analysis.:
+- https://doi.org/10.1109/ASE.2019.00050
+- 2019
+Systematically Covering Input Structure.:
+- https://doi.org/10.1109/ASE.2019.00027
+- 2019
+Tackling Build Failures in Continuous Integration.:
+- https://doi.org/10.1109/ASE.2019.00150
+- 2019
+Targeted Example Generation for Compilation Errors.:
+- https://doi.org/10.1109/ASE.2019.00039
+- 2019
+Test Automation and Its Limitations - A Case Study.:
+- https://doi.org/10.1109/ASE.2019.00139
+- 2019
+Test Migration Between Mobile Apps with Similar Functionality.:
+- https://doi.org/10.1109/ASE.2019.00016
+- 2019
+Test Transfer Across Mobile Apps Through Semantic Mapping.:
+- https://doi.org/10.1109/ASE.2019.00015
+- 2019
+TestCov - Robust Test-Suite Execution and Coverage Measurement.:
+- https://doi.org/10.1109/ASE.2019.00105
+- 2019
+Testing Regex Generalizability And Its Implications - A Large-Scale Many-Language Measurement Study.:
+- https://doi.org/10.1109/ASE.2019.00048
+- 2019
+The Impact of Structure on Software Merging - Semistructured Versus Structured Merge.:
+- https://doi.org/10.1109/ASE.2019.00097
+- 2019
+Toward Practical Automatic Program Repair.:
+- https://doi.org/10.1109/ASE.2019.00156
+- 2019
+Towards Comprehensible Representation of Controllers using Machine Learning.:
+- https://doi.org/10.1109/ASE.2019.00163
+- 2019
+Trusted Software Supply Chain.:
+- https://doi.org/10.1109/ASE.2019.00141
+- 2019
+TsmartGP - A Tool for Finding Memory Defects with Pointer Analysis.:
+- https://doi.org/10.1109/ASE.2019.00129
+- 2019
+Understanding Automatically-Generated Patches Through Symbolic Invariant Differences.:
+- https://doi.org/10.1109/ASE.2019.00046
+- 2019
+Understanding Exception-Related Bugs in Large-Scale Cloud Systems.:
+- https://doi.org/10.1109/ASE.2019.00040
+- 2019
+User Preference Aware Multimedia Pricing Model using Game Theory and Prospect Theory for Wireless Communications.:
+- https://doi.org/10.1109/ASE.2019.00157
+- 2019
+V2 - Fast Detection of Configuration Drift in Python.:
+- https://doi.org/10.1109/ASE.2019.00052
+- 2019
+VeriAbs - Verification by Abstraction and Test Generation.:
+- https://doi.org/10.1109/ASE.2019.00121
+- 2019
+VeriSmart 2.0 - Swarm-Based Bug-Finding for Multi-threaded Programs with Lazy-CSeq.:
+- https://doi.org/10.1109/ASE.2019.00124
+- 2019
+Verifying Arithmetic in Cryptographic C Programs.:
+- https://doi.org/10.1109/ASE.2019.00058
+- 2019
+Verifying Determinism in Sequential Programs.:
+- https://doi.org/10.1109/ASE.2019.00159
+- 2019
+VisFuzz - Understanding and Intervening Fuzzing with Interactive Visualization.:
+- https://doi.org/10.1109/ASE.2019.00106
+- 2019
+Visual Analytics for Concurrent Java Executions.:
+- https://doi.org/10.1109/ASE.2019.00112
+- 2019
+Wuji - Automatic Online Combat Game Testing Using Evolutionary Deep Reinforcement Learning.:
+- https://doi.org/10.1109/ASE.2019.00077
+- 2019
+XRaSE - Towards Virtually Tangible Software using Augmented Reality.:
+- https://doi.org/10.1109/ASE.2019.00135
+- 2019
+iFeedback - Exploiting User Feedback for Real-Time Issue Detection in Large-Scale Online Service Systems.:
+- https://doi.org/10.1109/ASE.2019.00041
+- 2019
+mCUTE - A Model-Level Concolic Unit Testing Engine for UML State Machines.:
+- https://doi.org/10.1109/ASE.2019.00132
+- 2019

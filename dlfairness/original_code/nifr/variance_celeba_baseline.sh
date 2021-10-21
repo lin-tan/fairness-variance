@@ -1,0 +1,2 @@
+#!/bin/bash	
+python run_simple_baselines.py --dataset celeba --task-mixing-factor 0.0 --lr 1e-3 --batch-size 128 --weight-decay 0 --epochs 40 --pred-s False --seed 1 --root ./data --save-dir variance_proj/baseline --data-split-seed 888

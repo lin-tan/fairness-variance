@@ -1,0 +1,9 @@
+*.DS_Store
+*.csv
+*.txt
+*.json
+__pycache__/
+aggregated_raw_prediction/
+test/
+!/unit_test/**/**/**.csv
+!/unit_test/**/**/**.json

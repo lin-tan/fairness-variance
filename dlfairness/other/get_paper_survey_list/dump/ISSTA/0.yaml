@@ -1,0 +1,169 @@
+A programming model for semi-implicit parallelization of static analyses.:
+- https://doi.org/10.1145/3395363.3397367
+- 2020
+Abstracting failure-inducing inputs.:
+- https://doi.org/10.1145/3395363.3397349
+- 2020
+Active fuzzing for testing and securing cyber-physical systems.:
+- https://doi.org/10.1145/3395363.3397376
+- 2020
+An empirical study on ARM disassembly tools.:
+- https://doi.org/10.1145/3395363.3397377
+- 2020
+Automated classification of actions in bug reports of mobile apps.:
+- https://doi.org/10.1145/3395363.3397355
+- 2020
+Automated mobile apps testing from visual perspective.:
+- https://doi.org/10.1145/3395363.3402644
+- 2020
+Automated repair of feature interaction failures in automated driving systems.:
+- https://doi.org/10.1145/3395363.3397386
+- 2020
+Automatic support for the identification of infeasible testing requirements.:
+- https://doi.org/10.1145/3395363.3402646
+- 2020
+CPSDebug - a tool for explanation of failures in cyber-physical systems.:
+- https://doi.org/10.1145/3395363.3404369
+- 2020
+Can automated program repair refine fault localization? a unified debugging approach.:
+- https://doi.org/10.1145/3395363.3397351
+- 2020
+CoCoNuT - combining context-aware neural translation models using ensemble for program repair.:
+- https://doi.org/10.1145/3395363.3397369
+- 2020
+Crowdsourced requirements generation for automatic testing via knowledge graph.:
+- https://doi.org/10.1145/3395363.3404363
+- 2020
+Data loss detector - automatically revealing data loss bugs in Android apps.:
+- https://doi.org/10.1145/3395363.3397379
+- 2020
+Debugging the performance of Maven&apos;s test isolation - experience report.:
+- https://doi.org/10.1145/3395363.3397381
+- 2020
+DeepGini - prioritizing massive tests to enhance the robustness of deep neural networks.:
+- https://doi.org/10.1145/3395363.3397357
+- 2020
+DeepSQLi - deep semantic learning for testing SQL injection.:
+- https://doi.org/10.1145/3395363.3397375
+- 2020
+Dependent-test-aware regression testing techniques.:
+- https://doi.org/10.1145/3395363.3397364
+- 2020
+Detecting and diagnosing energy issues for mobile applications.:
+- https://doi.org/10.1145/3395363.3397350
+- 2020
+Detecting and understanding real-world differential performance bugs in machine learning libraries.:
+- https://doi.org/10.1145/3395363.3404540
+- 2020
+Detecting cache-related bugs in Spark applications.:
+- https://doi.org/10.1145/3395363.3397353
+- 2020
+Detecting flaky tests in probabilistic and machine learning applications.:
+- https://doi.org/10.1145/3395363.3397366
+- 2020
+Differential regression testing for REST APIs.:
+- https://doi.org/10.1145/3395363.3397374
+- 2020
+Discovering discrepancies in numerical libraries.:
+- https://doi.org/10.1145/3395363.3397380
+- 2020
+EShield - protect smart contracts against reverse engineering.:
+- https://doi.org/10.1145/3395363.3404365
+- 2020
+Echidna - effective, usable, and fast fuzzing for smart contracts.:
+- https://doi.org/10.1145/3395363.3404366
+- 2020
+Effective white-box testing of deep neural networks with adaptive neuron-selection strategy.:
+- https://doi.org/10.1145/3395363.3397346
+- 2020
+Empirically revisiting and enhancing IR-based test-case prioritization.:
+- https://doi.org/10.1145/3395363.3397383
+- 2020
+Escaping dependency hell - finding build dependency errors with the unified dependency graph.:
+- https://doi.org/10.1145/3395363.3397388
+- 2020
+Fast bit-vector satisfiability.:
+- https://doi.org/10.1145/3395363.3397378
+- 2020
+Feasible and stressful trajectory generation for mobile robots.:
+- https://doi.org/10.1145/3395363.3397387
+- 2020
+Feedback-driven side-channel analysis for networked applications.:
+- https://doi.org/10.1145/3395363.3397365
+- 2020
+FineLock - automatically refactoring coarse-grained locks into fine-grained locks.:
+- https://doi.org/10.1145/3395363.3404368
+- 2020
+Functional code clone detection with syntax and semantics fusion learning.:
+- https://doi.org/10.1145/3395363.3397362
+- 2020
+Higher income, larger loan? monotonicity testing of machine learning models.:
+- https://doi.org/10.1145/3395363.3397352
+- 2020
+How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection.:
+- https://doi.org/10.1145/3395363.3397385
+- 2020
+How far we have come - testing decompilation correctness of C decompilers.:
+- https://doi.org/10.1145/3395363.3397370
+- 2020
+? ISSTA &apos;20 - 29th ACM SIGSOFT International Symposium on Software Testing and
+  Analysis, Virtual Event, USA, July 18-22, 2020
+: - https://doi.org/10.1145/3395363
+  - 2020
+Identifying Java calls in native code via binary scanning.:
+- https://doi.org/10.1145/3395363.3397368
+- 2020
+Intermittently failing tests in the embedded systems domain.:
+- https://doi.org/10.1145/3395363.3397359
+- 2020
+Learning input tokens for effective fuzzing.:
+- https://doi.org/10.1145/3395363.3397348
+- 2020
+Learning to detect table clones in spreadsheets.:
+- https://doi.org/10.1145/3395363.3397384
+- 2020
+ObjSim - lightweight automatic patch prioritization via object similarity.:
+- https://doi.org/10.1145/3395363.3404362
+- 2020
+Patch based vulnerability matching for binary programs.:
+- https://doi.org/10.1145/3395363.3397361
+- 2020
+ProFL - a fault localization framework for Prolog.:
+- https://doi.org/10.1145/3395363.3404367
+- 2020
+Program-aware fuzzing for MQTT applications.:
+- https://doi.org/10.1145/3395363.3402645
+- 2020
+Recovering fitness gradients for interprocedural Boolean flags in search-based testing.:
+- https://doi.org/10.1145/3395363.3397358
+- 2020
+Reinforcement learning based curiosity-driven testing of Android applications.:
+- https://doi.org/10.1145/3395363.3397354
+- 2020
+Relocatable addressing model for symbolic execution.:
+- https://doi.org/10.1145/3395363.3397363
+- 2020
+Running symbolic execution forever.:
+- https://doi.org/10.1145/3395363.3397360
+- 2020
+Scaffle - bug localization on millions of files.:
+- https://doi.org/10.1145/3395363.3397356
+- 2020
+Scalable analysis of interaction threats in IoT systems.:
+- https://doi.org/10.1145/3395363.3397347
+- 2020
+Scalable build service system with smart scheduling service.:
+- https://doi.org/10.1145/3395363.3397371
+- 2020
+TauJud - test augmentation of machine learning in judicial documents.:
+- https://doi.org/10.1145/3395363.3404364
+- 2020
+Test recommendation system based on slicing coverage filtering.:
+- https://doi.org/10.1145/3395363.3404370
+- 2020
+Testing high performance numerical simulation programs - experience, lessons learned, and open issues.:
+- https://doi.org/10.1145/3395363.3397382
+- 2020
+WEIZZ - automatic grey-box fuzzing for structured binary formats.:
+- https://doi.org/10.1145/3395363.3397372
+- 2020

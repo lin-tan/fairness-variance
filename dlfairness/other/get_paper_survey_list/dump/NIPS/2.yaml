@@ -1,0 +1,3040 @@
+(Probably) Concave Graph Matching.:
+- http://papers.nips.cc/paper/7323-probably-concave-graph-matching
+- 2018
+3D Steerable CNNs - Learning Rotationally Equivariant Features in Volumetric Data.:
+- http://papers.nips.cc/paper/8239-3d-steerable-cnns-learning-rotationally-equivariant-features-in-volumetric-data
+- 2018
+3D-Aware Scene Manipulation via Inverse Graphics.:
+- http://papers.nips.cc/paper/7459-3d-aware-scene-manipulation-via-inverse-graphics
+- 2018
+A Bandit Approach to Sequential Experimental Design with False Discovery Control.:
+- http://papers.nips.cc/paper/7624-a-bandit-approach-to-sequential-experimental-design-with-false-discovery-control
+- 2018
+A Bayes-Sard Cubature Method.:
+- http://papers.nips.cc/paper/7829-a-bayes-sard-cubature-method
+- 2018
+A Bayesian Approach to Generative Adversarial Imitation Learning.:
+- http://papers.nips.cc/paper/7972-a-bayesian-approach-to-generative-adversarial-imitation-learning
+- 2018
+A Bayesian Nonparametric View on Count-Min Sketch.:
+- http://papers.nips.cc/paper/8093-a-bayesian-nonparametric-view-on-count-min-sketch
+- 2018
+A Block Coordinate Ascent Algorithm for Mean-Variance Optimization.:
+- http://papers.nips.cc/paper/7384-a-block-coordinate-ascent-algorithm-for-mean-variance-optimization
+- 2018
+A Bridging Framework for Model Optimization and Deep Propagation.:
+- http://papers.nips.cc/paper/7685-a-bridging-framework-for-model-optimization-and-deep-propagation
+- 2018
+A Convex Duality Framework for GANs.:
+- http://papers.nips.cc/paper/7771-a-convex-duality-framework-for-gans
+- 2018
+A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agents.:
+- http://papers.nips.cc/paper/7374-a-deep-bayesian-policy-reuse-approach-against-non-stationary-agents
+- 2018
+A Dual Framework for Low-rank Tensor Completion.:
+- http://papers.nips.cc/paper/7793-a-dual-framework-for-low-rank-tensor-completion
+- 2018
+A Game-Theoretic Approach to Recommendation Systems with Strategic Content Providers.:
+- http://papers.nips.cc/paper/7388-a-game-theoretic-approach-to-recommendation-systems-with-strategic-content-providers
+- 2018
+A General Method for Amortizing Variational Filtering.:
+- http://papers.nips.cc/paper/8011-a-general-method-for-amortizing-variational-filtering
+- 2018
+A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks.:
+- http://papers.nips.cc/paper/8078-a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks
+- 2018
+A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication.:
+- http://papers.nips.cc/paper/7519-a-linear-speedup-analysis-of-distributed-deep-learning-with-sparse-and-quantized-communication
+- 2018
+A Lyapunov-based Approach to Safe Reinforcement Learning.:
+- http://papers.nips.cc/paper/8032-a-lyapunov-based-approach-to-safe-reinforcement-learning
+- 2018
+A Mathematical Model For Optimal Decisions In A Representative Democracy.:
+- http://papers.nips.cc/paper/7720-a-mathematical-model-for-optimal-decisions-in-a-representative-democracy
+- 2018
+A Model for Learned Bloom Filters and Optimizing by Sandwiching.:
+- http://papers.nips.cc/paper/7328-a-model-for-learned-bloom-filters-and-optimizing-by-sandwiching
+- 2018
+A Neural Compositional Paradigm for Image Captioning.:
+- http://papers.nips.cc/paper/7346-a-neural-compositional-paradigm-for-image-captioning
+- 2018
+A Practical Algorithm for Distributed Clustering and Outlier Detection.:
+- http://papers.nips.cc/paper/7493-a-practical-algorithm-for-distributed-clustering-and-outlier-detection
+- 2018
+A Probabilistic U-Net for Segmentation of Ambiguous Images.:
+- http://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images
+- 2018
+A Reduction for Efficient LDA Topic Reconstruction.:
+- http://papers.nips.cc/paper/8012-a-reduction-for-efficient-lda-topic-reconstruction
+- 2018
+A Retrieve-and-Edit Framework for Predicting Structured Outputs.:
+- http://papers.nips.cc/paper/8209-a-retrieve-and-edit-framework-for-predicting-structured-outputs
+- 2018
+A Simple Cache Model for Image Recognition.:
+- http://papers.nips.cc/paper/8214-a-simple-cache-model-for-image-recognition
+- 2018
+A Simple Proximal Stochastic Gradient Method for Nonsmooth Nonconvex Optimization.:
+- http://papers.nips.cc/paper/7800-a-simple-proximal-stochastic-gradient-method-for-nonsmooth-nonconvex-optimization
+- 2018
+A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks.:
+- http://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks
+- 2018
+A Smoothed Analysis of the Greedy Algorithm for the Linear Contextual Bandit Problem.:
+- http://papers.nips.cc/paper/7491-a-smoothed-analysis-of-the-greedy-algorithm-for-the-linear-contextual-bandit-problem
+- 2018
+A Smoother Way to Train Structured Prediction Models.:
+- http://papers.nips.cc/paper/7726-a-smoother-way-to-train-structured-prediction-models
+- 2018
+A Spectral View of Adversarially Robust Features.:
+- http://papers.nips.cc/paper/8217-a-spectral-view-of-adversarially-robust-features
+- 2018
+A Statistical Recurrent Model on the Manifold of Symmetric Positive Definite Matrices.:
+- http://papers.nips.cc/paper/8104-a-statistical-recurrent-model-on-the-manifold-of-symmetric-positive-definite-matrices
+- 2018
+A Stein variational Newton method.:
+- http://papers.nips.cc/paper/8130-a-stein-variational-newton-method
+- 2018
+A Structured Prediction Approach for Label Ranking.:
+- http://papers.nips.cc/paper/8114-a-structured-prediction-approach-for-label-ranking
+- 2018
+A Theory-Based Evaluation of Nearest Neighbor Models Put Into Practice.:
+- http://papers.nips.cc/paper/7908-a-theory-based-evaluation-of-nearest-neighbor-models-put-into-practice
+- 2018
+A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation.:
+- http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation
+- 2018
+A Unified Framework for Extensive-Form Game Abstraction with Bounds.:
+- http://papers.nips.cc/paper/7342-a-unified-framework-for-extensive-form-game-abstraction-with-bounds
+- 2018
+A Unified View of Piecewise Linear Neural Network Verification.:
+- http://papers.nips.cc/paper/7728-a-unified-view-of-piecewise-linear-neural-network-verification
+- 2018
+A convex program for bilinear inversion of sparse vectors.:
+- http://papers.nips.cc/paper/8074-a-convex-program-for-bilinear-inversion-of-sparse-vectors
+- 2018
+A flexible model for training action localization with varying levels of supervision.:
+- http://papers.nips.cc/paper/7373-a-flexible-model-for-training-action-localization-with-varying-levels-of-supervision
+- 2018
+A loss framework for calibrated anomaly detection.:
+- http://papers.nips.cc/paper/7422-a-loss-framework-for-calibrated-anomaly-detection
+- 2018
+A no-regret generalization of hierarchical softmax to extreme multi-label classification.:
+- http://papers.nips.cc/paper/7872-a-no-regret-generalization-of-hierarchical-softmax-to-extreme-multi-label-classification
+- 2018
+A probabilistic population code based on neural samples.:
+- http://papers.nips.cc/paper/7938-a-probabilistic-population-code-based-on-neural-samples
+- 2018
+A theory on the absence of spurious solutions for nonconvex and nonsmooth optimization.:
+- http://papers.nips.cc/paper/7511-a-theory-on-the-absence-of-spurious-solutions-for-nonconvex-and-nonsmooth-optimization
+- 2018
+A2-Nets - Double Attention Networks.:
+- http://papers.nips.cc/paper/7318-a2-nets-double-attention-networks
+- 2018
+ATOMO - Communication-efficient Learning via Atomic Sparsification.:
+- http://papers.nips.cc/paper/8191-atomo-communication-efficient-learning-via-atomic-sparsification
+- 2018
+Accelerated Stochastic Matrix Inversion - General Theory and Speeding up BFGS Rules for Faster Second-Order Optimization.:
+- http://papers.nips.cc/paper/7434-accelerated-stochastic-matrix-inversion-general-theory-and-speeding-up-bfgs-rules-for-faster-second-order-optimization
+- 2018
+Acceleration through Optimistic No-Regret Dynamics.:
+- http://papers.nips.cc/paper/7639-acceleration-through-optimistic-no-regret-dynamics
+- 2018
+Active Learning for Non-Parametric Regression Using Purely Random Trees.:
+- http://papers.nips.cc/paper/7520-active-learning-for-non-parametric-regression-using-purely-random-trees
+- 2018
+Active Matting.:
+- http://papers.nips.cc/paper/7710-active-matting
+- 2018
+Actor-Critic Policy Optimization in Partially Observable Multiagent Environments.:
+- http://papers.nips.cc/paper/7602-actor-critic-policy-optimization-in-partially-observable-multiagent-environments
+- 2018
+Adaptation to Easy Data in Prediction with Limited Advice.:
+- http://papers.nips.cc/paper/7555-adaptation-to-easy-data-in-prediction-with-limited-advice
+- 2018
+Adapted Deep Embeddings - A Synthesis of Methods for k-Shot Inductive Transfer Learning.:
+- http://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning
+- 2018
+Adaptive Learning with Unknown Information Flows.:
+- http://papers.nips.cc/paper/7976-adaptive-learning-with-unknown-information-flows
+- 2018
+Adaptive Methods for Nonconvex Optimization.:
+- http://papers.nips.cc/paper/8186-adaptive-methods-for-nonconvex-optimization
+- 2018
+Adaptive Negative Curvature Descent with Applications in Non-convex Optimization.:
+- http://papers.nips.cc/paper/7734-adaptive-negative-curvature-descent-with-applications-in-non-convex-optimization
+- 2018
+Adaptive Online Learning in Dynamic Environments.:
+- http://papers.nips.cc/paper/7407-adaptive-online-learning-in-dynamic-environments
+- 2018
+Adaptive Path-Integral Autoencoders - Representation Learning and Planning for Dynamical Systems.:
+- http://papers.nips.cc/paper/8108-adaptive-path-integral-autoencoders-representation-learning-and-planning-for-dynamical-systems
+- 2018
+Adaptive Sampling Towards Fast Graph Representation Learning.:
+- http://papers.nips.cc/paper/7707-adaptive-sampling-towards-fast-graph-representation-learning
+- 2018
+Adaptive Skip Intervals - Temporal Abstraction for Recurrent Dynamical Models.:
+- http://papers.nips.cc/paper/8188-adaptive-skip-intervals-temporal-abstraction-for-recurrent-dynamical-models
+- 2018
+Adding One Neuron Can Eliminate All Bad Local Minima.:
+- http://papers.nips.cc/paper/7688-adding-one-neuron-can-eliminate-all-bad-local-minima
+- 2018
+? "Advances in Neural Information Processing Systems 31 - Annual Conference on Neural\
+  \ Information Processing Systems 2018, NeurIPS 2018, December 3-8, 2018, Montr\xE9\
+  al, Canada."
+: - http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018
+  - 2018
+Adversarial Attacks on Stochastic Bandits.:
+- http://papers.nips.cc/paper/7622-adversarial-attacks-on-stochastic-bandits
+- 2018
+Adversarial Examples that Fool both Computer Vision and Time-Limited Humans.:
+- http://papers.nips.cc/paper/7647-adversarial-examples-that-fool-both-computer-vision-and-time-limited-humans
+- 2018
+Adversarial Multiple Source Domain Adaptation.:
+- http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation
+- 2018
+Adversarial Regularizers in Inverse Problems.:
+- http://papers.nips.cc/paper/8070-adversarial-regularizers-in-inverse-problems
+- 2018
+Adversarial Risk and Robustness - General Definitions and Implications for the Uniform Distribution.:
+- http://papers.nips.cc/paper/8237-adversarial-risk-and-robustness-general-definitions-and-implications-for-the-uniform-distribution
+- 2018
+Adversarial Scene Editing - Automatic Object Removal from Weak Supervision.:
+- http://papers.nips.cc/paper/7997-adversarial-scene-editing-automatic-object-removal-from-weak-supervision
+- 2018
+Adversarial Text Generation via Feature-Mover&apos;s Distance.:
+- http://papers.nips.cc/paper/7717-adversarial-text-generation-via-feature-movers-distance
+- 2018
+Adversarial vulnerability for any classifier.:
+- http://papers.nips.cc/paper/7394-adversarial-vulnerability-for-any-classifier
+- 2018
+Adversarially Robust Generalization Requires More Data.:
+- http://papers.nips.cc/paper/7749-adversarially-robust-generalization-requires-more-data
+- 2018
+Adversarially Robust Optimization with Gaussian Processes.:
+- http://papers.nips.cc/paper/7818-adversarially-robust-optimization-with-gaussian-processes
+- 2018
+Algebraic tests of general Gaussian latent tree models.:
+- http://papers.nips.cc/paper/7867-algebraic-tests-of-general-gaussian-latent-tree-models
+- 2018
+Algorithmic Assurance - An Active Approach to Algorithmic Testing using Bayesian Optimisation.:
+- http://papers.nips.cc/paper/7791-algorithmic-assurance-an-active-approach-to-algorithmic-testing-using-bayesian-optimisation
+- 2018
+Algorithmic Linearly Constrained Gaussian Processes.:
+- http://papers.nips.cc/paper/7483-algorithmic-linearly-constrained-gaussian-processes
+- 2018
+Algorithmic Regularization in Learning Deep Homogeneous Models - Layers are Automatically Balanced.:
+- http://papers.nips.cc/paper/7321-algorithmic-regularization-in-learning-deep-homogeneous-models-layers-are-automatically-balanced
+- 2018
+Algorithms and Theory for Multiple-Source Adaptation.:
+- http://papers.nips.cc/paper/8046-algorithms-and-theory-for-multiple-source-adaptation
+- 2018
+Almost Optimal Algorithms for Linear Stochastic Bandits with Heavy-Tailed Payoffs.:
+- http://papers.nips.cc/paper/8062-almost-optimal-algorithms-for-linear-stochastic-bandits-with-heavy-tailed-payoffs
+- 2018
+Alternating optimization of decision trees, with application to learning sparse oblique trees.:
+- http://papers.nips.cc/paper/7397-alternating-optimization-of-decision-trees-with-application-to-learning-sparse-oblique-trees
+- 2018
+Amortized Inference Regularization.:
+- http://papers.nips.cc/paper/7692-amortized-inference-regularization
+- 2018
+An Efficient Pruning Algorithm for Robust Isotonic Regression.:
+- http://papers.nips.cc/paper/7306-an-efficient-pruning-algorithm-for-robust-isotonic-regression
+- 2018
+An Improved Analysis of Alternating Minimization for Structured Multi-Response Regression.:
+- http://papers.nips.cc/paper/7896-an-improved-analysis-of-alternating-minimization-for-structured-multi-response-regression
+- 2018
+An Information-Theoretic Analysis for Thompson Sampling with Many Actions.:
+- http://papers.nips.cc/paper/7670-an-information-theoretic-analysis-for-thompson-sampling-with-many-actions
+- 2018
+An Off-policy Policy Gradient Theorem Using Emphatic Weightings.:
+- http://papers.nips.cc/paper/7295-an-off-policy-policy-gradient-theorem-using-emphatic-weightings
+- 2018
+An intriguing failing of convolutional neural networks and the CoordConv solution.:
+- http://papers.nips.cc/paper/8169-an-intriguing-failing-of-convolutional-neural-networks-and-the-coordconv-solution
+- 2018
+Analysis of Krylov Subspace Solutions of Regularized Non-Convex Quadratic Problems.:
+- http://papers.nips.cc/paper/8269-analysis-of-krylov-subspace-solutions-of-regularized-non-convex-quadratic-problems
+- 2018
+Analytic solution and stationary phase approximation for the Bayesian lasso and elastic net.:
+- http://papers.nips.cc/paper/7542-analytic-solution-and-stationary-phase-approximation-for-the-bayesian-lasso-and-elastic-net
+- 2018
+Answerer in Questioner&apos;s Mind - Information Theoretic Approach to Goal-Oriented Visual Dialog.:
+- http://papers.nips.cc/paper/7524-answerer-in-questioners-mind-information-theoretic-approach-to-goal-oriented-visual-dialog
+- 2018
+Approximate Knowledge Compilation by Online Collapsed Importance Sampling.:
+- http://papers.nips.cc/paper/8026-approximate-knowledge-compilation-by-online-collapsed-importance-sampling
+- 2018
+Approximating Real-Time Recurrent Learning with Random Kronecker Factors.:
+- http://papers.nips.cc/paper/7894-approximating-real-time-recurrent-learning-with-random-kronecker-factors
+- 2018
+Approximation algorithms for stochastic clustering.:
+- http://papers.nips.cc/paper/7843-approximation-algorithms-for-stochastic-clustering
+- 2018
+Are GANs Created Equal? A Large-Scale Study.:
+- http://papers.nips.cc/paper/7350-are-gans-created-equal-a-large-scale-study
+- 2018
+Are ResNets Provably Better than Linear Predictors?:
+- http://papers.nips.cc/paper/7332-are-resnets-provably-better-than-linear-predictors
+- 2018
+Assessing Generative Models via Precision and Recall.:
+- http://papers.nips.cc/paper/7769-assessing-generative-models-via-precision-and-recall
+- 2018
+Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures.:
+- http://papers.nips.cc/paper/8148-assessing-the-scalability-of-biologically-motivated-deep-learning-algorithms-and-architectures
+- 2018
+Asymptotic optimality of adaptive importance sampling.:
+- http://papers.nips.cc/paper/7576-asymptotic-optimality-of-adaptive-importance-sampling
+- 2018
+Attacks Meet Interpretability - Attribute-steered Detection of Adversarial Samples.:
+- http://papers.nips.cc/paper/7998-attacks-meet-interpretability-attribute-steered-detection-of-adversarial-samples
+- 2018
+Attention in Convolutional LSTM for Gesture Recognition.:
+- http://papers.nips.cc/paper/7465-attention-in-convolutional-lstm-for-gesture-recognition
+- 2018
+Autoconj - Recognizing and Exploiting Conjugacy Without a Domain-Specific Language.:
+- http://papers.nips.cc/paper/8270-autoconj-recognizing-and-exploiting-conjugacy-without-a-domain-specific-language
+- 2018
+Automatic Program Synthesis of Long Programs with a Learned Garbage Collector.:
+- http://papers.nips.cc/paper/7479-automatic-program-synthesis-of-long-programs-with-a-learned-garbage-collector
+- 2018
+Automatic differentiation in ML - Where we are and where we should be going.:
+- http://papers.nips.cc/paper/8092-automatic-differentiation-in-ml-where-we-are-and-where-we-should-be-going
+- 2018
+Automating Bayesian optimization with Bayesian optimization.:
+- http://papers.nips.cc/paper/7838-automating-bayesian-optimization-with-bayesian-optimization
+- 2018
+BML - A High-performance, Low-cost Gradient Synchronization Algorithm for DML Training.:
+- http://papers.nips.cc/paper/7678-bml-a-high-performance-low-cost-gradient-synchronization-algorithm-for-dml-training
+- 2018
+BRITS - Bidirectional Recurrent Imputation for Time Series.:
+- http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series
+- 2018
+BRUNO - A Deep Recurrent Model for Exchangeable Data.:
+- http://papers.nips.cc/paper/7949-bruno-a-deep-recurrent-model-for-exchangeable-data
+- 2018
+Backpropagation with Callbacks - Foundations for Efficient and Expressive Differentiable Programming.:
+- http://papers.nips.cc/paper/8221-backpropagation-with-callbacks-foundations-for-efficient-and-expressive-differentiable-programming
+- 2018
+Balanced Policy Evaluation and Learning.:
+- http://papers.nips.cc/paper/8105-balanced-policy-evaluation-and-learning
+- 2018
+Banach Wasserstein GAN.:
+- http://papers.nips.cc/paper/7909-banach-wasserstein-gan
+- 2018
+Bandit Learning in Concave N-Person Games.:
+- http://papers.nips.cc/paper/7809-bandit-learning-in-concave-n-person-games
+- 2018
+Bandit Learning with Implicit Feedback.:
+- http://papers.nips.cc/paper/7958-bandit-learning-with-implicit-feedback
+- 2018
+Bandit Learning with Positive Externalities.:
+- http://papers.nips.cc/paper/7740-bandit-learning-with-positive-externalities
+- 2018
+Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks.:
+- http://papers.nips.cc/paper/7522-batch-instance-normalization-for-adaptively-style-invariant-neural-networks
+- 2018
+Bayesian Adversarial Learning.:
+- http://papers.nips.cc/paper/7921-bayesian-adversarial-learning
+- 2018
+Bayesian Alignments of Warped Multi-Output Gaussian Processes.:
+- http://papers.nips.cc/paper/7931-bayesian-alignments-of-warped-multi-output-gaussian-processes
+- 2018
+Bayesian Control of Large MDPs with Unknown Dynamics in Data-Poor Environments.:
+- http://papers.nips.cc/paper/8037-bayesian-control-of-large-mdps-with-unknown-dynamics-in-data-poor-environments
+- 2018
+Bayesian Distributed Stochastic Gradient Descent.:
+- http://papers.nips.cc/paper/7874-bayesian-distributed-stochastic-gradient-descent
+- 2018
+Bayesian Inference of Temporal Task Specifications from Demonstrations.:
+- http://papers.nips.cc/paper/7637-bayesian-inference-of-temporal-task-specifications-from-demonstrations
+- 2018
+Bayesian Model Selection Approach to Boundary Detection with Non-Local Priors.:
+- http://papers.nips.cc/paper/7468-bayesian-model-selection-approach-to-boundary-detection-with-non-local-priors
+- 2018
+Bayesian Model-Agnostic Meta-Learning.:
+- http://papers.nips.cc/paper/7963-bayesian-model-agnostic-meta-learning
+- 2018
+Bayesian Nonparametric Spectral Estimation.:
+- http://papers.nips.cc/paper/8216-bayesian-nonparametric-spectral-estimation
+- 2018
+Bayesian Pose Graph Optimization via Bingham Distributions and Tempered Geodesic MCMC.:
+- http://papers.nips.cc/paper/7314-bayesian-pose-graph-optimization-via-bingham-distributions-and-tempered-geodesic-mcmc
+- 2018
+Bayesian Semi-supervised Learning with Graph Gaussian Processes.:
+- http://papers.nips.cc/paper/7440-bayesian-semi-supervised-learning-with-graph-gaussian-processes
+- 2018
+Bayesian Structure Learning by Recursive Bootstrap.:
+- http://papers.nips.cc/paper/8252-bayesian-structure-learning-by-recursive-bootstrap
+- 2018
+Bayesian multi-domain learning for cancer subtype discovery from next-generation sequencing count data.:
+- http://papers.nips.cc/paper/8125-bayesian-multi-domain-learning-for-cancer-subtype-discovery-from-next-generation-sequencing-count-data
+- 2018
+Beauty-in-averageness and its contextual modulations - A Bayesian statistical account.:
+- http://papers.nips.cc/paper/7663-beauty-in-averageness-and-its-contextual-modulations-a-bayesian-statistical-account
+- 2018
+Benefits of over-parameterization with EM.:
+- http://papers.nips.cc/paper/8265-benefits-of-over-parameterization-with-em
+- 2018
+Beyond Grids - Learning Graph Representations for Visual Recognition.:
+- http://papers.nips.cc/paper/8135-beyond-grids-learning-graph-representations-for-visual-recognition
+- 2018
+? Beyond Log-concavity - Provable Guarantees for Sampling Multi-modal Distributions
+  using Simulated Tempering Langevin Monte Carlo.
+: - http://papers.nips.cc/paper/8010-beyond-log-concavity-provable-guarantees-for-sampling-multi-modal-distributions-using-simulated-tempering-langevin-monte-carlo
+  - 2018
+Bias and Generalization in Deep Generative Models - An Empirical Study.:
+- http://papers.nips.cc/paper/8277-bias-and-generalization-in-deep-generative-models-an-empirical-study
+- 2018
+Bilevel Distance Metric Learning for Robust Image Recognition.:
+- http://papers.nips.cc/paper/7674-bilevel-distance-metric-learning-for-robust-image-recognition
+- 2018
+Bilevel learning of the Group Lasso structure.:
+- http://papers.nips.cc/paper/8051-bilevel-learning-of-the-group-lasso-structure
+- 2018
+Bilinear Attention Networks.:
+- http://papers.nips.cc/paper/7429-bilinear-attention-networks
+- 2018
+BinGAN - Learning Compact Binary Descriptors with a Regularized GAN.:
+- http://papers.nips.cc/paper/7619-bingan-learning-compact-binary-descriptors-with-a-regularized-gan
+- 2018
+Binary Classification from Positive-Confidence Data.:
+- http://papers.nips.cc/paper/7832-binary-classification-from-positive-confidence-data
+- 2018
+Binary Rating Estimation with Graph Side Information.:
+- http://papers.nips.cc/paper/7681-binary-rating-estimation-with-graph-side-information
+- 2018
+Bipartite Stochastic Block Models with Tiny Clusters.:
+- http://papers.nips.cc/paper/7643-bipartite-stochastic-block-models-with-tiny-clusters
+- 2018
+Blind Deconvolutional Phase Retrieval via Convex Programming.:
+- http://papers.nips.cc/paper/8207-blind-deconvolutional-phase-retrieval-via-convex-programming
+- 2018
+Blockwise Parallel Decoding for Deep Autoregressive Models.:
+- http://papers.nips.cc/paper/8212-blockwise-parallel-decoding-for-deep-autoregressive-models
+- 2018
+Boolean Decision Rules via Column Generation.:
+- http://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation
+- 2018
+Boosted Sparse and Low-Rank Tensor Regression.:
+- http://papers.nips.cc/paper/7379-boosted-sparse-and-low-rank-tensor-regression
+- 2018
+Boosting Black Box Variational Inference.:
+- http://papers.nips.cc/paper/7600-boosting-black-box-variational-inference
+- 2018
+Bounded-Loss Private Prediction Markets.:
+- http://papers.nips.cc/paper/8244-bounded-loss-private-prediction-markets
+- 2018
+BourGAN - Generative Networks with Metric Embeddings.:
+- http://papers.nips.cc/paper/7495-bourgan-generative-networks-with-metric-embeddings
+- 2018
+Breaking the Activation Function Bottleneck through Adaptive Parameterization.:
+- http://papers.nips.cc/paper/8000-breaking-the-activation-function-bottleneck-through-adaptive-parameterization
+- 2018
+Breaking the Curse of Horizon - Infinite-Horizon Off-Policy Estimation.:
+- http://papers.nips.cc/paper/7781-breaking-the-curse-of-horizon-infinite-horizon-off-policy-estimation
+- 2018
+Breaking the Span Assumption Yields Fast Finite-Sum Minimization.:
+- http://papers.nips.cc/paper/7499-breaking-the-span-assumption-yields-fast-finite-sum-minimization
+- 2018
+But How Does It Work in Theory? Linear SVM with Random Features.:
+- http://papers.nips.cc/paper/7598-but-how-does-it-work-in-theory-linear-svm-with-random-features
+- 2018
+Byzantine Stochastic Gradient Descent.:
+- http://papers.nips.cc/paper/7712-byzantine-stochastic-gradient-descent
+- 2018
+COLA - Decentralized Linear Learning.:
+- http://papers.nips.cc/paper/7705-cola-decentralized-linear-learning
+- 2018
+Can We Gain More from Orthogonality Regularizations in Training Deep Networks?:
+- http://papers.nips.cc/paper/7680-can-we-gain-more-from-orthogonality-regularizations-in-training-deep-networks
+- 2018
+CapProNet - Deep Feature Learning via Orthogonal Projections onto Capsule Subspaces.:
+- http://papers.nips.cc/paper/7823-cappronet-deep-feature-learning-via-orthogonal-projections-onto-capsule-subspaces
+- 2018
+CatBoost - unbiased boosting with categorical features.:
+- http://papers.nips.cc/paper/7898-catboost-unbiased-boosting-with-categorical-features
+- 2018
+Causal Discovery from Discrete Data using Hidden Compact Representation.:
+- http://papers.nips.cc/paper/7532-causal-discovery-from-discrete-data-using-hidden-compact-representation
+- 2018
+Causal Inference and Mechanism Clustering of A Mixture of Additive Noise Models.:
+- http://papers.nips.cc/paper/7767-causal-inference-and-mechanism-clustering-of-a-mixture-of-additive-noise-models
+- 2018
+Causal Inference via Kernel Deviance Measures.:
+- http://papers.nips.cc/paper/7930-causal-inference-via-kernel-deviance-measures
+- 2018
+Causal Inference with Noisy and Missing Covariates via Matrix Factorization.:
+- http://papers.nips.cc/paper/7924-causal-inference-with-noisy-and-missing-covariates-via-matrix-factorization
+- 2018
+Chain of Reasoning for Visual Question Answering.:
+- http://papers.nips.cc/paper/7311-chain-of-reasoning-for-visual-question-answering
+- 2018
+Chaining Mutual Information and Tightening Generalization Bounds.:
+- http://papers.nips.cc/paper/7954-chaining-mutual-information-and-tightening-generalization-bounds
+- 2018
+ChannelNets - Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions.:
+- http://papers.nips.cc/paper/7766-channelnets-compact-and-efficient-convolutional-neural-networks-via-channel-wise-convolutions
+- 2018
+Clebsch-Gordan Nets - a Fully Fourier Space Spherical Convolutional Neural Network.:
+- http://papers.nips.cc/paper/8215-clebschgordan-nets-a-fully-fourier-space-spherical-convolutional-neural-network
+- 2018
+Cluster Variational Approximations for Structure Learning of Continuous-Time Bayesian Networks from Incomplete Data.:
+- http://papers.nips.cc/paper/8013-cluster-variational-approximations-for-structure-learning-of-continuous-time-bayesian-networks-from-incomplete-data
+- 2018
+Clustering Redemption-Beyond the Impossibility of Kleinberg&apos;s Axioms.:
+- http://papers.nips.cc/paper/8071-clustering-redemptionbeyond-the-impossibility-of-kleinbergs-axioms
+- 2018
+Co-regularized Alignment for Unsupervised Domain Adaptation.:
+- http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation
+- 2018
+Co-teaching - Robust training of deep neural networks with extremely noisy labels.:
+- http://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels
+- 2018
+Collaborative Learning for Deep Neural Networks.:
+- http://papers.nips.cc/paper/7454-collaborative-learning-for-deep-neural-networks
+- 2018
+Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search.:
+- http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search
+- 2018
+Communication Compression for Decentralized Training.:
+- http://papers.nips.cc/paper/7992-communication-compression-for-decentralized-training
+- 2018
+Communication Efficient Parallel Algorithms for Optimization on Manifolds.:
+- http://papers.nips.cc/paper/7616-communication-efficient-parallel-algorithms-for-optimization-on-manifolds
+- 2018
+Community Exploration - From Offline Optimization to Online Learning.:
+- http://papers.nips.cc/paper/7792-community-exploration-from-offline-optimization-to-online-learning
+- 2018
+Compact Generalized Non-local Network.:
+- http://papers.nips.cc/paper/7886-compact-generalized-non-local-network
+- 2018
+Compact Representation of Uncertainty in Clustering.:
+- http://papers.nips.cc/paper/8081-compact-representation-of-uncertainty-in-clustering
+- 2018
+Completing State Representations using Spectral Learning.:
+- http://papers.nips.cc/paper/7686-completing-state-representations-using-spectral-learning
+- 2018
+Complex Gated Recurrent Neural Networks.:
+- http://papers.nips.cc/paper/8253-complex-gated-recurrent-neural-networks
+- 2018
+Computationally and statistically efficient learning of causal Bayes nets using path queries.:
+- http://papers.nips.cc/paper/8290-computationally-and-statistically-efficient-learning-of-causal-bayes-nets-using-path-queries
+- 2018
+Computing Higher Order Derivatives of Matrix and Tensor Expressions.:
+- http://papers.nips.cc/paper/7540-computing-higher-order-derivatives-of-matrix-and-tensor-expressions
+- 2018
+Computing Kantorovich-Wasserstein Distances on d-dimensional histograms using (d+1)-partite graphs.:
+- http://papers.nips.cc/paper/7821-computing-kantorovich-wasserstein-distances-on-d-dimensional-histograms-using-d1-partite-graphs
+- 2018
+Conditional Adversarial Domain Adaptation.:
+- http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation
+- 2018
+Confounding-Robust Policy Improvement.:
+- http://papers.nips.cc/paper/8139-confounding-robust-policy-improvement
+- 2018
+Connecting Optimization and Regularization Paths.:
+- http://papers.nips.cc/paper/8260-connecting-optimization-and-regularization-paths
+- 2018
+Connectionist Temporal Classification with Maximum Entropy Regularization.:
+- http://papers.nips.cc/paper/7363-connectionist-temporal-classification-with-maximum-entropy-regularization
+- 2018
+Constant Regret, Generalized Mixability, and Mirror Descent.:
+- http://papers.nips.cc/paper/7971-constant-regret-generalized-mixability-and-mirror-descent
+- 2018
+Constrained Cross-Entropy Method for Safe Reinforcement Learning.:
+- http://papers.nips.cc/paper/7974-constrained-cross-entropy-method-for-safe-reinforcement-learning
+- 2018
+Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders.:
+- http://papers.nips.cc/paper/7942-constrained-generation-of-semantically-valid-graphs-via-regularizing-variational-autoencoders
+- 2018
+Constrained Graph Variational Autoencoders for Molecule Design.:
+- http://papers.nips.cc/paper/8005-constrained-graph-variational-autoencoders-for-molecule-design
+- 2018
+Constructing Deep Neural Networks by Bayesian Network Structure Learning.:
+- http://papers.nips.cc/paper/7568-constructing-deep-neural-networks-by-bayesian-network-structure-learning
+- 2018
+Constructing Fast Network through Deconstruction of Convolution.:
+- http://papers.nips.cc/paper/7835-constructing-fast-network-through-deconstruction-of-convolution
+- 2018
+Constructing Unrestricted Adversarial Examples with Generative Models.:
+- http://papers.nips.cc/paper/8052-constructing-unrestricted-adversarial-examples-with-generative-models
+- 2018
+Contamination Attacks and Mitigation in Multi-Party Machine Learning.:
+- http://papers.nips.cc/paper/7895-contamination-attacks-and-mitigation-in-multi-party-machine-learning
+- 2018
+Content preserving text generation with attribute controls.:
+- http://papers.nips.cc/paper/7757-content-preserving-text-generation-with-attribute-controls
+- 2018
+Context-aware Synthesis and Placement of Object Instances.:
+- http://papers.nips.cc/paper/8240-context-aware-synthesis-and-placement-of-object-instances
+- 2018
+Context-dependent upper-confidence bounds for directed exploration.:
+- http://papers.nips.cc/paper/7727-context-dependent-upper-confidence-bounds-for-directed-exploration
+- 2018
+Contextual Combinatorial Multi-armed Bandits with Volatile Arms and Submodular Reward.:
+- http://papers.nips.cc/paper/7586-contextual-combinatorial-multi-armed-bandits-with-volatile-arms-and-submodular-reward
+- 2018
+Contextual Pricing for Lipschitz Buyers.:
+- http://papers.nips.cc/paper/7807-contextual-pricing-for-lipschitz-buyers
+- 2018
+Contextual Stochastic Block Models.:
+- http://papers.nips.cc/paper/8077-contextual-stochastic-block-models
+- 2018
+Contextual bandits with surrogate losses - Margin bounds and efficient algorithms.:
+- http://papers.nips.cc/paper/7528-contextual-bandits-with-surrogate-losses-margin-bounds-and-efficient-algorithms
+- 2018
+Continuous-time Value Function Approximation in Reproducing Kernel Hilbert Spaces.:
+- http://papers.nips.cc/paper/7546-continuous-time-value-function-approximation-in-reproducing-kernel-hilbert-spaces
+- 2018
+Contour location via entropy reduction leveraging multiple information sources.:
+- http://papers.nips.cc/paper/7768-contour-location-via-entropy-reduction-leveraging-multiple-information-sources
+- 2018
+Contrastive Learning from Pairwise Measurements.:
+- http://papers.nips.cc/paper/8288-contrastive-learning-from-pairwise-measurements
+- 2018
+Convergence of Cubic Regularization for Nonconvex Optimization under KL Property.:
+- http://papers.nips.cc/paper/7633-convergence-of-cubic-regularization-for-nonconvex-optimization-under-kl-property
+- 2018
+Convex Elicitation of Continuous Properties.:
+- http://papers.nips.cc/paper/8241-convex-elicitation-of-continuous-properties
+- 2018
+Cooperative Holistic Scene Understanding - Unifying 3D Object, Layout, and Camera Pose Estimation.:
+- http://papers.nips.cc/paper/7305-cooperative-holistic-scene-understanding-unifying-3d-object-layout-and-camera-pose-estimation
+- 2018
+Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization.:
+- http://papers.nips.cc/paper/8002-cooperative-learning-of-audio-and-video-models-from-self-supervised-synchronization
+- 2018
+Cooperative neural networks (CoNN) - Exploiting prior independence structure for improved classification.:
+- http://papers.nips.cc/paper/7667-cooperative-neural-networks-conn-exploiting-prior-independence-structure-for-improved-classification
+- 2018
+Coordinate Descent with Bandit Sampling.:
+- http://papers.nips.cc/paper/8137-coordinate-descent-with-bandit-sampling
+- 2018
+Coupled Variational Bayes via Optimization Embedding.:
+- http://papers.nips.cc/paper/8177-coupled-variational-bayes-via-optimization-embedding
+- 2018
+Credit Assignment For Collective Multiagent RL With Global Rewards.:
+- http://papers.nips.cc/paper/8033-credit-assignment-for-collective-multiagent-rl-with-global-rewards
+- 2018
+Critical initialisation for deep signal propagation in noisy rectifier neural networks.:
+- http://papers.nips.cc/paper/7814-critical-initialisation-for-deep-signal-propagation-in-noisy-rectifier-neural-networks
+- 2018
+DAGs with NO TEARS - Continuous Optimization for Structure Learning.:
+- http://papers.nips.cc/paper/8157-dags-with-no-tears-continuous-optimization-for-structure-learning
+- 2018
+DVAE# - Discrete Variational Autoencoders with Relaxed Boltzmann Priors.:
+- http://papers.nips.cc/paper/7457-dvae-discrete-variational-autoencoders-with-relaxed-boltzmann-priors
+- 2018
+Data Amplification - A Unified and Competitive Approach to Property Estimation.:
+- http://papers.nips.cc/paper/8099-data-amplification-a-unified-and-competitive-approach-to-property-estimation
+- 2018
+Data center cooling using model-predictive control.:
+- http://papers.nips.cc/paper/7638-data-center-cooling-using-model-predictive-control
+- 2018
+Data-Driven Clustering via Parameterized Lloyd&apos;s Families.:
+- http://papers.nips.cc/paper/8263-data-driven-clustering-via-parameterized-lloyds-families
+- 2018
+Data-Efficient Hierarchical Reinforcement Learning.:
+- http://papers.nips.cc/paper/7591-data-efficient-hierarchical-reinforcement-learning
+- 2018
+Data-dependent PAC-Bayes priors via differential privacy.:
+- http://papers.nips.cc/paper/8063-data-dependent-pac-bayes-priors-via-differential-privacy
+- 2018
+Decentralize and Randomize - Faster Algorithm for Wasserstein Barycenters.:
+- http://papers.nips.cc/paper/8274-decentralize-and-randomize-faster-algorithm-for-wasserstein-barycenters
+- 2018
+Deep Anomaly Detection Using Geometric Transformations.:
+- http://papers.nips.cc/paper/8183-deep-anomaly-detection-using-geometric-transformations
+- 2018
+Deep Attentive Tracking via Reciprocative Learning.:
+- http://papers.nips.cc/paper/7463-deep-attentive-tracking-via-reciprocative-learning
+- 2018
+Deep Defense - Training DNNs with Improved Adversarial Robustness.:
+- http://papers.nips.cc/paper/7324-deep-defense-training-dnns-with-improved-adversarial-robustness
+- 2018
+Deep Dynamical Modeling and Control of Unsteady Fluid Flows.:
+- http://papers.nips.cc/paper/8138-deep-dynamical-modeling-and-control-of-unsteady-fluid-flows
+- 2018
+Deep Functional Dictionaries - Learning Consistent Semantic Structures on 3D Models from Functions.:
+- http://papers.nips.cc/paper/7330-deep-functional-dictionaries-learning-consistent-semantic-structures-on-3d-models-from-functions
+- 2018
+Deep Generative Markov State Models.:
+- http://papers.nips.cc/paper/7653-deep-generative-markov-state-models
+- 2018
+Deep Generative Models for Distribution-Preserving Lossy Compression.:
+- http://papers.nips.cc/paper/7833-deep-generative-models-for-distribution-preserving-lossy-compression
+- 2018
+Deep Generative Models with Learnable Knowledge Constraints.:
+- http://papers.nips.cc/paper/8250-deep-generative-models-with-learnable-knowledge-constraints
+- 2018
+Deep Homogeneous Mixture Models - Representation, Separation, and Approximation.:
+- http://papers.nips.cc/paper/7944-deep-homogeneous-mixture-models-representation-separation-and-approximation
+- 2018
+Deep Network for the Integrated 3D Sensing of Multiple People in Natural Images.:
+- http://papers.nips.cc/paper/8061-deep-network-for-the-integrated-3d-sensing-of-multiple-people-in-natural-images
+- 2018
+Deep Neural Nets with Interpolating Function as Output Activation.:
+- http://papers.nips.cc/paper/7355-deep-neural-nets-with-interpolating-function-as-output-activation
+- 2018
+Deep Neural Networks with Box Convolutions.:
+- http://papers.nips.cc/paper/7859-deep-neural-networks-with-box-convolutions
+- 2018
+Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation.:
+- http://papers.nips.cc/paper/7313-deep-non-blind-deconvolution-via-generalized-low-rank-approximation
+- 2018
+Deep Poisson gamma dynamical systems.:
+- http://papers.nips.cc/paper/8064-deep-poisson-gamma-dynamical-systems
+- 2018
+Deep Predictive Coding Network with Local Recurrent Processing for Object Recognition.:
+- http://papers.nips.cc/paper/8133-deep-predictive-coding-network-with-local-recurrent-processing-for-object-recognition
+- 2018
+Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models.:
+- http://papers.nips.cc/paper/7725-deep-reinforcement-learning-in-a-handful-of-trials-using-probabilistic-dynamics-models
+- 2018
+Deep Reinforcement Learning of Marked Temporal Point Processes.:
+- http://papers.nips.cc/paper/7579-deep-reinforcement-learning-of-marked-temporal-point-processes
+- 2018
+Deep State Space Models for Time Series Forecasting.:
+- http://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting
+- 2018
+Deep State Space Models for Unconditional Word Generation.:
+- http://papers.nips.cc/paper/7854-deep-state-space-models-for-unconditional-word-generation
+- 2018
+Deep Structured Prediction with Nonlinear Output Transformations.:
+- http://papers.nips.cc/paper/7869-deep-structured-prediction-with-nonlinear-output-transformations
+- 2018
+Deep, complex, invertible networks for inversion of transmission effects in multimode optical fibres.:
+- http://papers.nips.cc/paper/7589-deep-complex-invertible-networks-for-inversion-of-transmission-effects-in-multimode-optical-fibres
+- 2018
+DeepExposure - Learning to Expose Photos with Asynchronously Reinforced Adversarial Learning.:
+- http://papers.nips.cc/paper/7484-deepexposure-learning-to-expose-photos-with-asynchronously-reinforced-adversarial-learning
+- 2018
+DeepPINK - reproducible feature selection in deep neural networks.:
+- http://papers.nips.cc/paper/8085-deeppink-reproducible-feature-selection-in-deep-neural-networks
+- 2018
+DeepProbLog - Neural Probabilistic Logic Programming.:
+- http://papers.nips.cc/paper/7632-deepproblog-neural-probabilistic-logic-programming
+- 2018
+Deepcode - Feedback Codes via Deep Learning.:
+- http://papers.nips.cc/paper/8154-deepcode-feedback-codes-via-deep-learning
+- 2018
+Delta-encoder - an effective sample synthesis method for few-shot object recognition.:
+- http://papers.nips.cc/paper/7549-delta-encoder-an-effective-sample-synthesis-method-for-few-shot-object-recognition
+- 2018
+Demystifying excessively volatile human learning - A Bayesian persistent prior and a neural approximation.:
+- http://papers.nips.cc/paper/7543-demystifying-excessively-volatile-human-learning-a-bayesian-persistent-prior-and-a-neural-approximation
+- 2018
+Dendritic cortical microcircuits approximate the backpropagation algorithm.:
+- http://papers.nips.cc/paper/8089-dendritic-cortical-microcircuits-approximate-the-backpropagation-algorithm
+- 2018
+Densely Connected Attention Propagation for Reading Comprehension.:
+- http://papers.nips.cc/paper/7739-densely-connected-attention-propagation-for-reading-comprehension
+- 2018
+Depth-Limited Solving for Imperfect-Information Games.:
+- http://papers.nips.cc/paper/7993-depth-limited-solving-for-imperfect-information-games
+- 2018
+Derivative Estimation in Random Design.:
+- http://papers.nips.cc/paper/7604-derivative-estimation-in-random-design
+- 2018
+Designing by Training - Acceleration Neural Network for Fast High-Dimensional Convolution.:
+- http://papers.nips.cc/paper/7420-designing-by-training-acceleration-neural-network-for-fast-high-dimensional-convolution
+- 2018
+Dialog-based Interactive Image Retrieval.:
+- http://papers.nips.cc/paper/7348-dialog-based-interactive-image-retrieval
+- 2018
+Dialog-to-Action - Conversational Question Answering Over a Large-Scale Knowledge Base.:
+- http://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base
+- 2018
+DifNet - Semantic Segmentation by Diffusion Networks.:
+- http://papers.nips.cc/paper/7435-difnet-semantic-segmentation-by-diffusion-networks
+- 2018
+Differentiable MPC for End-to-end Planning and Control.:
+- http://papers.nips.cc/paper/8050-differentiable-mpc-for-end-to-end-planning-and-control
+- 2018
+Differential Privacy for Growing Databases.:
+- http://papers.nips.cc/paper/8102-differential-privacy-for-growing-databases
+- 2018
+Differential Properties of Sinkhorn Approximation for Learning with Wasserstein Distance.:
+- http://papers.nips.cc/paper/7827-differential-properties-of-sinkhorn-approximation-for-learning-with-wasserstein-distance
+- 2018
+Differentially Private Bayesian Inference for Exponential Families.:
+- http://papers.nips.cc/paper/7556-differentially-private-bayesian-inference-for-exponential-families
+- 2018
+Differentially Private Change-Point Detection.:
+- http://papers.nips.cc/paper/8280-differentially-private-change-point-detection
+- 2018
+Differentially Private Contextual Linear Bandits.:
+- http://papers.nips.cc/paper/7683-differentially-private-contextual-linear-bandits
+- 2018
+Differentially Private Robust Low-Rank Approximation.:
+- http://papers.nips.cc/paper/7668-differentially-private-robust-low-rank-approximation
+- 2018
+Differentially Private Testing of Identity and Closeness of Discrete Distributions.:
+- http://papers.nips.cc/paper/7920-differentially-private-testing-of-identity-and-closeness-of-discrete-distributions
+- 2018
+Differentially Private Uniformly Most Powerful Tests for Binomial Data.:
+- http://papers.nips.cc/paper/7675-differentially-private-uniformly-most-powerful-tests-for-binomial-data
+- 2018
+Differentially Private k-Means with Constant Multiplicative Error.:
+- http://papers.nips.cc/paper/7788-differentially-private-k-means-with-constant-multiplicative-error
+- 2018
+Diffusion Maps for Textual Network Embedding.:
+- http://papers.nips.cc/paper/7986-diffusion-maps-for-textual-network-embedding
+- 2018
+Dimensionality Reduction for Stationary Time Series via Stochastic Nonconvex Optimization.:
+- http://papers.nips.cc/paper/7609-dimensionality-reduction-for-stationary-time-series-via-stochastic-nonconvex-optimization
+- 2018
+Dimensionality Reduction has Quantifiable Imperfections - Two Geometric Bounds.:
+- http://papers.nips.cc/paper/8065-dimensionality-reduction-has-quantifiable-imperfections-two-geometric-bounds
+- 2018
+Dimensionally Tight Bounds for Second-Order Hamiltonian Monte Carlo.:
+- http://papers.nips.cc/paper/7842-dimensionally-tight-bounds-for-second-order-hamiltonian-monte-carlo
+- 2018
+Diminishing Returns Shape Constraints for Interpretability and Regularization.:
+- http://papers.nips.cc/paper/7916-diminishing-returns-shape-constraints-for-interpretability-and-regularization
+- 2018
+Direct Estimation of Differences in Causal Graphs.:
+- http://papers.nips.cc/paper/7634-direct-estimation-of-differences-in-causal-graphs
+- 2018
+Direct Runge-Kutta Discretization Achieves Acceleration.:
+- http://papers.nips.cc/paper/7646-direct-runge-kutta-discretization-achieves-acceleration
+- 2018
+Dirichlet belief networks for topic structure learning.:
+- http://papers.nips.cc/paper/8020-dirichlet-belief-networks-for-topic-structure-learning
+- 2018
+Dirichlet-based Gaussian Processes for Large-scale Calibrated Classification.:
+- http://papers.nips.cc/paper/7840-dirichlet-based-gaussian-processes-for-large-scale-calibrated-classification
+- 2018
+Disconnected Manifold Learning for Generative Adversarial Networks.:
+- http://papers.nips.cc/paper/7964-disconnected-manifold-learning-for-generative-adversarial-networks
+- 2018
+Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning.:
+- http://papers.nips.cc/paper/7476-discovery-of-latent-3d-keypoints-via-end-to-end-geometric-reasoning
+- 2018
+Discretely Relaxing Continuous Variables for tractable Variational Inference.:
+- http://papers.nips.cc/paper/8247-discretely-relaxing-continuous-variables-for-tractable-variational-inference
+- 2018
+Discrimination-aware Channel Pruning for Deep Neural Networks.:
+- http://papers.nips.cc/paper/7367-discrimination-aware-channel-pruning-for-deep-neural-networks
+- 2018
+Distilled Wasserstein Learning for Word Embedding and Topic Modeling.:
+- http://papers.nips.cc/paper/7443-distilled-wasserstein-learning-for-word-embedding-and-topic-modeling
+- 2018
+Distributed Learning without Distress - Privacy-Preserving Empirical Risk Minimization.:
+- http://papers.nips.cc/paper/7871-distributed-learning-without-distress-privacy-preserving-empirical-risk-minimization
+- 2018
+Distributed Multi-Player Bandits - a Game of Thrones Approach.:
+- http://papers.nips.cc/paper/7952-distributed-multi-player-bandits-a-game-of-thrones-approach
+- 2018
+Distributed Multitask Reinforcement Learning with Quadratic Convergence.:
+- http://papers.nips.cc/paper/8106-distributed-multitask-reinforcement-learning-with-quadratic-convergence
+- 2018
+Distributed Stochastic Optimization via Adaptive SGD.:
+- http://papers.nips.cc/paper/7461-distributed-stochastic-optimization-via-adaptive-sgd
+- 2018
+Distributed Weight Consolidation - A Brain Segmentation Case Study.:
+- http://papers.nips.cc/paper/7664-distributed-weight-consolidation-a-brain-segmentation-case-study
+- 2018
+Distributed k-Clustering for Data with Heavy Noise.:
+- http://papers.nips.cc/paper/8009-distributed-k-clustering-for-data-with-heavy-noise
+- 2018
+Distributionally Robust Graphical Models.:
+- http://papers.nips.cc/paper/8055-distributionally-robust-graphical-models
+- 2018
+Diverse Ensemble Evolution - Curriculum Data-Model Marriage.:
+- http://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage
+- 2018
+Diversity-Driven Exploration Strategy for Deep Reinforcement Learning.:
+- http://papers.nips.cc/paper/8249-diversity-driven-exploration-strategy-for-deep-reinforcement-learning
+- 2018
+Do Less, Get More - Streaming Submodular Maximization with Subsampling.:
+- http://papers.nips.cc/paper/7353-do-less-get-more-streaming-submodular-maximization-with-subsampling
+- 2018
+Does mitigating ML&apos;s impact disparity require treatment disparity?:
+- http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity
+- 2018
+Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions.:
+- http://papers.nips.cc/paper/8282-domain-adaptation-by-using-causal-inference-to-predict-invariant-conditional-distributions
+- 2018
+Domain-Invariant Projection Learning for Zero-Shot Recognition.:
+- http://papers.nips.cc/paper/7380-domain-invariant-projection-learning-for-zero-shot-recognition
+- 2018
+Doubly Robust Bayesian Inference for Non-Stationary Streaming Data with \beta-Divergences.:
+- http://papers.nips.cc/paper/7292-doubly-robust-bayesian-inference-for-non-stationary-streaming-data-with-beta-divergences
+- 2018
+DropBlock - A regularization method for convolutional networks.:
+- http://papers.nips.cc/paper/8271-dropblock-a-regularization-method-for-convolutional-networks
+- 2018
+DropMax - Adaptive Variational Softmax.:
+- http://papers.nips.cc/paper/7371-dropmax-adaptive-variational-softmax
+- 2018
+Dropping Symmetry for Fast Symmetric Nonnegative Matrix Factorization.:
+- http://papers.nips.cc/paper/7762-dropping-symmetry-for-fast-symmetric-nonnegative-matrix-factorization
+- 2018
+Dual Policy Iteration.:
+- http://papers.nips.cc/paper/7937-dual-policy-iteration
+- 2018
+Dual Principal Component Pursuit - Improved Analysis and Efficient Algorithms.:
+- http://papers.nips.cc/paper/7486-dual-principal-component-pursuit-improved-analysis-and-efficient-algorithms
+- 2018
+Dual Swap Disentangling.:
+- http://papers.nips.cc/paper/7830-dual-swap-disentangling
+- 2018
+Dynamic Network Model from Partial Observations.:
+- http://papers.nips.cc/paper/8192-dynamic-network-model-from-partial-observations
+- 2018
+Early Stopping for Nonparametric Testing.:
+- http://papers.nips.cc/paper/7654-early-stopping-for-nonparametric-testing
+- 2018
+Efficient Algorithms for Non-convex Isotonic Regression through Submodular Optimization.:
+- http://papers.nips.cc/paper/7286-efficient-algorithms-for-non-convex-isotonic-regression-through-submodular-optimization
+- 2018
+Efficient Anomaly Detection via Matrix Sketching.:
+- http://papers.nips.cc/paper/8030-efficient-anomaly-detection-via-matrix-sketching
+- 2018
+Efficient Convex Completion of Coupled Tensors using Coupled Nuclear Norms.:
+- http://papers.nips.cc/paper/7922-efficient-convex-completion-of-coupled-tensors-using-coupled-nuclear-norms
+- 2018
+Efficient Formal Safety Analysis of Neural Networks.:
+- http://papers.nips.cc/paper/7873-efficient-formal-safety-analysis-of-neural-networks
+- 2018
+Efficient Gradient Computation for Structured Output Learning with Rational and Tropical Losses.:
+- http://papers.nips.cc/paper/7914-efficient-gradient-computation-for-structured-output-learning-with-rational-and-tropical-losses
+- 2018
+Efficient High Dimensional Bayesian Optimization with Additivity and Quadrature Fourier Features.:
+- http://papers.nips.cc/paper/8115-efficient-high-dimensional-bayesian-optimization-with-additivity-and-quadrature-fourier-features
+- 2018
+Efficient Loss-Based Decoding on Graphs for Extreme Classification.:
+- http://papers.nips.cc/paper/7953-efficient-loss-based-decoding-on-graphs-for-extreme-classification
+- 2018
+Efficient Neural Network Robustness Certification with General Activation Functions.:
+- http://papers.nips.cc/paper/7742-efficient-neural-network-robustness-certification-with-general-activation-functions
+- 2018
+Efficient Online Portfolio with Logarithmic Regret.:
+- http://papers.nips.cc/paper/8045-efficient-online-portfolio-with-logarithmic-regret
+- 2018
+Efficient Projection onto the Perfect Phylogeny Model.:
+- http://papers.nips.cc/paper/7665-efficient-projection-onto-the-perfect-phylogeny-model
+- 2018
+Efficient Stochastic Gradient Hard Thresholding.:
+- http://papers.nips.cc/paper/7469-efficient-stochastic-gradient-hard-thresholding
+- 2018
+Efficient inference for time-varying behavior during learning.:
+- http://papers.nips.cc/paper/7812-efficient-inference-for-time-varying-behavior-during-learning
+- 2018
+Efficient nonmyopic batch active search.:
+- http://papers.nips.cc/paper/7387-efficient-nonmyopic-batch-active-search
+- 2018
+Efficient online algorithms for fast-rate regret bounds under sparsity.:
+- http://papers.nips.cc/paper/7934-efficient-online-algorithms-for-fast-rate-regret-bounds-under-sparsity
+- 2018
+Embedding Logical Queries on Knowledge Graphs.:
+- http://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs
+- 2018
+Empirical Risk Minimization Under Fairness Constraints.:
+- http://papers.nips.cc/paper/7544-empirical-risk-minimization-under-fairness-constraints
+- 2018
+Empirical Risk Minimization in Non-interactive Local Differential Privacy Revisited.:
+- http://papers.nips.cc/paper/7375-empirical-risk-minimization-in-non-interactive-local-differential-privacy-revisited
+- 2018
+End-to-End Differentiable Physics for Learning and Control.:
+- http://papers.nips.cc/paper/7948-end-to-end-differentiable-physics-for-learning-and-control
+- 2018
+End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems.:
+- http://papers.nips.cc/paper/7696-end-to-end-symmetry-preserving-inter-atomic-potential-energy-model-for-finite-and-extended-systems
+- 2018
+Enhancing the Accuracy and Fairness of Human Decision Making.:
+- http://papers.nips.cc/paper/7448-enhancing-the-accuracy-and-fairness-of-human-decision-making
+- 2018
+Entropy Rate Estimation for Markov Chains with Large State Space.:
+- http://papers.nips.cc/paper/8185-entropy-rate-estimation-for-markov-chains-with-large-state-space
+- 2018
+Entropy and mutual information in models of deep neural networks.:
+- http://papers.nips.cc/paper/7453-entropy-and-mutual-information-in-models-of-deep-neural-networks
+- 2018
+Equality of Opportunity in Classification - A Causal Approach.:
+- http://papers.nips.cc/paper/7625-equality-of-opportunity-in-classification-a-causal-approach
+- 2018
+Escaping Saddle Points in Constrained Optimization.:
+- http://papers.nips.cc/paper/7621-escaping-saddle-points-in-constrained-optimization
+- 2018
+Estimating Learnability in the Sublinear Data Regime.:
+- http://papers.nips.cc/paper/7790-estimating-learnability-in-the-sublinear-data-regime
+- 2018
+Estimators for Multivariate Information Measures in General Probability Spaces.:
+- http://papers.nips.cc/paper/8084-estimators-for-multivariate-information-measures-in-general-probability-spaces
+- 2018
+Evidential Deep Learning to Quantify Classification Uncertainty.:
+- http://papers.nips.cc/paper/7580-evidential-deep-learning-to-quantify-classification-uncertainty
+- 2018
+Evolution-Guided Policy Gradient in Reinforcement Learning.:
+- http://papers.nips.cc/paper/7395-evolution-guided-policy-gradient-in-reinforcement-learning
+- 2018
+Evolutionary Stochastic Gradient Descent for Optimization of Deep Neural Networks.:
+- http://papers.nips.cc/paper/7844-evolutionary-stochastic-gradient-descent-for-optimization-of-deep-neural-networks
+- 2018
+Evolved Policy Gradients.:
+- http://papers.nips.cc/paper/7785-evolved-policy-gradients
+- 2018
+Ex ante coordination and collusion in zero-sum multi-player extensive-form games.:
+- http://papers.nips.cc/paper/8172-ex-ante-coordination-and-collusion-in-zero-sum-multi-player-extensive-form-games
+- 2018
+Exact natural gradient in deep linear networks and its application to the nonlinear case.:
+- http://papers.nips.cc/paper/7834-exact-natural-gradient-in-deep-linear-networks-and-its-application-to-the-nonlinear-case
+- 2018
+Expanding Holographic Embeddings for Knowledge Completion.:
+- http://papers.nips.cc/paper/7701-expanding-holographic-embeddings-for-knowledge-completion
+- 2018
+Experimental Design for Cost-Aware Learning of Causal Graphs.:
+- http://papers.nips.cc/paper/7774-experimental-design-for-cost-aware-learning-of-causal-graphs
+- 2018
+Explaining Deep Learning Models - A Bayesian Non-parametric Approach.:
+- http://papers.nips.cc/paper/7703-explaining-deep-learning-models-a-bayesian-non-parametric-approach
+- 2018
+Explanations based on the Missing - Towards Contrastive Explanations with Pertinent Negatives.:
+- http://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives
+- 2018
+Exploiting Numerical Sparsity for Efficient Learning - Faster Eigenvector Computation and Regression.:
+- http://papers.nips.cc/paper/7773-exploiting-numerical-sparsity-for-efficient-learning-faster-eigenvector-computation-and-regression
+- 2018
+Exploration in Structured Reinforcement Learning.:
+- http://papers.nips.cc/paper/8103-exploration-in-structured-reinforcement-learning
+- 2018
+Exponentially Weighted Imitation Learning for Batched Historical Data.:
+- http://papers.nips.cc/paper/7866-exponentially-weighted-imitation-learning-for-batched-historical-data
+- 2018
+Exponentiated Strongly Rayleigh Distributions.:
+- http://papers.nips.cc/paper/7698-exponentiated-strongly-rayleigh-distributions
+- 2018
+Extracting Relationships by Multi-Domain Matching.:
+- http://papers.nips.cc/paper/7913-extracting-relationships-by-multi-domain-matching
+- 2018
+FD-GAN - Pose-guided Feature Distilling GAN for Robust Person Re-identification.:
+- http://papers.nips.cc/paper/7398-fd-gan-pose-guided-feature-distilling-gan-for-robust-person-re-identification
+- 2018
+FRAGE - Frequency-Agnostic Word Representation.:
+- http://papers.nips.cc/paper/7408-frage-frequency-agnostic-word-representation
+- 2018
+Factored Bandits.:
+- http://papers.nips.cc/paper/7548-factored-bandits
+- 2018
+Fairness Behind a Veil of Ignorance - A Welfare Analysis for Automated Decision Making.:
+- http://papers.nips.cc/paper/7402-fairness-behind-a-veil-of-ignorance-a-welfare-analysis-for-automated-decision-making
+- 2018
+Fairness Through Computationally-Bounded Awareness.:
+- http://papers.nips.cc/paper/7733-fairness-through-computationally-bounded-awareness
+- 2018
+Faithful Inversion of Generative Models for Effective Amortized Inference.:
+- http://papers.nips.cc/paper/7570-faithful-inversion-of-generative-models-for-effective-amortized-inference
+- 2018
+Fast Approximate Natural Gradient Descent in a Kronecker Factored Eigenbasis.:
+- http://papers.nips.cc/paper/8164-fast-approximate-natural-gradient-descent-in-a-kronecker-factored-eigenbasis
+- 2018
+Fast Estimation of Causal Interactions using Wold Processes.:
+- http://papers.nips.cc/paper/7561-fast-estimation-of-causal-interactions-using-wold-processes
+- 2018
+Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity.:
+- http://papers.nips.cc/paper/7805-fast-greedy-map-inference-for-determinantal-point-process-to-improve-recommendation-diversity
+- 2018
+Fast Rates of ERM and Stochastic Approximation - Adaptive to Error Bound Conditions.:
+- http://papers.nips.cc/paper/7718-fast-rates-of-erm-and-stochastic-approximation-adaptive-to-error-bound-conditions
+- 2018
+Fast Similarity Search via Optimal Sparse Lifting.:
+- http://papers.nips.cc/paper/7302-fast-similarity-search-via-optimal-sparse-lifting
+- 2018
+Fast and Effective Robustness Certification.:
+- http://papers.nips.cc/paper/8278-fast-and-effective-robustness-certification
+- 2018
+Fast deep reinforcement learning using online adjustments from the past.:
+- http://papers.nips.cc/paper/8256-fast-deep-reinforcement-learning-using-online-adjustments-from-the-past
+- 2018
+Fast greedy algorithms for dictionary selection with generalized sparsity constraints.:
+- http://papers.nips.cc/paper/7724-fast-greedy-algorithms-for-dictionary-selection-with-generalized-sparsity-constraints
+- 2018
+FastGRNN - A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network.:
+- http://papers.nips.cc/paper/8116-fastgrnn-a-fast-accurate-stable-and-tiny-kilobyte-sized-gated-recurrent-neural-network
+- 2018
+Faster Neural Networks Straight from JPEG.:
+- http://papers.nips.cc/paper/7649-faster-neural-networks-straight-from-jpeg
+- 2018
+Faster Online Learning of Optimal Threshold for Consistent F-measure Optimization.:
+- http://papers.nips.cc/paper/7645-faster-online-learning-of-optimal-threshold-for-consistent-f-measure-optimization
+- 2018
+Fighting Boredom in Recommender Systems with Linear Reinforcement Learning.:
+- http://papers.nips.cc/paper/7447-fighting-boredom-in-recommender-systems-with-linear-reinforcement-learning
+- 2018
+First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time.:
+- http://papers.nips.cc/paper/7797-first-order-stochastic-algorithms-for-escaping-from-saddle-points-in-almost-linear-time
+- 2018
+FishNet - A Versatile Backbone for Image, Region, and Pixel Level Prediction.:
+- http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction
+- 2018
+Flexible and accurate inference and learning for deep generative models.:
+- http://papers.nips.cc/paper/7671-flexible-and-accurate-inference-and-learning-for-deep-generative-models
+- 2018
+Flexible neural representation for physics prediction.:
+- http://papers.nips.cc/paper/8096-flexible-neural-representation-for-physics-prediction
+- 2018
+Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks.:
+- http://papers.nips.cc/paper/7977-forecasting-treatment-responses-over-time-using-recurrent-marginal-structural-networks
+- 2018
+Foreground Clustering for Joint Segmentation and Localization in Videos and Images.:
+- http://papers.nips.cc/paper/7441-foreground-clustering-for-joint-segmentation-and-localization-in-videos-and-images
+- 2018
+Forward Modeling for Partial Observation Strategy Games - A StarCraft Defogger.:
+- http://papers.nips.cc/paper/8272-forward-modeling-for-partial-observation-strategy-games-a-starcraft-defogger
+- 2018
+Found Graph Data and Planted Vertex Covers.:
+- http://papers.nips.cc/paper/7410-found-graph-data-and-planted-vertex-covers
+- 2018
+Frequency-Domain Dynamic Pruning for Convolutional Neural Networks.:
+- http://papers.nips.cc/paper/7382-frequency-domain-dynamic-pruning-for-convolutional-neural-networks
+- 2018
+From Stochastic Planning to Marginal MAP.:
+- http://papers.nips.cc/paper/7571-from-stochastic-planning-to-marginal-map
+- 2018
+Fully Neural Network Based Speech Recognition on Mobile and Embedded Devices.:
+- http://papers.nips.cc/paper/8261-fully-neural-network-based-speech-recognition-on-mobile-and-embedded-devices
+- 2018
+Fully Understanding The Hashing Trick.:
+- http://papers.nips.cc/paper/7784-fully-understanding-the-hashing-trick
+- 2018
+GIANT - Globally Improved Approximate Newton Method for Distributed Optimization.:
+- http://papers.nips.cc/paper/7501-giant-globally-improved-approximate-newton-method-for-distributed-optimization
+- 2018
+GILBO - One Metric to Measure Them All.:
+- http://papers.nips.cc/paper/7935-gilbo-one-metric-to-measure-them-all
+- 2018
+GLoMo - Unsupervised Learning of Transferable Relational Graphs.:
+- http://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs
+- 2018
+GPyTorch - Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration.:
+- http://papers.nips.cc/paper/7985-gpytorch-blackbox-matrix-matrix-gaussian-process-inference-with-gpu-acceleration
+- 2018
+Gamma-Poisson Dynamic Matrix Factorization Embedded with Metadata Influence.:
+- http://papers.nips.cc/paper/7824-gamma-poisson-dynamic-matrix-factorization-embedded-with-metadata-influence
+- 2018
+Gather-Excite - Exploiting Feature Context in Convolutional Neural Networks.:
+- http://papers.nips.cc/paper/8151-gather-excite-exploiting-feature-context-in-convolutional-neural-networks
+- 2018
+Gaussian Process Conditional Density Estimation.:
+- http://papers.nips.cc/paper/7506-gaussian-process-conditional-density-estimation
+- 2018
+Gaussian Process Prior Variational Autoencoders.:
+- http://papers.nips.cc/paper/8238-gaussian-process-prior-variational-autoencoders
+- 2018
+Gen-Oja - Simple &amp; Efficient Algorithm for Streaming Generalized Eigenvector Computation.:
+- http://papers.nips.cc/paper/7933-gen-oja-simple-efficient-algorithm-for-streaming-generalized-eigenvector-computation
+- 2018
+Generalisation in humans and deep neural networks.:
+- http://papers.nips.cc/paper/7982-generalisation-in-humans-and-deep-neural-networks
+- 2018
+Generalisation of structural knowledge in the hippocampal-entorhinal system.:
+- http://papers.nips.cc/paper/8068-generalisation-of-structural-knowledge-in-the-hippocampal-entorhinal-system
+- 2018
+Generalization Bounds for Uniformly Stable Algorithms.:
+- http://papers.nips.cc/paper/8182-generalization-bounds-for-uniformly-stable-algorithms
+- 2018
+Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels.:
+- http://papers.nips.cc/paper/8094-generalized-cross-entropy-loss-for-training-deep-neural-networks-with-noisy-labels
+- 2018
+Generalized Inverse Optimization through Online Learning.:
+- http://papers.nips.cc/paper/7294-generalized-inverse-optimization-through-online-learning
+- 2018
+Generalized Zero-Shot Learning with Deep Calibration Network.:
+- http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network
+- 2018
+Generalizing Graph Matching beyond Quadratic Assignment Model.:
+- http://papers.nips.cc/paper/7365-generalizing-graph-matching-beyond-quadratic-assignment-model
+- 2018
+Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions.:
+- http://papers.nips.cc/paper/8226-generalizing-point-embeddings-using-the-wasserstein-space-of-elliptical-distributions
+- 2018
+Generalizing Tree Probability Estimation via Bayesian Networks.:
+- http://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks
+- 2018
+Generalizing to Unseen Domains via Adversarial Data Augmentation.:
+- http://papers.nips.cc/paper/7779-generalizing-to-unseen-domains-via-adversarial-data-augmentation
+- 2018
+Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization.:
+- http://papers.nips.cc/paper/7452-generating-informative-and-diverse-conversational-responses-via-adversarial-information-maximization
+- 2018
+Generative Neural Machine Translation.:
+- http://papers.nips.cc/paper/7409-generative-neural-machine-translation
+- 2018
+Generative Probabilistic Novelty Detection with Adversarial Autoencoders.:
+- http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders
+- 2018
+Generative modeling for protein structures.:
+- http://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures
+- 2018
+Genetic-Gated Networks for Deep Reinforcement Learning.:
+- http://papers.nips.cc/paper/7446-genetic-gated-networks-for-deep-reinforcement-learning
+- 2018
+Geometrically Coupled Monte Carlo Sampling.:
+- http://papers.nips.cc/paper/7304-geometrically-coupled-monte-carlo-sampling
+- 2018
+Geometry Based Data Generation.:
+- http://papers.nips.cc/paper/7414-geometry-based-data-generation
+- 2018
+Geometry-Aware Recurrent Neural Networks for Active Visual Recognition.:
+- http://papers.nips.cc/paper/7755-geometry-aware-recurrent-neural-networks-for-active-visual-recognition
+- 2018
+Global Convergence of Langevin Dynamics Based Algorithms for Nonconvex Optimization.:
+- http://papers.nips.cc/paper/7575-global-convergence-of-langevin-dynamics-based-algorithms-for-nonconvex-optimization
+- 2018
+Global Gated Mixture of Second-order Pooling for Improving Deep Convolutional Neural Networks.:
+- http://papers.nips.cc/paper/7403-global-gated-mixture-of-second-order-pooling-for-improving-deep-convolutional-neural-networks
+- 2018
+Global Geometry of Multichannel Sparse Blind Deconvolution on the Sphere.:
+- http://papers.nips.cc/paper/7390-global-geometry-of-multichannel-sparse-blind-deconvolution-on-the-sphere
+- 2018
+Global Non-convex Optimization with Discretized Diffusions.:
+- http://papers.nips.cc/paper/8175-global-non-convex-optimization-with-discretized-diffusions
+- 2018
+Glow - Generative Flow with Invertible 1x1 Convolutions.:
+- http://papers.nips.cc/paper/8224-glow-generative-flow-with-invertible-1x1-convolutions
+- 2018
+GradiVeQ - Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training.:
+- http://papers.nips.cc/paper/7759-gradiveq-vector-quantization-for-bandwidth-efficient-gradient-aggregation-in-distributed-cnn-training
+- 2018
+Gradient Descent Meets Shift-and-Invert Preconditioning for Eigenvector Computation.:
+- http://papers.nips.cc/paper/7547-gradient-descent-meets-shift-and-invert-preconditioning-for-eigenvector-computation
+- 2018
+Gradient Descent for Spiking Neural Networks.:
+- http://papers.nips.cc/paper/7417-gradient-descent-for-spiking-neural-networks
+- 2018
+Gradient Sparsification for Communication-Efficient Distributed Optimization.:
+- http://papers.nips.cc/paper/7405-gradient-sparsification-for-communication-efficient-distributed-optimization
+- 2018
+Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation.:
+- http://papers.nips.cc/paper/7877-graph-convolutional-policy-network-for-goal-directed-molecular-graph-generation
+- 2018
+Graph Oracle Models, Lower Bounds, and Gaps for Parallel Stochastic Optimization.:
+- http://papers.nips.cc/paper/8069-graph-oracle-models-lower-bounds-and-gaps-for-parallel-stochastic-optimization
+- 2018
+Graphical Generative Adversarial Networks.:
+- http://papers.nips.cc/paper/7846-graphical-generative-adversarial-networks
+- 2018
+Graphical model inference - Sequential Monte Carlo meets deterministic approximations.:
+- http://papers.nips.cc/paper/8041-graphical-model-inference-sequential-monte-carlo-meets-deterministic-approximations
+- 2018
+Greedy Hash - Towards Fast Optimization for Accurate Hash Coding in CNN.:
+- http://papers.nips.cc/paper/7360-greedy-hash-towards-fast-optimization-for-accurate-hash-coding-in-cnn
+- 2018
+Group Equivariant Capsule Networks.:
+- http://papers.nips.cc/paper/8100-group-equivariant-capsule-networks
+- 2018
+GroupReduce - Block-Wise Low-Rank Approximation for Neural Language Model Shrinking.:
+- http://papers.nips.cc/paper/8295-groupreduce-block-wise-low-rank-approximation-for-neural-language-model-shrinking
+- 2018
+GumBolt - Extending Gumbel trick to Boltzmann priors.:
+- http://papers.nips.cc/paper/7661-gumbolt-extending-gumbel-trick-to-boltzmann-priors
+- 2018
+HOGWILD!-Gibbs can be PanAccurate.:
+- http://papers.nips.cc/paper/7289-hogwild-gibbs-can-be-panaccurate
+- 2018
+HOUDINI - Lifelong Learning as Program Synthesis.:
+- http://papers.nips.cc/paper/8086-houdini-lifelong-learning-as-program-synthesis
+- 2018
+Hamiltonian Variational Auto-Encoder.:
+- http://papers.nips.cc/paper/8039-hamiltonian-variational-auto-encoder
+- 2018
+Hardware Conditioned Policies for Multi-Robot Transfer Learning.:
+- http://papers.nips.cc/paper/8145-hardware-conditioned-policies-for-multi-robot-transfer-learning
+- 2018
+Hessian-based Analysis of Large Batch Training and Robustness to Adversaries.:
+- http://papers.nips.cc/paper/7743-hessian-based-analysis-of-large-batch-training-and-robustness-to-adversaries
+- 2018
+Heterogeneous Bitwidth Binarization in Convolutional Neural Networks.:
+- http://papers.nips.cc/paper/7656-heterogeneous-bitwidth-binarization-in-convolutional-neural-networks
+- 2018
+Heterogeneous Multi-output Gaussian Process Prediction.:
+- http://papers.nips.cc/paper/7905-heterogeneous-multi-output-gaussian-process-prediction
+- 2018
+Hierarchical Graph Representation Learning with Differentiable Pooling.:
+- http://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling
+- 2018
+Hierarchical Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies.:
+- http://papers.nips.cc/paper/7946-hierarchical-reinforcement-learning-for-zero-shot-generalization-with-subtask-dependencies
+- 2018
+High Dimensional Linear Regression using Lattice Basis Reduction.:
+- http://papers.nips.cc/paper/7455-high-dimensional-linear-regression-using-lattice-basis-reduction
+- 2018
+HitNet - Hybrid Ternary Recurrent Neural Network.:
+- http://papers.nips.cc/paper/7341-hitnet-hybrid-ternary-recurrent-neural-network
+- 2018
+Horizon-Independent Minimax Linear Regression.:
+- http://papers.nips.cc/paper/7772-horizon-independent-minimax-linear-regression
+- 2018
+How Does Batch Normalization Help Optimization?:
+- http://papers.nips.cc/paper/7515-how-does-batch-normalization-help-optimization
+- 2018
+How Many Samples are Needed to Estimate a Convolutional Neural Network?:
+- http://papers.nips.cc/paper/7320-how-many-samples-are-needed-to-estimate-a-convolutional-neural-network
+- 2018
+How Much Restricted Isometry is Needed In Nonconvex Matrix Recovery?:
+- http://papers.nips.cc/paper/7802-how-much-restricted-isometry-is-needed-in-nonconvex-matrix-recovery
+- 2018
+How SGD Selects the Global Minima in Over-parameterized Learning - A Dynamical Stability Perspective.:
+- http://papers.nips.cc/paper/8049-how-sgd-selects-the-global-minima-in-over-parameterized-learning-a-dynamical-stability-perspective
+- 2018
+How To Make the Gradients Small Stochastically - Even Faster Convex and Nonconvex SGD.:
+- http://papers.nips.cc/paper/7392-how-to-make-the-gradients-small-stochastically-even-faster-convex-and-nonconvex-sgd
+- 2018
+How to Start Training - The Effect of Initialization and Architecture.:
+- http://papers.nips.cc/paper/7338-how-to-start-training-the-effect-of-initialization-and-architecture
+- 2018
+How to tell when a clustering is (approximately) correct using convex relaxations.:
+- http://papers.nips.cc/paper/7970-how-to-tell-when-a-clustering-is-approximately-correct-using-convex-relaxations
+- 2018
+Human-in-the-Loop Interpretability Prior.:
+- http://papers.nips.cc/paper/8219-human-in-the-loop-interpretability-prior
+- 2018
+Hunting for Discriminatory Proxies in Linear Regression Models.:
+- http://papers.nips.cc/paper/7708-hunting-for-discriminatory-proxies-in-linear-regression-models
+- 2018
+Hybrid Knowledge Routed Modules for Large-scale Object Detection.:
+- http://papers.nips.cc/paper/7428-hybrid-knowledge-routed-modules-for-large-scale-object-detection
+- 2018
+Hybrid Macro/Micro Level Backpropagation for Training Deep Spiking Neural Networks.:
+- http://papers.nips.cc/paper/7932-hybrid-macromicro-level-backpropagation-for-training-deep-spiking-neural-networks
+- 2018
+Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation.:
+- http://papers.nips.cc/paper/7426-hybrid-retrieval-generation-reinforced-agent-for-medical-image-report-generation
+- 2018
+Hybrid-MST - A Hybrid Active Sampling Strategy for Pairwise Preference Aggregation.:
+- http://papers.nips.cc/paper/7607-hybrid-mst-a-hybrid-active-sampling-strategy-for-pairwise-preference-aggregation
+- 2018
+Hyperbolic Neural Networks.:
+- http://papers.nips.cc/paper/7780-hyperbolic-neural-networks
+- 2018
+Identification and Estimation of Causal Effects from Dependent Data.:
+- http://papers.nips.cc/paper/8153-identification-and-estimation-of-causal-effects-from-dependent-data
+- 2018
+Image Inpainting via Generative Multi-column Convolutional Neural Networks.:
+- http://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks
+- 2018
+Image-to-image translation for cross-domain disentanglement.:
+- http://papers.nips.cc/paper/7404-image-to-image-translation-for-cross-domain-disentanglement
+- 2018
+Implicit Bias of Gradient Descent on Linear Convolutional Networks.:
+- http://papers.nips.cc/paper/8156-implicit-bias-of-gradient-descent-on-linear-convolutional-networks
+- 2018
+Implicit Probabilistic Integrators for ODEs.:
+- http://papers.nips.cc/paper/7955-implicit-probabilistic-integrators-for-odes
+- 2018
+Implicit Reparameterization Gradients.:
+- http://papers.nips.cc/paper/7326-implicit-reparameterization-gradients
+- 2018
+Importance Weighting and Variational Inference.:
+- http://papers.nips.cc/paper/7699-importance-weighting-and-variational-inference
+- 2018
+Improved Algorithms for Collaborative PAC Learning.:
+- http://papers.nips.cc/paper/7990-improved-algorithms-for-collaborative-pac-learning
+- 2018
+Improved Expressivity Through Dendritic Neural Networks.:
+- http://papers.nips.cc/paper/8029-improved-expressivity-through-dendritic-neural-networks
+- 2018
+Improved Network Robustness with Adversary Critic.:
+- http://papers.nips.cc/paper/8257-improved-network-robustness-with-adversary-critic
+- 2018
+Improving Explorability in Variational Inference with Annealed Variational Objectives.:
+- http://papers.nips.cc/paper/8178-improving-explorability-in-variational-inference-with-annealed-variational-objectives
+- 2018
+Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents.:
+- http://papers.nips.cc/paper/7750-improving-exploration-in-evolution-strategies-for-deep-reinforcement-learning-via-a-population-of-novelty-seeking-agents
+- 2018
+Improving Neural Program Synthesis with Inferred Execution Traces.:
+- http://papers.nips.cc/paper/8107-improving-neural-program-synthesis-with-inferred-execution-traces
+- 2018
+Improving Online Algorithms via ML Predictions.:
+- http://papers.nips.cc/paper/8174-improving-online-algorithms-via-ml-predictions
+- 2018
+Improving Simple Models with Confidence Profiles.:
+- http://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles
+- 2018
+Incorporating Context into Language Encoding Models for fMRI.:
+- http://papers.nips.cc/paper/7897-incorporating-context-into-language-encoding-models-for-fmri
+- 2018
+Inequity aversion improves cooperation in intertemporal social dilemmas.:
+- http://papers.nips.cc/paper/7593-inequity-aversion-improves-cooperation-in-intertemporal-social-dilemmas
+- 2018
+Inexact trust-region algorithms on Riemannian manifolds.:
+- http://papers.nips.cc/paper/7679-inexact-trust-region-algorithms-on-riemannian-manifolds
+- 2018
+Inference Aided Reinforcement Learning for Incentive Mechanism Design in Crowdsourcing.:
+- http://papers.nips.cc/paper/7795-inference-aided-reinforcement-learning-for-incentive-mechanism-design-in-crowdsourcing
+- 2018
+Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo.:
+- http://papers.nips.cc/paper/7979-inference-in-deep-gaussian-processes-using-stochastic-gradient-hamiltonian-monte-carlo
+- 2018
+Inferring Latent Velocities from Weather Radar Data using Gaussian Processes.:
+- http://papers.nips.cc/paper/8113-inferring-latent-velocities-from-weather-radar-data-using-gaussian-processes
+- 2018
+Inferring Networks From Random Walk-Based Node Similarities.:
+- http://papers.nips.cc/paper/7628-inferring-networks-from-random-walk-based-node-similarities
+- 2018
+Infinite-Horizon Gaussian Processes.:
+- http://papers.nips.cc/paper/7608-infinite-horizon-gaussian-processes
+- 2018
+Information Constraints on Auto-Encoding Variational Bayes.:
+- http://papers.nips.cc/paper/7850-information-constraints-on-auto-encoding-variational-bayes
+- 2018
+Information-based Adaptive Stimulus Selection to Optimize Communication Efficiency in Brain-Computer Interfaces.:
+- http://papers.nips.cc/paper/7731-information-based-adaptive-stimulus-selection-to-optimize-communication-efficiency-in-brain-computer-interfaces
+- 2018
+Information-theoretic Limits for Community Detection in Network Models.:
+- http://papers.nips.cc/paper/8053-information-theoretic-limits-for-community-detection-in-network-models
+- 2018
+Informative Features for Model Comparison.:
+- http://papers.nips.cc/paper/7361-informative-features-for-model-comparison
+- 2018
+Insights on representational similarity in neural networks with canonical correlation.:
+- http://papers.nips.cc/paper/7815-insights-on-representational-similarity-in-neural-networks-with-canonical-correlation
+- 2018
+Integrated accounts of behavioral and neuroimaging data using flexible recurrent neural network models.:
+- http://papers.nips.cc/paper/7677-integrated-accounts-of-behavioral-and-neuroimaging-data-using-flexible-recurrent-neural-network-models
+- 2018
+Interactive Structure Learning with Structural Query-by-Committee.:
+- http://papers.nips.cc/paper/7389-interactive-structure-learning-with-structural-query-by-committee
+- 2018
+Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections.:
+- http://papers.nips.cc/paper/7736-interpreting-neural-network-judgments-via-minimal-stable-and-symbolic-corrections
+- 2018
+IntroVAE - Introspective Variational Autoencoders for Photographic Image Synthesis.:
+- http://papers.nips.cc/paper/7291-introvae-introspective-variational-autoencoders-for-photographic-image-synthesis
+- 2018
+Invariant Representations without Adversarial Training.:
+- http://papers.nips.cc/paper/8122-invariant-representations-without-adversarial-training
+- 2018
+Invertibility of Convolutional Generative Networks from Partial Measurements.:
+- http://papers.nips.cc/paper/8171-invertibility-of-convolutional-generative-networks-from-partial-measurements
+- 2018
+Is Q-Learning Provably Efficient?:
+- http://papers.nips.cc/paper/7735-is-q-learning-provably-efficient
+- 2018
+Isolating Sources of Disentanglement in Variational Autoencoders.:
+- http://papers.nips.cc/paper/7527-isolating-sources-of-disentanglement-in-variational-autoencoders
+- 2018
+Iterative Value-Aware Model Learning.:
+- http://papers.nips.cc/paper/8121-iterative-value-aware-model-learning
+- 2018
+Joint Active Feature Acquisition and Classification with Variable-Size Set Encoding.:
+- http://papers.nips.cc/paper/7411-joint-active-feature-acquisition-and-classification-with-variable-size-set-encoding
+- 2018
+Joint Autoregressive and Hierarchical Priors for Learned Image Compression.:
+- http://papers.nips.cc/paper/8275-joint-autoregressive-and-hierarchical-priors-for-learned-image-compression
+- 2018
+Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution.:
+- http://papers.nips.cc/paper/7301-joint-sub-bands-learning-with-clique-structures-for-wavelet-domain-super-resolution
+- 2018
+KDGAN - Knowledge Distillation with Generative Adversarial Networks.:
+- http://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks
+- 2018
+KONG - Kernels for ordered-neighborhood graphs.:
+- http://papers.nips.cc/paper/7660-kong-kernels-for-ordered-neighborhood-graphs
+- 2018
+Kalman Normalization - Normalizing Internal Representations Across Network Layers.:
+- http://papers.nips.cc/paper/7288-kalman-normalization-normalizing-internal-representations-across-network-layers
+- 2018
+Knowledge Distillation by On-the-Fly Native Ensemble.:
+- http://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ensemble
+- 2018
+L4 - Practical loss-based stepsize adaptation for deep learning.:
+- http://papers.nips.cc/paper/7879-l4-practical-loss-based-stepsize-adaptation-for-deep-learning
+- 2018
+LAG - Lazily Aggregated Gradient for Communication-Efficient Distributed Learning.:
+- http://papers.nips.cc/paper/7752-lag-lazily-aggregated-gradient-for-communication-efficient-distributed-learning
+- 2018
+LF-Net - Learning Local Features from Images.:
+- http://papers.nips.cc/paper/7861-lf-net-learning-local-features-from-images
+- 2018
+Large Margin Deep Networks for Classification.:
+- http://papers.nips.cc/paper/7364-large-margin-deep-networks-for-classification
+- 2018
+Large Scale computation of Means and Clusters for Persistence Diagrams using Optimal Transport.:
+- http://papers.nips.cc/paper/8184-large-scale-computation-of-means-and-clusters-for-persistence-diagrams-using-optimal-transport
+- 2018
+Large-Scale Stochastic Sampling from the Probability Simplex.:
+- http://papers.nips.cc/paper/7906-large-scale-stochastic-sampling-from-the-probability-simplex
+- 2018
+Latent Alignment and Variational Attention.:
+- http://papers.nips.cc/paper/8179-latent-alignment-and-variational-attention
+- 2018
+? Latent Gaussian Activity Propagation - Using Smoothness and Structure to Separate
+  and Localize Sounds in Large Noisy Environments.
+: - http://papers.nips.cc/paper/7606-latent-gaussian-activity-propagation-using-smoothness-and-structure-to-separate-and-localize-sounds-in-large-noisy-environments
+  - 2018
+Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation.:
+- http://papers.nips.cc/paper/8019-layer-wise-coordination-between-encoder-and-decoder-for-neural-machine-translation
+- 2018
+Learn What Not to Learn - Action Elimination with Deep Reinforcement Learning.:
+- http://papers.nips.cc/paper/7615-learn-what-not-to-learn-action-elimination-with-deep-reinforcement-learning
+- 2018
+Learning Abstract Options.:
+- http://papers.nips.cc/paper/8243-learning-abstract-options
+- 2018
+Learning Attentional Communication for Multi-Agent Cooperation.:
+- http://papers.nips.cc/paper/7956-learning-attentional-communication-for-multi-agent-cooperation
+- 2018
+Learning Attractor Dynamics for Generative Memory.:
+- http://papers.nips.cc/paper/8149-learning-attractor-dynamics-for-generative-memory
+- 2018
+Learning Beam Search Policies via Imitation Learning.:
+- http://papers.nips.cc/paper/8264-learning-beam-search-policies-via-imitation-learning
+- 2018
+Learning Bounds for Greedy Approximation with Explicit Feature Maps from Multiple Kernels.:
+- http://papers.nips.cc/paper/7719-learning-bounds-for-greedy-approximation-with-explicit-feature-maps-from-multiple-kernels
+- 2018
+Learning Compressed Transforms with Low Displacement Rank.:
+- http://papers.nips.cc/paper/8119-learning-compressed-transforms-with-low-displacement-rank
+- 2018
+Learning Concave Conditional Likelihood Models for Improved Analysis of Tandem Mass Spectra.:
+- http://papers.nips.cc/paper/7787-learning-concave-conditional-likelihood-models-for-improved-analysis-of-tandem-mass-spectra
+- 2018
+Learning Conditioned Graph Structures for Interpretable Visual Question Answering.:
+- http://papers.nips.cc/paper/8054-learning-conditioned-graph-structures-for-interpretable-visual-question-answering
+- 2018
+Learning Confidence Sets using Support Vector Machines.:
+- http://papers.nips.cc/paper/7741-learning-confidence-sets-using-support-vector-machines
+- 2018
+Learning Deep Disentangled Embeddings With the F-Statistic Loss.:
+- http://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss
+- 2018
+Learning Disentangled Joint Continuous and Discrete Representations.:
+- http://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations
+- 2018
+Learning Gaussian Processes by Minimizing PAC-Bayesian Generalization Bounds.:
+- http://papers.nips.cc/paper/7594-learning-gaussian-processes-by-minimizing-pac-bayesian-generalization-bounds
+- 2018
+Learning Hierarchical Semantic Image Manipulation through Structured Representations.:
+- http://papers.nips.cc/paper/7536-learning-hierarchical-semantic-image-manipulation-through-structured-representations
+- 2018
+Learning Invariances using the Marginal Likelihood.:
+- http://papers.nips.cc/paper/8199-learning-invariances-using-the-marginal-likelihood
+- 2018
+Learning Latent Subspaces in Variational Autoencoders.:
+- http://papers.nips.cc/paper/7880-learning-latent-subspaces-in-variational-autoencoders
+- 2018
+Learning Libraries of Subroutines for Neurally-Guided Bayesian Program Induction.:
+- http://papers.nips.cc/paper/8006-learning-libraries-of-subroutines-for-neurallyguided-bayesian-program-induction
+- 2018
+Learning Loop Invariants for Program Verification.:
+- http://papers.nips.cc/paper/8001-learning-loop-invariants-for-program-verification
+- 2018
+Learning Optimal Reserve Price against Non-myopic Bidders.:
+- http://papers.nips.cc/paper/7474-learning-optimal-reserve-price-against-non-myopic-bidders
+- 2018
+Learning Others&apos; Intentional Models in Multi-Agent Settings Using Interactive POMDPs.:
+- http://papers.nips.cc/paper/7806-learning-others-intentional-models-in-multi-agent-settings-using-interactive-pomdps
+- 2018
+Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data.:
+- http://papers.nips.cc/paper/8038-learning-overparameterized-neural-networks-via-stochastic-gradient-descent-on-structured-data
+- 2018
+Learning Pipelines with Limited Data and Domain Knowledge - A Study in Parsing Physics Problems.:
+- http://papers.nips.cc/paper/7299-learning-pipelines-with-limited-data-and-domain-knowledge-a-study-in-parsing-physics-problems
+- 2018
+Learning Plannable Representations with Causal InfoGAN.:
+- http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan
+- 2018
+Learning SMaLL Predictors.:
+- http://papers.nips.cc/paper/8126-learning-small-predictors
+- 2018
+Learning Safe Policies with Expert Guidance.:
+- http://papers.nips.cc/paper/8124-learning-safe-policies-with-expert-guidance
+- 2018
+Learning Signed Determinantal Point Processes through the Principal Minor Assignment Problem.:
+- http://papers.nips.cc/paper/7966-learning-signed-determinantal-point-processes-through-the-principal-minor-assignment-problem
+- 2018
+Learning Task Specifications from Demonstrations.:
+- http://papers.nips.cc/paper/7782-learning-task-specifications-from-demonstrations
+- 2018
+Learning Temporal Point Processes via Reinforcement Learning.:
+- http://papers.nips.cc/paper/8276-learning-temporal-point-processes-via-reinforcement-learning
+- 2018
+Learning To Learn Around A Common Mean.:
+- http://papers.nips.cc/paper/8220-learning-to-learn-around-a-common-mean
+- 2018
+Learning Versatile Filters for Efficient Convolutional Neural Networks.:
+- http://papers.nips.cc/paper/7433-learning-versatile-filters-for-efficient-convolutional-neural-networks
+- 2018
+Learning a High Fidelity Pose Invariant Model for High-resolution Face Frontalization.:
+- http://papers.nips.cc/paper/7551-learning-a-high-fidelity-pose-invariant-model-for-high-resolution-face-frontalization
+- 2018
+Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders.:
+- http://papers.nips.cc/paper/8254-learning-a-warping-distance-from-unlabeled-time-series-using-sequence-autoencoders
+- 2018
+Learning a latent manifold of odor representations from neural responses in piriform cortex.:
+- http://papers.nips.cc/paper/7783-learning-a-latent-manifold-of-odor-representations-from-neural-responses-in-piriform-cortex
+- 2018
+Learning and Inference in Hilbert Space with Quantum Graphical Models.:
+- http://papers.nips.cc/paper/8235-learning-and-inference-in-hilbert-space-with-quantum-graphical-models
+- 2018
+Learning and Testing Causal Models with Interventions.:
+- http://papers.nips.cc/paper/8155-learning-and-testing-causal-models-with-interventions
+- 2018
+Learning convex bounds for linear quadratic control policy synthesis.:
+- http://papers.nips.cc/paper/8165-learning-convex-bounds-for-linear-quadratic-control-policy-synthesis
+- 2018
+Learning convex polytopes with margin.:
+- http://papers.nips.cc/paper/7813-learning-convex-polytopes-with-margin
+- 2018
+Learning filter widths of spectral decompositions with wavelets.:
+- http://papers.nips.cc/paper/7711-learning-filter-widths-of-spectral-decompositions-with-wavelets
+- 2018
+Learning from Group Comparisons - Exploiting Higher Order Interactions.:
+- http://papers.nips.cc/paper/7746-learning-from-group-comparisons-exploiting-higher-order-interactions
+- 2018
+Learning from discriminative feature feedback.:
+- http://papers.nips.cc/paper/7651-learning-from-discriminative-feature-feedback
+- 2018
+Learning in Games with Lossy Feedback.:
+- http://papers.nips.cc/paper/7760-learning-in-games-with-lossy-feedback
+- 2018
+Learning latent variable structured prediction models with Gaussian perturbations.:
+- http://papers.nips.cc/paper/7577-learning-latent-variable-structured-prediction-models-with-gaussian-perturbations
+- 2018
+Learning long-range spatial dependencies with horizontal gated recurrent units.:
+- http://papers.nips.cc/paper/7300-learning-long-range-spatial-dependencies-with-horizontal-gated-recurrent-units
+- 2018
+Learning semantic similarity in a continuous space.:
+- http://papers.nips.cc/paper/7377-learning-semantic-similarity-in-a-continuous-space
+- 2018
+Learning sparse neural networks via sensitivity-driven regularization.:
+- http://papers.nips.cc/paper/7644-learning-sparse-neural-networks-via-sensitivity-driven-regularization
+- 2018
+Learning to Decompose and Disentangle Representations for Video Prediction.:
+- http://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction
+- 2018
+Learning to Exploit Stability for 3D Scene Parsing.:
+- http://papers.nips.cc/paper/7444-learning-to-exploit-stability-for-3d-scene-parsing
+- 2018
+Learning to Infer Graphics Programs from Hand-Drawn Images.:
+- http://papers.nips.cc/paper/7845-learning-to-infer-graphics-programs-from-hand-drawn-images
+- 2018
+Learning to Multitask.:
+- http://papers.nips.cc/paper/7819-learning-to-multitask
+- 2018
+Learning to Navigate in Cities Without a Map.:
+- http://papers.nips.cc/paper/7509-learning-to-navigate-in-cities-without-a-map
+- 2018
+Learning to Optimize Tensor Programs.:
+- http://papers.nips.cc/paper/7599-learning-to-optimize-tensor-programs
+- 2018
+Learning to Play With Intrinsically-Motivated, Self-Aware Agents.:
+- http://papers.nips.cc/paper/8059-learning-to-play-with-intrinsically-motivated-self-aware-agents
+- 2018
+Learning to Reason with Third Order Tensor Products.:
+- http://papers.nips.cc/paper/8203-learning-to-reason-with-third-order-tensor-products
+- 2018
+Learning to Reconstruct Shapes from Unseen Classes.:
+- http://papers.nips.cc/paper/7494-learning-to-reconstruct-shapes-from-unseen-classes
+- 2018
+Learning to Repair Software Vulnerabilities with Generative Adversarial Networks.:
+- http://papers.nips.cc/paper/8018-learning-to-repair-software-vulnerabilities-with-generative-adversarial-networks
+- 2018
+Learning to Share and Hide Intentions using Information Regularization.:
+- http://papers.nips.cc/paper/8227-learning-to-share-and-hide-intentions-using-information-regularization
+- 2018
+Learning to Solve SMT Formulas.:
+- http://papers.nips.cc/paper/8233-learning-to-solve-smt-formulas
+- 2018
+Learning to Specialize with Knowledge Distillation for Visual Question Answering.:
+- http://papers.nips.cc/paper/8031-learning-to-specialize-with-knowledge-distillation-for-visual-question-answering
+- 2018
+Learning to Teach with Dynamic Loss Functions.:
+- http://papers.nips.cc/paper/7882-learning-to-teach-with-dynamic-loss-functions
+- 2018
+Learning towards Minimum Hyperspherical Energy.:
+- http://papers.nips.cc/paper/7860-learning-towards-minimum-hyperspherical-energy
+- 2018
+Learning with SGD and Random Features.:
+- http://papers.nips.cc/paper/8222-learning-with-sgd-and-random-features
+- 2018
+Learning without the Phase - Regularized PhaseMax Achieves Optimal Sample Complexity.:
+- http://papers.nips.cc/paper/8082-learning-without-the-phase-regularized-phasemax-achieves-optimal-sample-complexity
+- 2018
+Legendre Decomposition for Tensors.:
+- http://papers.nips.cc/paper/8097-legendre-decomposition-for-tensors
+- 2018
+Leveraged volume sampling for linear regression.:
+- http://papers.nips.cc/paper/7517-leveraged-volume-sampling-for-linear-regression
+- 2018
+Leveraging the Exact Likelihood of Deep Latent Variable Models.:
+- http://papers.nips.cc/paper/7642-leveraging-the-exact-likelihood-of-deep-latent-variable-models
+- 2018
+Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies.:
+- http://papers.nips.cc/paper/8193-life-long-disentangled-representation-learning-with-cross-domain-latent-homologies
+- 2018
+Lifelong Inverse Reinforcement Learning.:
+- http://papers.nips.cc/paper/7702-lifelong-inverse-reinforcement-learning
+- 2018
+Lifted Weighted Mini-Bucket.:
+- http://papers.nips.cc/paper/8234-lifted-weighted-mini-bucket
+- 2018
+Limited Memory Kelley&apos;s Method Converges for Composite Convex and Submodular Objectives.:
+- http://papers.nips.cc/paper/7694-limited-memory-kelleys-method-converges-for-composite-convex-and-submodular-objectives
+- 2018
+Link Prediction Based on Graph Neural Networks.:
+- http://papers.nips.cc/paper/7763-link-prediction-based-on-graph-neural-networks
+- 2018
+LinkNet - Relational Embedding for Scene Graph.:
+- http://papers.nips.cc/paper/7337-linknet-relational-embedding-for-scene-graph
+- 2018
+Lipschitz regularity of deep neural networks - analysis and efficient estimation.:
+- http://papers.nips.cc/paper/7640-lipschitz-regularity-of-deep-neural-networks-analysis-and-efficient-estimation
+- 2018
+Lipschitz-Margin Training - Scalable Certification of Perturbation Invariance for Deep Neural Networks.:
+- http://papers.nips.cc/paper/7889-lipschitz-margin-training-scalable-certification-of-perturbation-invariance-for-deep-neural-networks
+- 2018
+Local Differential Privacy for Evolving Data.:
+- http://papers.nips.cc/paper/7505-local-differential-privacy-for-evolving-data
+- 2018
+Long short-term memory and Learning-to-learn in networks of spiking neurons.:
+- http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons
+- 2018
+Loss Functions for Multiset Prediction.:
+- http://papers.nips.cc/paper/7820-loss-functions-for-multiset-prediction
+- 2018
+Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.:
+- http://papers.nips.cc/paper/8095-loss-surfaces-mode-connectivity-and-fast-ensembling-of-dnns
+- 2018
+Low-Rank Tucker Decomposition of Large Tensors Using TensorSketch.:
+- http://papers.nips.cc/paper/8213-low-rank-tucker-decomposition-of-large-tensors-using-tensorsketch
+- 2018
+Low-rank Interaction with Sparse Additive Effects Model for Large Data Frames.:
+- http://papers.nips.cc/paper/7794-low-rank-interaction-with-sparse-additive-effects-model-for-large-data-frames
+- 2018
+Low-shot Learning via Covariance-Preserving Adversarial Augmentation Networks.:
+- http://papers.nips.cc/paper/7376-low-shot-learning-via-covariance-preserving-adversarial-augmentation-networks
+- 2018
+M-Walk - Learning to Walk over Graphs using Monte Carlo Tree Search.:
+- http://papers.nips.cc/paper/7912-m-walk-learning-to-walk-over-graphs-using-monte-carlo-tree-search
+- 2018
+MULAN - A Blind and Off-Grid Method for Multichannel Echo Retrieval.:
+- http://papers.nips.cc/paper/7487-mulan-a-blind-and-off-grid-method-for-multichannel-echo-retrieval
+- 2018
+MacNet - Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models.:
+- http://papers.nips.cc/paper/7848-macnet-transferring-knowledge-from-machine-comprehension-to-sequence-to-sequence-models
+- 2018
+Mallows Models for Top-k Lists.:
+- http://papers.nips.cc/paper/7691-mallows-models-for-top-k-lists
+- 2018
+Manifold Structured Prediction.:
+- http://papers.nips.cc/paper/7804-manifold-structured-prediction
+- 2018
+Manifold-tiling Localized Receptive Fields are Optimal in Similarity-preserving Neural Networks.:
+- http://papers.nips.cc/paper/7939-manifold-tiling-localized-receptive-fields-are-optimal-in-similarity-preserving-neural-networks
+- 2018
+Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction.:
+- http://papers.nips.cc/paper/7951-mapping-images-to-scene-graphs-with-permutation-invariant-structured-prediction
+- 2018
+Masking - A New Perspective of Noisy Supervision.:
+- http://papers.nips.cc/paper/7825-masking-a-new-perspective-of-noisy-supervision
+- 2018
+Maximizing Induced Cardinality Under a Determinantal Point Process.:
+- http://papers.nips.cc/paper/7923-maximizing-induced-cardinality-under-a-determinantal-point-process
+- 2018
+Maximizing acquisition functions for Bayesian optimization.:
+- http://papers.nips.cc/paper/8194-maximizing-acquisition-functions-for-bayesian-optimization
+- 2018
+Maximum Causal Tsallis Entropy Imitation Learning.:
+- http://papers.nips.cc/paper/7693-maximum-causal-tsallis-entropy-imitation-learning
+- 2018
+Maximum-Entropy Fine Grained Classification.:
+- http://papers.nips.cc/paper/7344-maximum-entropy-fine-grained-classification
+- 2018
+Mean Field for the Stochastic Blockmodel - Optimization Landscape and Convergence Issues.:
+- http://papers.nips.cc/paper/8268-mean-field-for-the-stochastic-blockmodel-optimization-landscape-and-convergence-issues
+- 2018
+Mean-field theory of graph neural networks in graph partitioning.:
+- http://papers.nips.cc/paper/7689-mean-field-theory-of-graph-neural-networks-in-graph-partitioning
+- 2018
+Measures of distortion for machine learning.:
+- http://papers.nips.cc/paper/7737-measures-of-distortion-for-machine-learning
+- 2018
+Memory Augmented Policy Optimization for Program Synthesis and Semantic Parsing.:
+- http://papers.nips.cc/paper/8204-memory-augmented-policy-optimization-for-program-synthesis-and-semantic-parsing
+- 2018
+Memory Replay GANs - Learning to Generate New Categories without Forgetting.:
+- http://papers.nips.cc/paper/7836-memory-replay-gans-learning-to-generate-new-categories-without-forgetting
+- 2018
+Mental Sampling in Multimodal Representations.:
+- http://papers.nips.cc/paper/7817-mental-sampling-in-multimodal-representations
+- 2018
+Mesh-TensorFlow - Deep Learning for Supercomputers.:
+- http://papers.nips.cc/paper/8242-mesh-tensorflow-deep-learning-for-supercomputers
+- 2018
+Meta-Gradient Reinforcement Learning.:
+- http://papers.nips.cc/paper/7507-meta-gradient-reinforcement-learning
+- 2018
+Meta-Learning MCMC Proposals.:
+- http://papers.nips.cc/paper/7669-meta-learning-mcmc-proposals
+- 2018
+Meta-Reinforcement Learning of Structured Exploration Strategies.:
+- http://papers.nips.cc/paper/7776-meta-reinforcement-learning-of-structured-exploration-strategies
+- 2018
+MetaAnchor - Learning to Detect Objects with Customized Anchors.:
+- http://papers.nips.cc/paper/7315-metaanchor-learning-to-detect-objects-with-customized-anchors
+- 2018
+MetaGAN - An Adversarial Approach to Few-Shot Learning.:
+- http://papers.nips.cc/paper/7504-metagan-an-adversarial-approach-to-few-shot-learning
+- 2018
+MetaReg - Towards Domain Generalization using Meta-Regularization.:
+- http://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization
+- 2018
+Metric on Nonlinear Dynamical Systems with Perron-Frobenius Operators.:
+- http://papers.nips.cc/paper/7550-metric-on-nonlinear-dynamical-systems-with-perron-frobenius-operators
+- 2018
+MiME - Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare.:
+- http://papers.nips.cc/paper/7706-mime-multilevel-medical-embedding-of-electronic-health-records-for-predictive-healthcare
+- 2018
+Middle-Out Decoding.:
+- http://papers.nips.cc/paper/7796-middle-out-decoding
+- 2018
+Minimax Estimation of Neural Net Distance.:
+- http://papers.nips.cc/paper/7641-minimax-estimation-of-neural-net-distance
+- 2018
+Minimax Statistical Learning with Wasserstein distances.:
+- http://papers.nips.cc/paper/7534-minimax-statistical-learning-with-wasserstein-distances
+- 2018
+Mirrored Langevin Dynamics.:
+- http://papers.nips.cc/paper/7552-mirrored-langevin-dynamics
+- 2018
+MixLasso - Generalized Mixed Regression via Convex Atomic-Norm Regularization.:
+- http://papers.nips.cc/paper/8284-mixlasso-generalized-mixed-regression-via-convex-atomic-norm-regularization
+- 2018
+Mixture Matrix Completion.:
+- http://papers.nips.cc/paper/7488-mixture-matrix-completion
+- 2018
+Model Agnostic Supervised Local Explanations.:
+- http://papers.nips.cc/paper/7518-model-agnostic-supervised-local-explanations
+- 2018
+Model-Agnostic Private Learning.:
+- http://papers.nips.cc/paper/7941-model-agnostic-private-learning
+- 2018
+Model-based targeted dimensionality reduction for neuronal population data.:
+- http://papers.nips.cc/paper/7903-model-based-targeted-dimensionality-reduction-for-neuronal-population-data
+- 2018
+Modeling Dynamic Missingness of Implicit Feedback for Recommendation.:
+- http://papers.nips.cc/paper/7901-modeling-dynamic-missingness-of-implicit-feedback-for-recommendation
+- 2018
+Modelling and unsupervised learning of symmetric deformable object categories.:
+- http://papers.nips.cc/paper/8040-modelling-and-unsupervised-learning-of-symmetric-deformable-object-categories
+- 2018
+Modelling sparsity, heterogeneity, reciprocity and community structure in temporal interaction data.:
+- http://papers.nips.cc/paper/7502-modelling-sparsity-heterogeneity-reciprocity-and-community-structure-in-temporal-interaction-data
+- 2018
+Modern Neural Networks Generalize on Small Data Sets.:
+- http://papers.nips.cc/paper/7620-modern-neural-networks-generalize-on-small-data-sets
+- 2018
+Modular Networks - Learning to Decompose Neural Computation.:
+- http://papers.nips.cc/paper/7508-modular-networks-learning-to-decompose-neural-computation
+- 2018
+Monte-Carlo Tree Search for Constrained POMDPs.:
+- http://papers.nips.cc/paper/8017-monte-carlo-tree-search-for-constrained-pomdps
+- 2018
+Moonshine - Distilling with Cheap Convolutions.:
+- http://papers.nips.cc/paper/7553-moonshine-distilling-with-cheap-convolutions
+- 2018
+Multi-Agent Generative Adversarial Imitation Learning.:
+- http://papers.nips.cc/paper/7975-multi-agent-generative-adversarial-imitation-learning
+- 2018
+Multi-Agent Reinforcement Learning via Double Averaging Primal-Dual Optimization.:
+- http://papers.nips.cc/paper/8173-multi-agent-reinforcement-learning-via-double-averaging-primal-dual-optimization
+- 2018
+Multi-Class Learning - From Theory to Algorithm.:
+- http://papers.nips.cc/paper/7431-multi-class-learning-from-theory-to-algorithm
+- 2018
+Multi-Layered Gradient Boosting Decision Trees.:
+- http://papers.nips.cc/paper/7614-multi-layered-gradient-boosting-decision-trees
+- 2018
+Multi-Task Learning as Multi-Objective Optimization.:
+- http://papers.nips.cc/paper/7334-multi-task-learning-as-multi-objective-optimization
+- 2018
+Multi-Task Zipping via Layer-wise Neuron Sharing.:
+- http://papers.nips.cc/paper/7841-multi-task-zipping-via-layer-wise-neuron-sharing
+- 2018
+Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation.:
+- http://papers.nips.cc/paper/7883-multi-view-silhouette-and-depth-decomposition-for-high-resolution-3d-object-representation
+- 2018
+Multi-armed Bandits with Compensation.:
+- http://papers.nips.cc/paper/7758-multi-armed-bandits-with-compensation
+- 2018
+Multi-domain Causal Structure Learning in Linear Systems.:
+- http://papers.nips.cc/paper/7864-multi-domain-causal-structure-learning-in-linear-systems
+- 2018
+Multi-objective Maximization of Monotone Submodular Functions with Cardinality Constraint.:
+- http://papers.nips.cc/paper/8159-multi-objective-maximization-of-monotone-submodular-functions-with-cardinality-constraint
+- 2018
+Multi-value Rule Sets for Interpretable Classification with Feature-Efficient Representations.:
+- http://papers.nips.cc/paper/8281-multi-value-rule-sets-for-interpretable-classification-with-feature-efficient-representations
+- 2018
+Multilingual Anchoring - Interactive Topic Modeling and Alignment Across Languages.:
+- http://papers.nips.cc/paper/8083-multilingual-anchoring-interactive-topic-modeling-and-alignment-across-languages
+- 2018
+Multimodal Generative Models for Scalable Weakly-Supervised Learning.:
+- http://papers.nips.cc/paper/7801-multimodal-generative-models-for-scalable-weakly-supervised-learning
+- 2018
+Multiple Instance Learning for Efficient Sequential Data Classification on Resource-constrained Devices.:
+- http://papers.nips.cc/paper/8292-multiple-instance-learning-for-efficient-sequential-data-classification-on-resource-constrained-devices
+- 2018
+Multiple-Step Greedy Policies in Approximate and Online Reinforcement Learning.:
+- http://papers.nips.cc/paper/7770-multiple-step-greedy-policies-in-approximate-and-online-reinforcement-learning
+- 2018
+Multiplicative Weights Updates with Constant Step-Size in Graphical Constant-Sum Games.:
+- http://papers.nips.cc/paper/7612-multiplicative-weights-updates-with-constant-step-size-in-graphical-constant-sum-games
+- 2018
+Multitask Boosting for Survival Analysis with Competing Risks.:
+- http://papers.nips.cc/paper/7413-multitask-boosting-for-survival-analysis-with-competing-risks
+- 2018
+Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals.:
+- http://papers.nips.cc/paper/7590-multivariate-convolutional-sparse-coding-for-electromagnetic-brain-signals
+- 2018
+Multivariate Time Series Imputation with Generative Adversarial Networks.:
+- http://papers.nips.cc/paper/7432-multivariate-time-series-imputation-with-generative-adversarial-networks
+- 2018
+NAIS-Net - Stable Deep Networks from Non-Autonomous Differential Equations.:
+- http://papers.nips.cc/paper/7566-nais-net-stable-deep-networks-from-non-autonomous-differential-equations
+- 2018
+NEON2 - Finding Local Minima via First-Order Oracles.:
+- http://papers.nips.cc/paper/7629-neon2-finding-local-minima-via-first-order-oracles
+- 2018
+Natasha 2 - Faster Non-Convex Optimization Than SGD.:
+- http://papers.nips.cc/paper/7533-natasha-2-faster-non-convex-optimization-than-sgd
+- 2018
+Navigating with Graph Representations for Fast and Scalable Decoding of Neural Language Models.:
+- http://papers.nips.cc/paper/7868-navigating-with-graph-representations-for-fast-and-scalable-decoding-of-neural-language-models
+- 2018
+Near Optimal Exploration-Exploitation in Non-Communicating Markov Decision Processes.:
+- http://papers.nips.cc/paper/7563-near-optimal-exploration-exploitation-in-non-communicating-markov-decision-processes
+- 2018
+Near-Optimal Policies for Dynamic Multinomial Logit Assortment Selection Models.:
+- http://papers.nips.cc/paper/7573-near-optimal-policies-for-dynamic-multinomial-logit-assortment-selection-models
+- 2018
+Near-Optimal Time and Sample Complexities for Solving Markov Decision Processes with a Generative Model.:
+- http://papers.nips.cc/paper/7765-near-optimal-time-and-sample-complexities-for-solving-markov-decision-processes-with-a-generative-model
+- 2018
+Nearly tight sample complexity bounds for learning mixtures of Gaussians via sample compression schemes.:
+- http://papers.nips.cc/paper/7601-nearly-tight-sample-complexity-bounds-for-learning-mixtures-of-gaussians-via-sample-compression-schemes
+- 2018
+Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making.:
+- http://papers.nips.cc/paper/7721-negotiable-reinforcement-learning-for-pareto-optimal-sequential-decision-making
+- 2018
+Neighbourhood Consensus Networks.:
+- http://papers.nips.cc/paper/7437-neighbourhood-consensus-networks
+- 2018
+Neural Architecture Optimization.:
+- http://papers.nips.cc/paper/8007-neural-architecture-optimization
+- 2018
+Neural Architecture Search with Bayesian Optimisation and Optimal Transport.:
+- http://papers.nips.cc/paper/7472-neural-architecture-search-with-bayesian-optimisation-and-optimal-transport
+- 2018
+Neural Arithmetic Logic Units.:
+- http://papers.nips.cc/paper/8027-neural-arithmetic-logic-units
+- 2018
+Neural Code Comprehension - A Learnable Representation of Code Semantics.:
+- http://papers.nips.cc/paper/7617-neural-code-comprehension-a-learnable-representation-of-code-semantics
+- 2018
+Neural Edit Operations for Biological Sequences.:
+- http://papers.nips.cc/paper/7744-neural-edit-operations-for-biological-sequences
+- 2018
+Neural Guided Constraint Logic Programming for Program Synthesis.:
+- http://papers.nips.cc/paper/7445-neural-guided-constraint-logic-programming-for-program-synthesis
+- 2018
+Neural Interaction Transparency (NIT) - Disentangling Learned Interactions for Improved Interpretability.:
+- http://papers.nips.cc/paper/7822-neural-interaction-transparency-nit-disentangling-learned-interactions-for-improved-interpretability
+- 2018
+Neural Nearest Neighbors Networks.:
+- http://papers.nips.cc/paper/7386-neural-nearest-neighbors-networks
+- 2018
+Neural Networks Trained to Solve Differential Equations Learn General Representations.:
+- http://papers.nips.cc/paper/7662-neural-networks-trained-to-solve-differential-equations-learn-general-representations
+- 2018
+Neural Ordinary Differential Equations.:
+- http://papers.nips.cc/paper/7892-neural-ordinary-differential-equations
+- 2018
+Neural Proximal Gradient Descent for Compressive Imaging.:
+- http://papers.nips.cc/paper/8166-neural-proximal-gradient-descent-for-compressive-imaging
+- 2018
+Neural Tangent Kernel - Convergence and Generalization in Neural Networks.:
+- http://papers.nips.cc/paper/8076-neural-tangent-kernel-convergence-and-generalization-in-neural-networks
+- 2018
+Neural Voice Cloning with a Few Samples.:
+- http://papers.nips.cc/paper/8206-neural-voice-cloning-with-a-few-samples
+- 2018
+Neural-Symbolic VQA - Disentangling Reasoning from Vision and Language Understanding.:
+- http://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding
+- 2018
+New Insight into Hybrid Stochastic Gradient Descent - Beyond With-Replacement Sampling and Convexity.:
+- http://papers.nips.cc/paper/7399-new-insight-into-hybrid-stochastic-gradient-descent-beyond-with-replacement-sampling-and-convexity
+- 2018
+Non-Adversarial Mapping with VAEs.:
+- http://papers.nips.cc/paper/7981-non-adversarial-mapping-with-vaes
+- 2018
+Non-Ergodic Alternating Proximal Augmented Lagrangian Algorithms with Optimal Rates.:
+- http://papers.nips.cc/paper/7730-non-ergodic-alternating-proximal-augmented-lagrangian-algorithms-with-optimal-rates
+- 2018
+Non-Local Recurrent Network for Image Restoration.:
+- http://papers.nips.cc/paper/7439-non-local-recurrent-network-for-image-restoration
+- 2018
+Non-delusional Q-learning and value-iteration.:
+- http://papers.nips.cc/paper/8200-non-delusional-q-learning-and-value-iteration
+- 2018
+Non-metric Similarity Graphs for Maximum Inner Product Search.:
+- http://papers.nips.cc/paper/7722-non-metric-similarity-graphs-for-maximum-inner-product-search
+- 2018
+Non-monotone Submodular Maximization in Exponentially Fewer Iterations.:
+- http://papers.nips.cc/paper/7503-non-monotone-submodular-maximization-in-exponentially-fewer-iterations
+- 2018
+Nonlocal Neural Networks, Nonlocal Diffusion and Nonlocal Modeling.:
+- http://papers.nips.cc/paper/7331-nonlocal-neural-networks-nonlocal-diffusion-and-nonlocal-modeling
+- 2018
+Nonparametric Bayesian Lomax delegate racing for survival analysis with competing risks.:
+- http://papers.nips.cc/paper/7748-nonparametric-bayesian-lomax-delegate-racing-for-survival-analysis-with-competing-risks
+- 2018
+Nonparametric Density Estimation under Adversarial Losses.:
+- http://papers.nips.cc/paper/8225-nonparametric-density-estimation-under-adversarial-losses
+- 2018
+Nonparametric learning from Bayesian models with randomized objective functions.:
+- http://papers.nips.cc/paper/7477-nonparametric-learning-from-bayesian-models-with-randomized-objective-functions
+- 2018
+Norm matters - efficient and accurate normalization schemes in deep networks.:
+- http://papers.nips.cc/paper/7485-norm-matters-efficient-and-accurate-normalization-schemes-in-deep-networks
+- 2018
+Norm-Ranging LSH for Maximum Inner Product Search.:
+- http://papers.nips.cc/paper/7559-norm-ranging-lsh-for-maximum-inner-product-search
+- 2018
+Object-Oriented Dynamics Predictor.:
+- http://papers.nips.cc/paper/8187-object-oriented-dynamics-predictor
+- 2018
+Objective and efficient inference for couplings in neuronal networks.:
+- http://papers.nips.cc/paper/7745-objective-and-efficient-inference-for-couplings-in-neuronal-networks
+- 2018
+Occam&apos;s razor is insufficient to infer the preferences of irrational agents.:
+- http://papers.nips.cc/paper/7803-occams-razor-is-insufficient-to-infer-the-preferences-of-irrational-agents
+- 2018
+On Binary Classification in Extreme Regions.:
+- http://papers.nips.cc/paper/7572-on-binary-classification-in-extreme-regions
+- 2018
+On Controllable Sparse Alternatives to Softmax.:
+- http://papers.nips.cc/paper/7878-on-controllable-sparse-alternatives-to-softmax
+- 2018
+On Coresets for Logistic Regression.:
+- http://papers.nips.cc/paper/7891-on-coresets-for-logistic-regression
+- 2018
+On Fast Leverage Score Sampling and Optimal Learning.:
+- http://papers.nips.cc/paper/7810-on-fast-leverage-score-sampling-and-optimal-learning
+- 2018
+On GANs and GMMs.:
+- http://papers.nips.cc/paper/7826-on-gans-and-gmms
+- 2018
+On Learning Intrinsic Rewards for Policy Gradient Methods.:
+- http://papers.nips.cc/paper/7715-on-learning-intrinsic-rewards-for-policy-gradient-methods
+- 2018
+On Learning Markov Chains.:
+- http://papers.nips.cc/paper/7345-on-learning-markov-chains
+- 2018
+On Markov Chain Gradient Descent.:
+- http://papers.nips.cc/paper/8195-on-markov-chain-gradient-descent
+- 2018
+On Misinformation Containment in Online Social Networks.:
+- http://papers.nips.cc/paper/7317-on-misinformation-containment-in-online-social-networks
+- 2018
+On Neuronal Capacity.:
+- http://papers.nips.cc/paper/7999-on-neuronal-capacity
+- 2018
+On Oracle-Efficient PAC RL with Rich Observations.:
+- http://papers.nips.cc/paper/7416-on-oracle-efficient-pac-rl-with-rich-observations
+- 2018
+On gradient regularizers for MMD GANs.:
+- http://papers.nips.cc/paper/7904-on-gradient-regularizers-for-mmd-gans
+- 2018
+On preserving non-discrimination when combining expert advice.:
+- http://papers.nips.cc/paper/8058-on-preserving-non-discrimination-when-combining-expert-advice
+- 2018
+On the Convergence and Robustness of Training GANs with Regularized Optimal Transport.:
+- http://papers.nips.cc/paper/7940-on-the-convergence-and-robustness-of-training-gans-with-regularized-optimal-transport
+- 2018
+On the Dimensionality of Word Embedding.:
+- http://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding
+- 2018
+On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport.:
+- http://papers.nips.cc/paper/7567-on-the-global-convergence-of-gradient-descent-for-over-parameterized-models-using-optimal-transport
+- 2018
+On the Local Hessian in Back-propagation.:
+- http://papers.nips.cc/paper/7887-on-the-local-hessian-in-back-propagation
+- 2018
+On the Local Minima of the Empirical Risk.:
+- http://papers.nips.cc/paper/7738-on-the-local-minima-of-the-empirical-risk
+- 2018
+One-Shot Unsupervised Cross Domain Translation.:
+- http://papers.nips.cc/paper/7480-one-shot-unsupervised-cross-domain-translation
+- 2018
+Online Adaptive Methods, Universality and Acceleration.:
+- http://papers.nips.cc/paper/7885-online-adaptive-methods-universality-and-acceleration
+- 2018
+Online Improper Learning with an Approximation Oracle.:
+- http://papers.nips.cc/paper/7808-online-improper-learning-with-an-approximation-oracle
+- 2018
+Online Learning of Quantum States.:
+- http://papers.nips.cc/paper/8111-online-learning-of-quantum-states
+- 2018
+Online Learning with an Unknown Fairness Metric.:
+- http://papers.nips.cc/paper/7526-online-learning-with-an-unknown-fairness-metric
+- 2018
+Online Reciprocal Recommendation with Theoretical Performance Guarantees.:
+- http://papers.nips.cc/paper/8047-online-reciprocal-recommendation-with-theoretical-performance-guarantees
+- 2018
+Online Robust Policy Learning in the Presence of Unknown Adversaries.:
+- http://papers.nips.cc/paper/8197-online-robust-policy-learning-in-the-presence-of-unknown-adversaries
+- 2018
+Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks.:
+- http://papers.nips.cc/paper/7926-online-structure-learning-for-feed-forward-and-recurrent-sum-product-networks
+- 2018
+Online Structured Laplace Approximations for Overcoming Catastrophic Forgetting.:
+- http://papers.nips.cc/paper/7631-online-structured-laplace-approximations-for-overcoming-catastrophic-forgetting
+- 2018
+Online convex optimization for cumulative constraints.:
+- http://papers.nips.cc/paper/7852-online-convex-optimization-for-cumulative-constraints
+- 2018
+Optimal Algorithms for Continuous Non-monotone Submodular and DR-Submodular Maximization.:
+- http://papers.nips.cc/paper/8168-optimal-algorithms-for-continuous-non-monotone-submodular-and-dr-submodular-maximization
+- 2018
+Optimal Algorithms for Non-Smooth Distributed Optimization in Networks.:
+- http://papers.nips.cc/paper/7539-optimal-algorithms-for-non-smooth-distributed-optimization-in-networks
+- 2018
+Optimal Subsampling with Influence Functions.:
+- http://papers.nips.cc/paper/7623-optimal-subsampling-with-influence-functions
+- 2018
+Optimistic optimization of a Brownian.:
+- http://papers.nips.cc/paper/7564-optimistic-optimization-of-a-brownian
+- 2018
+Optimization for Approximate Submodularity.:
+- http://papers.nips.cc/paper/7322-optimization-for-approximate-submodularity
+- 2018
+Optimization of Smooth Functions with Noisy Observations - Local Minimax Rates.:
+- http://papers.nips.cc/paper/7687-optimization-of-smooth-functions-with-noisy-observations-local-minimax-rates
+- 2018
+Optimization over Continuous and Multi-dimensional Decisions with Observational Data.:
+- http://papers.nips.cc/paper/7560-optimization-over-continuous-and-multi-dimensional-decisions-with-observational-data
+- 2018
+Orthogonally Decoupled Variational Gaussian Processes.:
+- http://papers.nips.cc/paper/8088-orthogonally-decoupled-variational-gaussian-processes
+- 2018
+Out of the Box - Reasoning with Graph Convolution Nets for Factual Visual Question Answering.:
+- http://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering
+- 2018
+Out-of-Distribution Detection using Multiple Semantic Label Representations.:
+- http://papers.nips.cc/paper/7967-out-of-distribution-detection-using-multiple-semantic-label-representations
+- 2018
+Overcoming Language Priors in Visual Question Answering with Adversarial Regularization.:
+- http://papers.nips.cc/paper/7427-overcoming-language-priors-in-visual-question-answering-with-adversarial-regularization
+- 2018
+Overfitting or perfect fitting? Risk bounds for classification and regression rules that interpolate.:
+- http://papers.nips.cc/paper/7498-overfitting-or-perfect-fitting-risk-bounds-for-classification-and-regression-rules-that-interpolate
+- 2018
+Overlapping Clustering Models, and One (class) SVM to Bind Them All.:
+- http://papers.nips.cc/paper/7482-overlapping-clustering-models-and-one-class-svm-to-bind-them-all
+- 2018
+PAC-Bayes Tree - weighted subtrees with guarantees.:
+- http://papers.nips.cc/paper/8158-pac-bayes-tree-weighted-subtrees-with-guarantees
+- 2018
+PAC-Bayes bounds for stable algorithms with instance-dependent priors.:
+- http://papers.nips.cc/paper/8134-pac-bayes-bounds-for-stable-algorithms-with-instance-dependent-priors
+- 2018
+PAC-learning in the presence of adversaries.:
+- http://papers.nips.cc/paper/7307-pac-learning-in-the-presence-of-adversaries
+- 2018
+PCA of high dimensional random walks with comparison to neural network training.:
+- http://papers.nips.cc/paper/8232-pca-of-high-dimensional-random-walks-with-comparison-to-neural-network-training
+- 2018
+PG-TS - Improved Thompson Sampling for Logistic Contextual Bandits.:
+- http://papers.nips.cc/paper/7713-pg-ts-improved-thompson-sampling-for-logistic-contextual-bandits
+- 2018
+PacGAN - The power of two samples in generative adversarial networks.:
+- http://papers.nips.cc/paper/7423-pacgan-the-power-of-two-samples-in-generative-adversarial-networks
+- 2018
+Parameters as interacting particles - long time convergence and asymptotic error scaling of neural networks.:
+- http://papers.nips.cc/paper/7945-parameters-as-interacting-particles-long-time-convergence-and-asymptotic-error-scaling-of-neural-networks
+- 2018
+Paraphrasing Complex Network - Network Compression via Factor Transfer.:
+- http://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer
+- 2018
+Parsimonious Bayesian deep networks.:
+- http://papers.nips.cc/paper/7581-parsimonious-bayesian-deep-networks
+- 2018
+Parsimonious Quantile Regression of Financial Asset Tail Dynamics via Sequential Learning.:
+- http://papers.nips.cc/paper/7430-parsimonious-quantile-regression-of-financial-asset-tail-dynamics-via-sequential-learning
+- 2018
+Partially-Supervised Image Captioning.:
+- http://papers.nips.cc/paper/7458-partially-supervised-image-captioning
+- 2018
+Pelee - A Real-Time Object Detection System on Mobile Devices.:
+- http://papers.nips.cc/paper/7466-pelee-a-real-time-object-detection-system-on-mobile-devices
+- 2018
+Persistence Fisher Kernel - A Riemannian Manifold Kernel for Persistence Diagrams.:
+- http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams
+- 2018
+Phase Retrieval Under a Generative Prior.:
+- http://papers.nips.cc/paper/8127-phase-retrieval-under-a-generative-prior
+- 2018
+Pipe-SGD - A Decentralized Pipelined SGD Framework for Distributed Deep Net Training.:
+- http://papers.nips.cc/paper/8028-pipe-sgd-a-decentralized-pipelined-sgd-framework-for-distributed-deep-net-training
+- 2018
+Playing hard exploration games by watching YouTube.:
+- http://papers.nips.cc/paper/7557-playing-hard-exploration-games-by-watching-youtube
+- 2018
+Plug-in Estimation in High-Dimensional Linear Inverse Problems - A Rigorous Analysis.:
+- http://papers.nips.cc/paper/7973-plug-in-estimation-in-high-dimensional-linear-inverse-problems-a-rigorous-analysis
+- 2018
+Point process latent variable models of larval zebrafish behavior.:
+- http://papers.nips.cc/paper/8289-point-process-latent-variable-models-of-larval-zebrafish-behavior
+- 2018
+PointCNN - Convolution On X-Transformed Points.:
+- http://papers.nips.cc/paper/7362-pointcnn-convolution-on-x-transformed-points
+- 2018
+Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks.:
+- http://papers.nips.cc/paper/7849-poison-frogs-targeted-clean-label-poisoning-attacks-on-neural-networks
+- 2018
+Policy Optimization via Importance Sampling.:
+- http://papers.nips.cc/paper/7789-policy-optimization-via-importance-sampling
+- 2018
+Policy Regret in Repeated Games.:
+- http://papers.nips.cc/paper/7907-policy-regret-in-repeated-games
+- 2018
+Policy-Conditioned Uncertainty Sets for Robust Markov Decision Processes.:
+- http://papers.nips.cc/paper/8109-policy-conditioned-uncertainty-sets-for-robust-markov-decision-processes
+- 2018
+Porcupine Neural Networks - Approximating Neural Network Landscapes.:
+- http://papers.nips.cc/paper/7732-porcupine-neural-networks-approximating-neural-network-landscapes
+- 2018
+Post - Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization.:
+- http://papers.nips.cc/paper/8202-post-device-placement-with-cross-entropy-minimization-and-proximal-policy-optimization
+- 2018
+Posterior Concentration for Sparse Deep Learning.:
+- http://papers.nips.cc/paper/7372-posterior-concentration-for-sparse-deep-learning
+- 2018
+Power-law efficient neural codes provide general link between perceptual bias and discriminability.:
+- http://papers.nips.cc/paper/7754-power-law-efficient-neural-codes-provide-general-link-between-perceptual-bias-and-discriminability
+- 2018
+Practical Deep Stereo (PDS) - Toward applications-friendly deep stereo matching.:
+- http://papers.nips.cc/paper/7828-practical-deep-stereo-pds-toward-applications-friendly-deep-stereo-matching
+- 2018
+Practical Methods for Graph Two-Sample Testing.:
+- http://papers.nips.cc/paper/7565-practical-methods-for-graph-two-sample-testing
+- 2018
+Practical exact algorithm for trembling-hand equilibrium refinements in games.:
+- http://papers.nips.cc/paper/7751-practical-exact-algorithm-for-trembling-hand-equilibrium-refinements-in-games
+- 2018
+Precision and Recall for Time Series.:
+- http://papers.nips.cc/paper/7462-precision-and-recall-for-time-series
+- 2018
+Predict Responsibly - Improving Fairness and Accuracy by Learning to Defer.:
+- http://papers.nips.cc/paper/7853-predict-responsibly-improving-fairness-and-accuracy-by-learning-to-defer
+- 2018
+Predictive Approximate Bayesian Computation via Saddle Points.:
+- http://papers.nips.cc/paper/8228-predictive-approximate-bayesian-computation-via-saddle-points
+- 2018
+Predictive Uncertainty Estimation via Prior Networks.:
+- http://papers.nips.cc/paper/7936-predictive-uncertainty-estimation-via-prior-networks
+- 2018
+Preference Based Adaptation for Learning Objectives.:
+- http://papers.nips.cc/paper/8008-preference-based-adaptation-for-learning-objectives
+- 2018
+Privacy Amplification by Subsampling - Tight Analyses via Couplings and Divergences.:
+- http://papers.nips.cc/paper/7865-privacy-amplification-by-subsampling-tight-analyses-via-couplings-and-divergences
+- 2018
+Probabilistic Matrix Factorization for Automated Machine Learning.:
+- http://papers.nips.cc/paper/7595-probabilistic-matrix-factorization-for-automated-machine-learning
+- 2018
+Probabilistic Model-Agnostic Meta-Learning.:
+- http://papers.nips.cc/paper/8161-probabilistic-model-agnostic-meta-learning
+- 2018
+Probabilistic Neural Programmed Networks for Scene Generation.:
+- http://papers.nips.cc/paper/7658-probabilistic-neural-programmed-networks-for-scene-generation
+- 2018
+Processing of missing data by neural networks.:
+- http://papers.nips.cc/paper/7537-processing-of-missing-data-by-neural-networks
+- 2018
+Provable Gaussian Embedding with One Observation.:
+- http://papers.nips.cc/paper/7910-provable-gaussian-embedding-with-one-observation
+- 2018
+Provable Variational Inference for Constrained Log-Submodular Models.:
+- http://papers.nips.cc/paper/7535-provable-variational-inference-for-constrained-log-submodular-models
+- 2018
+Provably Correct Automatic Sub-Differentiation for Qualified Programs.:
+- http://papers.nips.cc/paper/7943-provably-correct-automatic-sub-differentiation-for-qualified-programs
+- 2018
+Proximal Graphical Event Models.:
+- http://papers.nips.cc/paper/8036-proximal-graphical-event-models
+- 2018
+Proximal SCOPE for Distributed Sparse Learning.:
+- http://papers.nips.cc/paper/7890-proximal-scope-for-distributed-sparse-learning
+- 2018
+Q-learning with Nearest Neighbors.:
+- http://papers.nips.cc/paper/7574-q-learning-with-nearest-neighbors
+- 2018
+Quadratic Decomposable Submodular Function Minimization.:
+- http://papers.nips.cc/paper/7383-quadratic-decomposable-submodular-function-minimization
+- 2018
+Quadrature-based features for kernel approximation.:
+- http://papers.nips.cc/paper/8128-quadrature-based-features-for-kernel-approximation
+- 2018
+Quantifying Learning Guarantees for Convex but Inconsistent Surrogates.:
+- http://papers.nips.cc/paper/7347-quantifying-learning-guarantees-for-convex-but-inconsistent-surrogates
+- 2018
+Query Complexity of Bayesian Private Learning.:
+- http://papers.nips.cc/paper/7510-query-complexity-of-bayesian-private-learning
+- 2018
+Query K-means Clustering and the Double Dixie Cup Problem.:
+- http://papers.nips.cc/paper/7899-query-k-means-clustering-and-the-double-dixie-cup-problem
+- 2018
+REFUEL - Exploring Sparse Features in Deep Reinforcement Learning for Fast Disease Diagnosis.:
+- http://papers.nips.cc/paper/7962-refuel-exploring-sparse-features-in-deep-reinforcement-learning-for-fast-disease-diagnosis
+- 2018
+Random Feature Stein Discrepancies.:
+- http://papers.nips.cc/paper/7460-random-feature-stein-discrepancies
+- 2018
+Randomized Prior Functions for Deep Reinforcement Learning.:
+- http://papers.nips.cc/paper/8080-randomized-prior-functions-for-deep-reinforcement-learning
+- 2018
+Re-evaluating evaluation.:
+- http://papers.nips.cc/paper/7588-re-evaluating-evaluation
+- 2018
+Realistic Evaluation of Deep Semi-Supervised Learning Algorithms.:
+- http://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms
+- 2018
+Rectangular Bounding Process.:
+- http://papers.nips.cc/paper/7989-rectangular-bounding-process
+- 2018
+Recurrent Relational Networks.:
+- http://papers.nips.cc/paper/7597-recurrent-relational-networks
+- 2018
+Recurrent Transformer Networks for Semantic Correspondence.:
+- http://papers.nips.cc/paper/7851-recurrent-transformer-networks-for-semantic-correspondence
+- 2018
+Recurrent World Models Facilitate Policy Evolution.:
+- http://papers.nips.cc/paper/7512-recurrent-world-models-facilitate-policy-evolution
+- 2018
+Recurrently Controlled Recurrent Networks.:
+- http://papers.nips.cc/paper/7723-recurrently-controlled-recurrent-networks
+- 2018
+Reducing Network Agnostophobia.:
+- http://papers.nips.cc/paper/8129-reducing-network-agnostophobia
+- 2018
+Regret Bounds for Online Portfolio Selection with a Cardinality Constraint.:
+- http://papers.nips.cc/paper/8258-regret-bounds-for-online-portfolio-selection-with-a-cardinality-constraint
+- 2018
+Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator.:
+- http://papers.nips.cc/paper/7673-regret-bounds-for-robust-adaptive-control-of-the-linear-quadratic-regulator
+- 2018
+Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior.:
+- http://papers.nips.cc/paper/8248-regret-bounds-for-meta-bayesian-optimization-with-an-unknown-gaussian-process-prior
+- 2018
+Regularization Learning Networks - Deep Learning for Tabular Datasets.:
+- http://papers.nips.cc/paper/7412-regularization-learning-networks-deep-learning-for-tabular-datasets
+- 2018
+Regularizing by the Variance of the Activations&apos; Sample-Variances.:
+- http://papers.nips.cc/paper/7481-regularizing-by-the-variance-of-the-activations-sample-variances
+- 2018
+Reinforced Continual Learning.:
+- http://papers.nips.cc/paper/7369-reinforced-continual-learning
+- 2018
+Reinforcement Learning for Solving the Vehicle Routing Problem.:
+- http://papers.nips.cc/paper/8190-reinforcement-learning-for-solving-the-vehicle-routing-problem
+- 2018
+Reinforcement Learning of Theorem Proving.:
+- http://papers.nips.cc/paper/8098-reinforcement-learning-of-theorem-proving
+- 2018
+Reinforcement Learning with Multiple Experts - A Bayesian Model Combination Approach.:
+- http://papers.nips.cc/paper/8162-reinforcement-learning-with-multiple-experts-a-bayesian-model-combination-approach
+- 2018
+Relating Leverage Scores and Density using Regularized Christoffel Functions.:
+- http://papers.nips.cc/paper/7438-relating-leverage-scores-and-density-using-regularized-christoffel-functions
+- 2018
+Relational recurrent neural networks.:
+- http://papers.nips.cc/paper/7960-relational-recurrent-neural-networks
+- 2018
+Removing Hidden Confounding by Experimental Grounding.:
+- http://papers.nips.cc/paper/8286-removing-hidden-confounding-by-experimental-grounding
+- 2018
+Removing the Feature Correlation Effect of Multiplicative Noise.:
+- http://papers.nips.cc/paper/7343-removing-the-feature-correlation-effect-of-multiplicative-noise
+- 2018
+RenderNet - A deep convolutional network for differentiable rendering from 3D shapes.:
+- http://papers.nips.cc/paper/8014-rendernet-a-deep-convolutional-network-for-differentiable-rendering-from-3d-shapes
+- 2018
+Reparameterization Gradient for Non-differentiable Models.:
+- http://papers.nips.cc/paper/7799-reparameterization-gradient-for-non-differentiable-models
+- 2018
+Representation Balancing MDPs for Off-policy Policy Evaluation.:
+- http://papers.nips.cc/paper/7530-representation-balancing-mdps-for-off-policy-policy-evaluation
+- 2018
+Representation Learning for Treatment Effect Estimation from Observational Data.:
+- http://papers.nips.cc/paper/7529-representation-learning-for-treatment-effect-estimation-from-observational-data
+- 2018
+Representation Learning of Compositional Data.:
+- http://papers.nips.cc/paper/7902-representation-learning-of-compositional-data
+- 2018
+Representer Point Selection for Explaining Deep Neural Networks.:
+- http://papers.nips.cc/paper/8141-representer-point-selection-for-explaining-deep-neural-networks
+- 2018
+ResNet with one-neuron hidden layers is a Universal Approximator.:
+- http://papers.nips.cc/paper/7855-resnet-with-one-neuron-hidden-layers-is-a-universal-approximator
+- 2018
+Rest-Katyusha - Exploiting the Solution&apos;s Structure via Scheduled Restart Schemes.:
+- http://papers.nips.cc/paper/7325-rest-katyusha-exploiting-the-solutions-structure-via-scheduled-restart-schemes
+- 2018
+RetGK - Graph Kernels based on Return Probabilities of Random Walks.:
+- http://papers.nips.cc/paper/7652-retgk-graph-kernels-based-on-return-probabilities-of-random-walks
+- 2018
+Reversible Recurrent Neural Networks.:
+- http://papers.nips.cc/paper/8117-reversible-recurrent-neural-networks
+- 2018
+Revisiting (\epsilon, \gamma, \tau)-similarity learning for domain adaptation.:
+- http://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation
+- 2018
+Revisiting Decomposable Submodular Function Minimization with Incidence Relations.:
+- http://papers.nips.cc/paper/7492-revisiting-decomposable-submodular-function-minimization-with-incidence-relations
+- 2018
+Revisiting Multi-Task Learning with ROCK - a Deep Residual Auxiliary Block for Visual Detection.:
+- http://papers.nips.cc/paper/7406-revisiting-multi-task-learning-with-rock-a-deep-residual-auxiliary-block-for-visual-detection
+- 2018
+Reward learning from human preferences and demonstrations in Atari.:
+- http://papers.nips.cc/paper/8025-reward-learning-from-human-preferences-and-demonstrations-in-atari
+- 2018
+Ridge Regression and Provable Deterministic Ridge Leverage Score Sampling.:
+- http://papers.nips.cc/paper/7513-ridge-regression-and-provable-deterministic-ridge-leverage-score-sampling
+- 2018
+Robot Learning in Homes - Improving Generalization and Reducing Dataset Bias.:
+- http://papers.nips.cc/paper/8123-robot-learning-in-homes-improving-generalization-and-reducing-dataset-bias
+- 2018
+Robust Detection of Adversarial Attacks by Modeling the Intrinsic Properties of Deep Neural Networks.:
+- http://papers.nips.cc/paper/8016-robust-detection-of-adversarial-attacks-by-modeling-the-intrinsic-properties-of-deep-neural-networks
+- 2018
+Robust Hypothesis Testing Using Wasserstein Uncertainty Sets.:
+- http://papers.nips.cc/paper/8015-robust-hypothesis-testing-using-wasserstein-uncertainty-sets
+- 2018
+Robust Learning of Fixed-Structure Bayesian Networks.:
+- http://papers.nips.cc/paper/8230-robust-learning-of-fixed-structure-bayesian-networks
+- 2018
+Robust Subspace Approximation in a Stream.:
+- http://papers.nips.cc/paper/8267-robust-subspace-approximation-in-a-stream
+- 2018
+Robustness of conditional GANs to noisy labels.:
+- http://papers.nips.cc/paper/8229-robustness-of-conditional-gans-to-noisy-labels
+- 2018
+SEGA - Variance Reduction via Gradient Sketching.:
+- http://papers.nips.cc/paper/7478-sega-variance-reduction-via-gradient-sketching
+- 2018
+SING - Symbol-to-Instrument Neural Generator.:
+- http://papers.nips.cc/paper/8118-sing-symbol-to-instrument-neural-generator
+- 2018
+SLANG - Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient.:
+- http://papers.nips.cc/paper/7862-slang-fast-structured-covariance-approximations-for-bayesian-deep-learning-with-natural-gradient
+- 2018
+SLAYER - Spike Layer Error Reassignment in Time.:
+- http://papers.nips.cc/paper/7415-slayer-spike-layer-error-reassignment-in-time
+- 2018
+SNIPER - Efficient Multi-Scale Training.:
+- http://papers.nips.cc/paper/8143-sniper-efficient-multi-scale-training
+- 2018
+SPIDER - Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator.:
+- http://papers.nips.cc/paper/7349-spider-near-optimal-non-convex-optimization-via-stochastic-path-integrated-differential-estimator
+- 2018
+Safe Active Learning for Time-Series Modeling with Gaussian Processes.:
+- http://papers.nips.cc/paper/7538-safe-active-learning-for-time-series-modeling-with-gaussian-processes
+- 2018
+? Sample Efficient Stochastic Gradient Iterative Hard Thresholding Method for Stochastic
+  Sparse Linear Regression with Limited Attribute Observation.
+: - http://papers.nips.cc/paper/7777-sample-efficient-stochastic-gradient-iterative-hard-thresholding-method-for-stochastic-sparse-linear-regression-with-limited-attribute-observation
+  - 2018
+Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion.:
+- http://papers.nips.cc/paper/8044-sample-efficient-reinforcement-learning-with-stochastic-ensemble-value-expansion
+- 2018
+Sanity Checks for Saliency Maps.:
+- http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps
+- 2018
+Scalable Coordinated Exploration in Concurrent Reinforcement Learning.:
+- http://papers.nips.cc/paper/7676-scalable-coordinated-exploration-in-concurrent-reinforcement-learning
+- 2018
+Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation.:
+- http://papers.nips.cc/paper/8189-scalable-end-to-end-autonomous-vehicle-testing-via-rare-event-simulation
+- 2018
+Scalable Hyperparameter Transfer Learning.:
+- http://papers.nips.cc/paper/7917-scalable-hyperparameter-transfer-learning
+- 2018
+Scalable Laplacian K-modes.:
+- http://papers.nips.cc/paper/8208-scalable-laplacian-k-modes
+- 2018
+Scalable Robust Matrix Factorization with Nonconvex Loss.:
+- http://papers.nips.cc/paper/7753-scalable-robust-matrix-factorization-with-nonconvex-loss
+- 2018
+Scalable methods for 8-bit training of neural networks.:
+- http://papers.nips.cc/paper/7761-scalable-methods-for-8-bit-training-of-neural-networks
+- 2018
+Scalar Posterior Sampling with Applications.:
+- http://papers.nips.cc/paper/7995-scalar-posterior-sampling-with-applications
+- 2018
+Scaling Gaussian Process Regression with Derivatives.:
+- http://papers.nips.cc/paper/7919-scaling-gaussian-process-regression-with-derivatives
+- 2018
+Scaling provable adversarial defenses.:
+- http://papers.nips.cc/paper/8060-scaling-provable-adversarial-defenses
+- 2018
+Scaling the Poisson GLM to massive neural datasets through polynomial approximations.:
+- http://papers.nips.cc/paper/7611-scaling-the-poisson-glm-to-massive-neural-datasets-through-polynomial-approximations
+- 2018
+Searching for Efficient Multi-Scale Architectures for Dense Image Prediction.:
+- http://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction
+- 2018
+See and Think - Disentangling Semantic Scene Completion.:
+- http://papers.nips.cc/paper/7310-see-and-think-disentangling-semantic-scene-completion
+- 2018
+Self-Erasing Network for Integral Object Attention.:
+- http://papers.nips.cc/paper/7336-self-erasing-network-for-integral-object-attention
+- 2018
+"Self-Supervised Generation of Spatial Audio for 360\xB0 Video.":
+- http://papers.nips.cc/paper/7319-self-supervised-generation-of-spatial-audio-for-360-video
+- 2018
+Semi-Supervised Learning with Declaratively Specified Entropy Constraints.:
+- http://papers.nips.cc/paper/7695-semi-supervised-learning-with-declaratively-specified-entropy-constraints
+- 2018
+Semi-crowdsourced Clustering with Deep Generative Models.:
+- http://papers.nips.cc/paper/7583-semi-crowdsourced-clustering-with-deep-generative-models
+- 2018
+Semi-supervised Deep Kernel Learning - Regression with Unlabeled Data by Minimizing Predictive Variance.:
+- http://papers.nips.cc/paper/7778-semi-supervised-deep-kernel-learning-regression-with-unlabeled-data-by-minimizing-predictive-variance
+- 2018
+Semidefinite relaxations for certifying robustness to adversarial examples.:
+- http://papers.nips.cc/paper/8285-semidefinite-relaxations-for-certifying-robustness-to-adversarial-examples
+- 2018
+Sequence-to-Segment Networks for Segment Detection.:
+- http://papers.nips.cc/paper/7610-sequence-to-segment-networks-for-segment-detection
+- 2018
+Sequential Attend, Infer, Repeat - Generative Modelling of Moving Objects.:
+- http://papers.nips.cc/paper/8079-sequential-attend-infer-repeat-generative-modelling-of-moving-objects
+- 2018
+Sequential Context Encoding for Duplicate Removal.:
+- http://papers.nips.cc/paper/7475-sequential-context-encoding-for-duplicate-removal
+- 2018
+Sequential Test for the Lowest Mean - From Thompson to Murphy Sampling.:
+- http://papers.nips.cc/paper/7870-sequential-test-for-the-lowest-mean-from-thompson-to-murphy-sampling
+- 2018
+Sharp Bounds for Generalized Uniformity Testing.:
+- http://papers.nips.cc/paper/7858-sharp-bounds-for-generalized-uniformity-testing
+- 2018
+Sigsoftmax - Reanalysis of the Softmax Bottleneck.:
+- http://papers.nips.cc/paper/7312-sigsoftmax-reanalysis-of-the-softmax-bottleneck
+- 2018
+SimplE Embedding for Link Prediction in Knowledge Graphs.:
+- http://papers.nips.cc/paper/7682-simple-embedding-for-link-prediction-in-knowledge-graphs
+- 2018
+Simple random search of static linear policies is competitive for reinforcement learning.:
+- http://papers.nips.cc/paper/7451-simple-random-search-of-static-linear-policies-is-competitive-for-reinforcement-learning
+- 2018
+Simple, Distributed, and Accelerated Probabilistic Programming.:
+- http://papers.nips.cc/paper/7987-simple-distributed-and-accelerated-probabilistic-programming
+- 2018
+Single-Agent Policy Tree Search With Guarantees.:
+- http://papers.nips.cc/paper/7582-single-agent-policy-tree-search-with-guarantees
+- 2018
+Size-Noise Tradeoffs in Generative Networks.:
+- http://papers.nips.cc/paper/7884-size-noise-tradeoffs-in-generative-networks
+- 2018
+Sketching Method for Large Scale Combinatorial Inference.:
+- http://papers.nips.cc/paper/8259-sketching-method-for-large-scale-combinatorial-inference
+- 2018
+Smoothed Analysis of Discrete Tensor Decomposition and Assemblies of Neurons.:
+- http://papers.nips.cc/paper/8283-smoothed-analysis-of-discrete-tensor-decomposition-and-assemblies-of-neurons
+- 2018
+Smoothed analysis of the low-rank approach for smooth semidefinite programs.:
+- http://papers.nips.cc/paper/7496-smoothed-analysis-of-the-low-rank-approach-for-smooth-semidefinite-programs
+- 2018
+Snap ML - A Hierarchical Framework for Machine Learning.:
+- http://papers.nips.cc/paper/7309-snap-ml-a-hierarchical-framework-for-machine-learning
+- 2018
+Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis.:
+- http://papers.nips.cc/paper/7329-soft-gated-warping-gan-for-pose-guided-person-image-synthesis
+- 2018
+Solving Large Sequential Games with the Excessive Gap Technique.:
+- http://papers.nips.cc/paper/7366-solving-large-sequential-games-with-the-excessive-gap-technique
+- 2018
+? Solving Non-smooth Constrained Programs with Lower Complexity than \mathcal{O}(1/\varepsilon)
+  - A Primal-Dual Homotopy Smoothing Approach.
+: - http://papers.nips.cc/paper/7655-solving-non-smooth-constrained-programs-with-lower-complexity-than-mathcalo1varepsilon-a-primal-dual-homotopy-smoothing-approach
+  - 2018
+Sparse Attentive Backtracking - Temporal Credit Assignment Through Reminding.:
+- http://papers.nips.cc/paper/7991-sparse-attentive-backtracking-temporal-credit-assignment-through-reminding
+- 2018
+Sparse Covariance Modeling in High Dimensions with Gaussian Processes.:
+- http://papers.nips.cc/paper/7354-sparse-covariance-modeling-in-high-dimensions-with-gaussian-processes
+- 2018
+Sparse DNNs with Improved Adversarial Robustness.:
+- http://papers.nips.cc/paper/7308-sparse-dnns-with-improved-adversarial-robustness
+- 2018
+Sparse PCA from Sparse Linear Regression.:
+- http://papers.nips.cc/paper/8291-sparse-pca-from-sparse-linear-regression
+- 2018
+Sparsified SGD with Memory.:
+- http://papers.nips.cc/paper/7697-sparsified-sgd-with-memory
+- 2018
+Speaker-Follower Models for Vision-and-Language Navigation.:
+- http://papers.nips.cc/paper/7592-speaker-follower-models-for-vision-and-language-navigation
+- 2018
+Spectral Filtering for General Linear Dynamical Systems.:
+- http://papers.nips.cc/paper/7714-spectral-filtering-for-general-linear-dynamical-systems
+- 2018
+Spectral Signatures in Backdoor Attacks.:
+- http://papers.nips.cc/paper/8024-spectral-signatures-in-backdoor-attacks
+- 2018
+SplineNets - Continuous Neural Decision Graphs.:
+- http://papers.nips.cc/paper/7470-splinenets-continuous-neural-decision-graphs
+- 2018
+Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning.:
+- http://papers.nips.cc/paper/7839-stacked-semantics-guided-attention-model-for-fine-grained-zero-shot-learning
+- 2018
+Statistical Optimality of Stochastic Gradient Descent on Hard Learning Problems through Multiple Passes.:
+- http://papers.nips.cc/paper/8034-statistical-optimality-of-stochastic-gradient-descent-on-hard-learning-problems-through-multiple-passes
+- 2018
+Statistical and Computational Trade-Offs in Kernel K-Means.:
+- http://papers.nips.cc/paper/8147-statistical-and-computational-trade-offs-in-kernel-k-means
+- 2018
+Statistical mechanics of low-rank tensor decomposition.:
+- http://papers.nips.cc/paper/8042-statistical-mechanics-of-low-rank-tensor-decomposition
+- 2018
+Stein Variational Gradient Descent as Moment Matching.:
+- http://papers.nips.cc/paper/8101-stein-variational-gradient-descent-as-moment-matching
+- 2018
+Step Size Matters in Deep Learning.:
+- http://papers.nips.cc/paper/7603-step-size-matters-in-deep-learning
+- 2018
+Stimulus domain transfer in recurrent models for large scale cortical population prediction on video.:
+- http://papers.nips.cc/paper/7950-stimulus-domain-transfer-in-recurrent-models-for-large-scale-cortical-population-prediction-on-video
+- 2018
+Stochastic Chebyshev Gradient Descent for Spectral Optimization.:
+- http://papers.nips.cc/paper/7968-stochastic-chebyshev-gradient-descent-for-spectral-optimization
+- 2018
+Stochastic Composite Mirror Descent - Optimal Bounds with High Probabilities.:
+- http://papers.nips.cc/paper/7425-stochastic-composite-mirror-descent-optimal-bounds-with-high-probabilities
+- 2018
+Stochastic Cubic Regularization for Fast Nonconvex Optimization.:
+- http://papers.nips.cc/paper/7554-stochastic-cubic-regularization-for-fast-nonconvex-optimization
+- 2018
+Stochastic Expectation Maximization with Variance Reduction.:
+- http://papers.nips.cc/paper/8021-stochastic-expectation-maximization-with-variance-reduction
+- 2018
+Stochastic Nested Variance Reduced Gradient Descent for Nonconvex Optimization.:
+- http://papers.nips.cc/paper/7648-stochastic-nested-variance-reduced-gradient-descent-for-nonconvex-optimization
+- 2018
+Stochastic Nonparametric Event-Tensor Decomposition.:
+- http://papers.nips.cc/paper/7918-stochastic-nonparametric-event-tensor-decomposition
+- 2018
+Stochastic Primal-Dual Method for Empirical Risk Minimization with O(1) Per-Iteration Complexity.:
+- http://papers.nips.cc/paper/8057-stochastic-primal-dual-method-for-empirical-risk-minimization-with-o1-per-iteration-complexity
+- 2018
+Stochastic Spectral and Conjugate Descent Methods.:
+- http://papers.nips.cc/paper/7596-stochastic-spectral-and-conjugate-descent-methods
+- 2018
+Streaming Kernel PCA with \tilde{O}(\sqrt{n}) Random Features.:
+- http://papers.nips.cc/paper/7961-streaming-kernel-pca-with-tildeosqrtn-random-features
+- 2018
+Streamlining Variational Inference for Constraint Satisfaction Problems.:
+- http://papers.nips.cc/paper/8255-streamlining-variational-inference-for-constraint-satisfaction-problems
+- 2018
+Structural Causal Bandits - Where to Intervene?:
+- http://papers.nips.cc/paper/7523-structural-causal-bandits-where-to-intervene
+- 2018
+Structure-Aware Convolutional Neural Networks.:
+- http://papers.nips.cc/paper/7287-structure-aware-convolutional-neural-networks
+- 2018
+Structured Local Minima in Sparse Blind Deconvolution.:
+- http://papers.nips.cc/paper/7500-structured-local-minima-in-sparse-blind-deconvolution
+- 2018
+Sublinear Time Low-Rank Approximation of Distance Matrices.:
+- http://papers.nips.cc/paper/7635-sublinear-time-low-rank-approximation-of-distance-matrices
+- 2018
+Submodular Field Grammars - Representation, Inference, and Application to Image Parsing.:
+- http://papers.nips.cc/paper/7684-submodular-field-grammars-representation-inference-and-application-to-image-parsing
+- 2018
+Submodular Maximization via Gradient Ascent - The Case of Deep Submodular Functions.:
+- http://papers.nips.cc/paper/8022-submodular-maximization-via-gradient-ascent-the-case-of-deep-submodular-functions
+- 2018
+Supervised autoencoders - Improving generalization performance with unsupervised regularizers.:
+- http://papers.nips.cc/paper/7296-supervised-autoencoders-improving-generalization-performance-with-unsupervised-regularizers
+- 2018
+Supervising Unsupervised Learning.:
+- http://papers.nips.cc/paper/7747-supervising-unsupervised-learning
+- 2018
+Support Recovery for Orthogonal Matching Pursuit - Upper and Lower bounds.:
+- http://papers.nips.cc/paper/8279-support-recovery-for-orthogonal-matching-pursuit-upper-and-lower-bounds
+- 2018
+Symbolic Graph Reasoning Meets Convolutions.:
+- http://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions
+- 2018
+Synaptic Strength For Convolutional Neural Network.:
+- http://papers.nips.cc/paper/8218-synaptic-strength-for-convolutional-neural-network
+- 2018
+Synthesize Policies for Transfer and Adaptation across Tasks and Environments.:
+- http://papers.nips.cc/paper/7393-synthesize-policies-for-transfer-and-adaptation-across-tasks-and-environments
+- 2018
+TADAM - Task dependent adaptive metric for improved few-shot learning.:
+- http://papers.nips.cc/paper/7352-tadam-task-dependent-adaptive-metric-for-improved-few-shot-learning
+- 2018
+TETRIS - TilE-matching the TRemendous Irregular Sparsity.:
+- http://papers.nips.cc/paper/7666-tetris-tile-matching-the-tremendous-irregular-sparsity
+- 2018
+Tangent - Automatic differentiation using source-code transformation for dynamically typed array programming.:
+- http://papers.nips.cc/paper/7863-tangent-automatic-differentiation-using-source-code-transformation-for-dynamically-typed-array-programming
+- 2018
+Task-Driven Convolutional Recurrent Models of the Visual System.:
+- http://papers.nips.cc/paper/7775-task-driven-convolutional-recurrent-models-of-the-visual-system
+- 2018
+Teaching Inverse Reinforcement Learners via Features and Demonstrations.:
+- http://papers.nips.cc/paper/8066-teaching-inverse-reinforcement-learners-via-features-and-demonstrations
+- 2018
+Temporal Regularization for Markov Decision Process.:
+- http://papers.nips.cc/paper/7449-temporal-regularization-for-markov-decision-process
+- 2018
+Temporal alignment and latent Gaussian process factor inference in population spike trains.:
+- http://papers.nips.cc/paper/8245-temporal-alignment-and-latent-gaussian-process-factor-inference-in-population-spike-trains
+- 2018
+Testing for Families of Distributions via the Fourier Transform.:
+- http://papers.nips.cc/paper/8210-testing-for-families-of-distributions-via-the-fourier-transform
+- 2018
+Text-Adaptive Generative Adversarial Networks - Manipulating Images with Natural Language.:
+- http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language
+- 2018
+The Cluster Description Problem - Complexity Results, Formulations and Approximations.:
+- http://papers.nips.cc/paper/7857-the-cluster-description-problem-complexity-results-formulations-and-approximations
+- 2018
+The Convergence of Sparsified Gradient Methods.:
+- http://papers.nips.cc/paper/7837-the-convergence-of-sparsified-gradient-methods
+- 2018
+The Description Length of Deep Learning models.:
+- http://papers.nips.cc/paper/7490-the-description-length-of-deep-learning-models
+- 2018
+The Effect of Network Width on the Performance of Large-batch Training.:
+- http://papers.nips.cc/paper/8142-the-effect-of-network-width-on-the-performance-of-large-batch-training
+- 2018
+The Everlasting Database - Statistical Validity at a Fair Price.:
+- http://papers.nips.cc/paper/7888-the-everlasting-database-statistical-validity-at-a-fair-price
+- 2018
+The Global Anchor Method for Quantifying Linguistic Shifts and Domain Adaptation.:
+- http://papers.nips.cc/paper/8152-the-global-anchor-method-for-quantifying-linguistic-shifts-and-domain-adaptation
+- 2018
+The Importance of Sampling inMeta-Reinforcement Learning.:
+- http://papers.nips.cc/paper/8140-the-importance-of-sampling-inmeta-reinforcement-learning
+- 2018
+The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization.:
+- http://papers.nips.cc/paper/8136-the-limit-points-of-optimistic-gradient-descent-in-min-max-optimization
+- 2018
+The Limits of Post-Selection Generalization.:
+- http://papers.nips.cc/paper/7876-the-limits-of-post-selection-generalization
+- 2018
+The Lingering of Gradients - How to Reuse Gradients Over Time.:
+- http://papers.nips.cc/paper/7400-the-lingering-of-gradients-how-to-reuse-gradients-over-time
+- 2018
+The Nearest Neighbor Information Estimator is Adaptively Near Minimax Rate-Optimal.:
+- http://papers.nips.cc/paper/7578-the-nearest-neighbor-information-estimator-is-adaptively-near-minimax-rate-optimal
+- 2018
+The Pessimistic Limits and Possibilities of Margin-based Losses in Semi-supervised Learning.:
+- http://papers.nips.cc/paper/7450-the-pessimistic-limits-and-possibilities-of-margin-based-losses-in-semi-supervised-learning
+- 2018
+The Physical Systems Behind Optimization Algorithms.:
+- http://papers.nips.cc/paper/7690-the-physical-systems-behind-optimization-algorithms
+- 2018
+The Price of Fair PCA - One Extra dimension.:
+- http://papers.nips.cc/paper/8294-the-price-of-fair-pca-one-extra-dimension
+- 2018
+The Price of Privacy for Low-rank Factorization.:
+- http://papers.nips.cc/paper/7672-the-price-of-privacy-for-low-rank-factorization
+- 2018
+The Sample Complexity of Semi-Supervised Learning with Nonparametric Mixture Models.:
+- http://papers.nips.cc/paper/8144-the-sample-complexity-of-semi-supervised-learning-with-nonparametric-mixture-models
+- 2018
+The Sparse Manifold Transform.:
+- http://papers.nips.cc/paper/8251-the-sparse-manifold-transform
+- 2018
+The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network.:
+- http://papers.nips.cc/paper/7786-the-spectrum-of-the-fisher-information-matrix-of-a-single-hidden-layer-neural-network
+- 2018
+The challenge of realistic music generation - modelling raw audio at scale.:
+- http://papers.nips.cc/paper/8023-the-challenge-of-realistic-music-generation-modelling-raw-audio-at-scale
+- 2018
+The committee machine - Computational to statistical gaps in learning a two-layers neural network.:
+- http://papers.nips.cc/paper/7584-the-committee-machine-computational-to-statistical-gaps-in-learning-a-two-layers-neural-network
+- 2018
+The emergence of multiple retinal cell types through efficient coding of natural movies.:
+- http://papers.nips.cc/paper/8150-the-emergence-of-multiple-retinal-cell-types-through-efficient-coding-of-natural-movies
+- 2018
+The promises and pitfalls of Stochastic Gradient Langevin Dynamics.:
+- http://papers.nips.cc/paper/8048-the-promises-and-pitfalls-of-stochastic-gradient-langevin-dynamics
+- 2018
+The streaming rollout of deep networks - towards fully model-parallel execution.:
+- http://papers.nips.cc/paper/7659-the-streaming-rollout-of-deep-networks-towards-fully-model-parallel-execution
+- 2018
+Theoretical Linear Convergence of Unfolded ISTA and Its Practical Weights and Thresholds.:
+- http://papers.nips.cc/paper/8120-theoretical-linear-convergence-of-unfolded-ista-and-its-practical-weights-and-thresholds
+- 2018
+Theoretical guarantees for EM under misspecified Gaussian mixture models.:
+- http://papers.nips.cc/paper/8176-theoretical-guarantees-for-em-under-misspecified-gaussian-mixture-models
+- 2018
+Thermostat-assisted continuously-tempered Hamiltonian Monte Carlo for Bayesian learning.:
+- http://papers.nips.cc/paper/8266-thermostat-assisted-continuously-tempered-hamiltonian-monte-carlo-for-bayesian-learning
+- 2018
+Third-order Smoothness Helps - Faster Stochastic Optimization Algorithms for Finding Local Minima.:
+- http://papers.nips.cc/paper/7704-third-order-smoothness-helps-faster-stochastic-optimization-algorithms-for-finding-local-minima
+- 2018
+Thwarting Adversarial Examples - An L_0-Robust Sparse Fourier Transform.:
+- http://papers.nips.cc/paper/8211-thwarting-adversarial-examples-an-l_0-robust-sparse-fourier-transform
+- 2018
+Tight Bounds for Collaborative PAC Learning via Multiplicative Weights.:
+- http://papers.nips.cc/paper/7618-tight-bounds-for-collaborative-pac-learning-via-multiplicative-weights
+- 2018
+To Trust Or Not To Trust A Classifier.:
+- http://papers.nips.cc/paper/7798-to-trust-or-not-to-trust-a-classifier
+- 2018
+Toddler-Inspired Visual Object Learning.:
+- http://papers.nips.cc/paper/7396-toddler-inspired-visual-object-learning
+- 2018
+TopRank - A practical algorithm for online stochastic ranking.:
+- http://papers.nips.cc/paper/7650-toprank-a-practical-algorithm-for-online-stochastic-ranking
+- 2018
+Topkapi - Parallel and Fast Sketches for Finding Top-K Frequent Elements.:
+- http://papers.nips.cc/paper/8287-topkapi-parallel-and-fast-sketches-for-finding-top-k-frequent-elements
+- 2018
+Total stochastic gradient algorithms and applications in reinforcement learning.:
+- http://papers.nips.cc/paper/8223-total-stochastic-gradient-algorithms-and-applications-in-reinforcement-learning
+- 2018
+Towards Deep Conversational Recommendations.:
+- http://papers.nips.cc/paper/8180-towards-deep-conversational-recommendations
+- 2018
+Towards Robust Detection of Adversarial Examples.:
+- http://papers.nips.cc/paper/7709-towards-robust-detection-of-adversarial-examples
+- 2018
+Towards Robust Interpretability with Self-Explaining Neural Networks.:
+- http://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks
+- 2018
+Towards Text Generation with Adversarially Learned Neural Outlines.:
+- http://papers.nips.cc/paper/7983-towards-text-generation-with-adversarially-learned-neural-outlines
+- 2018
+Towards Understanding Acceleration Tradeoff between Momentum and Asynchrony in Nonconvex Stochastic Optimization.:
+- http://papers.nips.cc/paper/7626-towards-understanding-acceleration-tradeoff-between-momentum-and-asynchrony-in-nonconvex-stochastic-optimization
+- 2018
+? Towards Understanding Learning Representations - To What Extent Do Different Neural
+  Networks Learn the Same Representation.
+: - http://papers.nips.cc/paper/8167-towards-understanding-learning-representations-to-what-extent-do-different-neural-networks-learn-the-same-representation
+  - 2018
+Trading robust representations for sample complexity through self-supervised visual experience.:
+- http://papers.nips.cc/paper/8170-trading-robust-representations-for-sample-complexity-through-self-supervised-visual-experience
+- 2018
+Training DNNs with Hybrid Block Floating Point.:
+- http://papers.nips.cc/paper/7327-training-dnns-with-hybrid-block-floating-point
+- 2018
+Training Deep Models Faster with Robust, Approximate Importance Sampling.:
+- http://papers.nips.cc/paper/7957-training-deep-models-faster-with-robust-approximate-importance-sampling
+- 2018
+Training Deep Neural Networks with 8-bit Floating Point Numbers.:
+- http://papers.nips.cc/paper/7994-training-deep-neural-networks-with-8-bit-floating-point-numbers
+- 2018
+Training Neural Networks Using Features Replay.:
+- http://papers.nips.cc/paper/7900-training-neural-networks-using-features-replay
+- 2018
+Training deep learning based denoisers without ground truth data.:
+- http://papers.nips.cc/paper/7587-training-deep-learning-based-denoisers-without-ground-truth-data
+- 2018
+Trajectory Convolution for Action Recognition.:
+- http://papers.nips.cc/paper/7489-trajectory-convolution-for-action-recognition
+- 2018
+Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis.:
+- http://papers.nips.cc/paper/7700-transfer-learning-from-speaker-verification-to-multispeaker-text-to-speech-synthesis
+- 2018
+Transfer Learning with Neural AutoML.:
+- http://papers.nips.cc/paper/8056-transfer-learning-with-neural-automl
+- 2018
+Transfer of Deep Reactive Policies for MDP Planning.:
+- http://papers.nips.cc/paper/8293-transfer-of-deep-reactive-policies-for-mdp-planning
+- 2018
+Transfer of Value Functions via Variational Methods.:
+- http://papers.nips.cc/paper/7856-transfer-of-value-functions-via-variational-methods
+- 2018
+Tree-to-tree Neural Networks for Program Translation.:
+- http://papers.nips.cc/paper/7521-tree-to-tree-neural-networks-for-program-translation
+- 2018
+Turbo Learning for CaptionBot and DrawingBot.:
+- http://papers.nips.cc/paper/7881-turbo-learning-for-captionbot-and-drawingbot
+- 2018
+Uncertainty Sampling is Preconditioned Stochastic Gradient Descent on Zero-One Loss.:
+- http://papers.nips.cc/paper/7927-uncertainty-sampling-is-preconditioned-stochastic-gradient-descent-on-zero-one-loss
+- 2018
+Uncertainty-Aware Attention for Reliable Interpretation and Prediction.:
+- http://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction
+- 2018
+Understanding Batch Normalization.:
+- http://papers.nips.cc/paper/7996-understanding-batch-normalization
+- 2018
+Understanding Regularized Spectral Clustering via Graph Conductance.:
+- http://papers.nips.cc/paper/8262-understanding-regularized-spectral-clustering-via-graph-conductance
+- 2018
+Understanding Weight Normalized Deep Neural Networks with Rectified Linear Units.:
+- http://papers.nips.cc/paper/7298-understanding-weight-normalized-deep-neural-networks-with-rectified-linear-units
+- 2018
+Understanding the Role of Adaptivity in Machine Teaching - The Case of Version Space Learners.:
+- http://papers.nips.cc/paper/7421-understanding-the-role-of-adaptivity-in-machine-teaching-the-case-of-version-space-learners
+- 2018
+Uniform Convergence of Gradients for Non-Convex Learning and Optimization.:
+- http://papers.nips.cc/paper/8091-uniform-convergence-of-gradients-for-non-convex-learning-and-optimization
+- 2018
+Universal Growth in Production Economies.:
+- http://papers.nips.cc/paper/7467-universal-growth-in-production-economies
+- 2018
+Unorganized Malicious Attacks Detection.:
+- http://papers.nips.cc/paper/7929-unorganized-malicious-attacks-detection
+- 2018
+Unsupervised Adversarial Invariance.:
+- http://papers.nips.cc/paper/7756-unsupervised-adversarial-invariance
+- 2018
+Unsupervised Attention-guided Image-to-Image Translation.:
+- http://papers.nips.cc/paper/7627-unsupervised-attention-guided-image-to-image-translation
+- 2018
+Unsupervised Cross-Modal Alignment of Speech and Text Embedding Spaces.:
+- http://papers.nips.cc/paper/7965-unsupervised-cross-modal-alignment-of-speech-and-text-embedding-spaces
+- 2018
+Unsupervised Depth Estimation, 3D Face Rotation and Replacement.:
+- http://papers.nips.cc/paper/8181-unsupervised-depth-estimation-3d-face-rotation-and-replacement
+- 2018
+Unsupervised Image-to-Image Translation Using Domain-Specific Variational Information Bound.:
+- http://papers.nips.cc/paper/8236-unsupervised-image-to-image-translation-using-domain-specific-variational-information-bound
+- 2018
+Unsupervised Learning of Artistic Styles with Archetypal Style Analysis.:
+- http://papers.nips.cc/paper/7893-unsupervised-learning-of-artistic-styles-with-archetypal-style-analysis
+- 2018
+Unsupervised Learning of Object Landmarks through Conditional Image Generation.:
+- http://papers.nips.cc/paper/7657-unsupervised-learning-of-object-landmarks-through-conditional-image-generation
+- 2018
+Unsupervised Learning of Shape and Pose with Differentiable Point Clouds.:
+- http://papers.nips.cc/paper/7545-unsupervised-learning-of-shape-and-pose-with-differentiable-point-clouds
+- 2018
+Unsupervised Learning of View-invariant Action Representations.:
+- http://papers.nips.cc/paper/7401-unsupervised-learning-of-view-invariant-action-representations
+- 2018
+Unsupervised Text Style Transfer using Language Models as Discriminators.:
+- http://papers.nips.cc/paper/7959-unsupervised-text-style-transfer-using-language-models-as-discriminators
+- 2018
+Unsupervised Video Object Segmentation for Deep Reinforcement Learning.:
+- http://papers.nips.cc/paper/7811-unsupervised-video-object-segmentation-for-deep-reinforcement-learning
+- 2018
+Uplift Modeling from Separate Labels.:
+- http://papers.nips.cc/paper/8198-uplift-modeling-from-separate-labels
+- 2018
+Using Large Ensembles of Control Variates for Variational Inference.:
+- http://papers.nips.cc/paper/8201-using-large-ensembles-of-control-variates-for-variational-inference
+- 2018
+Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise.:
+- http://papers.nips.cc/paper/8246-using-trusted-data-to-train-deep-networks-on-labels-corrupted-by-severe-noise
+- 2018
+Variance-Reduced Stochastic Gradient Descent on Streaming Data.:
+- http://papers.nips.cc/paper/8196-variance-reduced-stochastic-gradient-descent-on-streaming-data
+- 2018
+Variational Bayesian Monte Carlo.:
+- http://papers.nips.cc/paper/8043-variational-bayesian-monte-carlo
+- 2018
+Variational Inference with Tail-adaptive f-Divergence.:
+- http://papers.nips.cc/paper/7816-variational-inference-with-tail-adaptive-f-divergence
+- 2018
+Variational Inverse Control with Events - A General Framework for Data-Driven Reward Definition.:
+- http://papers.nips.cc/paper/8073-variational-inverse-control-with-events-a-general-framework-for-data-driven-reward-definition
+- 2018
+Variational Learning on Aggregate Outputs with Gaussian Processes.:
+- http://papers.nips.cc/paper/7847-variational-learning-on-aggregate-outputs-with-gaussian-processes
+- 2018
+Variational Memory Encoder-Decoder.:
+- http://papers.nips.cc/paper/7424-variational-memory-encoder-decoder
+- 2018
+Variational PDEs for Acceleration on Manifolds and Application to Diffeomorphisms.:
+- http://papers.nips.cc/paper/7636-variational-pdes-for-acceleration-on-manifolds-and-application-to-diffeomorphisms
+- 2018
+Verifiable Reinforcement Learning via Policy Extraction.:
+- http://papers.nips.cc/paper/7516-verifiable-reinforcement-learning-via-policy-extraction
+- 2018
+Video Prediction via Selective Sampling.:
+- http://papers.nips.cc/paper/7442-video-prediction-via-selective-sampling
+- 2018
+Video-to-Video Synthesis.:
+- http://papers.nips.cc/paper/7391-video-to-video-synthesis
+- 2018
+VideoCapsuleNet - A Simplified Network for Action Detection.:
+- http://papers.nips.cc/paper/7988-videocapsulenet-a-simplified-network-for-action-detection
+- 2018
+Virtual Class Enhanced Discriminative Embedding Learning.:
+- http://papers.nips.cc/paper/7464-virtual-class-enhanced-discriminative-embedding-learning
+- 2018
+Visual Memory for Robust Path Following.:
+- http://papers.nips.cc/paper/7357-visual-memory-for-robust-path-following
+- 2018
+Visual Object Networks - Image Generation with Disentangled 3D Representations.:
+- http://papers.nips.cc/paper/7297-visual-object-networks-image-generation-with-disentangled-3d-representations
+- 2018
+Visual Reinforcement Learning with Imagined Goals.:
+- http://papers.nips.cc/paper/8132-visual-reinforcement-learning-with-imagined-goals
+- 2018
+Visualizing the Loss Landscape of Neural Nets.:
+- http://papers.nips.cc/paper/7875-visualizing-the-loss-landscape-of-neural-nets
+- 2018
+Wasserstein Distributionally Robust Kalman Filtering.:
+- http://papers.nips.cc/paper/8067-wasserstein-distributionally-robust-kalman-filtering
+- 2018
+Wasserstein Variational Inference.:
+- http://papers.nips.cc/paper/7514-wasserstein-variational-inference
+- 2018
+Watch Your Step - Learning Node Embeddings via Graph Attention.:
+- http://papers.nips.cc/paper/8131-watch-your-step-learning-node-embeddings-via-graph-attention
+- 2018
+Wavelet regression and additive models for irregularly spaced data.:
+- http://papers.nips.cc/paper/8112-wavelet-regression-and-additive-models-for-irregularly-spaced-data
+- 2018
+Weakly Supervised Dense Event Captioning in Videos.:
+- http://papers.nips.cc/paper/7569-weakly-supervised-dense-event-captioning-in-videos
+- 2018
+When do random forests fail?:
+- http://papers.nips.cc/paper/7562-when-do-random-forests-fail
+- 2018
+Where Do You Think You&apos;re Going? - Inferring Beliefs about Dynamics from Behavior.:
+- http://papers.nips.cc/paper/7419-where-do-you-think-youre-going-inferring-beliefs-about-dynamics-from-behavior
+- 2018
+Which Neural Net Architectures Give Rise to Exploding and Vanishing Gradients?:
+- http://papers.nips.cc/paper/7339-which-neural-net-architectures-give-rise-to-exploding-and-vanishing-gradients
+- 2018
+Why Is My Classifier Discriminatory?:
+- http://papers.nips.cc/paper/7613-why-is-my-classifier-discriminatory
+- 2018
+Why so gloomy? A Bayesian explanation of human pessimism bias in the multi-armed bandit task.:
+- http://papers.nips.cc/paper/7764-why-so-gloomy-a-bayesian-explanation-of-human-pessimism-bias-in-the-multi-armed-bandit-task
+- 2018
+With Friends Like These, Who Needs Adversaries?:
+- http://papers.nips.cc/paper/8273-with-friends-like-these-who-needs-adversaries
+- 2018
+Zero-Shot Transfer with Deictic Object-Oriented Representation in Reinforcement Learning.:
+- http://papers.nips.cc/paper/7497-zero-shot-transfer-with-deictic-object-oriented-representation-in-reinforcement-learning
+- 2018
+Zeroth-Order Stochastic Variance Reduction for Nonconvex Optimization.:
+- http://papers.nips.cc/paper/7630-zeroth-order-stochastic-variance-reduction-for-nonconvex-optimization
+- 2018
+Zeroth-order (Non)-Convex Stochastic Optimization via Conditional Gradient and Gradient Updates.:
+- http://papers.nips.cc/paper/7605-zeroth-order-non-convex-stochastic-optimization-via-conditional-gradient-and-gradient-updates
+- 2018
+\ell_1-regression with Heavy-tailed Distributions.:
+- http://papers.nips.cc/paper/7385-ell_1-regression-with-heavy-tailed-distributions
+- 2018
+cpSGD - Communication-efficient and differentially-private distributed SGD.:
+- http://papers.nips.cc/paper/7984-cpsgd-communication-efficient-and-differentially-private-distributed-sgd
+- 2018
+e-SNLI - Natural Language Inference with Natural Language Explanations.:
+- http://papers.nips.cc/paper/8163-e-snli-natural-language-inference-with-natural-language-explanations
+- 2018
+rho-POMDPs have Lipschitz-Continuous epsilon-Optimal Value Functions.:
+- http://papers.nips.cc/paper/7925-rho-pomdps-have-lipschitz-continuous-epsilon-optimal-value-functions
+- 2018

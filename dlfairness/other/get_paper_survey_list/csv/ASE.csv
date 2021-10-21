@@ -1,0 +1,114 @@
+Conf,Title,Link
+ASE2020,A Program Verification based Approach to Find Data Race Vulnerabilities in Interrupt-driven Program.,https://doi.org/10.1145/3324884.3418925
+ASE2020,BUILDFAST - History-Aware Build Outcome Prediction for Fast Feedback and Reduced Cost in Continuous Integration.,https://doi.org/10.1145/3324884.3416616
+ASE2020,Cats Are Not Fish - Deep Learning Testing Calls for Out-Of-Distribution Awareness.,https://doi.org/10.1145/3324884.3416609
+ASE2020,Making Fair ML Software using Trustworthy Explanation.,https://doi.org/10.1145/3324884.3418932
+ASE2020,Managing App Testing Device Clouds - Issues and Opportunities.,https://doi.org/10.1145/3324884.3418909
+ASE2020,MinerRay - Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection.,https://doi.org/10.1145/3324884.3416580
+ASE2020,OCoR - An Overlapping-Aware Code Retriever.,https://doi.org/10.1145/3324884.3416530
+ASE2020,Problems and Opportunities in Training Deep Learning Software Systems - An Analysis of Variance.,https://doi.org/10.1145/3324884.3416545
+ASE2020,SADT - Syntax-Aware Differential Testing of Certificate Validation in SSL/TLS Implementations.,https://doi.org/10.1145/3324884.3416552
+ASE2020,Subdomain-Based Generality-Aware Debloating.,https://doi.org/10.1145/3324884.3416644
+ASE2020,Trace-Checking Signal-based Temporal Properties - A Model-Driven Approach.,https://doi.org/10.1145/3324884.3416631
+ASE2020,Zeror - Speed Up Fuzzing with Coverage-sensitive Tracing and Scheduling.,https://doi.org/10.1145/3324884.3416572
+ASE2019,An Industrial Experience Report on Performance-Aware Refactoring on a Database-Centric Web Application.,https://doi.org/10.1109/ASE.2019.00066
+ASE2019,Feature-Interaction Aware Configuration Prioritization for Configurable Code.,https://doi.org/10.1109/ASE.2019.00053
+ASE2019,PTracer - A Linux Kernel Patch Trace Bot.,https://doi.org/10.1109/ASE.2019.00140
+ASE2019,Root Cause Localization for Unreproducible Builds via Causality Analysis Over System Call Tracing.,https://doi.org/10.1109/ASE.2019.00056
+ASE2019,SCMiner - Localizing System-Level Concurrency Faults from Large System Call Traces.,https://doi.org/10.1109/ASE.2019.00055
+ASE2019,User Preference Aware Multimedia Pricing Model using Game Theory and Prospect Theory for Wireless Communications.,https://doi.org/10.1109/ASE.2019.00157
+ASE2018,Automated directed fairness testing.,https://doi.org/10.1145/3238147.3238165
+ASE2018,Empirically assessing opportunities for prefetching and caching in mobile apps.,https://doi.org/10.1145/3238147.3238215
+ASE2018,Estimating the number of remaining links in traceability recovery (journal-first abstract).,https://doi.org/10.1145/3238147.3241982
+ASE2018,FairFuzz - a targeted mutation strategy for increasing greybox fuzz testing coverage.,https://doi.org/10.1145/3238147.3238176
+ASE2018,S-gram - towards semantic-aware security auditing for Ethereum smart contracts.,https://doi.org/10.1145/3238147.3240728
+ASE2018,The need for context in software engineering (IEEE CS Harlan Mills award keynote).,https://doi.org/10.1145/3238147.3241987
+ASE2018,code_call_lens - raising the developer awareness of critical code.,https://doi.org/10.1145/3238147.3240488
+ASE2017,Are developers aware of the architectural impact of their changes?,https://doi.org/10.1109/ASE.2017.8115622
+ASE2017,Context-aware integrated development environment command recommender systems.,https://doi.org/10.1109/ASE.2017.8115679
+ASE2017,Privacy-aware data-intensive applications.,https://doi.org/10.1109/ASE.2017.8115726
+ASE2017,TREM - a tool for mining timed regular specifications from system traces.,https://doi.org/10.1109/ASE.2017.8115702
+ASE2017,Towards a software vulnerability prediction model using traceable code patterns and software metrics.,https://doi.org/10.1109/ASE.2017.8115724
+ASE2017,Towards robust instruction-level trace alignment of binary code.,https://doi.org/10.1109/ASE.2017.8115647
+ASE2017,Towards the automatic classification of traceability links.,https://doi.org/10.1109/ASE.2017.8115723
+ASE2017,TrEKer - tracing error propagation in operating system kernels.,https://doi.org/10.1109/ASE.2017.8115650
+ASE2016,An empirical study on dependence clusters for effort-aware fault-proneness prediction.,https://doi.org/10.1145/2970276.2970353
+ASE2016,Battery-aware transformations in mobile applications.,https://doi.org/10.1145/2970276.2970324
+ASE2016,Radius aware probabilistic testing of deadlocks with guarantees.,https://doi.org/10.1145/2970276.2970307
+ASE2016,Reflection-aware static analysis of Android apps.,https://doi.org/10.1145/2970276.2970277
+ASE2016,Static race detection for device drivers - the Goblint approach.,https://doi.org/10.1145/2970276.2970337
+ASE2016,Traceability maintenance - factors and guidelines.,https://doi.org/10.1145/2970276.2970314
+ASE2015,Array Shadow State Compression for Precise Dynamic Race Detection (T).,https://doi.org/10.1109/ASE.2015.19
+ASE2015,Configuration-Aware Change Impact Analysis (T).,https://doi.org/10.1109/ASE.2015.58
+ASE2015,Have We Seen Enough Traces? (T).,https://doi.org/10.1109/ASE.2015.62
+ASE2015,Optimistic Shared Memory Dependence Tracing (T).,https://doi.org/10.1109/ASE.2015.11
+ASE2015,Scaling Size and Parameter Spaces in Variability-Aware Software Performance Models (T).,https://doi.org/10.1109/ASE.2015.16
+ASE2014,Abstraction-aware verifying compiler for yet another MDD.,https://doi.org/10.1145/2642937.2642952
+ASE2014,Behavioral resource-aware model inference.,https://doi.org/10.1145/2642937.2642988
+ASE2014,Compatibility testing using patterns-based trace comparison.,https://doi.org/10.1145/2642937.2642942
+ASE2014,Discriminating influences among instructions in a dynamic slice.,https://doi.org/10.1145/2642937.2642962
+ASE2014,Diver - precise dynamic impact analysis using dependence-based trace pruning.,https://doi.org/10.1145/2642937.2642950
+ASE2014,Dompletion - DOM-aware JavaScript code completion.,https://doi.org/10.1145/2642937.2642981
+ASE2014,Potential biases in bug localization - do they matter?,https://doi.org/10.1145/2642937.2642997
+ASE2014,Towards an intelligent domain-specific traceability solution.,https://doi.org/10.1145/2642937.2642970
+ASE2014,Tracing software build processes to uncover license compliance inconsistencies.,https://doi.org/10.1145/2642937.2643013
+ASE2014,Variability-aware change impact analysis of multi-language product lines.,https://doi.org/10.1145/2642937.2653472
+ASE2013,Context-aware task allocation for distributed agile team.,https://doi.org/10.1109/ASE.2013.6693151
+ASE2013,Efficient data race prediction with incremental reasoning on time-stamped lock history.,https://doi.org/10.1109/ASE.2013.6693064
+ASE2013,Learning effective query transformations for enhanced requirements trace retrieval.,https://doi.org/10.1109/ASE.2013.6693117
+ASE2013,PIEtrace - Platform independent executable trace.,https://doi.org/10.1109/ASE.2013.6693065
+ASE2013,Recovering model transformation traces using multi-objective optimization.,https://doi.org/10.1109/ASE.2013.6693134
+ASE2013,Variability-aware performance prediction - A statistical learning approach.,https://doi.org/10.1109/ASE.2013.6693089
+ASE2012,Code patterns for automatically validating requirements-to-code traces.,https://doi.org/10.1145/2351676.2351705
+ASE2012,JStereoCode - automatically identifying method and class stereotypes in Java code.,https://doi.org/10.1145/2351676.2351747
+ASE2012,Structured merge with auto-tuning - balancing precision and performance.,https://doi.org/10.1145/2351676.2351694
+ASE2012,Test suite selection based on traceability annotations.,https://doi.org/10.1145/2351676.2351742
+ASE2012,User-aware privacy control via extended static-information-flow analysis.,https://doi.org/10.1145/2351676.2351689
+ASE2011,Detection of feature interactions using feature-aware verification.,https://doi.org/10.1109/ASE.2011.6100075
+ASE2011,Do software engineers benefit from source code navigation with traceability? - An experiment in software change management.,https://doi.org/10.1109/ASE.2011.6100095
+ASE2011,Improving automated documentation to code traceability by combining retrieval techniques.,https://doi.org/10.1109/ASE.2011.6100057
+ASE2011,Observations on the connectedness between requirements-to-code traces and calling relationships for trace validation.,https://doi.org/10.1109/ASE.2011.6100087
+ASE2011,Towards requirements aware systems - Run-time resolution of design-time assumptions.,https://doi.org/10.1109/ASE.2011.6100125
+ASE2011,Tracing requirements to tests with high precision and recall.,https://doi.org/10.1109/ASE.2011.6100102
+ASE2010,Extraction and visualization of traceability relationships between documents and source code.,https://doi.org/10.1145/1858996.1859098
+ASE2010,Random unit-test generation with MUT-aware sequence recommendation.,https://doi.org/10.1145/1858996.1859054
+ASE2010,Towards mining replacement queries for hard-to-retrieve traces.,https://doi.org/10.1145/1858996.1859046
+ASE2009,A Verification-Driven Approach to Traceability and Documentation for Auto-Generated Mathematical Software.,https://doi.org/10.1109/ASE.2009.71
+ASE2009,Automatic Generation of Object Usage Specifications from Large Method Traces.,https://doi.org/10.1109/ASE.2009.60
+ASE2009,Clone-Aware Configuration Management.,https://doi.org/10.1109/ASE.2009.90
+ASE2009,Precise Data Race Detection in a Relaxed Memory Model Using Heuristic-Based Model Checking.,https://doi.org/10.1109/ASE.2009.82
+ASE2008,Enabling Automated Traceability Maintenance by Recognizing Development Activities Applied to Models.,https://doi.org/10.1109/ASE.2008.15
+ASE2008,IR-Based Traceability Recovery Processes - An Empirical Comparison of &quot;One-Shot&quot; and Incremental Processes.,https://doi.org/10.1109/ASE.2008.14
+ASE2008,Incremental Latent Semantic Indexing for Automatic Traceability Link Evolution Management.,https://doi.org/10.1109/ASE.2008.16
+ASE2008,Query-Aware Test Generation Using a Relational Constraint Solver.,https://doi.org/10.1109/ASE.2008.34
+ASE2008,Tools for Traceability in Secure Software Development.,https://doi.org/10.1109/ASE.2008.92
+ASE2007,Clustering support for automated tracing.,https://doi.org/10.1145/1321631.1321668
+ASE2007,Context-aware statistical debugging - from bug predictors to faulty control flow paths.,https://doi.org/10.1145/1321631.1321660
+ASE2007,Feature location via information retrieval based filtering of a single scenario execution trace.,https://doi.org/10.1145/1321631.1321667
+ASE2007,Inferring structural patterns for concern traceability in evolving software.,https://doi.org/10.1145/1321631.1321669
+ASE2007,Mastering combinatorial explosion with the tobias-2 test generator.,https://doi.org/10.1145/1321631.1321731
+ASE2007,Mining modal scenario-based specifications from execution traces of reactive systems.,https://doi.org/10.1145/1321631.1321710
+ASE2007,Reducing irrelevant trace variations.,https://doi.org/10.1145/1321631.1321713
+ASE2007,Towards supporting awareness of indirect conflicts across software configuration management workspaces.,https://doi.org/10.1145/1321631.1321647
+ASE2007,Using traceability to support model-based regression testing.,https://doi.org/10.1145/1321631.1321744
+ASE2007,Validating system properties exhibited in execution traces.,https://doi.org/10.1145/1321631.1321723
+ASE2006,ArchTrace - Policy-Based Support for Managing Evolving Architecture-to-Implementation Traceability Links.,https://doi.org/10.1109/ASE.2006.16
+ASE2006,Automating Software Traceability in Very Small Companies - A Case Study and Lessons Learne.,https://doi.org/10.1109/ASE.2006.25
+ASE2006,Energy-Awareness in Distributed Java-Based Software Systems.,https://doi.org/10.1109/ASE.2006.36
+ASE2006,Tobias-Z - An executable formal specification of a test generator.,https://doi.org/10.1109/ASE.2006.67
+ASE2006,Winning the DARPA Grand Challenge - A Robot Race through the Mojave Desert.,https://doi.org/10.1109/ASE.2006.74
+ASE2005,3rd international workshop on traceability in emerging forms of software engineering (TEFSE 2005).,https://doi.org/10.1145/1101908.1102002
+ASE2005,A similarity-aware approach to testing based fault localization.,https://doi.org/10.1145/1101908.1101953
+ASE2005,"Data mining and cross-checking of execution traces - a re-interpretation of Jones, Harrold and Stasko test information.",https://doi.org/10.1145/1101908.1101979
+ASE2005,Determining the cost-quality trade-off for automated software traceability.,https://doi.org/10.1145/1101908.1101970
+ASE2005,NFRs-aware architectural evolution of component-based software.,https://doi.org/10.1145/1101908.1101977
+ASE2005,Optimized run-time race detection and atomicity checking using partial discovered types.,https://doi.org/10.1145/1101908.1101944
+ASE2005,QoS-aware dynamic service composition in ambient intelligence environments.,https://doi.org/10.1145/1101908.1101959
+ASE2004,Aspect Mining Using Event Traces.,http://doi.ieeecomputersociety.org/10.1109/ASE.2004.10018
+ASE2004,Automating Traceability for Generated Software Artifacts .,http://doi.ieeecomputersociety.org/10.1109/ASE.2004.10019
+ASE2004,Context-Aware Code Certification.,http://doi.ieeecomputersociety.org/10.1109/ASE.2004.10044
+ASE2004,Modeling and Simulation of Context-Aware Mobile Systems.,http://doi.ieeecomputersociety.org/10.1109/ASE.2004.10012
+ASE2003,An Approach for Tracing and Understanding Asynchronous Architectures.,https://doi.org/10.1109/ASE.2003.1240329
+ASE2002,Automating Requirements Traceability - Beyond the Record &amp; Replay Paradigm.,https://doi.org/10.1109/ASE.2002.1115010
+ASE2001,Context-Aware Browsing of Large Component Repositories.,https://doi.org/10.1109/ASE.2001.989795
+ASE2001,Tracing Execution of Software for Design Coverage.,https://doi.org/10.1109/ASE.2001.989822

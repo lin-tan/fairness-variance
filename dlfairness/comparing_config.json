@@ -1,0 +1,53 @@
+[
+  {
+    "description": "comparing adversarial training with resnet32 on cifar10 fgsm vs pdg",
+    "approaches": [
+      {
+        "network" :"resnet32",
+        "training_type": "adv_fgsm",
+        "dataset": "cifar10",
+        "random_seed": "fixed"
+      },
+      {
+        "network" :"resnet32",
+        "training_type": "adv_pgd",
+        "dataset": "cifar10",
+        "random_seed": "fixed"
+      }
+    ]
+  },
+  {
+    "description": "comparing adversarial training with resnet32 on cifar10 fgsm vs pdg",
+    "approaches": [
+      {
+        "network" :"resnet32",
+        "training_type": "adv_fgsm",
+        "dataset": "cifar10",
+        "random_seed": "fixed"
+      },
+      {
+        "network" :"WRN32-10",
+        "training_type": "adv_fgsm",
+        "dataset": "cifar10",
+        "random_seed": "fixed"
+      }
+    ]
+  },
+  {
+    "description": "comparing adversarial training with WRN32-10 on cifar10 fgsm vs pdg",
+    "approaches": [
+      {
+        "network" :"WRN32-10",
+        "training_type": "adv_fgsm",
+        "dataset": "cifar10",
+        "random_seed": "fixed"
+      },
+      {
+        "network" :"WRN32-10",
+        "training_type": "adv_pgd",
+        "dataset": "cifar10",
+        "random_seed": "fixed"
+      }
+    ]
+  }
+]

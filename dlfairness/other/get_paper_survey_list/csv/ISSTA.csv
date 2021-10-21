@@ -1,0 +1,33 @@
+Conf,Title,Link
+ISSTA2020,CoCoNuT - combining context-aware neural translation models using ensemble for program repair.,https://doi.org/10.1145/3395363.3397369
+ISSTA2020,Dependent-test-aware regression testing techniques.,https://doi.org/10.1145/3395363.3397364
+ISSTA2020,Program-aware fuzzing for MQTT applications.,https://doi.org/10.1145/3395363.3402645
+ISSTA2018,MalViz - an interactive visualization tool for tracing malware.,https://doi.org/10.1145/3213846.3229501
+ISSTA2018,Managing concurrent testing of data race with ComRaDe.,https://doi.org/10.1145/3213846.3229502
+ISSTA2018,Tests from traces - automated unit test extraction for R.,https://doi.org/10.1145/3213846.3213863
+ISSTA2017,Automatic detection and validation of race conditions in interrupt-driven embedded software.,https://doi.org/10.1145/3092703.3092724
+ISSTA2017,CPR - cross platform binary code reuse via platform independent trace program.,https://doi.org/10.1145/3092703.3092707
+ISSTA2016,ARROW - automated repair of races on client-side web pages.,https://doi.org/10.1145/2931037.2931052
+ISSTA2016,Automatically verifying and reproducing event-based races in Android apps.,https://doi.org/10.1145/2931037.2931069
+ISSTA2016,Efficient race detection in the presence of programmatic event loops.,https://doi.org/10.1145/2931037.2931068
+ISSTA2016,Energy-aware test-suite minimization for Android apps.,https://doi.org/10.1145/2931037.2931067
+ISSTA2016,Mutation-aware fault prediction.,https://doi.org/10.1145/2931037.2931039
+ISSTA2015,BrowserAudit - automated testing of browser security features.,https://doi.org/10.1145/2771783.2771789
+ISSTA2015,Cost-aware combinatorial interaction testing (doctoral symposium).,https://doi.org/10.1145/2771783.2784775
+ISSTA2013,Practical static race detection for Java parallel loops.,https://doi.org/10.1145/2483760.2483765
+ISSTA2013,SimRacer - an automated framework to support testing for process-level races.,https://doi.org/10.1145/2483760.2483771
+ISSTA2012,CARISMA - a context-sensitive approach to race-condition sample-instance selection for multithreaded applications.,https://doi.org/10.1145/2338965.2336780
+ISSTA2012,Measuring enforcement windows with symbolic trace interpretation - what well-behaved programs say.,https://doi.org/10.1145/2338965.2336786
+ISSTA2012,State aware test case regeneration for improving web application test suite coverage and fault detection.,https://doi.org/10.1145/2338965.2336759
+ISSTA2011,Change-aware preemption prioritization.,https://doi.org/10.1145/2001420.2001437
+ISSTA2009,Identifying bug signatures using discriminative graph mining.,https://doi.org/10.1145/1572272.1572290
+ISSTA2009,Time-aware test-case prioritization using integer linear programming.,https://doi.org/10.1145/1572272.1572297
+ISSTA2008,Configuration-aware regression testing - an empirical study of sampling and prioritization.,https://doi.org/10.1145/1390630.1390641
+ISSTA2008,Dynamic recognition of synchronization operations for improved data race detection.,https://doi.org/10.1145/1390630.1390649
+ISSTA2008,Racer - effective race detection using aspectj.,https://doi.org/10.1145/1390630.1390650
+ISSTA2007,Enabling tracing Of long-running multithreaded programs via dynamic execution reduction.,https://doi.org/10.1145/1273463.1273491
+ISSTA2006,TimeAware test suite prioritization.,https://doi.org/10.1145/1146238.1146240
+ISSTA2000,A thread-aware debugger with an open interface.,https://doi.org/10.1145/347324.349141
+ISSTA1994,Testing Races in Parallel Programs with an OtOt Strategy.,https://doi.org/10.1145/186258.187242
+ISSTA1993,Faults on Its Sleeve - Amplifying Software Reliability Testing.,https://doi.org/10.1145/154183.154246
+ISSTA1991,Loop Monotonic Computations - An Approach for the Efficient Run-Time Detection of Races.,https://doi.org/10.1145/120807.120816

@@ -1,0 +1,117 @@
+An empirical study of PHP feature usage - a static analysis perspective.:
+- https://doi.org/10.1145/2483760.2483786
+- 2013
+Analysis of performance regression testing data by transaction profiles.:
+- https://doi.org/10.1145/2483760.2492399
+- 2013
+Automated testing with targeted event sequence generation.:
+- https://doi.org/10.1145/2483760.2483777
+- 2013
+Automatically repairing broken workflows for evolving GUI applications.:
+- https://doi.org/10.1145/2483760.2483775
+- 2013
+Calculating source line level energy information for Android applications.:
+- https://doi.org/10.1145/2483760.2483780
+- 2013
+Collecting a heap of shapes.:
+- https://doi.org/10.1145/2483760.2483761
+- 2013
+Combining model checking and testing with an application to reliability prediction and distribution.:
+- https://doi.org/10.1145/2483760.2483779
+- 2013
+Comparing non-adequate test suites using coverage criteria.:
+- https://doi.org/10.1145/2483760.2483769
+- 2013
+Context-sensitive delta inference for identifying workload-dependent performance bottlenecks.:
+- https://doi.org/10.1145/2483760.2483784
+- 2013
+Data model property inference and repair.:
+- https://doi.org/10.1145/2483760.2483768
+- 2013
+Debugging non-deadlock concurrency bugs.:
+- https://doi.org/10.1145/2483760.2492395
+- 2013
+Declarative mocking.:
+- https://doi.org/10.1145/2483760.2483790
+- 2013
+Does automated white-box test generation really help software testers?:
+- https://doi.org/10.1145/2483760.2483774
+- 2013
+Dynamically validating static memory leak warnings.:
+- https://doi.org/10.1145/2483760.2483778
+- 2013
+Efficient and flexible GUI test execution via test merging.:
+- https://doi.org/10.1145/2483760.2483781
+- 2013
+EnforceMOP - a runtime property enforcement system for multithreaded programs.:
+- https://doi.org/10.1145/2483760.2483766
+- 2013
+Expressing and checking intended changes via software change contracts.:
+- https://doi.org/10.1145/2483760.2483772
+- 2013
+F3 - fault localization for field failures.:
+- https://doi.org/10.1145/2483760.2483763
+- 2013
+Faster mutation testing inspired by test prioritization and reduction.:
+- https://doi.org/10.1145/2483760.2483782
+- 2013
+Finding rare numerical stability errors in concurrent computations.:
+- https://doi.org/10.1145/2483760.2483791
+- 2013
+Finding your way in the testing jungle - a learning approach to web security testing.:
+- https://doi.org/10.1145/2483760.2483776
+- 2013
+Formal safety proof - a real case study in a railway interlocking system.:
+- https://doi.org/10.1145/2483760.2492398
+- 2013
+Generation of Java programs properties from test purposes.:
+- https://doi.org/10.1145/2483760.2492400
+- 2013
+Generation of test databases using sampling methods.:
+- https://doi.org/10.1145/2483760.2492397
+- 2013
+Griffin - grouping suspicious memory-access patterns to improve understanding of concurrency bugs.:
+- https://doi.org/10.1145/2483760.2483792
+- 2013
+Hybrid learning - interface generation through static, dynamic, and symbolic analysis.:
+- https://doi.org/10.1145/2483760.2483783
+- 2013
+International Symposium on Software Testing and Analysis, ISSTA &apos;13, Lugano, Switzerland, July 15-20, 2013:
+- https://doi.org/10.1145/2483760
+- 2013
+Optimizing monitoring of finite state properties through monitor compaction.:
+- https://doi.org/10.1145/2483760.2483762
+- 2013
+Orthogonal exploration of the search space in evolutionary test case generation.:
+- https://doi.org/10.1145/2483760.2483789
+- 2013
+Parallel bounded analysis in code with rich invariants by refinement of field bounds.:
+- https://doi.org/10.1145/2483760.2483770
+- 2013
+Practical blended taint analysis for JavaScript.:
+- https://doi.org/10.1145/2483760.2483788
+- 2013
+Practical static race detection for Java parallel loops.:
+- https://doi.org/10.1145/2483760.2483765
+- 2013
+Product-line verification with feature-oriented contracts.:
+- https://doi.org/10.1145/2483760.2492396
+- 2013
+Selective mutation testing for concurrent code.:
+- https://doi.org/10.1145/2483760.2483773
+- 2013
+Semi-valid input coverage for fuzz testing.:
+- https://doi.org/10.1145/2483760.2483787
+- 2013
+SimRacer - an automated framework to support testing for process-level races.:
+- https://doi.org/10.1145/2483760.2483771
+- 2013
+Threats to the validity and value of empirical assessments of the accuracy of coverage-based fault locators.:
+- https://doi.org/10.1145/2483760.2483767
+- 2013
+Using automated program repair for evaluating the effectiveness of fault localization techniques.:
+- https://doi.org/10.1145/2483760.2483785
+- 2013
+Variable and thread bounding for systematic testing of multithreaded programs.:
+- https://doi.org/10.1145/2483760.2483764
+- 2013

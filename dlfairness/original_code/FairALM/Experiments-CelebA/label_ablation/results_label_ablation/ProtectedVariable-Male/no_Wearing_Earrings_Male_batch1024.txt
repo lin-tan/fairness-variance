@@ -1,0 +1,55 @@
+Using label attribute: Wearing_Earrings  protected attribute: Male
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 1.0, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': False, 'RESPONSE': 'Wearing_Earrings', 'PROTECTED': 'Male', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 5, 'NUM_INNER': 1, 'BATCH_SIZE': 1024, 'IMAGE_SIZE': 28, 'OPTIMIZER_': 'SGD', 'MODEL_': 'resnet18', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Wearing_Earrings_Male_NO_CONSTRAINTS_SGD'}
+Epoch: 001/005 | Batch 0000/0159 | train_loss: 1.0916 | penalty_loss: 0.0127
+eta: 1.010 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 001/005 | Batch 0050/0159 | train_loss: 0.4397 | penalty_loss: -0.0107
+eta: 1.010 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 001/005 | Batch 0100/0159 | train_loss: 0.4914 | penalty_loss: -0.0087
+eta: 1.010 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 001/005 | Batch 0150/0159 | train_loss: 0.4022 | penalty_loss: -0.0078
+eta: 1.010 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 001/005 | Train PRC: nan% | Train Acc: 81.347% | Train Ddp: 29.454% | Train Ppv: 0.000% | Train Fpr: 0.000% | Train Fnr: 0.000% 
+                 | Train TN0: 65206 | Train FP0: 0 | Train FN0: 29303 | Train TP0: 0
+                 | Train TN1: 67202 | Train FP1: 0 | Train FN1: 1059 | Train TP1: 0
+Epoch: 001/005 | Valid PRC: nan% | Valid Acc: 80.928% | Valid Ddp: 30.987% | Valid Ppv: 0.000% | Valid Fpr: 0.000% | Valid Fnr: 0.000% 
+                 | Valid TN0: 7728 | Valid FP0: 0 | Valid FN0: 3681 | Valid TP0: 0
+                 | Valid TN1: 8350 | Valid FP1: 0 | Valid FN1: 108 | Valid TP1: 0
+Time elapsed: 18.71 min
+Epoch: 002/005 | Batch 0000/0159 | train_loss: 0.4422 | penalty_loss: -0.0170
+eta: 1.020 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 002/005 | Batch 0050/0159 | train_loss: 0.4001 | penalty_loss: -0.0057
+eta: 1.020 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 002/005 | Batch 0100/0159 | train_loss: 0.4147 | penalty_loss: -0.0092
+eta: 1.020 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 002/005 | Batch 0150/0159 | train_loss: 0.3719 | penalty_loss: -0.0097
+eta: 1.020 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 002/005 | Train PRC: nan% | Train Acc: 81.347% | Train Ddp: 29.454% | Train Ppv: 0.000% | Train Fpr: 0.000% | Train Fnr: 0.000% 
+                 | Train TN0: 65206 | Train FP0: 0 | Train FN0: 29303 | Train TP0: 0
+                 | Train TN1: 67202 | Train FP1: 0 | Train FN1: 1059 | Train TP1: 0
+Epoch: 002/005 | Valid PRC: nan% | Valid Acc: 80.928% | Valid Ddp: 30.987% | Valid Ppv: 0.000% | Valid Fpr: 0.000% | Valid Fnr: 0.000% 
+                 | Valid TN0: 7728 | Valid FP0: 0 | Valid FN0: 3681 | Valid TP0: 0
+                 | Valid TN1: 8350 | Valid FP1: 0 | Valid FN1: 108 | Valid TP1: 0
+Time elapsed: 37.53 min
+Epoch: 003/005 | Batch 0000/0159 | train_loss: 0.3661 | penalty_loss: -0.0095
+eta: 1.030 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 003/005 | Batch 0050/0159 | train_loss: 0.4426 | penalty_loss: -0.0000
+eta: 1.030 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 003/005 | Batch 0100/0159 | train_loss: 0.4097 | penalty_loss: -0.0001
+eta: 1.030 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 003/005 | Batch 0150/0159 | train_loss: 0.3959 | penalty_loss: 0.0004
+eta: 1.030 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 003/005 | Train PRC: nan% | Train Acc: 81.347% | Train Ddp: 29.454% | Train Ppv: 0.000% | Train Fpr: 0.000% | Train Fnr: 0.000% 
+                 | Train TN0: 65206 | Train FP0: 0 | Train FN0: 29303 | Train TP0: 0
+                 | Train TN1: 67202 | Train FP1: 0 | Train FN1: 1059 | Train TP1: 0
+Epoch: 003/005 | Valid PRC: nan% | Valid Acc: 80.928% | Valid Ddp: 30.987% | Valid Ppv: 0.000% | Valid Fpr: 0.000% | Valid Fnr: 0.000% 
+                 | Valid TN0: 7728 | Valid FP0: 0 | Valid FN0: 3681 | Valid TP0: 0
+                 | Valid TN1: 8350 | Valid FP1: 0 | Valid FN1: 108 | Valid TP1: 0
+Time elapsed: 54.93 min
+Epoch: 004/005 | Batch 0000/0159 | train_loss: 0.3850 | penalty_loss: -0.0018
+eta: 1.041 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 004/005 | Batch 0050/0159 | train_loss: 0.4045 | penalty_loss: -0.0027
+eta: 1.041 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Traceback (most recent call last):
+  File "main.py", line 247, in <module>
+    loss_t1_s1 = loss_all[(targets == 1) & (protected==1)].mean()
+RuntimeError: invalid argument 1: empty Tensor at /opt/conda/conda-bld/pytorch_1524586445097/work/aten/src/THC/generated/../generic/THCTensorMathReduce.cu:305

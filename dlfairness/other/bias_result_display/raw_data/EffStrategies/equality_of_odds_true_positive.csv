@@ -1,0 +1,111 @@
+,,max_diff,max,min,std_dev,mean,rel_maxdiff(%)
+./aggregated_raw_prediction/baseline/,class 0,0.03300,0.1000,0.06700,0.007890,0.08100,40.74
+./aggregated_raw_prediction/baseline/,class 1,0.02000,0.06100,0.04100,0.005199,0.04681,42.72
+./aggregated_raw_prediction/baseline/,class 2,0.03600,0.1670,0.1310,0.01001,0.1506,23.90
+./aggregated_raw_prediction/baseline/,class 3,0.03400,0.2630,0.2290,0.01009,0.2459,13.83
+./aggregated_raw_prediction/baseline/,class 4,0.03600,0.1990,0.1630,0.008810,0.1859,19.37
+./aggregated_raw_prediction/baseline/,class 5,0.04600,0.1980,0.1520,0.01159,0.1706,26.97
+./aggregated_raw_prediction/baseline/,class 6,0.02800,0.1160,0.08800,0.008866,0.1016,27.55
+./aggregated_raw_prediction/baseline/,class 7,0.02300,0.1490,0.1260,0.006010,0.1344,17.11
+./aggregated_raw_prediction/baseline/,class 8,0.01700,0.07900,0.06200,0.005243,0.06937,24.50
+./aggregated_raw_prediction/baseline/,class 9,0.02200,0.08000,0.05800,0.005979,0.06844,32.15
+./aggregated_raw_prediction/baseline/,overall,0.01030,0.1301,0.1198,0.003085,0.1255,8.210
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,class 0,0.03100,0.05900,0.02800,0.007297,0.03956,78.36
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,class 1,0.01500,0.03000,0.01500,0.004626,0.02381,62.99
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,class 2,0.04100,0.1120,0.07100,0.01134,0.08581,47.78
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,class 3,0.03600,0.1950,0.1590,0.01047,0.1748,20.60
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,class 4,0.05100,0.1060,0.05500,0.01180,0.08550,59.65
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,class 5,0.04000,0.1370,0.09700,0.01030,0.1112,35.98
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,class 6,0.01700,0.04800,0.03100,0.004554,0.04212,40.36
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,class 7,0.03300,0.1000,0.06700,0.009339,0.08069,40.90
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,class 8,0.03000,0.04200,0.01200,0.007770,0.02844,105.5
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,class 9,0.02000,0.04800,0.02800,0.005339,0.03850,51.95
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,overall,0.01360,0.07870,0.06510,0.003580,0.07104,19.14
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,class 0,0.03800,0.1260,0.08800,0.009580,0.1048,36.26
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,class 1,0.01400,0.07000,0.05600,0.004416,0.06150,22.76
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,class 2,0.03300,0.1970,0.1640,0.01068,0.1827,18.06
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,class 3,0.05300,0.3220,0.2690,0.01288,0.3026,17.52
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,class 4,0.06400,0.2320,0.1680,0.01826,0.2008,31.87
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,class 5,0.04400,0.2290,0.1850,0.01218,0.2033,21.64
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,class 6,0.02600,0.1210,0.09500,0.007524,0.1101,23.61
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,class 7,0.03600,0.1770,0.1410,0.01058,0.1576,22.84
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,class 8,0.03200,0.09300,0.06100,0.008651,0.07869,40.67
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,class 9,0.03400,0.1030,0.06900,0.008027,0.08594,39.56
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,overall,0.02050,0.1606,0.1401,0.005350,0.1488,13.78
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,class 0,0.02900,0.05800,0.02900,0.007058,0.03975,72.96
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,class 1,0.01500,0.03000,0.01500,0.004636,0.02356,63.66
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,class 2,0.04100,0.1120,0.07100,0.01149,0.08600,47.67
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,class 3,0.03600,0.1940,0.1580,0.01046,0.1730,20.81
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,class 4,0.04800,0.1060,0.05800,0.01135,0.08594,55.85
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,class 5,0.03900,0.1360,0.09700,0.01025,0.1113,35.04
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,class 6,0.01700,0.04800,0.03100,0.004613,0.04219,40.30
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,class 7,0.03200,0.09900,0.06700,0.009293,0.08012,39.94
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,class 8,0.03000,0.04200,0.01200,0.007721,0.02856,105.0
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,class 9,0.02100,0.04800,0.02700,0.005576,0.03831,54.81
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,overall,0.01300,0.07850,0.06550,0.003480,0.07087,18.34
+./aggregated_raw_prediction/domain-discriminative/rba/,class 0,0.01900,0.08800,0.06900,0.005804,0.07825,24.28
+./aggregated_raw_prediction/domain-discriminative/rba/,class 1,0.01600,0.06800,0.05200,0.004373,0.05844,27.38
+./aggregated_raw_prediction/domain-discriminative/rba/,class 2,0.05200,0.09000,0.03800,0.01225,0.06956,74.75
+./aggregated_raw_prediction/domain-discriminative/rba/,class 3,0.03600,0.1570,0.1210,0.009804,0.1385,25.99
+./aggregated_raw_prediction/domain-discriminative/rba/,class 4,0.04800,0.1020,0.05400,0.01207,0.07544,63.63
+./aggregated_raw_prediction/domain-discriminative/rba/,class 5,0.04200,0.1110,0.06900,0.01184,0.09544,44.01
+./aggregated_raw_prediction/domain-discriminative/rba/,class 6,0.02400,0.07000,0.04600,0.007075,0.05975,40.17
+./aggregated_raw_prediction/domain-discriminative/rba/,class 7,0.02600,0.1050,0.07900,0.006673,0.09219,28.20
+./aggregated_raw_prediction/domain-discriminative/rba/,class 8,0.02900,0.09000,0.06100,0.007148,0.07731,37.51
+./aggregated_raw_prediction/domain-discriminative/rba/,class 9,0.02500,0.08900,0.06400,0.006333,0.07837,31.90
+./aggregated_raw_prediction/domain-discriminative/rba/,overall,0.009200,0.08690,0.07770,0.002163,0.08232,11.18
+./aggregated_raw_prediction/domain-independent/Conditional/,class 0,0.04300,0.08300,0.04000,0.009694,0.06369,67.52
+./aggregated_raw_prediction/domain-independent/Conditional/,class 1,0.01900,0.04400,0.02500,0.005282,0.03681,51.61
+./aggregated_raw_prediction/domain-independent/Conditional/,class 2,0.03100,0.1720,0.1410,0.007239,0.1578,19.64
+./aggregated_raw_prediction/domain-independent/Conditional/,class 3,0.03800,0.2540,0.2160,0.01147,0.2369,16.04
+./aggregated_raw_prediction/domain-independent/Conditional/,class 4,0.02900,0.1830,0.1540,0.007944,0.1671,17.35
+./aggregated_raw_prediction/domain-independent/Conditional/,class 5,0.02700,0.1530,0.1260,0.007217,0.1403,19.24
+./aggregated_raw_prediction/domain-independent/Conditional/,class 6,0.01800,0.09600,0.07800,0.005528,0.08725,20.63
+./aggregated_raw_prediction/domain-independent/Conditional/,class 7,0.02500,0.1230,0.09800,0.006830,0.1118,22.36
+./aggregated_raw_prediction/domain-independent/Conditional/,class 8,0.01900,0.05700,0.03800,0.004565,0.05069,37.48
+./aggregated_raw_prediction/domain-independent/Conditional/,class 9,0.01400,0.06600,0.05200,0.004091,0.05812,24.09
+./aggregated_raw_prediction/domain-independent/Conditional/,overall,0.01060,0.1158,0.1052,0.003004,0.1110,9.545
+./aggregated_raw_prediction/domain-independent/Sum/,class 0,0.01400,0.01500,0.001000,0.003395,0.005812,240.9
+./aggregated_raw_prediction/domain-independent/Sum/,class 1,0.01300,0.01400,0.001000,0.003840,0.005563,233.7
+./aggregated_raw_prediction/domain-independent/Sum/,class 2,0.01300,0.01400,0.001000,0.003933,0.005313,244.7
+./aggregated_raw_prediction/domain-independent/Sum/,class 3,0.01300,0.01400,0.001000,0.003627,0.005813,223.7
+./aggregated_raw_prediction/domain-independent/Sum/,class 4,0.01200,0.01300,0.001000,0.003391,0.006500,184.6
+./aggregated_raw_prediction/domain-independent/Sum/,class 5,0.02000,0.03400,0.01400,0.005476,0.02613,76.56
+./aggregated_raw_prediction/domain-independent/Sum/,class 6,0.01400,0.02100,0.007000,0.003905,0.01456,96.14
+./aggregated_raw_prediction/domain-independent/Sum/,class 7,0.01900,0.02700,0.008000,0.005081,0.01775,107.0
+./aggregated_raw_prediction/domain-independent/Sum/,class 8,0.01300,0.01400,0.001000,0.003661,0.005813,223.7
+./aggregated_raw_prediction/domain-independent/Sum/,class 9,0.01300,0.01300,0,0.003100,0.007125,182.5
+./aggregated_raw_prediction/domain-independent/Sum/,overall,0.004700,0.01200,0.007300,0.001335,0.01004,46.82
+./aggregated_raw_prediction/gradproj-adv/,class 0,0.1490,0.1660,0.01700,0.04062,0.1104,134.9
+./aggregated_raw_prediction/gradproj-adv/,class 1,0.1370,0.1380,0.001000,0.03338,0.06381,214.7
+./aggregated_raw_prediction/gradproj-adv/,class 2,0.1230,0.2320,0.1090,0.03723,0.1639,75.03
+./aggregated_raw_prediction/gradproj-adv/,class 3,0.3460,0.4400,0.09400,0.08085,0.2650,130.6
+./aggregated_raw_prediction/gradproj-adv/,class 4,0.1540,0.2530,0.09900,0.04206,0.1782,86.43
+./aggregated_raw_prediction/gradproj-adv/,class 5,0.1620,0.3040,0.1420,0.04652,0.2421,66.92
+./aggregated_raw_prediction/gradproj-adv/,class 6,0.1520,0.1920,0.04000,0.04463,0.1088,139.8
+./aggregated_raw_prediction/gradproj-adv/,class 7,0.1560,0.2860,0.1300,0.04423,0.2054,75.96
+./aggregated_raw_prediction/gradproj-adv/,class 8,0.1060,0.1080,0.002000,0.02709,0.04825,219.7
+./aggregated_raw_prediction/gradproj-adv/,class 9,0.08100,0.1510,0.07000,0.02381,0.1012,80.05
+./aggregated_raw_prediction/gradproj-adv/,overall,0.07220,0.1784,0.1062,0.01963,0.1487,48.55
+./aggregated_raw_prediction/sampling/,class 0,0.02800,0.09300,0.06500,0.007140,0.07837,35.73
+./aggregated_raw_prediction/sampling/,class 1,0.01400,0.04100,0.02700,0.004213,0.03444,40.65
+./aggregated_raw_prediction/sampling/,class 2,0.05400,0.1880,0.1340,0.01279,0.1554,34.74
+./aggregated_raw_prediction/sampling/,class 3,0.04900,0.2730,0.2240,0.01230,0.2490,19.68
+./aggregated_raw_prediction/sampling/,class 4,0.03100,0.2210,0.1900,0.008207,0.2054,15.09
+./aggregated_raw_prediction/sampling/,class 5,0.04800,0.1930,0.1450,0.01330,0.1641,29.26
+./aggregated_raw_prediction/sampling/,class 6,0.02300,0.08900,0.06600,0.006536,0.07769,29.61
+./aggregated_raw_prediction/sampling/,class 7,0.03000,0.1290,0.09900,0.008647,0.1148,26.13
+./aggregated_raw_prediction/sampling/,class 8,0.02000,0.06600,0.04600,0.005171,0.05512,36.28
+./aggregated_raw_prediction/sampling/,class 9,0.02100,0.06600,0.04500,0.005508,0.05569,37.71
+./aggregated_raw_prediction/sampling/,overall,0.01320,0.1246,0.1114,0.002935,0.1190,11.09
+./aggregated_raw_prediction/uniconf-adv/,class 0,0.07200,0.1690,0.09700,0.02015,0.1310,54.96
+./aggregated_raw_prediction/uniconf-adv/,class 1,0.08600,0.1140,0.02800,0.02324,0.08337,103.1
+./aggregated_raw_prediction/uniconf-adv/,class 2,0.04600,0.2290,0.1830,0.01238,0.2014,22.84
+./aggregated_raw_prediction/uniconf-adv/,class 3,0.1330,0.3950,0.2620,0.03793,0.3339,39.84
+./aggregated_raw_prediction/uniconf-adv/,class 4,0.1680,0.3300,0.1620,0.05258,0.2177,77.17
+./aggregated_raw_prediction/uniconf-adv/,class 5,0.1460,0.3250,0.1790,0.03676,0.2474,59.02
+./aggregated_raw_prediction/uniconf-adv/,class 6,0.1310,0.2430,0.1120,0.03738,0.1509,86.83
+./aggregated_raw_prediction/uniconf-adv/,class 7,0.1090,0.2590,0.1500,0.02869,0.2116,51.52
+./aggregated_raw_prediction/uniconf-adv/,class 8,0.06400,0.1070,0.04300,0.01918,0.07794,82.12
+./aggregated_raw_prediction/uniconf-adv/,class 9,0.08600,0.1430,0.05700,0.02257,0.1051,81.86
+./aggregated_raw_prediction/uniconf-adv/,overall,0.03300,0.1912,0.1582,0.01087,0.1760,18.75

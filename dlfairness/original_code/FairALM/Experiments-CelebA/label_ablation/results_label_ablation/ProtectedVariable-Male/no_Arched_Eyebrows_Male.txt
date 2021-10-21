@@ -1,0 +1,10 @@
+Using label attribute: Arched_Eyebrows  protected attribute: Male
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.1, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': False, 'RESPONSE': 'Arched_Eyebrows', 'PROTECTED': 'Male', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 5, 'NUM_INNER': 1, 'BATCH_SIZE': 256, 'IMAGE_SIZE': 28, 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Arched_Eyebrows_Male_NO_CONSTRAINTS_SGD'}
+Epoch: 001/005 | Batch 0000/0636 | train_loss: 1.0681 | penalty_loss: 0.0152
+eta: 0.101 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 001/005 | Batch 0050/0636 | train_loss: 0.4958 | penalty_loss: 0.0279
+eta: 0.101 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Traceback (most recent call last):
+  File "main.py", line 247, in <module>
+    loss_t1_s1 = loss_all[(targets == 1) & (protected==1)].mean()
+RuntimeError: invalid argument 1: empty Tensor at /opt/conda/conda-bld/pytorch_1524586445097/work/aten/src/THC/generated/../generic/THCTensorMathReduce.cu:305

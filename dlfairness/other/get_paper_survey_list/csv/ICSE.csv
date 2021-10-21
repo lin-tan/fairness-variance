@@ -1,0 +1,104 @@
+Conf,Title,Link
+ICSE2020,A novel approach to tracing safety requirements and state-based design models.,https://doi.org/10.1145/3377811.3380332
+ICSE2020,A tale from the trenches - cognitive biases and software development.,https://doi.org/10.1145/3377811.3380330
+ICSE2020,"Accessibility issues in Android apps - state of affairs, sentiments, and ways forward.",https://doi.org/10.1145/3377811.3380392
+ICSE2020,Context-aware in-process crowdworker recommendation.,https://doi.org/10.1145/3377811.3380380
+ICSE2020,Engineering gender-inclusivity into software - ten teams&apos; tales from the trenches.,https://doi.org/10.1145/3377811.3380371
+ICSE2020,Establishing multilevel test-to-code traceability links.,https://doi.org/10.1145/3377811.3380921
+ICSE2020,Improving the effectiveness of traceability link recovery using hierarchical bayesian networks.,https://doi.org/10.1145/3377811.3380418
+ICSE2020,"Mitigating turnover with code review recommendation - balancing expertise, workload, and knowledge distribution.",https://doi.org/10.1145/3377811.3380335
+ICSE2020,TRADER - trace divergence analysis and embedding regulation for debugging recurrent neural networks.,https://doi.org/10.1145/3377811.3380423
+ICSE2020,Testing DNN image classifiers for confusion &amp; bias errors.,https://doi.org/10.1145/3377811.3380400
+ICSE2020,White-box fairness testing through adversarial sampling.,https://doi.org/10.1145/3377811.3380331
+ICSE2019,Could I have a stack trace to examine the dependency conflict issue?,https://doi.org/10.1109/ICSE.2019.00068
+ICSE2019,FLOSS participants&apos; perceptions about gender and inclusiveness - a survey.,https://doi.org/10.1109/ICSE.2019.00077
+ICSE2019,Investigating the effects of gender bias on GitHub.,https://doi.org/10.1109/ICSE.2019.00079
+ICSE2019,Resource-aware program analysis via online abstraction coarsening.,https://doi.org/10.1109/ICSE.2019.00027
+ICSE2019,Superion - grammar-aware greybox fuzzing.,https://doi.org/10.1109/ICSE.2019.00081
+ICSE2019,iSENSE - completion-aware crowdtesting management.,https://doi.org/10.1109/ICSE.2019.00097
+ICSE2018,&quot;Was my contribution fairly reviewed?&quot; - a framework to study the perception of fairness in modern code reviews.,https://doi.org/10.1145/3180155.3180217
+ICSE2018,Context-aware conversational developer assistants.,https://doi.org/10.1145/3180155.3180238
+ICSE2018,Context-aware patch generation for better automated program repair.,https://doi.org/10.1145/3180155.3180233
+ICSE2018,EARMO - an energy-aware refactoring approach for mobile apps.,https://doi.org/10.1145/3180155.3182524
+ICSE2018,GUILeak - tracing privacy policy claims on user input data for Android applications.,https://doi.org/10.1145/3180155.3180196
+ICSE2018,Global-aware recommendations for repairing violations in exception handling.,https://doi.org/10.1145/3180155.3182539
+ICSE2018,Inferring hierarchical motifs from execution traces.,https://doi.org/10.1145/3180155.3180216
+ICSE2018,Launch-mode-aware context-sensitive activity transition analysis.,https://doi.org/10.1145/3180155.3180188
+ICSE2018,Speedoo - prioritizing performance optimization opportunities.,https://doi.org/10.1145/3180155.3180229
+ICSE2018,Towards refactoring-aware regression test selection.,https://doi.org/10.1145/3180155.3180254
+ICSE2018,Traceability in the wild - automatically augmenting incomplete trace links.,https://doi.org/10.1145/3180155.3180207
+ICSE2017,Balancing soundness and efficiency for practical testing of configurable systems.,https://doi.org/10.1109/ICSE.2017.64
+ICSE2017,RClassify - classifying race conditions in web applications via deterministic replay.,https://doi.org/10.1109/ICSE.2017.33
+ICSE2017,Repairing event race errors by controlling nondeterminism.,https://doi.org/10.1109/ICSE.2017.34
+ICSE2017,Semantically enhanced software traceability using deep learning techniques.,https://doi.org/10.1109/ICSE.2017.9
+ICSE2016,Efficient large-scale trace checking using mapreduce.,https://doi.org/10.1145/2884781.2884832
+ICSE2016,Type-aware concolic testing of JavaScript programs.,https://doi.org/10.1145/2884781.2884859
+ICSE2014,Exploring variability-aware execution for testing plugin-based web applications.,https://doi.org/10.1145/2568225.2568300
+ICSE2014,Mind the gap - assessing the conformance of software traceability to relevant guidelines.,https://doi.org/10.1145/2568225.2568290
+ICSE2014,SimRT - an automated framework to support regression testing for data races.,https://doi.org/10.1145/2568225.2568294
+ICSE2013,A study of enabling factors for rapid fielding - combined practices to balance speed and stability.,https://doi.org/10.1109/ICSE.2013.6606648
+ICSE2013,Coupling software architecture and human architecture for collaboration-aware system adaptation.,https://doi.org/10.1109/ICSE.2013.6606551
+ICSE2013,Departures from optimality - understanding human analyst&apos;s information foraging in assisted requirements tracing.,https://doi.org/10.1109/ICSE.2013.6606603
+ICSE2013,Energy aware self-adaptation in mobile systems.,https://doi.org/10.1109/ICSE.2013.6606736
+ICSE2013,Engineering adaptive privacy - on the role of privacy awareness requirements.,https://doi.org/10.1109/ICSE.2013.6606609
+ICSE2013,Expositor - scriptable time-travel debugging with first-class traces.,https://doi.org/10.1109/ICSE.2013.6606581
+ICSE2013,Measuring the forensic-ability of audit logs for nonrepudiation.,https://doi.org/10.1109/ICSE.2013.6606732
+ICSE2013,Situational awareness - personalizing issue tracking systems.,https://doi.org/10.1109/ICSE.2013.6606674
+ICSE2013,Systematically selecting a software module during opportunistic reuse.,https://doi.org/10.1109/ICSE.2013.6606728
+ICSE2012,A tactic-centric approach for automating traceability of quality concerns.,https://doi.org/10.1109/ICSE.2012.6227153
+ICSE2012,Ambient awareness of build status in collocated software teams.,https://doi.org/10.1109/ICSE.2012.6227165
+ICSE2012,Amplifying tests to validate exception handling code.,https://doi.org/10.1109/ICSE.2012.6227157
+ICSE2012,Architectural task allocation in distributed environment - A traceability perspective.,https://doi.org/10.1109/ICSE.2012.6227048
+ICSE2012,BRACE - An assertion framework for debugging cyber-physical systems.,https://doi.org/10.1109/ICSE.2012.6227084
+ICSE2012,Maintaining invariant traceability through bidirectional transformations.,https://doi.org/10.1109/ICSE.2012.6227162
+ICSE2012,Performance debugging in the large via mining millions of stack traces.,https://doi.org/10.1109/ICSE.2012.6227198
+ICSE2012,Recovering traceability links between an API and its learning resources.,https://doi.org/10.1109/ICSE.2012.6227207
+ICSE2012,Reducing confounding bias in predicate-level statistical debugging metrics.,https://doi.org/10.1109/ICSE.2012.6227169
+ICSE2012,"TraceLab - An experimental workbench for equipping researchers to innovate, synthesize, and comparatively evaluate traceability solutions.",https://doi.org/10.1109/ICSE.2012.6227244
+ICSE2012,What make long term contributors - Willingness and opportunity in OSS community.,https://doi.org/10.1109/ICSE.2012.6227164
+ICSE2011,A combination approach for enhancing automated traceability.,https://doi.org/10.1145/1985793.1985943
+ICSE2011,Iterative context-aware feature location.,https://doi.org/10.1145/1985793.1985939
+ICSE2011,RACEZ - a lightweight and non-invasive race detection tool for production applications.,https://doi.org/10.1145/1985793.1985848
+ICSE2011,Requirements tracing - discovering related documents through artificial pheromones and term proximity.,https://doi.org/10.1145/1985793.1986033
+ICSE2011,Sixth international workshop on traceability in emerging forms of software engineering - (TEFSE 2011).,https://doi.org/10.1145/1985793.1986052
+ICSE2011,Towards overcoming human analyst fallibility in the requirements tracing process.,https://doi.org/10.1145/1985793.1985925
+ICSE2011,Tracing architectural concerns in high assurance systems.,https://doi.org/10.1145/1985793.1985942
+ICSE2011,Tracing architecturally significant requirements - a decision-centric approach.,https://doi.org/10.1145/1985793.1986014
+ICSE2009,ContextServ - A platform for rapid and flexible development of context-aware Web services.,https://doi.org/10.1109/ICSE.2009.5070570
+ICSE2009,JUnitMX - A change-aware unit testing tool.,https://doi.org/10.1109/ICSE.2009.5070557
+ICSE2008,Adams re-trace - traceability link recovery via latent semantic indexing.,https://doi.org/10.1145/1368088.1368216
+ICSE2008,ReBA - refactoring-aware binary adaptation of evolving libraries.,https://doi.org/10.1145/1368088.1368148
+ICSE2008,SpyWare - a change-aware development toolset.,https://doi.org/10.1145/1368088.1368219
+ICSE2007,Automated Generation of Context-Aware Tests.,https://doi.org/10.1109/ICSE.2007.18
+ICSE2007,Refactoring-Aware Configuration Management for Object-Oriented Programs.,https://doi.org/10.1109/ICSE.2007.71
+ICSE2007,The Role of Experience and Ability in Comprehension Tasks Supported by UML Stereotypes.,https://doi.org/10.1109/ICSE.2007.86
+ICSE2006,Experiences with place lab - an open source toolkit for location-aware computing.,https://doi.org/10.1145/1134285.1134351
+ICSE2006,Perracotta - mining temporal API rules from imperfect traces.,https://doi.org/10.1145/1134285.1134325
+ICSE2006,Refactoring-aware version control.,https://doi.org/10.1145/1134285.1134461
+ICSE2006,Traffic-aware stress testing of distributed systems based on UML models.,https://doi.org/10.1145/1134285.1134340
+ICSE2006,Using the balanced scorecard process to compute the value of software applications.,https://doi.org/10.1145/1134285.1134441
+ICSE2005,Automated support for process-aware definition and execution of measurement plans.,https://doi.org/10.1145/1062455.1062507
+ICSE2005,Goal-centric traceability for managing non-functional requirements.,https://doi.org/10.1145/1062455.1062525
+ICSE2005,"Software engineering education in the era of outsourcing, distributed development, and open source software - challenges and opportunities.",https://doi.org/10.1145/1062455.1062581
+ICSE2004,Balancing Agility and Discipline - Evaluating and Integrating Agile and Plan-Driven Methods.,https://doi.org/10.1109/ICSE.2004.1317503
+ICSE2004,Dynamic Configuration of Resource-Aware Services.,https://doi.org/10.1109/ICSE.2004.1317482
+ICSE2004,Using Compressed Bytecode Traces for Slicing Java Programs.,https://doi.org/10.1109/ICSE.2004.1317473
+ICSE2003,"A Component Architecture for an Extensible, Highly Integrated Context-Aware Computing Infrastructure.",https://doi.org/10.1109/ICSE.2003.1201215
+ICSE2003,Palantír - Raising Awareness among Configuration Management Workspaces .,https://doi.org/10.1109/ICSE.2003.1201222
+ICSE2003,Recovering Documentation-to-Source-Code Traceability Links using Latent Semantic Indexing.,https://doi.org/10.1109/ICSE.2003.1201194
+ICSE2002,A programming model and system for disconnected-aware applications on resource-constrained devices.,https://doi.org/10.1145/581339.581386
+ICSE2002,Mobile computing middleware for context-aware applications.,https://doi.org/10.1145/581339.581471
+ICSE2002,Network abstractions for context-aware mobile computing.,https://doi.org/10.1145/581339.581385
+ICSE2001,A Scenario-Driven Approach to Traceability.,https://doi.org/10.1109/ICSE.2001.919087
+ICSE2001,Traceability for System Families.,https://doi.org/10.1109/ICSE.2001.919186
+ICSE2000,Third eye - specification-based analysis of software execution traces (poster).,https://doi.org/10.1145/337180.337628
+ICSE1998,Process Assurance Audits - Lessons Learned.,https://doi.org/10.1109/ICSE.1998.671611
+ICSE1997,A Predictive Metric Based on Discriminant Statistical Analysis.,https://doi.org/10.1145/253228.253285
+ICSE1993,"Applying Algorithm Animation Techniques for Program Tracing, Debugging, and Understanding.",http://portal.acm.org/citation.cfm?id=257572.257674
+ICSE1993,Simulating the Behaviour of Software Modules by Trace Rewriting.,http://portal.acm.org/citation.cfm?id=257572.257577
+ICSE1991,Ethical Considerations in Software Engineering.,http://portal.acm.org/citation.cfm?id=256664.256777
+ICSE1985,Building Awareness of System Testing Issues.,http://dl.acm.org/citation.cfm?id=319622
+ICSE1985,Software Development Process Audits - A General Procedure.,http://dl.acm.org/citation.cfm?id=319602
+ICSE1984,A Discriminant Metric for Module Cohersion.,http://dl.acm.org/citation.cfm?id=801984
+ICSE1978,Symbolic Interpretation and Tracing of PASCAL-Programs.,http://dl.acm.org/citation.cfm?id=803224
+ICSE1976,Verification of Fairness in an Implementation of Monitors.,http://dl.acm.org/citation.cfm?id=807646

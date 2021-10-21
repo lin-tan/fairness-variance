@@ -1,0 +1,7 @@
+- mean_difference_score
+- disparate_impact_factor
+- statistical_parity
+- false_positive_subgroup_fairness
+- equality_of_odds_false_positive
+- equality_of_odds_true_positive
+- bias_amplification

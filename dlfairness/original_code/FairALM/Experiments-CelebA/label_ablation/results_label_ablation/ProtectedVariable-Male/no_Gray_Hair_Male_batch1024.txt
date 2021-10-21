@@ -1,0 +1,23 @@
+Using label attribute: Gray_Hair  protected attribute: Male
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 1.0, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': False, 'RESPONSE': 'Gray_Hair', 'PROTECTED': 'Male', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 5, 'NUM_INNER': 1, 'BATCH_SIZE': 1024, 'IMAGE_SIZE': 28, 'OPTIMIZER_': 'SGD', 'MODEL_': 'resnet18', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Gray_Hair_Male_NO_CONSTRAINTS_SGD'}
+Epoch: 001/005 | Batch 0000/0159 | train_loss: 1.1441 | penalty_loss: 0.0131
+eta: 1.010 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 001/005 | Batch 0050/0159 | train_loss: 0.1229 | penalty_loss: -0.0098
+eta: 1.010 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 001/005 | Batch 0100/0159 | train_loss: 0.1102 | penalty_loss: -0.0067
+eta: 1.010 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 001/005 | Batch 0150/0159 | train_loss: 0.1328 | penalty_loss: -0.0082
+eta: 1.010 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Epoch: 001/005 | Train PRC: nan% | Train Acc: 95.763% | Train Ddp: 7.716% | Train Ppv: 0.000% | Train Fpr: 0.000% | Train Fnr: 0.000% 
+                 | Train TN0: 93563 | Train FP0: 0 | Train FN0: 946 | Train TP0: 0
+                 | Train TN1: 62311 | Train FP1: 0 | Train FN1: 5950 | Train TP1: 0
+Epoch: 001/005 | Valid PRC: nan% | Valid Acc: 95.133% | Valid Ddp: 7.151% | Valid Ppv: 0.000% | Valid Fpr: 0.000% | Valid Fnr: 0.000% 
+                 | Valid TN0: 11201 | Valid FP0: 0 | Valid FN0: 208 | Valid TP0: 0
+                 | Valid TN1: 7699 | Valid FP1: 0 | Valid FN1: 759 | Valid TP1: 0
+Time elapsed: 5.48 min
+Epoch: 002/005 | Batch 0000/0159 | train_loss: 0.1010 | penalty_loss: -0.0122
+eta: 1.020 | lam0: 0.000 | lam1: 0.000 | lam2: 0.000
+Traceback (most recent call last):
+  File "main.py", line 246, in <module>
+    loss_t1_s0 = loss_all[(targets == 1) & (protected==0)].mean()
+RuntimeError: invalid argument 1: empty Tensor at /opt/conda/conda-bld/pytorch_1524586445097/work/aten/src/THC/generated/../generic/THCTensorMathReduce.cu:305

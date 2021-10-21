@@ -1,0 +1,456 @@
+A comprehensive study on deep learning bug characteristics.:
+- https://doi.org/10.1145/3338906.3338955
+- 2019
+A conceptual replication of continuous integration pain points in the context of Travis CI.:
+- https://doi.org/10.1145/3338906.3338922
+- 2019
+A dynamic taint analyzer for distributed systems.:
+- https://doi.org/10.1145/3338906.3341179
+- 2019
+A framework for writing trigger-action todo comments in executable format.:
+- https://doi.org/10.1145/3338906.3338965
+- 2019
+A graph-based framework for analysing the design of smart contracts.:
+- https://doi.org/10.1145/3338906.3342495
+- 2019
+A large-scale empirical study of compiler errors in continuous integration.:
+- https://doi.org/10.1145/3338906.3338917
+- 2019
+A learning-based approach for automatic construction of domain glossary from source code and documentation.:
+- https://doi.org/10.1145/3338906.3338963
+- 2019
+A longitudinal field study on creation and use of domain-specific languages in industry.:
+- https://doi.org/10.1145/3338906.3341463
+- 2019
+A segmented memory model for symbolic execution.:
+- https://doi.org/10.1145/3338906.3338936
+- 2019
+A statistics-based performance testing methodology for cloud applications.:
+- https://doi.org/10.1145/3338906.3338912
+- 2019
+A taxonomy of metrics for software fault prediction.:
+- https://doi.org/10.1145/3338906.3341462
+- 2019
+Achilles&apos; heel of plug-and-Play software architectures - a grounded theory based approach.:
+- https://doi.org/10.1145/3338906.3338969
+- 2019
+AggrePlay - efficient record and replay of multi-threaded programs.:
+- https://doi.org/10.1145/3338906.3338959
+- 2019
+An IR-based approach towards automated integration of geo-spatial datasets in map-based software systems.:
+- https://doi.org/10.1145/3338906.3340454
+- 2019
+An empirical study of real-world variability bugs detected by variability-oblivious tools.:
+- https://doi.org/10.1145/3338906.3338967
+- 2019
+An industrial application of test selection using test suite diagnosability.:
+- https://doi.org/10.1145/3338906.3342493
+- 2019
+Analysing socio-technical congruence in the package dependency network of Cargo.:
+- https://doi.org/10.1145/3338906.3342497
+- 2019
+AnswerBot - an answer summary generation tool based on stack overflow.:
+- https://doi.org/10.1145/3338906.3341186
+- 2019
+Architectural decision forces at work - experiences in an industrial consultancy setting.:
+- https://doi.org/10.1145/3338906.3340461
+- 2019
+Are existing code smells relevant in web games? an empirical study.:
+- https://doi.org/10.1145/3338906.3342504
+- 2019
+Assessing the quality of the steps to reproduce in bug reports.:
+- https://doi.org/10.1145/3338906.3338947
+- 2019
+Automated patch porting across forked projects.:
+- https://doi.org/10.1145/3338906.3342488
+- 2019
+Automatically detecting missing cleanup for ungraceful exits.:
+- https://doi.org/10.1145/3338906.3338938
+- 2019
+BIKER - a tool for Bi-information source based API method recommendation.:
+- https://doi.org/10.1145/3338906.3341174
+- 2019
+Binary reduction of dependency graphs.:
+- https://doi.org/10.1145/3338906.3338956
+- 2019
+Bisecting commits and modeling commit risk during testing.:
+- https://doi.org/10.1145/3338906.3338944
+- 2019
+Black box fairness testing of machine learning models.:
+- https://doi.org/10.1145/3338906.3338937
+- 2019
+Boosting operational DNN testing efficiency through conditioning.:
+- https://doi.org/10.1145/3338906.3338930
+- 2019
+Bridging the gap between ML solutions and their business requirements using feature interactions.:
+- https://doi.org/10.1145/3338906.3340442
+- 2019
+Cerebro - context-aware adaptive fuzzing for effective vulnerability detection.:
+- https://doi.org/10.1145/3338906.3338975
+- 2019
+CloneCognition - machine learning based code clone validation tool.:
+- https://doi.org/10.1145/3338906.3341182
+- 2019
+Code coverage at Google.:
+- https://doi.org/10.1145/3338906.3340459
+- 2019
+Compiler bug isolation via effective witness test program generation.:
+- https://doi.org/10.1145/3338906.3338957
+- 2019
+Concolic testing for models of state-based systems.:
+- https://doi.org/10.1145/3338906.3338908
+- 2019
+Concolic testing with adaptively changing search heuristics.:
+- https://doi.org/10.1145/3338906.3338964
+- 2019
+Context-aware test case adaptation.:
+- https://doi.org/10.1145/3338906.3342510
+- 2019
+DISCOVER - detecting algorithmic complexity vulnerabilities.:
+- https://doi.org/10.1145/3338906.3341177
+- 2019
+Decomposing the rationale of code commits - the software developer&apos;s perspective.:
+- https://doi.org/10.1145/3338906.3338979
+- 2019
+DeepDelta - learning to repair compilation errors.:
+- https://doi.org/10.1145/3338906.3340455
+- 2019
+DeepStellar - model-based quantitative analysis of stateful deep learning systems.:
+- https://doi.org/10.1145/3338906.3338954
+- 2019
+Design diagrams as ontological source.:
+- https://doi.org/10.1145/3338906.3340446
+- 2019
+Design thinking in practice - understanding manifestations of design thinking in software engineering.:
+- https://doi.org/10.1145/3338906.3340451
+- 2019
+Detecting concurrency memory corruption vulnerabilities.:
+- https://doi.org/10.1145/3338906.3338927
+- 2019
+Developing secure bitcoin contracts with BitML.:
+- https://doi.org/10.1145/3338906.3341173
+- 2019
+Distributed execution of test cases and continuous integration.:
+- https://doi.org/10.1145/3338906.3341460
+- 2019
+Diversity-based web test generation.:
+- https://doi.org/10.1145/3338906.3338970
+- 2019
+EVMFuzzer - detect EVM vulnerabilities via fuzz testing.:
+- https://doi.org/10.1145/3338906.3341175
+- 2019
+Eagle - a team practices audit framework for agile software development.:
+- https://doi.org/10.1145/3338906.3341181
+- 2019
+Effective error-specification inference via domain-knowledge expansion.:
+- https://doi.org/10.1145/3338906.3338960
+- 2019
+Effects of explicit feature traceability on program comprehension.:
+- https://doi.org/10.1145/3338906.3338968
+- 2019
+Efficient computing in a safe environment.:
+- https://doi.org/10.1145/3338906.3342491
+- 2019
+Empirical review of Java program repair tools - a large-scale experiment on 2, 141 bugs and 23, 551 repair attempts.:
+- https://doi.org/10.1145/3338906.3338911
+- 2019
+Empirical study of customer communication problem in agile requirements engineering.:
+- https://doi.org/10.1145/3338906.3342511
+- 2019
+Employing different program analysis methods to study bug evolution.:
+- https://doi.org/10.1145/3338906.3342489
+- 2019
+Ethnographic research in software engineering - a critical review and checklist.:
+- https://doi.org/10.1145/3338906.3338976
+- 2019
+Evaluating model testing and model checking for finding requirements violations in Simulink models.:
+- https://doi.org/10.1145/3338906.3340444
+- 2019
+Event trace reduction for effective bug replay of Android apps via differential GUI state analysis.:
+- https://doi.org/10.1145/3338906.3341183
+- 2019
+Evolving with patterns - a 31-month startup experience report.:
+- https://doi.org/10.1145/3338906.3340447
+- 2019
+Exploratory test agents for stateful software systems.:
+- https://doi.org/10.1145/3338906.3341458
+- 2019
+Exploring and exploiting the correlations between bug-inducing and bug-fixing commits.:
+- https://doi.org/10.1145/3338906.3338962
+- 2019
+FUDGE - fuzz driver generation at scale.:
+- https://doi.org/10.1145/3338906.3340456
+- 2019
+Failure-driven program repair.:
+- https://doi.org/10.1145/3338906.3341464
+- 2019
+File tracing by intercepting disk requests.:
+- https://doi.org/10.1145/3338906.3342485
+- 2019
+FinExpert - domain-specific test generation for FinTech systems.:
+- https://doi.org/10.1145/3338906.3340441
+- 2019
+Finding and understanding bugs in software model checkers.:
+- https://doi.org/10.1145/3338906.3338932
+- 2019
+Finding the shortest path to reproduce a failure found by TESTAR.:
+- https://doi.org/10.1145/3338906.3342496
+- 2019
+Generating automated and online test oracles for Simulink models with continuous and uncertain behaviors.:
+- https://doi.org/10.1145/3338906.3338920
+- 2019
+Generating effective test cases for self-driving cars from police reports.:
+- https://doi.org/10.1145/3338906.3338942
+- 2019
+Generating query-specific class API summaries.:
+- https://doi.org/10.1145/3338906.3338971
+- 2019
+Going big - a large-scale study on what big data developers ask.:
+- https://doi.org/10.1145/3338906.3338939
+- 2019
+Governify for APIs - SLA-driven ecosystem for API governance.:
+- https://doi.org/10.1145/3338906.3341176
+- 2019
+Helping developers search and locate task-relevant information in natural language documents.:
+- https://doi.org/10.1145/3338906.3341459
+- 2019
+How bad can a bug get? an empirical analysis of software failures in the OpenStack cloud computing platform.:
+- https://doi.org/10.1145/3338906.3338916
+- 2019
+Identifying the most valuable developers using artifact traceability graphs.:
+- https://doi.org/10.1145/3338906.3342487
+- 2019
+Improving requirements engineering practices to support experimentation in software startups.:
+- https://doi.org/10.1145/3338906.3341465
+- 2019
+Industry practice of coverage-guided enterprise Linux kernel fuzzing.:
+- https://doi.org/10.1145/3338906.3340460
+- 2019
+Insights from open source software supply chains (keynote).:
+- https://doi.org/10.1145/3338906.3342813
+- 2019
+JCOMIX - a search-based tool to detect XML injection vulnerabilities in web applications.:
+- https://doi.org/10.1145/3338906.3341178
+- 2019
+Java reflection API - revealing the dark side of the mirror.:
+- https://doi.org/10.1145/3338906.3338946
+- 2019
+Just fuzz it - solving floating-point constraints using coverage-guided fuzzing.:
+- https://doi.org/10.1145/3338906.3338921
+- 2019
+Latent error prediction and fault localization for microservice applications by learning from system trace logs.:
+- https://doi.org/10.1145/3338906.3338961
+- 2019
+Lifting Datalog-based analyses to software product lines.:
+- https://doi.org/10.1145/3338906.3338928
+- 2019
+Living with feature interactions (keynote).:
+- https://doi.org/10.1145/3338906.3342811
+- 2019
+Locating vulnerabilities in binaries via memory layout recovering.:
+- https://doi.org/10.1145/3338906.3338966
+- 2019
+MOTSD - a multi-objective test selection tool using test suite diagnosability.:
+- https://doi.org/10.1145/3338906.3341187
+- 2019
+Machine learning-assisted performance testing.:
+- https://doi.org/10.1145/3338906.3342484
+- 2019
+Machine-learning supported vulnerability detection in source code.:
+- https://doi.org/10.1145/3338906.3341466
+- 2019
+Managing the open cathedral.:
+- https://doi.org/10.1145/3338906.3341461
+- 2019
+Mart - a mutant generation tool for LLVM.:
+- https://doi.org/10.1145/3338906.3341180
+- 2019
+Maximal multi-layer specification synthesis.:
+- https://doi.org/10.1145/3338906.3338951
+- 2019
+Mitigating power side channels during compilation.:
+- https://doi.org/10.1145/3338906.3338913
+- 2019
+Model checking a C++ software framework - a case study.:
+- https://doi.org/10.1145/3338906.3340453
+- 2019
+Model-based testing of breaking changes in Node.js libraries.:
+- https://doi.org/10.1145/3338906.3338940
+- 2019
+Monitoring-aware IDEs.:
+- https://doi.org/10.1145/3338906.3338926
+- 2019
+Nodest - feedback-driven static analysis of Node.js applications.:
+- https://doi.org/10.1145/3338906.3338933
+- 2019
+NullAway - practical type-based null safety for Java.:
+- https://doi.org/10.1145/3338906.3338919
+- 2019
+On extending single-variant model transformations for reuse in software product line engineering.:
+- https://doi.org/10.1145/3338906.3341467
+- 2019
+On the scalable dynamic taint analysis for distributed systems.:
+- https://doi.org/10.1145/3338906.3342506
+- 2019
+On the use of lambda expressions in 760 open source Python projects.:
+- https://doi.org/10.1145/3338906.3342499
+- 2019
+On using machine learning to identify knowledge in API reference documentation.:
+- https://doi.org/10.1145/3338906.3338943
+- 2019
+Phoenix - automated data-driven synthesis of repairs for static analysis violations.:
+- https://doi.org/10.1145/3338906.3338952
+- 2019
+Pinpointing performance inefficiencies in Java.:
+- https://doi.org/10.1145/3338906.3338923
+- 2019
+Predicting breakdowns in cloud services (with SPIKE).:
+- https://doi.org/10.1145/3338906.3340450
+- 2019
+Predicting pull request completion time - a case study on large scale cloud services.:
+- https://doi.org/10.1145/3338906.3340457
+- 2019
+Preference-wise testing for Android applications.:
+- https://doi.org/10.1145/3338906.3338980
+- 2019
+Principles of feature modeling.:
+- https://doi.org/10.1145/3338906.3338974
+- 2019
+? Proceedings of the ACM Joint Meeting on European Software Engineering Conference
+  and Symposium on the Foundations of Software Engineering, ESEC/SIGSOFT FSE 2019,
+  Tallinn, Estonia, August 26-30, 2019.
+: - https://dl.acm.org/citation.cfm?id=3338906
+  - 2019
+PyGGI 2.0 - language independent genetic improvement framework.:
+- https://doi.org/10.1145/3338906.3341184
+- 2019
+REINAM - reinforcement learning for input-grammar inference.:
+- https://doi.org/10.1145/3338906.3338958
+- 2019
+Recommending related functions from API usage-based function clone structures.:
+- https://doi.org/10.1145/3338906.3342486
+- 2019
+Reducing the workload of the Linux kernel maintainers - multiple-committer model.:
+- https://doi.org/10.1145/3338906.3342490
+- 2019
+Releasing fast and slow - an exploratory case study at ING.:
+- https://doi.org/10.1145/3338906.3338978
+- 2019
+Rethinking Regex engines to address ReDoS.:
+- https://doi.org/10.1145/3338906.3342509
+- 2019
+Risks and assets - a qualitative study of a software ecosystem in the mining industry.:
+- https://doi.org/10.1145/3338906.3340443
+- 2019
+Robust log-based anomaly detection on unstable log data.:
+- https://doi.org/10.1145/3338906.3338931
+- 2019
+SAR - learning cross-language API mappings with little knowledge.:
+- https://doi.org/10.1145/3338906.3338924
+- 2019
+SEntiMoji - an emoji-powered learning approach for sentiment analysis in software engineering.:
+- https://doi.org/10.1145/3338906.3338977
+- 2019
+Safety and robustness for deep learning with provable guarantees (keynote).:
+- https://doi.org/10.1145/3338906.3342812
+- 2019
+Semantic relation based expansion of abbreviations.:
+- https://doi.org/10.1145/3338906.3338929
+- 2019
+ServDroid - detecting service usage inefficiencies in Android applications.:
+- https://doi.org/10.1145/3338906.3338950
+- 2019
+Software clusterings with vector semantics and the call graph.:
+- https://doi.org/10.1145/3338906.3342483
+- 2019
+Static deep neural network analysis for robustness.:
+- https://doi.org/10.1145/3338906.3342502
+- 2019
+Storm - program reduction for testing and debugging probabilistic programming systems.:
+- https://doi.org/10.1145/3338906.3338972
+- 2019
+Suggesting reviewers of software artifacts using traceability graphs.:
+- https://doi.org/10.1145/3338906.3342507
+- 2019
+Symbolic execution-driven extraction of the parallel execution plans of Spark applications.:
+- https://doi.org/10.1145/3338906.3338973
+- 2019
+TERMINATOR - better automated UI test case prioritization.:
+- https://doi.org/10.1145/3338906.3340448
+- 2019
+Tackling knowledge needs during software evolution.:
+- https://doi.org/10.1145/3338906.3342505
+- 2019
+Target-driven compositional concolic testing with function summary refinement for effective bug detection.:
+- https://doi.org/10.1145/3338906.3338934
+- 2019
+Test-related factors and post-release defects - an empirical study.:
+- https://doi.org/10.1145/3338906.3342500
+- 2019
+Testing scratch programs automatically.:
+- https://doi.org/10.1145/3338906.3338910
+- 2019
+The importance of accounting for real-world labelling when predicting software vulnerabilities.:
+- https://doi.org/10.1145/3338906.3338941
+- 2019
+The lessons software engineers can extract from painters to improve the software development process.:
+- https://doi.org/10.1145/3338906.3342492
+- 2019
+The review linkage graph for code review analytics - a recovery approach and empirical study.:
+- https://doi.org/10.1145/3338906.3338949
+- 2019
+The role of limitations and SLAs in the API industry.:
+- https://doi.org/10.1145/3338906.3340445
+- 2019
+Together strong - cooperative Android app analysis.:
+- https://doi.org/10.1145/3338906.3338915
+- 2019
+Towards more efficient meta-heuristic algorithms for combinatorial test generation.:
+- https://doi.org/10.1145/3338906.3338914
+- 2019
+Tuning backfired? not (always) your fault - understanding and detecting configuration-related performance bugs.:
+- https://doi.org/10.1145/3338906.3342498
+- 2019
+Understanding GCC builtins to develop better tools.:
+- https://doi.org/10.1145/3338906.3338907
+- 2019
+Understanding flaky tests - the developer&apos;s perspective.:
+- https://doi.org/10.1145/3338906.3338945
+- 2019
+Understanding source code comments at large-scale.:
+- https://doi.org/10.1145/3338906.3342494
+- 2019
+Using microservices for non-intrusive customization of multi-tenant SaaS.:
+- https://doi.org/10.1145/3338906.3340452
+- 2019
+Using software testing to repair models.:
+- https://doi.org/10.1145/3338906.3342508
+- 2019
+VARYS - an agnostic model-driven monitoring-as-a-service framework for the cloud.:
+- https://doi.org/10.1145/3338906.3341185
+- 2019
+Web test dependency detection.:
+- https://doi.org/10.1145/3338906.3338948
+- 2019
+What the fork - a study of inefficient and efficient forking practices in social coding.:
+- https://doi.org/10.1145/3338906.3338918
+- 2019
+When deep learning met code search.:
+- https://doi.org/10.1145/3338906.3340458
+- 2019
+White-box testing of big data analytics with complex user-defined functions.:
+- https://doi.org/10.1145/3338906.3338953
+- 2019
+WhoDo - automating reviewer suggestions at scale.:
+- https://doi.org/10.1145/3338906.3340449
+- 2019
+? Why aren&apos;t regular expressions a lingua franca? an empirical study on the re-use
+  and portability of regular expressions.
+: - https://doi.org/10.1145/3338906.3338909
+  - 2019
+iFixFlakies - a framework for automatically fixing order-dependent flaky tests.:
+- https://doi.org/10.1145/3338906.3338925
+- 2019
+iFixR - bug report driven program repair.:
+- https://doi.org/10.1145/3338906.3338935
+- 2019

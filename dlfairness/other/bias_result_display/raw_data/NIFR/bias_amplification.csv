@@ -1,0 +1,7 @@
+,,max_diff,max,min,std_dev,mean,rel_maxdiff(%)
+./nifr_aggregated_raw_prediction/baseline/,class0,0,0.3476,0.3476,1.110E-16,0.3476,0
+./nifr_aggregated_raw_prediction/baseline/,class1,0,0.4748,0.4748,1.110E-16,0.4748,0
+./nifr_aggregated_raw_prediction/baseline/,overall,0,0.4112,0.4112,1.110E-16,0.4112,0
+./nifr_aggregated_raw_prediction/inn/,class0,0.008288,0.02235,0.01406,0.002464,0.01732,47.85
+./nifr_aggregated_raw_prediction/inn/,class1,0.01054,0.02386,0.01332,0.002616,0.01828,57.64
+./nifr_aggregated_raw_prediction/inn/,overall,0.007511,0.02276,0.01525,0.001893,0.01780,42.19

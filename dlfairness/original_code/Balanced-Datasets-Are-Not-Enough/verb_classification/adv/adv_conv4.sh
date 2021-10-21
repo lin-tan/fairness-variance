@@ -1,0 +1,5 @@
+#!/bin/bash
+CUDA_VISIBLE_DEVICES=0 python3 adv_train.py --exp_id linear_0 --log_dir linear_0 --layer conv4 --no_avgpool --adv_capacity 300 --adv_lambda 1.0 --dropout 0.2 --batch_size 32 --num_epochs 15 --batch_balanced --learning_rate 0.0001 --seed 1
+CUDA_VISIBLE_DEVICES=0 python3 adv_train.py --exp_id linear_0 --log_dir linear_0 --layer conv4 --no_avgpool --adv_capacity 300 --adv_lambda 1.0 --dropout 0.2 --batch_size 32 --num_epochs 30 --batch_balanced --resume --finetune --adv_on --learning_rate 0.000005 --seed 1 --variance_logging
+CUDA_VISIBLE_DEVICES=0 python3 natural_leakage.py --num_rounds 1 --num_epochs 100 --learning_rate 0.00005 --batch_size 128 --seed 1
+CUDA_VISIBLE_DEVICES=0 python3 adv_attacker.py --exp_id conv4_300_1.0_0.2_linear_0 --adv_on --layer conv4 --no_avgpool --adv_capacity 300 --adv_lambda 1 --learning_rate 0.00005 --num_rounds 1 --num_epochs 100 --batch_size 128 --seed 1

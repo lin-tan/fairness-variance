@@ -1,0 +1,76 @@
+? An empirical study of regression testing techniques incorporating context and lifetime
+  factors and improved cost-benefit models.
+: - https://doi.org/10.1145/1181775.1181793
+  - 2006
+Bit level types for high level reasoning.:
+- https://doi.org/10.1145/1181775.1181791
+- 2006
+Carving differential unit test cases from system test cases.:
+- https://doi.org/10.1145/1181775.1181806
+- 2006
+Controlling factors in evaluating path-sensitive error detection techniques.:
+- https://doi.org/10.1145/1181775.1181787
+- 2006
+Detecting increases in feature coupling using regression tests.:
+- https://doi.org/10.1145/1181775.1181795
+- 2006
+Dynamic slicing long running programs through execution fast forwarding.:
+- https://doi.org/10.1145/1181775.1181786
+- 2006
+Exceptions and aspects - the devil is in the details.:
+- https://doi.org/10.1145/1181775.1181794
+- 2006
+Failure proximity - a fault localization-based approach.:
+- https://doi.org/10.1145/1181775.1181782
+- 2006
+Finding failure-inducing changes in java programs using change classification.:
+- https://doi.org/10.1145/1181775.1181783
+- 2006
+From multi-modal scenarios to code - compiling LSCs into aspectJ.:
+- https://doi.org/10.1145/1181775.1181802
+- 2006
+How is aliasing used in systems software?:
+- https://doi.org/10.1145/1181775.1181785
+- 2006
+Interpolation for data structures.:
+- https://doi.org/10.1145/1181775.1181789
+- 2006
+Lightweight extraction of syntactic specifications.:
+- https://doi.org/10.1145/1181775.1181809
+- 2006
+Local analysis of atomicity sphere for B2B collaboration.:
+- https://doi.org/10.1145/1181775.1181798
+- 2006
+Memories of bug fixes.:
+- https://doi.org/10.1145/1181775.1181781
+- 2006
+Questions programmers ask during software evolution tasks.:
+- https://doi.org/10.1145/1181775.1181779
+- 2006
+SMArTIC - towards building an accurate, robust and scalable specification miner.:
+- https://doi.org/10.1145/1181775.1181808
+- 2006
+SYNERGY - a new algorithm for property checking.:
+- https://doi.org/10.1145/1181775.1181790
+- 2006
+Scenarios, goals, and state machines - a win-win partnership for model synthesis.:
+- https://doi.org/10.1145/1181775.1181800
+- 2006
+Simulation-based test adequacy criteria for distributed systems.:
+- https://doi.org/10.1145/1181775.1181804
+- 2006
+Testing context-aware middleware-centric programs - a data flow approach and an RFID-based experimentation.:
+- https://doi.org/10.1145/1181775.1181805
+- 2006
+User guidance for creating precise and accessible property specifications.:
+- https://doi.org/10.1145/1181775.1181801
+- 2006
+Using positive tainting and syntax-aware evaluation to counter SQL injection attacks.:
+- https://doi.org/10.1145/1181775.1181797
+- 2006
+Using task context to improve programmer productivity.:
+- https://doi.org/10.1145/1181775.1181777
+- 2006
+Work experience versus refactoring to design patterns - a controlled experiment.:
+- https://doi.org/10.1145/1181775.1181778
+- 2006

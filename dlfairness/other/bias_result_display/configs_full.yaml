@@ -1,0 +1,31 @@
+BalancedDatasets-COCO:
+  class: 79
+  settings: !!python/tuple
+  - - threshold_0.5/no_gender/
+  - - threshold_0.5/ratio-1/
+    - threshold_0.5/ratio-2/
+    - threshold_0.5/ratio-3/
+    - threshold_0.5/adv-conv4/
+    - threshold_0.5/adv-conv5/
+BalancedDatasets-imSitu:
+  class: 211
+  settings: !!python/tuple
+  - - no_gender/
+  - - ratio-1/
+    - ratio-2/
+    - ratio-3/
+    - adv-conv4/
+    - adv-conv5/
+EffStrategies:
+  class: 10
+  settings: !!python/tuple
+  - - baseline/
+  - - sampling/
+    - uniconf-adv/
+    - gradproj-adv/
+    - domain-discriminative/Sum-of-prob-no-prior-shift/
+    - domain-discriminative/Max-of-prob-prior-shift/
+    - domain-discriminative/Sum-of-prob-prior-shift/
+    - domain-discriminative/rba/
+    - domain-independent/Conditional/
+    - domain-independent/Sum/

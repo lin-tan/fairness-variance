@@ -1,0 +1,167 @@
+A suite of tools for making effective use of automatically generated tests.:
+- https://doi.org/10.1145/3092703.3098220
+- 2017
+Accelerating array constraints in symbolic execution.:
+- https://doi.org/10.1145/3092703.3092728
+- 2017
+An actionable performance profiler for optimizing the order of evaluations.:
+- https://doi.org/10.1145/3092703.3092716
+- 2017
+ArtForm - a tool for exploring the codebase of form-based websites.:
+- https://doi.org/10.1145/3092703.3098226
+- 2017
+Automated layout failure detection for responsive web pages without an explicit oracle.:
+- https://doi.org/10.1145/3092703.3092712
+- 2017
+Automated repair of layout cross browser issues using search-based techniques.:
+- https://doi.org/10.1145/3092703.3092726
+- 2017
+Automatic detection and validation of race conditions in interrupt-driven embedded software.:
+- https://doi.org/10.1145/3092703.3092724
+- 2017
+Automatically inferring and enforcing user expectations.:
+- https://doi.org/10.1145/3092703.3098236
+- 2017
+Boosting spectrum-based fault localization using PageRank.:
+- https://doi.org/10.1145/3092703.3092731
+- 2017
+Boosting the precision of virtual call integrity protection with partial pointer analysis for C++.:
+- https://doi.org/10.1145/3092703.3092729
+- 2017
+CPR - cross platform binary code reuse via platform independent trace program.:
+- https://doi.org/10.1145/3092703.3092707
+- 2017
+CUT - automatic unit testing in the cloud.:
+- https://doi.org/10.1145/3092703.3098222
+- 2017
+Caret-HM - recording and replaying Android user sessions with heat map generation using UI state clustering.:
+- https://doi.org/10.1145/3092703.3098231
+- 2017
+Combining symbolic execution and search-based testing for programs with complex heap inputs.:
+- https://doi.org/10.1145/3092703.3092715
+- 2017
+Compiler-assisted test acceleration on GPUs for embedded software.:
+- https://doi.org/10.1145/3092703.3092720
+- 2017
+Consistency checking in requirements analysis.:
+- https://doi.org/10.1145/3092703.3098239
+- 2017
+Data flow oriented UI testing - exploiting data flows and UI elements to test Android applications.:
+- https://doi.org/10.1145/3092703.3098234
+- 2017
+Dynamic tainting for automatic test case generation.:
+- https://doi.org/10.1145/3092703.3098233
+- 2017
+Effective online software anomaly detection.:
+- https://doi.org/10.1145/3092703.3092730
+- 2017
+Efficient computation of happens-before relation for event-driven programs.:
+- https://doi.org/10.1145/3092703.3092733
+- 2017
+Experience paper - a study on behavioral backward incompatibilities of Java software libraries.:
+- https://doi.org/10.1145/3092703.3092721
+- 2017
+FLUCCS - using code and change metrics to improve fault localization.:
+- https://doi.org/10.1145/3092703.3092717
+- 2017
+Faster mutation analysis via equivalence modulo states.:
+- https://doi.org/10.1145/3092703.3092714
+- 2017
+Generating unit tests with descriptive names or - would you name your children thing1 and thing2?:
+- https://doi.org/10.1145/3092703.3092727
+- 2017
+GitcProc - a tool for processing and classifying GitHub commits.:
+- https://doi.org/10.1145/3092703.3098230
+- 2017
+Identifying test-suite-overfitted patches through test case generation.:
+- https://doi.org/10.1145/3092703.3092718
+- 2017
+Impact of tool support in patch construction.:
+- https://doi.org/10.1145/3092703.3092713
+- 2017
+? Improving the cost-effectiveness of symbolic testing techniques for transport protocol
+  implementations under packet dynamics.
+: - https://doi.org/10.1145/3092703.3092706
+  - 2017
+Inferring mutant utility from program context.:
+- https://doi.org/10.1145/3092703.3092732
+- 2017
+JFIX - semantics-based repair of Java programs via symbolic PathFinder.:
+- https://doi.org/10.1145/3092703.3098225
+- 2017
+Just-in-time static analysis.:
+- https://doi.org/10.1145/3092703.3092705
+- 2017
+LabPal - repeatable computer experiments made easy.:
+- https://doi.org/10.1145/3092703.3098232
+- 2017
+Lightweight detection of physical unit inconsistencies without program annotations.:
+- https://doi.org/10.1145/3092703.3092722
+- 2017
+Mapping hardness of automated software testing.:
+- https://doi.org/10.1145/3092703.3098241
+- 2017
+Monitoring decentralized specifications.:
+- https://doi.org/10.1145/3092703.3092723
+- 2017
+One test to rule them all.:
+- https://doi.org/10.1145/3092703.3092704
+- 2017
+Oracle problem in software testing.:
+- https://doi.org/10.1145/3092703.3098235
+- 2017
+ParTeCL - parallel testing using OpenCL.:
+- https://doi.org/10.1145/3092703.3098227
+- 2017
+Path cost analysis for side channel detection.:
+- https://doi.org/10.1145/3092703.3098242
+- 2017
+PerfRanker - prioritization of performance regression tests for collection-intensive software.:
+- https://doi.org/10.1145/3092703.3092725
+- 2017
+Phriky-units - a lightweight, annotation-free physical unit inconsistency detection tool.:
+- https://doi.org/10.1145/3092703.3098219
+- 2017
+? Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing
+  and Analysis, Santa Barbara, CA, USA, July 10 - 14, 2017
+: - https://doi.org/10.1145/3092703
+  - 2017
+ReDeCheck - an automatic layout failure checking tool for responsively designed web pages.:
+- https://doi.org/10.1145/3092703.3098221
+- 2017
+Refining interprocedural change-impact analysis using equivalence relations.:
+- https://doi.org/10.1145/3092703.3092719
+- 2017
+Reinforcement learning for automatic test case prioritization and selection in continuous integration.:
+- https://doi.org/10.1145/3092703.3092709
+- 2017
+SealTest - a simple library for test sequence generation.:
+- https://doi.org/10.1145/3092703.3098229
+- 2017
+Semi-automated discovery of server-based information oversharing vulnerabilities in Android applications.:
+- https://doi.org/10.1145/3092703.3092708
+- 2017
+THEMIS - a tool for decentralized monitoring algorithms.:
+- https://doi.org/10.1145/3092703.3098224
+- 2017
+Targeted property-based testing.:
+- https://doi.org/10.1145/3092703.3092711
+- 2017
+Test execution checkpointing for web applications.:
+- https://doi.org/10.1145/3092703.3092710
+- 2017
+Testing and analysis of web applications using page models.:
+- https://doi.org/10.1145/3092703.3092734
+- 2017
+Understanding intended behavior using models of low-level signals.:
+- https://doi.org/10.1145/3092703.3098237
+- 2017
+Verifying digital systems with MATLAB.:
+- https://doi.org/10.1145/3092703.3098228
+- 2017
+Version space learning for verification on temporal differentials.:
+- https://doi.org/10.1145/3092703.3098238
+- 2017
+XFix - an automated tool for the repair of layout cross browser issues.:
+- https://doi.org/10.1145/3092703.3098223
+- 2017

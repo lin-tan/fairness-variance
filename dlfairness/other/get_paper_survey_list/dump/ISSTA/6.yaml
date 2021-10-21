@@ -1,0 +1,150 @@
+A format string checker for Java.:
+- https://doi.org/10.1145/2610384.2628056
+- 2014
+A type system for format strings.:
+- https://doi.org/10.1145/2610384.2610417
+- 2014
+A variability-based testing approach for synthesizing video sequences.:
+- https://doi.org/10.1145/2610384.2610411
+- 2014
+ARC++ - effective typestate and lifetime dependency analysis.:
+- https://doi.org/10.1145/2610384.2610395
+- 2014
+An empirical study of injected versus actual interface errors.:
+- https://doi.org/10.1145/2610384.2610418
+- 2014
+Automated testing for SQL injection vulnerabilities - an input mutation approach.:
+- https://doi.org/10.1145/2610384.2610403
+- 2014
+Automatic repair for multi-threaded programs with Deadlock/Livelock using maximum satisfiability.:
+- https://doi.org/10.1145/2610384.2610398
+- 2014
+Canalyze - a static bug-finding tool for C programs.:
+- https://doi.org/10.1145/2610384.2628050
+- 2014
+CoREBench - studying complexity of regression errors.:
+- https://doi.org/10.1145/2610384.2628058
+- 2014
+Constructing coding duels in Pex4Fun and code hunt.:
+- https://doi.org/10.1145/2610384.2628054
+- 2014
+Coverage and fault detection of the output-uniqueness test selection criteria.:
+- https://doi.org/10.1145/2610384.2610413
+- 2014
+Covrig - a framework for the analysis of code, test, and coverage evolution in real software.:
+- https://doi.org/10.1145/2610384.2610419
+- 2014
+CrashLocator - locating crashing faults based on crash stacks.:
+- https://doi.org/10.1145/2610384.2610386
+- 2014
+Cross-platform feature matching for web applications.:
+- https://doi.org/10.1145/2610384.2610409
+- 2014
+DOM-based test adequacy criteria for web applications.:
+- https://doi.org/10.1145/2610384.2610406
+- 2014
+Defects4J - a database of existing faults to enable controlled testing studies for Java programs.:
+- https://doi.org/10.1145/2610384.2628055
+- 2014
+Dodona - automated oracle data set selection.:
+- https://doi.org/10.1145/2610384.2610408
+- 2014
+Effective test generation and adequacy assessment for JavaScript-based web applications.:
+- https://doi.org/10.1145/2610384.2631832
+- 2014
+Efficient mutation analysis by propagating and partitioning infected execution states.:
+- https://doi.org/10.1145/2610384.2610388
+- 2014
+Efficient predicated bug signature mining via hierarchical instrumentation.:
+- https://doi.org/10.1145/2610384.2610400
+- 2014
+Efficient statistical debugging via hierarchical instrumentation.:
+- https://doi.org/10.1145/2610384.2631833
+- 2014
+Empirically revisiting the test independence assumption.:
+- https://doi.org/10.1145/2610384.2610404
+- 2014
+Extending a search-based test generator with adaptive dynamic symbolic execution.:
+- https://doi.org/10.1145/2610384.2628049
+- 2014
+FLOWER - optimal test suite reduction as a network maximum flow.:
+- https://doi.org/10.1145/2610384.2610416
+- 2014
+Feedback-driven dynamic invariant discovery.:
+- https://doi.org/10.1145/2610384.2610389
+- 2014
+Hybrid security analysis of web JavaScript code via dynamic partial evaluation.:
+- https://doi.org/10.1145/2610384.2610385
+- 2014
+Identifying optimal trade-offs between CPU time usage and temporal constraints using search.:
+- https://doi.org/10.1145/2610384.2610396
+- 2014
+Integrated energy-directed test suite optimization.:
+- https://doi.org/10.1145/2610384.2610414
+- 2014
+International Symposium on Software Testing and Analysis, ISSTA &apos;14, San Jose, CA, USA - July 21 - 26, 2014:
+- https://doi.org/10.1145/2610384
+- 2014
+Legend - an agile DSL toolset for web acceptance testing.:
+- https://doi.org/10.1145/2610384.2628048
+- 2014
+Lightweight automated detection of unsafe information leakage via exceptions.:
+- https://doi.org/10.1145/2610384.2610412
+- 2014
+Link - exploiting the web of data to generate test inputs.:
+- https://doi.org/10.1145/2610384.2610397
+- 2014
+Make it work, make it right, make it fast - building a platform-neutral whole-system dynamic binary analysis platform.:
+- https://doi.org/10.1145/2610384.2610407
+- 2014
+MuCheck - an extensible tool for mutation testing of haskell programs.:
+- https://doi.org/10.1145/2610384.2628052
+- 2014
+Performance regression testing of concurrent classes.:
+- https://doi.org/10.1145/2610384.2610393
+- 2014
+ProCrawl - mining test models from multi-user web applications.:
+- https://doi.org/10.1145/2610384.2628051
+- 2014
+Reducing GUI test suites via program slicing.:
+- https://doi.org/10.1145/2610384.2610391
+- 2014
+Reusing constraint proofs for scalable program analysis.:
+- https://doi.org/10.1145/2610384.2631831
+- 2014
+Robust test automation using contextual clues.:
+- https://doi.org/10.1145/2610384.2610390
+- 2014
+Runtime prevention of concurrency related type-state violations in multithreaded applications.:
+- https://doi.org/10.1145/2610384.2610405
+- 2014
+Scalable detection of missed cross-function refactorings.:
+- https://doi.org/10.1145/2610384.2610394
+- 2014
+Semantic differential repair for input validation and sanitization.:
+- https://doi.org/10.1145/2610384.2610401
+- 2014
+SunCat - helping developers understand and predict performance problems in smartphone applications.:
+- https://doi.org/10.1145/2610384.2610410
+- 2014
+Tailored source code transformations to synthesize computationally diverse program variants.:
+- https://doi.org/10.1145/2610384.2610415
+- 2014
+The major mutation framework - efficient and scalable mutation analysis for Java.:
+- https://doi.org/10.1145/2610384.2628053
+- 2014
+Using test case reduction and prioritization to improve symbolic execution.:
+- https://doi.org/10.1145/2610384.2610392
+- 2014
+Verification-aided regression testing.:
+- https://doi.org/10.1145/2610384.2610387
+- 2014
+Verifying atomicity via data independence.:
+- https://doi.org/10.1145/2610384.2610402
+- 2014
+Virtual DOM coverage for effective testing of dynamic web applications.:
+- https://doi.org/10.1145/2610384.2610399
+- 2014
+X-PERT - a web application testing tool for cross-browser inconsistency detection.:
+- https://doi.org/10.1145/2610384.2628057
+- 2014

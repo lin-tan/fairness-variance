@@ -1,0 +1,641 @@
+1.x-Way architecture-implementation mapping.:
+- https://doi.org/10.1145/1985793.1986010
+- 2011
+A case study of measuring process risk for early insights into software safety.:
+- https://doi.org/10.1145/1985793.1985881
+- 2011
+A case study on refactoring in Haskell programs.:
+- https://doi.org/10.1145/1985793.1986030
+- 2011
+A combination approach for enhancing automated traceability.:
+- https://doi.org/10.1145/1985793.1985943
+- 2011
+A comparison of model-based and judgment-based release planning in incremental software projects.:
+- https://doi.org/10.1145/1985793.1985901
+- 2011
+A decision support system for the classification of software coding faults - a research abstract.:
+- https://doi.org/10.1145/1985793.1986028
+- 2011
+A declarative approach to enable flexible and dynamic service compositions.:
+- https://doi.org/10.1145/1985793.1986016
+- 2011
+A demonstration of a distributed software design sketching tool.:
+- https://doi.org/10.1145/1985793.1985985
+- 2011
+A domain specific requirements model for scientific computing.:
+- https://doi.org/10.1145/1985793.1985922
+- 2011
+A formal approach to software synthesis for architectural platforms.:
+- https://doi.org/10.1145/1985793.1986023
+- 2011
+A framework for automated testing of javascript web applications.:
+- https://doi.org/10.1145/1985793.1985871
+- 2011
+A framework for the integration of user centered design and agile software development processes.:
+- https://doi.org/10.1145/1985793.1986017
+- 2011
+A lightweight code analysis and its role in evaluation of a dependability case.:
+- https://doi.org/10.1145/1985793.1985799
+- 2011
+A method for selecting SOA pilot projects including a pilot metrics framework.:
+- https://doi.org/10.1145/1985793.1985885
+- 2011
+A practical guide for using statistical tests to assess randomized algorithms in software engineering.:
+- https://doi.org/10.1145/1985793.1985795
+- 2011
+A software behaviour analysis framework based on the human perception systems.:
+- https://doi.org/10.1145/1985793.1985955
+- 2011
+A study of ripple effects in software ecosystems.:
+- https://doi.org/10.1145/1985793.1985940
+- 2011
+Always-available static and dynamic feedback.:
+- https://doi.org/10.1145/1985793.1985864
+- 2011
+An empirical investigation into the role of API-level refactorings during software evolution.:
+- https://doi.org/10.1145/1985793.1985815
+- 2011
+An empirical study of build maintenance effort.:
+- https://doi.org/10.1145/1985793.1985813
+- 2011
+An end-user demonstration approach to support aspect-oriented modeling.:
+- https://doi.org/10.1145/1985793.1986034
+- 2011
+An evaluation of the internal quality of business applications - does size matter?:
+- https://doi.org/10.1145/1985793.1985893
+- 2011
+An industrial case study on quality impact prediction for evolving service-oriented software.:
+- https://doi.org/10.1145/1985793.1985902
+- 2011
+Angelic debugging.:
+- https://doi.org/10.1145/1985793.1985811
+- 2011
+Architecture evaluation without an architecture - experience with the smart grid.:
+- https://doi.org/10.1145/1985793.1985886
+- 2011
+Aspect recommendation for evolving software.:
+- https://doi.org/10.1145/1985793.1985843
+- 2011
+Assessing programming language impact on development and maintenance - a study on c and c++.:
+- https://doi.org/10.1145/1985793.1985817
+- 2011
+AutoBlackTest - a tool for automatic black-box testing.:
+- https://doi.org/10.1145/1985793.1985979
+- 2011
+Automated cross-browser compatibility testing.:
+- https://doi.org/10.1145/1985793.1985870
+- 2011
+Automated security hardening for evolving UML models.:
+- https://doi.org/10.1145/1985793.1985968
+- 2011
+Automated usability evaluation of parallel programming constructs.:
+- https://doi.org/10.1145/1985793.1985951
+- 2011
+Automatically detecting and describing high level actions within methods.:
+- https://doi.org/10.1145/1985793.1985808
+- 2011
+BQL - capturing and reusing debugging knowledge.:
+- https://doi.org/10.1145/1985793.1985975
+- 2011
+Better testing through oracle selection.:
+- https://doi.org/10.1145/1985793.1985936
+- 2011
+Blending freeform and managed information in tables.:
+- https://doi.org/10.1145/1985793.1985919
+- 2011
+Bringing domain-specific languages to digital forensics.:
+- https://doi.org/10.1145/1985793.1985887
+- 2011
+Build system maintenance.:
+- https://doi.org/10.1145/1985793.1986031
+- 2011
+Building and using pluggable type-checkers.:
+- https://doi.org/10.1145/1985793.1985889
+- 2011
+Building domain specific software architectures from software architectural design patterns.:
+- https://doi.org/10.1145/1985793.1986026
+- 2011
+CREWW - collaborative requirements engineering with wii-remotes.:
+- https://doi.org/10.1145/1985793.1985923
+- 2011
+Camouflage - automated anonymization of field data.:
+- https://doi.org/10.1145/1985793.1985797
+- 2011
+Capturing tacit architectural knowledge using the repertory grid technique.:
+- https://doi.org/10.1145/1985793.1985944
+- 2011
+Characterizing process variation.:
+- https://doi.org/10.1145/1985793.1985918
+- 2011
+Characterizing the differences between pre- and post- release versions of software.:
+- https://doi.org/10.1145/1985793.1985894
+- 2011
+Coalescing executions for fast uncertainty analysis.:
+- https://doi.org/10.1145/1985793.1985872
+- 2011
+Code coverage analysis in practice for large systems.:
+- https://doi.org/10.1145/1985793.1985897
+- 2011
+CodeTopics - which topic am I coding now?:
+- https://doi.org/10.1145/1985793.1985988
+- 2011
+Collaborative teaching of globally distributed software development - community building workshop (CTGDSD 2011).:
+- https://doi.org/10.1145/1985793.1986049
+- 2011
+Configuring global software teams - a multi-company analysis of project productivity, quality, and profits.:
+- https://doi.org/10.1145/1985793.1985830
+- 2011
+Covana - precise identification of problems in pex.:
+- https://doi.org/10.1145/1985793.1985976
+- 2011
+Coverage guided systematic concurrency testing.:
+- https://doi.org/10.1145/1985793.1985824
+- 2011
+Data analytics for game development.:
+- https://doi.org/10.1145/1985793.1985952
+- 2011
+Dealing with noise in defect prediction.:
+- https://doi.org/10.1145/1985793.1985859
+- 2011
+Deploying CogTool - integrating quantitative usability assessment into real-world software development.:
+- https://doi.org/10.1145/1985793.1985890
+- 2011
+Design and implementation of a data analytics infrastructure in support of crisis informatics research.:
+- https://doi.org/10.1145/1985793.1985920
+- 2011
+Detecting architecturally-relevant code smells in evolving software systems.:
+- https://doi.org/10.1145/1985793.1986003
+- 2011
+Detecting cross-browser issues in web applications.:
+- https://doi.org/10.1145/1985793.1986024
+- 2011
+Detecting software modularity violations.:
+- https://doi.org/10.1145/1985793.1985850
+- 2011
+Diagnosing new faults using mutants and prior faults.:
+- https://doi.org/10.1145/1985793.1985959
+- 2011
+Digitally annexing desk space for software development.:
+- https://doi.org/10.1145/1985793.1985910
+- 2011
+Directed test suite augmentation.:
+- https://doi.org/10.1145/1985793.1986008
+- 2011
+Does the initial environment impact the future of developers.:
+- https://doi.org/10.1145/1985793.1985831
+- 2011
+DyTa - dynamic symbolic execution guided with static verification results.:
+- https://doi.org/10.1145/1985793.1985971
+- 2011
+Dynamic shape analysis of program heap using graph spectra.:
+- https://doi.org/10.1145/1985793.1985956
+- 2011
+Empirical assessment of MDE in industry.:
+- https://doi.org/10.1145/1985793.1985858
+- 2011
+Empirical results on the study of software vulnerabilities.:
+- https://doi.org/10.1145/1985793.1985960
+- 2011
+Enabling the runtime assertion checking of concurrent contracts for the Java modeling language.:
+- https://doi.org/10.1145/1985793.1985903
+- 2011
+Estimating footprints of model operations.:
+- https://doi.org/10.1145/1985793.1985875
+- 2011
+Evolve - tool support for architecture evolution.:
+- https://doi.org/10.1145/1985793.1985990
+- 2011
+Exciting new trends in design thinking.:
+- https://doi.org/10.1145/1985793.1985879
+- 2011
+Experiences with text mining large collections of unstructured systems development artifacts at jpl.:
+- https://doi.org/10.1145/1985793.1985891
+- 2011
+Exploiting hardware advances for software testing and debugging.:
+- https://doi.org/10.1145/1985793.1985935
+- 2011
+Exploring, exposing, and exploiting emails to include human factors in software engineering.:
+- https://doi.org/10.1145/1985793.1985999
+- 2011
+Factors leading to integration failures in global feature-oriented development - an empirical analysis.:
+- https://doi.org/10.1145/1985793.1985816
+- 2011
+Feature cohesion in software product lines - an exploratory study.:
+- https://doi.org/10.1145/1985793.1985851
+- 2011
+Fifth international workshop on software clones - (IWSC 2011).:
+- https://doi.org/10.1145/1985793.1986050
+- 2011
+Finding relevant functions in millions of lines of code.:
+- https://doi.org/10.1145/1985793.1986032
+- 2011
+FireDetective - understanding ajax client/server interactions.:
+- https://doi.org/10.1145/1985793.1985973
+- 2011
+First workshop on developing tools as plug-ins - (TOPI 2011).:
+- https://doi.org/10.1145/1985793.1986060
+- 2011
+Flexible generators for software reuse and evolution.:
+- https://doi.org/10.1145/1985793.1985946
+- 2011
+Fourth international workshop on multicore software engineering - (IWMSE 2011).:
+- https://doi.org/10.1145/1985793.1986040
+- 2011
+Fourth international workshop on software engineering for computational science and engineering - (SE-CSE2011).:
+- https://doi.org/10.1145/1985793.1986058
+- 2011
+Fourth workshop on refactoring tools - (WRT 2011).:
+- https://doi.org/10.1145/1985793.1986046
+- 2011
+Frequency and risks of changes to clones.:
+- https://doi.org/10.1145/1985793.1985836
+- 2011
+Fuzzy set-based automatic bug triaging.:
+- https://doi.org/10.1145/1985793.1985934
+- 2011
+GATE - game-based testing environment.:
+- https://doi.org/10.1145/1985793.1986000
+- 2011
+How do programmers ask and answer questions on the web?.:
+- https://doi.org/10.1145/1985793.1985907
+- 2011
+ICSE 2011 technical briefings.:
+- https://doi.org/10.1145/1985793.1985997
+- 2011
+Identifying method friendships to remove the feature envy bad smell.:
+- https://doi.org/10.1145/1985793.1985913
+- 2011
+Identifying opaque behavioural changes.:
+- https://doi.org/10.1145/1985793.1985972
+- 2011
+Identifying program, test, and environmental changes that affect behaviour.:
+- https://doi.org/10.1145/1985793.1985844
+- 2011
+Impact of process simulation on software practice - an initial report.:
+- https://doi.org/10.1145/1985793.1985993
+- 2011
+? Impact of software resource estimation research on practice - a preliminary report
+  on achievements, synergies, and challenges.
+: - https://doi.org/10.1145/1985793.1985994
+  - 2011
+Improving open source software patch contribution process - methods and tools.:
+- https://doi.org/10.1145/1985793.1986018
+- 2011
+Improving requirements quality using essential use case interaction patterns.:
+- https://doi.org/10.1145/1985793.1985866
+- 2011
+Inconsistency management framework for model-based development.:
+- https://doi.org/10.1145/1985793.1986005
+- 2011
+Inconsistent path detection for XML IDEs.:
+- https://doi.org/10.1145/1985793.1985967
+- 2011
+Inference of field initialization.:
+- https://doi.org/10.1145/1985793.1985826
+- 2011
+Inferring better contracts.:
+- https://doi.org/10.1145/1985793.1985820
+- 2011
+Information foraging as a foundation for code navigation.:
+- https://doi.org/10.1145/1985793.1985911
+- 2011
+Interactivity, continuity, sketching, and experience - (keynote abstract).:
+- https://doi.org/10.1145/1985793.1985878
+- 2011
+Interface decomposition for service compositions.:
+- https://doi.org/10.1145/1985793.1985862
+- 2011
+Iterative context-aware feature location.:
+- https://doi.org/10.1145/1985793.1985939
+- 2011
+JDeodorant - identification and application of extract class refactorings.:
+- https://doi.org/10.1145/1985793.1985989
+- 2011
+JavAdaptor - unrestricted dynamic software updates for Java.:
+- https://doi.org/10.1145/1985793.1985970
+- 2011
+LIME - a framework for debugging load imbalance in multi-threaded execution.:
+- https://doi.org/10.1145/1985793.1985822
+- 2011
+Learning to adapt requirements specifications of evolving systems.:
+- https://doi.org/10.1145/1985793.1985924
+- 2011
+Leveraging software architectures to guide and verify the development of sense/compute/control applications.:
+- https://doi.org/10.1145/1985793.1985852
+- 2011
+MT-Scribe - an end-user approach to automate software model evolution.:
+- https://doi.org/10.1145/1985793.1985966
+- 2011
+Matching logic - a new program verification approach.:
+- https://doi.org/10.1145/1985793.1985928
+- 2011
+MeCC - memory comparison-based clone detector.:
+- https://doi.org/10.1145/1985793.1985835
+- 2011
+Measuring subversions - security and legal risk in reused software artifacts.:
+- https://doi.org/10.1145/1985793.1986025
+- 2011
+Mental models and parallel program maintenance.:
+- https://doi.org/10.1145/1985793.1986006
+- 2011
+Miler - a toolset for exploring email data.:
+- https://doi.org/10.1145/1985793.1985984
+- 2011
+Mining message sequence graphs.:
+- https://doi.org/10.1145/1985793.1985807
+- 2011
+Mining parametric specifications.:
+- https://doi.org/10.1145/1985793.1985874
+- 2011
+Mining service abstractions.:
+- https://doi.org/10.1145/1985793.1985954
+- 2011
+Mining software repositories using topic models.:
+- https://doi.org/10.1145/1985793.1986020
+- 2011
+Model projection - simplifying models in response to restricting the environment.:
+- https://doi.org/10.1145/1985793.1985834
+- 2011
+Model-based performance testing.:
+- https://doi.org/10.1145/1985793.1985930
+- 2011
+Model-driven engineering practices in industry.:
+- https://doi.org/10.1145/1985793.1985882
+- 2011
+Multifractal aspects of software development.:
+- https://doi.org/10.1145/1985793.1985962
+- 2011
+Non-essential changes in version histories.:
+- https://doi.org/10.1145/1985793.1985842
+- 2011
+On-demand feature recommendations derived from mining public product descriptions.:
+- https://doi.org/10.1145/1985793.1985819
+- 2011
+Ownership, experience and defects - a fine-grained study of authorship.:
+- https://doi.org/10.1145/1985793.1985860
+- 2011
+Palus - a hybrid automated test generation tool for java.:
+- https://doi.org/10.1145/1985793.1986036
+- 2011
+Patching vulnerabilities with sanitization synthesis.:
+- https://doi.org/10.1145/1985793.1985828
+- 2011
+Permission-based programming languages.:
+- https://doi.org/10.1145/1985793.1985915
+- 2011
+Perspectives of delegation in team-based distributed software development over the GENI infrastructure.:
+- https://doi.org/10.1145/1985793.1985905
+- 2011
+Portfolio - a search engine for finding functions and their usages.:
+- https://doi.org/10.1145/1985793.1985991
+- 2011
+Portfolio - finding relevant functions and their usage.:
+- https://doi.org/10.1145/1985793.1985809
+- 2011
+Positive effects of utilizing relationships between inconsistencies for more effective inconsistency resolution.:
+- https://doi.org/10.1145/1985793.1985927
+- 2011
+Practical change impact analysis based on static program slicing for industrial software systems.:
+- https://doi.org/10.1145/1985793.1985898
+- 2011
+Pragmatic prioritization of software quality assurance efforts.:
+- https://doi.org/10.1145/1985793.1986007
+- 2011
+Pragmatic reuse in web application development.:
+- https://doi.org/10.1145/1985793.1986004
+- 2011
+Precise identification of problems for structural test generation.:
+- https://doi.org/10.1145/1985793.1985876
+- 2011
+Predictable dynamic deployment of components in embedded systems.:
+- https://doi.org/10.1145/1985793.1986015
+- 2011
+Problem identification for structural test generation - first step towards cooperative developer testing.:
+- https://doi.org/10.1145/1985793.1986035
+- 2011
+Program abstractions for behaviour validation.:
+- https://doi.org/10.1145/1985793.1985846
+- 2011
+Program analysis - from qualitative analysis to quantitative analysis.:
+- https://doi.org/10.1145/1985793.1985957
+- 2011
+Programs, tests, and oracles - the foundations of testing revisited.:
+- https://doi.org/10.1145/1985793.1985847
+- 2011
+RACEZ - a lightweight and non-invasive race detection tool for production applications.:
+- https://doi.org/10.1145/1985793.1985848
+- 2011
+ReAssert - a tool for repairing broken unit tests.:
+- https://doi.org/10.1145/1985793.1985978
+- 2011
+Reengineering legacy software products into software product line based on automatic variability analysis.:
+- https://doi.org/10.1145/1985793.1986009
+- 2011
+Refactoring Java programs for flexible locking.:
+- https://doi.org/10.1145/1985793.1985804
+- 2011
+Refactoring pipe-like mashups for end-user programmers.:
+- https://doi.org/10.1145/1985793.1985805
+- 2011
+Refactoring to role objects.:
+- https://doi.org/10.1145/1985793.1985854
+- 2011
+Requirements tracing - discovering related documents through artificial pheromones and term proximity.:
+- https://doi.org/10.1145/1985793.1986033
+- 2011
+Reuse vs. maintainability - revealing the impact of composition code properties.:
+- https://doi.org/10.1145/1985793.1986001
+- 2011
+Reverse engineering feature models.:
+- https://doi.org/10.1145/1985793.1985856
+- 2011
+Run-time efficient probabilistic model checking.:
+- https://doi.org/10.1145/1985793.1985840
+- 2011
+SCORE 2011 - the second student contest on software engineering.:
+- https://doi.org/10.1145/1985793.1986062
+- 2011
+SEREBRO - facilitating student project team collaboration.:
+- https://doi.org/10.1145/1985793.1985982
+- 2011
+SORASCS - a case study in soa-based platform design for socio-cultural analysis.:
+- https://doi.org/10.1145/1985793.1985883
+- 2011
+Scalable automatic linearizability checking.:
+- https://doi.org/10.1145/1985793.1986037
+- 2011
+Search-enhanced testing.:
+- https://doi.org/10.1145/1985793.1985932
+- 2011
+Searching, selecting, and synthesizing source code.:
+- https://doi.org/10.1145/1985793.1986013
+- 2011
+Second international workshop on managing technical debt - (MTD 2011).:
+- https://doi.org/10.1145/1985793.1986051
+- 2011
+Second international workshop on product line approaches in software engineering - (PLEASE 2011).:
+- https://doi.org/10.1145/1985793.1986047
+- 2011
+Second international workshop on software engineering for sensor network applications - (SESENA 2011).:
+- https://doi.org/10.1145/1985793.1986044
+- 2011
+Second international workshop on web 2.0 for software engineering - (Web2SE 2011).:
+- https://doi.org/10.1145/1985793.1986056
+- 2011
+Seventh international workshop on software engineering for secure systems - (SESS 2011).:
+- https://doi.org/10.1145/1985793.1986045
+- 2011
+Sixth international workshop on automation of software test - (AST 2011).:
+- https://doi.org/10.1145/1985793.1986053
+- 2011
+Sixth international workshop on traceability in emerging forms of software engineering - (TEFSE 2011).:
+- https://doi.org/10.1145/1985793.1986052
+- 2011
+Sketching tools for ideation.:
+- https://doi.org/10.1145/1985793.1985909
+- 2011
+Socio-technical developer networks - should we trust our measurements?:
+- https://doi.org/10.1145/1985793.1985832
+- 2011
+Software systems as cities - a controlled experiment.:
+- https://doi.org/10.1145/1985793.1985868
+- 2011
+Specification mining in concurrent and distributed systems.:
+- https://doi.org/10.1145/1985793.1986029
+- 2011
+StakeSource2.0 - using social networks of stakeholders to identify and prioritise requirements.:
+- https://doi.org/10.1145/1985793.1985983
+- 2011
+Static extraction of program configuration options.:
+- https://doi.org/10.1145/1985793.1985812
+- 2011
+Supporting professional spreadsheet users by generating leveled dataflow diagrams.:
+- https://doi.org/10.1145/1985793.1985855
+- 2011
+Symbolic execution for software testing in practice - preliminary assessment.:
+- https://doi.org/10.1145/1985793.1985995
+- 2011
+Symbolic model checking of software product lines.:
+- https://doi.org/10.1145/1985793.1985838
+- 2011
+Synthesis of live behaviour models for fallible domains.:
+- https://doi.org/10.1145/1985793.1985823
+- 2011
+Systematizing security test case planning using functional requirements phrases.:
+- https://doi.org/10.1145/1985793.1986019
+- 2011
+Taming reflection - Aiding static analysis in the presence of reflection and custom class loaders.:
+- https://doi.org/10.1145/1985793.1985827
+- 2011
+Test blueprint - an effective visual support for test coverage.:
+- https://doi.org/10.1145/1985793.1986022
+- 2011
+? The American law institute&apos;s principles on software contracts and their ramifications
+  for software engineering research.
+: - https://doi.org/10.1145/1985793.1985963
+  - 2011
+The code orb - supporting contextualized coding via at-a-glance views.:
+- https://doi.org/10.1145/1985793.1985914
+- 2011
+The hidden experts in software-engineering communication.:
+- https://doi.org/10.1145/1985793.1985906
+- 2011
+The impact of fault models on software robustness evaluations.:
+- https://doi.org/10.1145/1985793.1985801
+- 2011
+The lazy initialization multilayered modeling framework.:
+- https://doi.org/10.1145/1985793.1985947
+- 2011
+The quamoco tool chain for quality modeling and assessment.:
+- https://doi.org/10.1145/1985793.1985977
+- 2011
+Third international workshop on principles of engineering service-oriented systems - (PESOS 2011).:
+- https://doi.org/10.1145/1985793.1986054
+- 2011
+Third international workshop on search-driven development - users, infrastructure, tools, and evaluation (SUITE 2011).:
+- https://doi.org/10.1145/1985793.1986059
+- 2011
+Third international workshop on software engineering in healthcare - (SEHC 2011).:
+- https://doi.org/10.1145/1985793.1986048
+- 2011
+Topic-based defect prediction.:
+- https://doi.org/10.1145/1985793.1985950
+- 2011
+Toward a better understanding of tool usage.:
+- https://doi.org/10.1145/1985793.1985917
+- 2011
+Toward sustainable software engineering.:
+- https://doi.org/10.1145/1985793.1985964
+- 2011
+Towards architectural information in implementation.:
+- https://doi.org/10.1145/1985793.1985948
+- 2011
+Towards overcoming human analyst fallibility in the requirements tracing process.:
+- https://doi.org/10.1145/1985793.1985925
+- 2011
+Towards quantitative software reliability assessment in incremental development processes.:
+- https://doi.org/10.1145/1985793.1985800
+- 2011
+Tracing architectural concerns in high assurance systems.:
+- https://doi.org/10.1145/1985793.1985942
+- 2011
+Tracing architecturally significant requirements - a decision-centric approach.:
+- https://doi.org/10.1145/1985793.1986014
+- 2011
+Tracking data structures for postmortem analysis.:
+- https://doi.org/10.1145/1985793.1985938
+- 2011
+Transformation for class immutability.:
+- https://doi.org/10.1145/1985793.1985803
+- 2011
+Tuple density - a new metric for combinatorial test suites.:
+- https://doi.org/10.1145/1985793.1985931
+- 2011
+Understanding broadcast based peer review on open source software projects.:
+- https://doi.org/10.1145/1985793.1985867
+- 2011
+Unifying execution of imperative and declarative code.:
+- https://doi.org/10.1145/1985793.1985863
+- 2011
+Using MATCON to generate CASE tools that guide deployment of pre-packaged applications.:
+- https://doi.org/10.1145/1985793.1985981
+- 2011
+Using impact analysis in industry.:
+- https://doi.org/10.1145/1985793.1986027
+- 2011
+Using software evolution history to facilitate development and maintenance.:
+- https://doi.org/10.1145/1985793.1986012
+- 2011
+Value-based program characterization and its application to software plagiarism detection.:
+- https://doi.org/10.1145/1985793.1985899
+- 2011
+Verifying multi-threaded software using smt-based context-bounded model checking.:
+- https://doi.org/10.1145/1985793.1985839
+- 2011
+View infinity - a zoomable interface for feature-oriented software development.:
+- https://doi.org/10.1145/1985793.1985987
+- 2011
+Why software quality improvement fails - (and how to succeed nevertheless).:
+- https://doi.org/10.1145/1985793.1985895
+- 2011
+Workshop on SHAring and Reusing architectural Knowledge - (SHARK 2011).:
+- https://doi.org/10.1145/1985793.1986055
+- 2011
+Workshop on cooperative and human aspects of software engineering - (CHASE 2011).:
+- https://doi.org/10.1145/1985793.1986039
+- 2011
+Workshop on emerging trends in software metrics - (WETSoM 2011).:
+- https://doi.org/10.1145/1985793.1986057
+- 2011
+Workshop on flexible modeling tools - (FlexiTools 2011).:
+- https://doi.org/10.1145/1985793.1986041
+- 2011
+Workshop on games and software engineering - (GAS 2011).:
+- https://doi.org/10.1145/1985793.1986042
+- 2011
+Workshop on software engineering for cloud computing - (SECLOUD 2011).:
+- https://doi.org/10.1145/1985793.1986043
+- 2011
+aComment - mining annotations from comments and code to detect interrupt related concurrency bugs.:
+- https://doi.org/10.1145/1985793.1985796
+- 2011

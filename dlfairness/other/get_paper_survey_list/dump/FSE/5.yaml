@@ -1,0 +1,378 @@
+? A method to identify and correct problematic software activity data - exploiting
+  capacity constraints and data redundancies.
+: - https://doi.org/10.1145/2786805.2786866
+  - 2015
+A textual domain specific language for requirement modelling.:
+- https://doi.org/10.1145/2786805.2807562
+- 2015
+A user-guided approach to program analysis.:
+- https://doi.org/10.1145/2786805.2786851
+- 2015
+An empirical study of goto in C code from GitHub repositories.:
+- https://doi.org/10.1145/2786805.2786834
+- 2015
+Assertion guided symbolic execution of multithreaded programs.:
+- https://doi.org/10.1145/2786805.2786841
+- 2015
+Assertions are strongly correlated with test suite effectiveness.:
+- https://doi.org/10.1145/2786805.2786858
+- 2015
+Auto-completing bug reports for Android applications.:
+- https://doi.org/10.1145/2786805.2786857
+- 2015
+Auto-patching DOM-based XSS at scale.:
+- https://doi.org/10.1145/2786805.2786821
+- 2015
+Automated attack surface approximation.:
+- https://doi.org/10.1145/2786805.2807563
+- 2015
+Automated generation of programming language quizzes.:
+- https://doi.org/10.1145/2786805.2807559
+- 2015
+Automated multi-objective control for self-adaptive software design.:
+- https://doi.org/10.1145/2786805.2786833
+- 2015
+Automated unit test generation for evolving software.:
+- https://doi.org/10.1145/2786805.2803196
+- 2015
+Automatically computing path complexity of programs.:
+- https://doi.org/10.1145/2786805.2786863
+- 2015
+Automatically deriving pointer reference expressions from binary code for memory dump analysis.:
+- https://doi.org/10.1145/2786805.2786810
+- 2015
+Automatically recommending test code examples to inexperienced developers.:
+- https://doi.org/10.1145/2786805.2803202
+- 2015
+Barriers and enablers for shortening software development lead-time in mechatronics organizations - a case study.:
+- https://doi.org/10.1145/2786805.2804433
+- 2015
+Behavioral log analysis with statistical guarantees.:
+- https://doi.org/10.1145/2786805.2803198
+- 2015
+Bespoke tools - adapted to the concepts developers know.:
+- https://doi.org/10.1145/2786805.2803197
+- 2015
+CLAPP - characterizing loops in Android applications.:
+- https://doi.org/10.1145/2786805.2786873
+- 2015
+CLOTHO - saving programs from malformed strings and incorrect string-handling.:
+- https://doi.org/10.1145/2786805.2786877
+- 2015
+Clone-based and interactive recommendation for modifying pasted code.:
+- https://doi.org/10.1145/2786805.2786871
+- 2015
+Combining eye tracking with navigation paths for identification of cross-language code dependencies.:
+- https://doi.org/10.1145/2786805.2807561
+- 2015
+Commit guru - analytics and risk prediction of software commits.:
+- https://doi.org/10.1145/2786805.2803183
+- 2015
+Comparing and combining test-suite reduction and regression test selection.:
+- https://doi.org/10.1145/2786805.2786878
+- 2015
+Comprehensive service matching with MatchBox.:
+- https://doi.org/10.1145/2786805.2803181
+- 2015
+Crash reproduction via test case mutation - let existing test cases help.:
+- https://doi.org/10.1145/2786805.2803206
+- 2015
+Cross-language program slicing for dynamic web applications.:
+- https://doi.org/10.1145/2786805.2786872
+- 2015
+Crowd debugging.:
+- https://doi.org/10.1145/2786805.2786819
+- 2015
+Decentralized self-adaptation in large-scale distributed systems.:
+- https://doi.org/10.1145/2786805.2803192
+- 2015
+Detecting JavaScript races that matter.:
+- https://doi.org/10.1145/2786805.2786820
+- 2015
+Detecting event anomalies in event-based systems.:
+- https://doi.org/10.1145/2786805.2786836
+- 2015
+Detecting semantic merge conflicts with variability-aware execution.:
+- https://doi.org/10.1145/2786805.2803208
+- 2015
+Developer onboarding in GitHub - the role of prior social links and language experience.:
+- https://doi.org/10.1145/2786805.2786854
+- 2015
+DexterJS - robust testing platform for DOM-based XSS vulnerabilities.:
+- https://doi.org/10.1145/2786805.2803191
+- 2015
+Don&apos;t panic - reverse debugging of kernel drivers.:
+- https://doi.org/10.1145/2786805.2803179
+- 2015
+Effective and precise dynamic detection of hidden races for Java programs.:
+- https://doi.org/10.1145/2786805.2786839
+- 2015
+Effective test suites for mixed discrete-continuous stateflow controllers.:
+- https://doi.org/10.1145/2786805.2786818
+- 2015
+Efficient and reasonable object-oriented concurrency.:
+- https://doi.org/10.1145/2786805.2786822
+- 2015
+Efficient dependency detection for safe Java test acceleration.:
+- https://doi.org/10.1145/2786805.2786823
+- 2015
+Enhancing Android application bug reporting.:
+- https://doi.org/10.1145/2786805.2807557
+- 2015
+Evaluating a formal scenario-based method for the requirements analysis in automotive software engineering.:
+- https://doi.org/10.1145/2786805.2804432
+- 2015
+Finding schedule-sensitive branches.:
+- https://doi.org/10.1145/2786805.2786840
+- 2015
+FlexJava - language support for safe and modular approximate programming.:
+- https://doi.org/10.1145/2786805.2786807
+- 2015
+GR(1) synthesis for LTL specification patterns.:
+- https://doi.org/10.1145/2786805.2786824
+- 2015
+Gamification for enforcing coding conventions.:
+- https://doi.org/10.1145/2786805.2786806
+- 2015
+Generating TCP/UDP network data for automated unit test generation.:
+- https://doi.org/10.1145/2786805.2786828
+- 2015
+Getting to know you - towards a capability model for Java.:
+- https://doi.org/10.1145/2786805.2786829
+- 2015
+GitSonifier - using sound to portray developer conflict history.:
+- https://doi.org/10.1145/2786805.2803199
+- 2015
+Guided differential testing of certificate validation in SSL/TLS implementations.:
+- https://doi.org/10.1145/2786805.2786835
+- 2015
+Heterogeneous cross-company defect prediction by unified metric representation and CCA-based transfer learning.:
+- https://doi.org/10.1145/2786805.2786813
+- 2015
+Heterogeneous defect prediction.:
+- https://doi.org/10.1145/2786805.2786814
+- 2015
+Hey, you have given me too many knobs! - understanding and dealing with over-designed configuration in system software.:
+- https://doi.org/10.1145/2786805.2786852
+- 2015
+Hidden truths in dead software paths.:
+- https://doi.org/10.1145/2786805.2786865
+- 2015
+How developers search for code - a case study.:
+- https://doi.org/10.1145/2786805.2786855
+- 2015
+How practitioners perceive the relevance of software engineering research.:
+- https://doi.org/10.1145/2786805.2786809
+- 2015
+I heart hacker news - expanding qualitative research findings by analyzing social news websites.:
+- https://doi.org/10.1145/2786805.2803200
+- 2015
+Impact of developer turnover on quality in open-source software.:
+- https://doi.org/10.1145/2786805.2786870
+- 2015
+Improving energy consumption in Android apps.:
+- https://doi.org/10.1145/2786805.2807558
+- 2015
+Improving model-based test generation by model decomposition.:
+- https://doi.org/10.1145/2786805.2786837
+- 2015
+Increasing the efficiency of search-based unit test generation using parameter control.:
+- https://doi.org/10.1145/2786805.2807556
+- 2015
+Information retrieval and spectrum based bug localization - better together.:
+- https://doi.org/10.1145/2786805.2786880
+- 2015
+Inner oracles - input-specific assertions on internal states.:
+- https://doi.org/10.1145/2786805.2803204
+- 2015
+Is the cure worse than the disease? overfitting in automated program repair.:
+- https://doi.org/10.1145/2786805.2786825
+- 2015
+Iterative distribution-aware sampling for probabilistic symbolic execution.:
+- https://doi.org/10.1145/2786805.2786832
+- 2015
+JITProf - pinpointing JIT-unfriendly JavaScript code.:
+- https://doi.org/10.1145/2786805.2786831
+- 2015
+JSketch - sketching for Java.:
+- https://doi.org/10.1145/2786805.2803189
+- 2015
+MatrixMiner - a red pill to architect informal product descriptions in the matrix.:
+- https://doi.org/10.1145/2786805.2803180
+- 2015
+Measure it? Manage it? Ignore it? software practitioners and technical debt.:
+- https://doi.org/10.1145/2786805.2786848
+- 2015
+MemInsight - platform-independent memory debugging for JavaScript.:
+- https://doi.org/10.1145/2786805.2786860
+- 2015
+Mimic - computing models for opaque code.:
+- https://doi.org/10.1145/2786805.2786875
+- 2015
+Modeling readability to improve unit tests.:
+- https://doi.org/10.1145/2786805.2786838
+- 2015
+MultiSE - multi-path symbolic execution using value summaries.:
+- https://doi.org/10.1145/2786805.2786830
+- 2015
+NARCIA - an automated tool for change impact analysis in natural language requirements.:
+- https://doi.org/10.1145/2786805.2803185
+- 2015
+Navigating through the archipelago of refactorings.:
+- https://doi.org/10.1145/2786805.2803203
+- 2015
+Nyx - a display energy optimizer for mobile web apps.:
+- https://doi.org/10.1145/2786805.2803190
+- 2015
+OSSMETER - a software measurement platform for automatically analysing open source software projects.:
+- https://doi.org/10.1145/2786805.2803186
+- 2015
+On the use of delta debugging to reduce recordings and facilitate debugging of web applications.:
+- https://doi.org/10.1145/2786805.2786846
+- 2015
+OnSpot system - test impact visibility during code edits in real software.:
+- https://doi.org/10.1145/2786805.2804430
+- 2015
+Optimizing energy consumption of GUIs in Android apps - a multi-objective approach.:
+- https://doi.org/10.1145/2786805.2786847
+- 2015
+P3 - partitioned path profiling.:
+- https://doi.org/10.1145/2786805.2786868
+- 2015
+Performance-influence models for highly configurable systems.:
+- https://doi.org/10.1145/2786805.2786845
+- 2015
+Pockets - a tool to support exploratory programming for novices and educators.:
+- https://doi.org/10.1145/2786805.2807564
+- 2015
+Predicting field reliability.:
+- https://doi.org/10.1145/2786805.2804428
+- 2015
+Proactive self-adaptation under uncertainty - a probabilistic model checking approach.:
+- https://doi.org/10.1145/2786805.2786853
+- 2015
+? Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,
+  ESEC/FSE 2015, Bergamo, Italy, August 30 - September 4, 2015
+: - https://doi.org/10.1145/2786805
+  - 2015
+Product lines can jeopardize their trade secrets.:
+- https://doi.org/10.1145/2786805.2803210
+- 2015
+Products, developers, and milestones - how should I build my N-Gram language model.:
+- https://doi.org/10.1145/2786805.2804431
+- 2015
+Quality and productivity outcomes relating to continuous integration in GitHub.:
+- https://doi.org/10.1145/2786805.2786850
+- 2015
+Quantifying architectural debts.:
+- https://doi.org/10.1145/2786805.2803194
+- 2015
+Quantifying developers&apos; adoption of security tools.:
+- https://doi.org/10.1145/2786805.2786816
+- 2015
+Query-based configuration of text retrieval solutions for software engineering tasks.:
+- https://doi.org/10.1145/2786805.2786859
+- 2015
+Questions developers ask while diagnosing potential security vulnerabilities with static analysis.:
+- https://doi.org/10.1145/2786805.2786812
+- 2015
+RDIT - race detection from incomplete traces.:
+- https://doi.org/10.1145/2786805.2803209
+- 2015
+REMI - defect prediction for efficient API testing.:
+- https://doi.org/10.1145/2786805.2804429
+- 2015
+Requirements, architecture, and quality in a mission critical system - 12 lessons learned.:
+- https://doi.org/10.1145/2786805.2804436
+- 2015
+Responsive designs in a snap.:
+- https://doi.org/10.1145/2786805.2786808
+- 2015
+Rule-based extraction of goal-use case models from text.:
+- https://doi.org/10.1145/2786805.2786876
+- 2015
+? Semantic degrees for Industrie 4.0 engineering - deciding on the degree of semantic
+  formalization to select appropriate technologies.
+: - https://doi.org/10.1145/2786805.2804434
+  - 2015
+Spotting familiar code snippet structures for program comprehension.:
+- https://doi.org/10.1145/2786805.2807560
+- 2015
+Staged program repair with condition synthesis.:
+- https://doi.org/10.1145/2786805.2786811
+- 2015
+String analysis for Java and Android applications.:
+- https://doi.org/10.1145/2786805.2786879
+- 2015
+Suggesting accurate method and class names.:
+- https://doi.org/10.1145/2786805.2786849
+- 2015
+Summarizing and measuring development activity.:
+- https://doi.org/10.1145/2786805.2786827
+- 2015
+Symbolic execution of programs with heap inputs.:
+- https://doi.org/10.1145/2786805.2786842
+- 2015
+Synthesizing tests for detecting atomicity violations.:
+- https://doi.org/10.1145/2786805.2786874
+- 2015
+Systematic testing of asynchronous reactive systems.:
+- https://doi.org/10.1145/2786805.2786861
+- 2015
+T3i - a tool for generating and querying test suites for Java.:
+- https://doi.org/10.1145/2786805.2803182
+- 2015
+TACO - test suite augmentation for concurrent programs.:
+- https://doi.org/10.1145/2786805.2803201
+- 2015
+TLV - abstraction through testing, learning, and validation.:
+- https://doi.org/10.1145/2786805.2786817
+- 2015
+Targeted program transformations for symbolic execution.:
+- https://doi.org/10.1145/2786805.2803205
+- 2015
+Test report prioritization to assist crowdsourced testing.:
+- https://doi.org/10.1145/2786805.2786862
+- 2015
+The making of cloud applications - an empirical study on software development for the cloud.:
+- https://doi.org/10.1145/2786805.2786826
+- 2015
+Towards automating the security compliance value chain.:
+- https://doi.org/10.1145/2786805.2804435
+- 2015
+Tracing software developers&apos; eyes and interactions for change tasks.:
+- https://doi.org/10.1145/2786805.2786864
+- 2015
+Turning programs against each other - high coverage fuzz-testing using binary-code mutation and dynamic slicing.:
+- https://doi.org/10.1145/2786805.2786844
+- 2015
+UEDashboard - awareness of unusual events in commit histories.:
+- https://doi.org/10.1145/2786805.2803184
+- 2015
+UMTG - a toolset to automatically generate system test cases from use case specifications.:
+- https://doi.org/10.1145/2786805.2803187
+- 2015
+User-centric security - optimization of the security-usability trade-off.:
+- https://doi.org/10.1145/2786805.2803195
+- 2015
+Users beware - preference inconsistencies ahead.:
+- https://doi.org/10.1145/2786805.2786869
+- 2015
+Using software theater for the demonstration of innovative ubiquitous applications.:
+- https://doi.org/10.1145/2786805.2803207
+- 2015
+Vehicle level continuous integration in the automotive industry.:
+- https://doi.org/10.1145/2786805.2803193
+- 2015
+What change history tells us about thread synchronization.:
+- https://doi.org/10.1145/2786805.2786815
+- 2015
+When, how, and why developers (do not) test in their IDEs.:
+- https://doi.org/10.1145/2786805.2786843
+- 2015
+Witness validation and stepwise testification across software verifiers.:
+- https://doi.org/10.1145/2786805.2786867
+- 2015
+iTrace - enabling eye tracking on software artifacts within the IDE to support software engineering tasks.:
+- https://doi.org/10.1145/2786805.2803188
+- 2015

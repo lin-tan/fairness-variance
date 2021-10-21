@@ -1,0 +1,435 @@
+'&quot;Womenomics&quot; and gender-inclusive software - what software engineers need to know (invited talk).':
+- https://doi.org/10.1145/2950290.2994159
+- 2016
+A cross-tool communication study on program analysis tool notifications.:
+- https://doi.org/10.1145/2950290.2950304
+- 2016
+A deployable sampling strategy for data race detection.:
+- https://doi.org/10.1145/2950290.2950310
+- 2016
+A discrete-time feedback controller for containerized cloud applications.:
+- https://doi.org/10.1145/2950290.2950328
+- 2016
+A large-scale empirical comparison of static and dynamic test case prioritization techniques.:
+- https://doi.org/10.1145/2950290.2950344
+- 2016
+A portable interface for runtime energy monitoring.:
+- https://doi.org/10.1145/2950290.2983956
+- 2016
+API code recommendation using statistical learning from fine-grained changes.:
+- https://doi.org/10.1145/2950290.2950333
+- 2016
+API deprecation - a retrospective analysis and detection method for code examples on the web.:
+- https://doi.org/10.1145/2950290.2950298
+- 2016
+ARdoc - app reviews development oriented classifier.:
+- https://doi.org/10.1145/2950290.2983938
+- 2016
+An extensive study of static regression test selection in modern software evolution.:
+- https://doi.org/10.1145/2950290.2950361
+- 2016
+Analyzing the validity of selective mutation with dominator mutants.:
+- https://doi.org/10.1145/2950290.2950322
+- 2016
+Anti-patterns in search-based program repair.:
+- https://doi.org/10.1145/2950290.2950295
+- 2016
+Atlas - an intelligent, performant framework for web-based grid computing.:
+- https://doi.org/10.1145/2950290.2983980
+- 2016
+Automated change impact analysis between SysML models of requirements and design.:
+- https://doi.org/10.1145/2950290.2950293
+- 2016
+Automated test input generation for Android - are we really there yet in an industrial case?:
+- https://doi.org/10.1145/2950290.2983958
+- 2016
+Automatic performance testing using input-sensitive profiling.:
+- https://doi.org/10.1145/2950290.2983975
+- 2016
+Automatic trigger generation for end user written rules for home automation.:
+- https://doi.org/10.1145/2950290.2983965
+- 2016
+Automating repetitive code changes using examples.:
+- https://doi.org/10.1145/2950290.2983944
+- 2016
+BigDebug - interactive debugger for big data analytics in Apache Spark.:
+- https://doi.org/10.1145/2950290.2983930
+- 2016
+BinGo - cross-architecture cross-OS binary search.:
+- https://doi.org/10.1145/2950290.2950350
+- 2016
+Bing developer assistant - improving developer productivity by recommending sample code.:
+- https://doi.org/10.1145/2950290.2983955
+- 2016
+? Bounded model checking of state-space digital systems - the impact of finite word-length
+  effects on the implementation of fixed-point digital controllers based on state-space
+  modeling.
+: - https://doi.org/10.1145/2950290.2983979
+  - 2016
+Budgeted testing through an algorithmic lens.:
+- https://doi.org/10.1145/2950290.2983987
+- 2016
+Build system with lazy retrieval for Java projects.:
+- https://doi.org/10.1145/2950290.2950358
+- 2016
+Building a socio-technical theory of coordination - why and how (outstanding research award).:
+- https://doi.org/10.1145/2950290.2994160
+- 2016
+CacheOptimizer - helping developers configure caching frameworks for hibernate-based database-centric web applications.:
+- https://doi.org/10.1145/2950290.2950303
+- 2016
+Call graph construction for Java libraries.:
+- https://doi.org/10.1145/2950290.2950312
+- 2016
+Can testedness be effectively measured?:
+- https://doi.org/10.1145/2950290.2950324
+- 2016
+Causal impact analysis for app releases in google play.:
+- https://doi.org/10.1145/2950290.2950320
+- 2016
+Cluster-based test suite functional analysis.:
+- https://doi.org/10.1145/2950290.2983957
+- 2016
+Code relatives - detecting similarly behaving software.:
+- https://doi.org/10.1145/2950290.2950321
+- 2016
+Combinatorial generation of structurally complex test inputs for commercial software applications.:
+- https://doi.org/10.1145/2950290.2983959
+- 2016
+Combining bug detection and test case generation.:
+- https://doi.org/10.1145/2950290.2983970
+- 2016
+Constraint-based event trace reduction.:
+- https://doi.org/10.1145/2950290.2983964
+- 2016
+Continuous deployment of mobile software at facebook (showcase).:
+- https://doi.org/10.1145/2950290.2994157
+- 2016
+Correct or usable? the limits of traditional verification (impact paper award).:
+- https://doi.org/10.1145/2950290.2994161
+- 2016
+Correctness witnesses - exchanging verification results between verifiers.:
+- https://doi.org/10.1145/2950290.2950351
+- 2016
+Cozy - synthesizing collection data structures.:
+- https://doi.org/10.1145/2950290.2986032
+- 2016
+Crash consistency validation made easy.:
+- https://doi.org/10.1145/2950290.2950327
+- 2016
+Data structure synthesis.:
+- https://doi.org/10.1145/2950290.2983946
+- 2016
+Deep API learning.:
+- https://doi.org/10.1145/2950290.2950334
+- 2016
+DeepSoft - a vision for a deep model of software.:
+- https://doi.org/10.1145/2950290.2983985
+- 2016
+Designing for dystopia - software engineering research for the post-apocalypse.:
+- https://doi.org/10.1145/2950290.2983986
+- 2016
+Designing minimal effective normative systems with the help of lightweight formal methods.:
+- https://doi.org/10.1145/2950290.2950307
+- 2016
+Detecting and fixing precision-specific operations for measuring floating-point errors.:
+- https://doi.org/10.1145/2950290.2950355
+- 2016
+Detecting sensitive data disclosure via bi-directional text correlation analysis.:
+- https://doi.org/10.1145/2950290.2950348
+- 2016
+Detecting table clones and smells in spreadsheets.:
+- https://doi.org/10.1145/2950290.2950359
+- 2016
+Developer workflow at google (showcase).:
+- https://doi.org/10.1145/2950290.2994156
+- 2016
+Developing a reusable control-based approach to build self-adaptive software systems with formal guarantees.:
+- https://doi.org/10.1145/2950290.2983949
+- 2016
+DiagDroid - Android performance diagnosis via anatomizing asynchronous executions.:
+- https://doi.org/10.1145/2950290.2950316
+- 2016
+Directed test generation to detect loop inefficiencies.:
+- https://doi.org/10.1145/2950290.2950360
+- 2016
+Discovering additional violations of Java API invariants.:
+- https://doi.org/10.1145/2950290.2983977
+- 2016
+Discovering bug patterns in JavaScript.:
+- https://doi.org/10.1145/2950290.2950308
+- 2016
+Disrupting developer productivity one bot at a time.:
+- https://doi.org/10.1145/2950290.2983989
+- 2016
+ECHO - instantaneous in situ race detection in the IDE.:
+- https://doi.org/10.1145/2950290.2950332
+- 2016
+Effective assignment and assistance to software developers and reviewers.:
+- https://doi.org/10.1145/2950290.2983960
+- 2016
+Effectiveness of code contribution - from patch-based to pull-request-based tools.:
+- https://doi.org/10.1145/2950290.2950364
+- 2016
+Efficiency of projectional editing - a controlled experiment.:
+- https://doi.org/10.1145/2950290.2950315
+- 2016
+Efficient generation of inductive validity cores for safety properties.:
+- https://doi.org/10.1145/2950290.2950346
+- 2016
+Effort-aware just-in-time defect prediction - simple unsupervised models could be better than supervised models.:
+- https://doi.org/10.1145/2950290.2950353
+- 2016
+End-to-end memory behavior profiling with DINAMITE.:
+- https://doi.org/10.1145/2950290.2983941
+- 2016
+Enforcing correct array indexes with a type system.:
+- https://doi.org/10.1145/2950290.2983976
+- 2016
+Evaluation of fault localization techniques.:
+- https://doi.org/10.1145/2950290.2983967
+- 2016
+Extracting instruction semantics via symbolic execution of code generators.:
+- https://doi.org/10.1145/2950290.2950335
+- 2016
+FSX - a tool for fine-grained incremental unit test generation for C/C++ programs.:
+- https://doi.org/10.1145/2950290.2983937
+- 2016
+Factors influencing code review processes in industry.:
+- https://doi.org/10.1145/2950290.2950323
+- 2016
+Field-exhaustive testing.:
+- https://doi.org/10.1145/2950290.2950336
+- 2016
+Finding and breaking test dependencies to speed up test execution.:
+- https://doi.org/10.1145/2950290.2983974
+- 2016
+Fine-grained binary code authorship identification.:
+- https://doi.org/10.1145/2950290.2983962
+- 2016
+Flow-sensitive composition of thread-modular abstract interpretation.:
+- https://doi.org/10.1145/2950290.2950291
+- 2016
+Foraging and navigations, fundamentally - developers&apos; predictions of value and cost.:
+- https://doi.org/10.1145/2950290.2950302
+- 2016
+Generating interactive web pages from storyboards.:
+- https://doi.org/10.1145/2950290.2983948
+- 2016
+Gray links in the use of requirements traceability.:
+- https://doi.org/10.1145/2950290.2950354
+- 2016
+Guided code synthesis using deep neural networks.:
+- https://doi.org/10.1145/2950290.2983951
+- 2016
+Hotspot symbolic execution of floating-point programs.:
+- https://doi.org/10.1145/2950290.2983966
+- 2016
+How should static analysis tools explain anomalies to developers?:
+- https://doi.org/10.1145/2950290.2983968
+- 2016
+How to break an API - cost negotiation and community values in three software ecosystems.:
+- https://doi.org/10.1145/2950290.2950325
+- 2016
+Hunter - next-generation code reuse for Java.:
+- https://doi.org/10.1145/2950290.2983934
+- 2016
+Identifying participants for collaborative merge.:
+- https://doi.org/10.1145/2950290.2983963
+- 2016
+Input-sensitive performance testing.:
+- https://doi.org/10.1145/2950290.2983953
+- 2016
+Interactive and guided architectural refactoring with search-based recommendation.:
+- https://doi.org/10.1145/2950290.2950317
+- 2016
+Isomorphic regression testing - executing uncovered branches without test augmentation.:
+- https://doi.org/10.1145/2950290.2950313
+- 2016
+JBSE - a symbolic executor for Java programs with complex heap inputs.:
+- https://doi.org/10.1145/2950290.2983940
+- 2016
+Keep it SIMPLEX - satisfying multiple goals with guarantees in control-based self-adaptive systems.:
+- https://doi.org/10.1145/2950290.2950301
+- 2016
+Learning for test prioritization - an industrial case study.:
+- https://doi.org/10.1145/2950290.2983954
+- 2016
+Lightweight specification and analysis of dynamic systems with rich configurations.:
+- https://doi.org/10.1145/2950290.2950318
+- 2016
+Making invisible things visible - tracking down known vulnerabilities at 3000 companies (showcase).:
+- https://doi.org/10.1145/2950290.2994155
+- 2016
+Minimizing GUI event traces.:
+- https://doi.org/10.1145/2950290.2950342
+- 2016
+Mining performance specifications.:
+- https://doi.org/10.1145/2950290.2950314
+- 2016
+Model, execute, and deploy - answering the hard questions in end-user programming (showcase).:
+- https://doi.org/10.1145/2950290.2994158
+- 2016
+Multi-representational security analysis.:
+- https://doi.org/10.1145/2950290.2950356
+- 2016
+NonDex - a tool for detecting and debugging wrong assumptions on Java API specifications.:
+- https://doi.org/10.1145/2950290.2983932
+- 2016
+On the utility of dominator mutants for mutation testing.:
+- https://doi.org/10.1145/2950290.2983950
+- 2016
+On well-separation of GR(1) specifications.:
+- https://doi.org/10.1145/2950290.2950300
+- 2016
+On-demand strong update analysis via value-flow refinement.:
+- https://doi.org/10.1145/2950290.2950296
+- 2016
+On-the-fly decomposition of specifications in software model checking.:
+- https://doi.org/10.1145/2950290.2950349
+- 2016
+Online shared memory dependence reduction via bisectional coordination.:
+- https://doi.org/10.1145/2950290.2950326
+- 2016
+POLLUX - safely upgrading dependent application libraries.:
+- https://doi.org/10.1145/2950290.2950345
+- 2016
+PUMConf - a tool to configure product specific use case and domain models in a product line.:
+- https://doi.org/10.1145/2950290.2983935
+- 2016
+Paradise unplugged - identifying barriers for female participation on stack overflow.:
+- https://doi.org/10.1145/2950290.2950331
+- 2016
+Parallel data race detection for task parallel programs with locks.:
+- https://doi.org/10.1145/2950290.2950329
+- 2016
+Parameter-free probabilistic API mining across GitHub.:
+- https://doi.org/10.1145/2950290.2950319
+- 2016
+PerfGuard - binary-centric application performance monitoring in production environments.:
+- https://doi.org/10.1145/2950290.2950347
+- 2016
+Preventing signedness errors in numerical computations in Java.:
+- https://doi.org/10.1145/2950290.2983978
+- 2016
+? Proceedings of the 24th ACM SIGSOFT International Symposium on Foundations of Software
+  Engineering, FSE 2016, Seattle, WA, USA, November 13-18, 2016
+: - https://doi.org/10.1145/2950290
+  - 2016
+Proteus - computing disjunctive loop summary via path dependency analysis.:
+- https://doi.org/10.1145/2950290.2950340
+- 2016
+Python predictive analysis for bug detection.:
+- https://doi.org/10.1145/2950290.2950357
+- 2016
+Python probabilistic type inference with natural language support.:
+- https://doi.org/10.1145/2950290.2950343
+- 2016
+RABIEF - range analysis based integer error fixing.:
+- https://doi.org/10.1145/2950290.2983961
+- 2016
+Reaching the masses - a new subdiscipline of app programmer education.:
+- https://doi.org/10.1145/2950290.2983981
+- 2016
+Reasoning with imprecise privacy preferences.:
+- https://doi.org/10.1145/2950290.2983982
+- 2016
+Refactoring and migration of cascading style sheets - towards optimization and improved maintainability.:
+- https://doi.org/10.1145/2950290.2983943
+- 2016
+Regression testing of web applications using Record/Replay tools.:
+- https://doi.org/10.1145/2950290.2983942
+- 2016
+Relationship-aware code search for JavaScript frameworks.:
+- https://doi.org/10.1145/2950290.2950341
+- 2016
+Repairing test dependence.:
+- https://doi.org/10.1145/2950290.2983969
+- 2016
+Revamping JavaScript static analysis via localization and remediation of root causes of imprecision.:
+- https://doi.org/10.1145/2950290.2950338
+- 2016
+SMT-based verification of parameterized systems.:
+- https://doi.org/10.1145/2950290.2950330
+- 2016
+Semi-supervised verified feedback generation.:
+- https://doi.org/10.1145/2950290.2950363
+- 2016
+SmartDebug - an interactive debug assistant for Java.:
+- https://doi.org/10.1145/2950290.2983971
+- 2016
+Social health cues developers use when choosing open source packages.:
+- https://doi.org/10.1145/2950290.2983973
+- 2016
+Static DOM event dependency analysis for testing web applications.:
+- https://doi.org/10.1145/2950290.2950292
+- 2016
+Static loop analysis and its applications.:
+- https://doi.org/10.1145/2950290.2983972
+- 2016
+String analysis for side channels with segmented oracles.:
+- https://doi.org/10.1145/2950290.2950362
+- 2016
+Studying developer gaze to empower software engineering research and practice.:
+- https://doi.org/10.1145/2950290.2983988
+- 2016
+Supporting change in product lines within the context of use case-driven development and testing.:
+- https://doi.org/10.1145/2950290.2983945
+- 2016
+Sustainable software design.:
+- https://doi.org/10.1145/2950290.2983983
+- 2016
+T2API - synthesizing API code usage templates from English texts with statistical translation.:
+- https://doi.org/10.1145/2950290.2983931
+- 2016
+TIPMerge - recommending developers for merging branches.:
+- https://doi.org/10.1145/2950290.2983936
+- 2016
+TIPMerge - recommending experts for integrating changes across branches.:
+- https://doi.org/10.1145/2950290.2950339
+- 2016
+Time-travel debugging for JavaScript/Node.js.:
+- https://doi.org/10.1145/2950290.2983933
+- 2016
+Titanium - efficient analysis of evolving alloy specifications.:
+- https://doi.org/10.1145/2950290.2950337
+- 2016
+Training the future workforce through task curation in an OSS ecosystem.:
+- https://doi.org/10.1145/2950290.2983984
+- 2016
+Understanding and detecting wake lock misuses for Android applications.:
+- https://doi.org/10.1145/2950290.2950297
+- 2016
+Understanding and generating high quality patches for concurrency bugs.:
+- https://doi.org/10.1145/2950290.2950309
+- 2016
+Understanding and improving continuous integration.:
+- https://doi.org/10.1145/2950290.2983952
+- 2016
+Understanding behavioural patterns in JavaScript.:
+- https://doi.org/10.1145/2950290.2983947
+- 2016
+Validate your SPDX files for open source license violations.:
+- https://doi.org/10.1145/2950290.2983939
+- 2016
+Visualizing code and coverage changes for code review.:
+- https://doi.org/10.1145/2950290.2983929
+- 2016
+WATERFALL - an incremental approach for repairing record-replay tests of web applications.:
+- https://doi.org/10.1145/2950290.2950294
+- 2016
+WebRanz - web page randomization for better advertisement delivery and web-bot prevention.:
+- https://doi.org/10.1145/2950290.2950352
+- 2016
+What would users change in my app? summarizing app reviews for recommending software changes.:
+- https://doi.org/10.1145/2950290.2950299
+- 2016
+When should internal interfaces be promoted to public?:
+- https://doi.org/10.1145/2950290.2950306
+- 2016
+Why we refactor? confessions of GitHub contributors.:
+- https://doi.org/10.1145/2950290.2950305
+- 2016
+iGen - dynamic interaction inference for configurable software.:
+- https://doi.org/10.1145/2950290.2950311
+- 2016

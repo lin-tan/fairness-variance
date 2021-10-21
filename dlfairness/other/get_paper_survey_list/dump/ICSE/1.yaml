@@ -1,0 +1,330 @@
+9.6 million links in source code comments - purpose, evolution, and decay.:
+- https://doi.org/10.1109/ICSE.2019.00123
+- 2019
+A framework for checking regression test selection tools.:
+- https://doi.org/10.1109/ICSE.2019.00056
+- 2019
+A neural model for generating natural language summaries of program subroutines.:
+- https://doi.org/10.1109/ICSE.2019.00087
+- 2019
+A novel neural source code representation based on abstract syntax tree.:
+- https://doi.org/10.1109/ICSE.2019.00086
+- 2019
+A system identification based Oracle for control-CPS software fault localization.:
+- https://doi.org/10.1109/ICSE.2019.00029
+- 2019
+ActionNet - vision-based workflow action recognition from programming screencasts.:
+- https://doi.org/10.1109/ICSE.2019.00049
+- 2019
+Active inductive logic programming for code search.:
+- https://doi.org/10.1109/ICSE.2019.00044
+- 2019
+Adjust - runtime mitigation of resource abusing third-party online ads.:
+- https://doi.org/10.1109/ICSE.2019.00105
+- 2019
+Adversarial sample detection for deep neural network through model mutation testing.:
+- https://doi.org/10.1109/ICSE.2019.00126
+- 2019
+Analysis and detection of information types of open source software issue discussions.:
+- https://doi.org/10.1109/ICSE.2019.00058
+- 2019
+Analyzing and supporting adaptation of online code examples.:
+- https://doi.org/10.1109/ICSE.2019.00046
+- 2019
+AutoTap - synthesizing and repairing trigger-action programs using LTL properties.:
+- https://doi.org/10.1109/ICSE.2019.00043
+- 2019
+Automated reporting of anti-patterns and decay in continuous integration.:
+- https://doi.org/10.1109/ICSE.2019.00028
+- 2019
+Automatically generating precise Oracles from structured natural language specifications.:
+- https://doi.org/10.1109/ICSE.2019.00035
+- 2019
+BugSwarm - mining and continuously growing a dataset of reproducible failures and fixes.:
+- https://doi.org/10.1109/ICSE.2019.00048
+- 2019
+CRADLE - cross-backend validation to detect and localize bugs in deep learning libraries.:
+- https://doi.org/10.1109/ICSE.2019.00107
+- 2019
+CTRAS - crowdsourced test report aggregation and summarization.:
+- https://doi.org/10.1109/ICSE.2019.00096
+- 2019
+Class imbalance evolution and verification latency in just-in-time software defect prediction.:
+- https://doi.org/10.1109/ICSE.2019.00076
+- 2019
+Could I have a stack trace to examine the dependency conflict issue?:
+- https://doi.org/10.1109/ICSE.2019.00068
+- 2019
+Deep differential testing of JVM implementations.:
+- https://doi.org/10.1109/ICSE.2019.00127
+- 2019
+DeepPerf - performance prediction for configurable software with deep sparse neural network.:
+- https://doi.org/10.1109/ICSE.2019.00113
+- 2019
+Detecting atomicity violations for event-driven Node.js applications.:
+- https://doi.org/10.1109/ICSE.2019.00073
+- 2019
+Detecting incorrect build rules.:
+- https://doi.org/10.1109/ICSE.2019.00125
+- 2019
+Detection and repair of architectural inconsistencies in Java.:
+- https://doi.org/10.1109/ICSE.2019.00067
+- 2019
+Developer reading behavior while summarizing Java methods - size and context matters.:
+- https://doi.org/10.1109/ICSE.2019.00052
+- 2019
+DifFuzz - differential fuzzing for side-channel analysis.:
+- https://doi.org/10.1109/ICSE.2019.00034
+- 2019
+Distance-based sampling of software configuration spaces.:
+- https://doi.org/10.1109/ICSE.2019.00112
+- 2019
+Distilling neural representations of data structure manipulation using fMRI and fNIRS.:
+- https://doi.org/10.1109/ICSE.2019.00053
+- 2019
+Dlfinder - characterizing and detecting duplicate logging code smells.:
+- https://doi.org/10.1109/ICSE.2019.00032
+- 2019
+Do developers discover new tools on the toilet?:
+- https://doi.org/10.1109/ICSE.2019.00059
+- 2019
+DockerizeMe - automatic inference of environment dependencies for python code snippets.:
+- https://doi.org/10.1109/ICSE.2019.00047
+- 2019
+Dynamic slicing for Android.:
+- https://doi.org/10.1109/ICSE.2019.00118
+- 2019
+Easy modelling and verification of unpredictable and preemptive interrupt-driven systems.:
+- https://doi.org/10.1109/ICSE.2019.00037
+- 2019
+Exposing library API misuses via mutation analysis.:
+- https://doi.org/10.1109/ICSE.2019.00093
+- 2019
+FLOSS participants&apos; perceptions about gender and inclusiveness - a survey.:
+- https://doi.org/10.1109/ICSE.2019.00077
+- 2019
+FOCUS - a recommender system for mining API function calls and usage patterns.:
+- https://doi.org/10.1109/ICSE.2019.00109
+- 2019
+FastLane - test minimization for rapidly deployed large-scale online services.:
+- https://doi.org/10.1109/ICSE.2019.00054
+- 2019
+Gigahorse - thorough, declarative decompilation of smart contracts.:
+- https://doi.org/10.1109/ICSE.2019.00120
+- 2019
+Global optimization of numerical programs via prioritized stochastic algebraic transformations.:
+- https://doi.org/10.1109/ICSE.2019.00116
+- 2019
+Going farther together - the impact of social capital on sustained participation in open source.:
+- https://doi.org/10.1109/ICSE.2019.00078
+- 2019
+Graph embedding based familial analysis of Android malware using unsupervised learning.:
+- https://doi.org/10.1109/ICSE.2019.00085
+- 2019
+Graph-based mining of in-the-wild, fine-grained, semantic code change patterns.:
+- https://doi.org/10.1109/ICSE.2019.00089
+- 2019
+GreenBundle - an empirical study on the energy impact of bundled processing.:
+- https://doi.org/10.1109/ICSE.2019.00114
+- 2019
+Grey-box concolic testing on binary code.:
+- https://doi.org/10.1109/ICSE.2019.00082
+- 2019
+Guiding deep learning system testing using surprise adequacy.:
+- https://doi.org/10.1109/ICSE.2019.00108
+- 2019
+Harnessing evolution for multi-hunk program repair.:
+- https://doi.org/10.1109/ICSE.2019.00020
+- 2019
+How C++ developers use immutability declarations - an empirical study.:
+- https://doi.org/10.1109/ICSE.2019.00050
+- 2019
+How practitioners perceive coding proficiency.:
+- https://doi.org/10.1109/ICSE.2019.00098
+- 2019
+How reliable is the crowdsourced knowledge of security implementation?:
+- https://doi.org/10.1109/ICSE.2019.00065
+- 2019
+Hunting for bugs in code coverage tools via randomized differential testing.:
+- https://doi.org/10.1109/ICSE.2019.00061
+- 2019
+IconIntent - automatic identification of sensitive UI widgets based on icon classification for Android apps.:
+- https://doi.org/10.1109/ICSE.2019.00041
+- 2019
+Intention-based integration of software variants.:
+- https://doi.org/10.1109/ICSE.2019.00090
+- 2019
+Interactive production performance feedback in the IDE.:
+- https://doi.org/10.1109/ICSE.2019.00102
+- 2019
+Investigating the effects of gender bias on GitHub.:
+- https://doi.org/10.1109/ICSE.2019.00079
+- 2019
+Investigating the impact of multiple dependency structures on software defects.:
+- https://doi.org/10.1109/ICSE.2019.00069
+- 2019
+Latent patterns in activities - a field study of how developers manage context.:
+- https://doi.org/10.1109/ICSE.2019.00051
+- 2019
+Learning to spot and refactor inconsistent method names.:
+- https://doi.org/10.1109/ICSE.2019.00019
+- 2019
+Leopard - identifying vulnerable code for vulnerability assessment through program metrics.:
+- https://doi.org/10.1109/ICSE.2019.00024
+- 2019
+Leveraging artifact trees to evolve and reuse safety cases.:
+- https://doi.org/10.1109/ICSE.2019.00124
+- 2019
+Mimic - UI compatibility testing system for Android apps.:
+- https://doi.org/10.1109/ICSE.2019.00040
+- 2019
+Mining historical test logs to predict bugs and localize faults in the test logs.:
+- https://doi.org/10.1109/ICSE.2019.00031
+- 2019
+Mining software defects - should we consider affected releases?:
+- https://doi.org/10.1109/ICSE.2019.00075
+- 2019
+Multifaceted automated analyses for variability-intensive embedded systems.:
+- https://doi.org/10.1109/ICSE.2019.00092
+- 2019
+NL2Type - inferring JavaScript function types from natural language information.:
+- https://doi.org/10.1109/ICSE.2019.00045
+- 2019
+Natural software revisited.:
+- https://doi.org/10.1109/ICSE.2019.00022
+- 2019
+On learning meaningful code changes via neural machine translation.:
+- https://doi.org/10.1109/ICSE.2019.00021
+- 2019
+On reliability of patch correctness assessment.:
+- https://doi.org/10.1109/ICSE.2019.00064
+- 2019
+Parallel refinement for multi-threaded program verification.:
+- https://doi.org/10.1109/ICSE.2019.00074
+- 2019
+Pattern-based mining of opinions in Q&amp;A websites.:
+- https://doi.org/10.1109/ICSE.2019.00066
+- 2019
+Pivot - learning API-device correlations to facilitate Android compatibility issue detection.:
+- https://doi.org/10.1109/ICSE.2019.00094
+- 2019
+Practical GUI testing of Android applications via model abstraction and refinement.:
+- https://doi.org/10.1109/ICSE.2019.00042
+- 2019
+Probabilistic disassembly.:
+- https://doi.org/10.1109/ICSE.2019.00121
+- 2019
+Proceedings of the 41st International Conference on Software Engineering, ICSE 2019, Montreal, QC, Canada, May 25-31, 2019:
+- https://ieeexplore.ieee.org/xpl/conhome/8790403/proceeding
+- 2019
+RESTler - stateful REST API fuzzing.:
+- https://doi.org/10.1109/ICSE.2019.00083
+- 2019
+ReCDroid - automatically reproducing Android application crashes from bug reports.:
+- https://doi.org/10.1109/ICSE.2019.00030
+- 2019
+Reasonably-most-general clients for JavaScript library analysis.:
+- https://doi.org/10.1109/ICSE.2019.00026
+- 2019
+Recovering variable names for minified code with usage contexts.:
+- https://doi.org/10.1109/ICSE.2019.00119
+- 2019
+Redundant loads - a software inefficiency indicator.:
+- https://doi.org/10.1109/ICSE.2019.00103
+- 2019
+Resource-aware program analysis via online abstraction coarsening.:
+- https://doi.org/10.1109/ICSE.2019.00027
+- 2019
+Rotten green tests.:
+- https://doi.org/10.1109/ICSE.2019.00062
+- 2019
+SLF - fuzzing without valid seed inputs.:
+- https://doi.org/10.1109/ICSE.2019.00080
+- 2019
+Safe automated refactoring for intelligent parallelization of Java 8 streams.:
+- https://doi.org/10.1109/ICSE.2019.00072
+- 2019
+SafeCheck - safety enhancement of Java unsafe API.:
+- https://doi.org/10.1109/ICSE.2019.00095
+- 2019
+Scalable approaches for test suite reduction.:
+- https://doi.org/10.1109/ICSE.2019.00055
+- 2019
+Search-based energy testing of Android.:
+- https://doi.org/10.1109/ICSE.2019.00115
+- 2019
+Smoke - scalable path-sensitive memory leak detection for millions of lines of code.:
+- https://doi.org/10.1109/ICSE.2019.00025
+- 2019
+Socio-technical work-rate increase associates with changes in work patterns in online projects.:
+- https://doi.org/10.1109/ICSE.2019.00099
+- 2019
+Software documentation issues unveiled.:
+- https://doi.org/10.1109/ICSE.2019.00122
+- 2019
+Statistical algorithmic profiling for randomized approximate programs.:
+- https://doi.org/10.1109/ICSE.2019.00071
+- 2019
+StoryDroid - automated generation of storyboard for Android apps.:
+- https://doi.org/10.1109/ICSE.2019.00070
+- 2019
+Superion - grammar-aware greybox fuzzing.:
+- https://doi.org/10.1109/ICSE.2019.00081
+- 2019
+Supporting analysts by dynamic extraction and classification of requirements-related knowledge.:
+- https://doi.org/10.1109/ICSE.2019.00057
+- 2019
+Supporting the statistical analysis of variability models.:
+- https://doi.org/10.1109/ICSE.2019.00091
+- 2019
+Symbolic repairs for GR(1) specifications.:
+- https://doi.org/10.1109/ICSE.2019.00106
+- 2019
+Test-driven code review - an empirical study.:
+- https://doi.org/10.1109/ICSE.2019.00110
+- 2019
+The list is the process - reliable pre-integration tracking of commits on mailing lists.:
+- https://doi.org/10.1109/ICSE.2019.00088
+- 2019
+The product backlog.:
+- https://doi.org/10.1109/ICSE.2019.00036
+- 2019
+The seven sins - security smells in infrastructure as code scripts.:
+- https://doi.org/10.1109/ICSE.2019.00033
+- 2019
+Tool choice matters - JavaScript quality assurance tools and usage outcomes in GitHub projects.:
+- https://doi.org/10.1109/ICSE.2019.00060
+- 2019
+Towards automating precision studies of clone detectors.:
+- https://doi.org/10.1109/ICSE.2019.00023
+- 2019
+Towards understanding and reasoning about Android interoperations.:
+- https://doi.org/10.1109/ICSE.2019.00038
+- 2019
+Training binary classifiers as data structure invariants.:
+- https://doi.org/10.1109/ICSE.2019.00084
+- 2019
+Type migration in ultra-large-scale codebases.:
+- https://doi.org/10.1109/ICSE.2019.00117
+- 2019
+VFix - value-flow-guided precise program repair for null pointer dereferences.:
+- https://doi.org/10.1109/ICSE.2019.00063
+- 2019
+View-centric performance optimization for database-backed web applications.:
+- https://doi.org/10.1109/ICSE.2019.00104
+- 2019
+When code completion fails - a case study on real-world completions.:
+- https://doi.org/10.1109/ICSE.2019.00101
+- 2019
+Why do episodic volunteers stay in FLOSS communities?:
+- https://doi.org/10.1109/ICSE.2019.00100
+- 2019
+Why does code review work for open source software communities?:
+- https://doi.org/10.1109/ICSE.2019.00111
+- 2019
+Zero-overhead path prediction with progressive symbolic execution.:
+- https://doi.org/10.1109/ICSE.2019.00039
+- 2019
+iSENSE - completion-aware crowdtesting management.:
+- https://doi.org/10.1109/ICSE.2019.00097
+- 2019

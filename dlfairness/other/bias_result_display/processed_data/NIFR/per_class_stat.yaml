@@ -1,0 +1,211 @@
+!!python/object/apply:collections.OrderedDict
+- - - !!python/tuple
+      - baseline/
+      - mean_difference_score
+    - - max: '0.6772'
+        max_diff: '0'
+        mean: '0.6772'
+        min: '0.6772'
+        rel_maxdiff: '0'
+        std_dev: '0'
+      - max: '0.6772'
+        max_diff: '0'
+        mean: '0.6772'
+        min: '0.6772'
+        rel_maxdiff: '0'
+        std_dev: '1.110E-16'
+  - - !!python/tuple
+      - baseline/
+      - disparate_impact_factor
+    - - max: '0.7757'
+        max_diff: '0'
+        mean: '0.7757'
+        min: '0.7757'
+        rel_maxdiff: '0'
+        std_dev: '1.110E-16'
+      - max: '0.8420'
+        max_diff: '0'
+        mean: '0.8420'
+        min: '0.8420'
+        rel_maxdiff: '0'
+        std_dev: '2.220E-16'
+  - - !!python/tuple
+      - baseline/
+      - statistical_parity
+    - - max: '0.3299'
+        max_diff: '0'
+        mean: '0.3299'
+        min: '0.3299'
+        rel_maxdiff: '0'
+        std_dev: '5.551E-17'
+      - max: '0.3299'
+        max_diff: '0'
+        mean: '0.3299'
+        min: '0.3299'
+        rel_maxdiff: '0'
+        std_dev: '5.551E-17'
+  - - !!python/tuple
+      - baseline/
+      - false_positive_subgroup_fairness
+    - - max: '0.1633'
+        max_diff: '0'
+        mean: '0.1633'
+        min: '0.1633'
+        rel_maxdiff: '0'
+        std_dev: '0'
+      - max: '0.1769'
+        max_diff: '0'
+        mean: '0.1769'
+        min: '0.1769'
+        rel_maxdiff: '0'
+        std_dev: '0'
+  - - !!python/tuple
+      - baseline/
+      - equality_of_odds_false_positive
+    - - max: '0.7560'
+        max_diff: '0'
+        mean: '0.7560'
+        min: '0.7560'
+        rel_maxdiff: '0'
+        std_dev: '2.220E-16'
+      - max: '0.6775'
+        max_diff: '0'
+        mean: '0.6775'
+        min: '0.6775'
+        rel_maxdiff: '0'
+        std_dev: '2.220E-16'
+  - - !!python/tuple
+      - baseline/
+      - equality_of_odds_true_positive
+    - - max: '0.6775'
+        max_diff: '0'
+        mean: '0.6775'
+        min: '0.6775'
+        rel_maxdiff: '0'
+        std_dev: '2.220E-16'
+      - max: '0.7560'
+        max_diff: '0'
+        mean: '0.7560'
+        min: '0.7560'
+        rel_maxdiff: '0'
+        std_dev: '2.220E-16'
+  - - !!python/tuple
+      - baseline/
+      - bias_amplification
+    - - max: '0.3476'
+        max_diff: '0'
+        mean: '0.3476'
+        min: '0.3476'
+        rel_maxdiff: '0'
+        std_dev: '1.110E-16'
+      - max: '0.4748'
+        max_diff: '0'
+        mean: '0.4748'
+        min: '0.4748'
+        rel_maxdiff: '0'
+        std_dev: '1.110E-16'
+  - - !!python/tuple
+      - inn/
+      - mean_difference_score
+    - - max: '0.1128'
+        max_diff: '0.01471'
+        mean: '0.1080'
+        min: '0.09806'
+        rel_maxdiff: '13.61'
+        std_dev: '0.003856'
+      - max: '0.1128'
+        max_diff: '0.01471'
+        mean: '0.1080'
+        min: '0.09806'
+        rel_maxdiff: '13.61'
+        std_dev: '0.003856'
+  - - !!python/tuple
+      - inn/
+      - disparate_impact_factor
+    - - max: '0.1954'
+        max_diff: '0.02723'
+        mean: '0.1847'
+        min: '0.1681'
+        rel_maxdiff: '14.74'
+        std_dev: '0.008085'
+      - max: '0.2237'
+        max_diff: '0.03613'
+        mean: '0.2068'
+        min: '0.1876'
+        rel_maxdiff: '17.47'
+        std_dev: '0.008962'
+  - - !!python/tuple
+      - inn/
+      - statistical_parity
+    - - max: '0.05492'
+        max_diff: '0.007163'
+        mean: '0.05262'
+        min: '0.04776'
+        rel_maxdiff: '13.61'
+        std_dev: '0.001878'
+      - max: '0.05492'
+        max_diff: '0.007163'
+        mean: '0.05262'
+        min: '0.04776'
+        rel_maxdiff: '13.61'
+        std_dev: '0.001878'
+  - - !!python/tuple
+      - inn/
+      - false_positive_subgroup_fairness
+    - - max: '0.005274'
+        max_diff: '0.004057'
+        mean: '0.003004'
+        min: '0.001216'
+        rel_maxdiff: '135.1'
+        std_dev: '0.0009674'
+      - max: '0.01064'
+        max_diff: '0.005499'
+        mean: '0.007022'
+        min: '0.005139'
+        rel_maxdiff: '78.32'
+        std_dev: '0.001425'
+  - - !!python/tuple
+      - inn/
+      - equality_of_odds_false_positive
+    - - max: '0.02430'
+        max_diff: '0.01869'
+        mean: '0.01384'
+        min: '0.005603'
+        rel_maxdiff: '135.1'
+        std_dev: '0.004457'
+      - max: '0.04103'
+        max_diff: '0.02121'
+        mean: '0.02708'
+        min: '0.01982'
+        rel_maxdiff: '78.32'
+        std_dev: '0.005493'
+  - - !!python/tuple
+      - inn/
+      - equality_of_odds_true_positive
+    - - max: '0.04103'
+        max_diff: '0.02121'
+        mean: '0.02708'
+        min: '0.01982'
+        rel_maxdiff: '78.32'
+        std_dev: '0.005493'
+      - max: '0.02430'
+        max_diff: '0.01869'
+        mean: '0.01384'
+        min: '0.005603'
+        rel_maxdiff: '135.1'
+        std_dev: '0.004457'
+  - - !!python/tuple
+      - inn/
+      - bias_amplification
+    - - max: '0.02235'
+        max_diff: '0.008288'
+        mean: '0.01732'
+        min: '0.01406'
+        rel_maxdiff: '47.85'
+        std_dev: '0.002464'
+      - max: '0.02386'
+        max_diff: '0.01054'
+        mean: '0.01828'
+        min: '0.01332'
+        rel_maxdiff: '57.64'
+        std_dev: '0.002616'

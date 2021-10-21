@@ -1,0 +1,211 @@
+A SEALANT for inter-app security holes in android.:
+- https://doi.org/10.1109/ICSE.2017.36
+- 2017
+A general framework for dynamic stub injection.:
+- https://doi.org/10.1109/ICSE.2017.60
+- 2017
+A guided genetic algorithm for automated crash reproduction.:
+- https://doi.org/10.1109/ICSE.2017.27
+- 2017
+A test-suite diagnosability metric for spectrum-based fault localization approaches.:
+- https://doi.org/10.1109/ICSE.2017.66
+- 2017
+Adaptive coverage and operational profile-based testing for reliability improvement.:
+- https://doi.org/10.1109/ICSE.2017.56
+- 2017
+Adaptive unpacking of Android apps.:
+- https://doi.org/10.1109/ICSE.2017.40
+- 2017
+An efficient, robust, and scalable approach for analyzing interacting android apps.:
+- https://doi.org/10.1109/ICSE.2017.37
+- 2017
+? An empirical study on mutation, statement and branch coverage fault revelation that
+  avoids the unreliable clean program assumption.
+: - https://doi.org/10.1109/ICSE.2017.61
+  - 2017
+An unsupervised approach for discovering relevant tutorial fragments for APIs.:
+- https://doi.org/10.1109/ICSE.2017.12
+- 2017
+Analysis and testing of notifications in Android wear applications.:
+- https://doi.org/10.1109/ICSE.2017.39
+- 2017
+Analyzing APIs documentation and code to detect directive defects.:
+- https://doi.org/10.1109/ICSE.2017.11
+- 2017
+Automated refactoring of legacy Java software to default methods.:
+- https://doi.org/10.1109/ICSE.2017.16
+- 2017
+Automated transplantation and differential testing for clones.:
+- https://doi.org/10.1109/ICSE.2017.67
+- 2017
+Automatic text input generation for mobile testing.:
+- https://doi.org/10.1109/ICSE.2017.65
+- 2017
+Balancing soundness and efficiency for practical testing of configurable systems.:
+- https://doi.org/10.1109/ICSE.2017.64
+- 2017
+Becoming agile - a grounded theory of agile transitions in practice.:
+- https://doi.org/10.1109/ICSE.2017.21
+- 2017
+Can latent topics in source code predict missing architectural tactics?:
+- https://doi.org/10.1109/ICSE.2017.10
+- 2017
+Challenges for static analysis of Java reflection - literature review and empirical study.:
+- https://doi.org/10.1109/ICSE.2017.53
+- 2017
+Characterizing and detecting anti-patterns in the logging code.:
+- https://doi.org/10.1109/ICSE.2017.15
+- 2017
+Classifying developers into core and peripheral - an empirical study on count and network metrics.:
+- https://doi.org/10.1109/ICSE.2017.23
+- 2017
+Clone refactoring with lambda expressions.:
+- https://doi.org/10.1109/ICSE.2017.14
+- 2017
+Code defenders - crowdsourcing effective tests and subtle mutants with a mutation testing game.:
+- https://doi.org/10.1109/ICSE.2017.68
+- 2017
+Decoding the representation of code in the brain - an fMRI study of code review and expertise.:
+- https://doi.org/10.1109/ICSE.2017.24
+- 2017
+Detecting user story information in developer-client conversations to generate extractive summaries.:
+- https://doi.org/10.1109/ICSE.2017.13
+- 2017
+Do developers read compiler error messages?:
+- https://doi.org/10.1109/ICSE.2017.59
+- 2017
+Efficient detection of thread safety violations via coverage-guided generation of concurrent tests.:
+- https://doi.org/10.1109/ICSE.2017.32
+- 2017
+Evaluating and improving fault localization.:
+- https://doi.org/10.1109/ICSE.2017.62
+- 2017
+Exploring API embedding for API usages and applications.:
+- https://doi.org/10.1109/ICSE.2017.47
+- 2017
+Feedback-based debugging.:
+- https://doi.org/10.1109/ICSE.2017.43
+- 2017
+? From diversity by numbers to diversity as process - supporting inclusiveness in
+  software development teams with brainstorming.
+: - https://doi.org/10.1109/ICSE.2017.22
+  - 2017
+Fuzzy fine-grained code-history analysis.:
+- https://doi.org/10.1109/ICSE.2017.74
+- 2017
+Glacier - transitive class immutability for Java.:
+- https://doi.org/10.1109/ICSE.2017.52
+- 2017
+Heuristically matching solution spaces of arithmetic formulas to efficiently reuse solutions.:
+- https://doi.org/10.1109/ICSE.2017.46
+- 2017
+How do developers fix cross-project correlated bugs? - a case study on the GitHub scientific python ecosystem.:
+- https://doi.org/10.1109/ICSE.2017.42
+- 2017
+How good is a security policy against real breaches? - a HIPAA case study.:
+- https://doi.org/10.1109/ICSE.2017.55
+- 2017
+Learning syntactic program transformations from examples.:
+- https://doi.org/10.1109/ICSE.2017.44
+- 2017
+Learning to prioritize test programs for compiler testing.:
+- https://doi.org/10.1109/ICSE.2017.70
+- 2017
+LibD - scalable and precise third-party library detection in android markets.:
+- https://doi.org/10.1109/ICSE.2017.38
+- 2017
+Machine learning-based detection of open source license exceptions.:
+- https://doi.org/10.1109/ICSE.2017.19
+- 2017
+Machine-learning-guided selectively unsound static analysis.:
+- https://doi.org/10.1109/ICSE.2017.54
+- 2017
+Making malory behave maliciously - targeted fuzzing of android execution environments.:
+- https://doi.org/10.1109/ICSE.2017.35
+- 2017
+On cross-stack configuration errors.:
+- https://doi.org/10.1109/ICSE.2017.31
+- 2017
+Optimizing test placement for module-level regression testing.:
+- https://doi.org/10.1109/ICSE.2017.69
+- 2017
+PEoPL - projectional editing of product lines.:
+- https://doi.org/10.1109/ICSE.2017.58
+- 2017
+Performance diagnosis for inefficient loops.:
+- https://doi.org/10.1109/ICSE.2017.41
+- 2017
+Precise condition synthesis for program repair.:
+- https://doi.org/10.1109/ICSE.2017.45
+- 2017
+ProEva - runtime proactive performance evaluation based on continuous-time markov chains.:
+- https://doi.org/10.1109/ICSE.2017.51
+- 2017
+? Proceedings of the 39th International Conference on Software Engineering, ICSE 2017,
+  Buenos Aires, Argentina, May 20-28, 2017
+: - http://dl.acm.org/citation.cfm?id=3097368
+  - 2017
+RADAR - a lightweight tool for requirements and architecture decision analysis.:
+- https://doi.org/10.1109/ICSE.2017.57
+- 2017
+RClassify - classifying race conditions in web applications via deterministic replay.:
+- https://doi.org/10.1109/ICSE.2017.33
+- 2017
+Recommending and localizing change requests for mobile apps based on user reviews.:
+- https://doi.org/10.1109/ICSE.2017.18
+- 2017
+Repairing event race errors by controlling nondeterminism.:
+- https://doi.org/10.1109/ICSE.2017.34
+- 2017
+SPAIN - security patch analysis for binaries towards understanding the pain and pills.:
+- https://doi.org/10.1109/ICSE.2017.49
+- 2017
+Search-driven string constraint solving for vulnerability detection.:
+- https://doi.org/10.1109/ICSE.2017.26
+- 2017
+Semantically enhanced software traceability using deep learning techniques.:
+- https://doi.org/10.1109/ICSE.2017.9
+- 2017
+Software development waste.:
+- https://doi.org/10.1109/ICSE.2017.20
+- 2017
+Statically checking web API requests in JavaScript.:
+- https://doi.org/10.1109/ICSE.2017.30
+- 2017
+Stochastic optimization of program obfuscation.:
+- https://doi.org/10.1109/ICSE.2017.28
+- 2017
+Supporting software developers with a holistic recommender system.:
+- https://doi.org/10.1109/ICSE.2017.17
+- 2017
+Symbolic model extraction for web application verification.:
+- https://doi.org/10.1109/ICSE.2017.72
+- 2017
+Syntactic and semantic differencing for combinatorial models of test designs.:
+- https://doi.org/10.1109/ICSE.2017.63
+- 2017
+? The evolution of continuous experimentation in software product development - from
+  data to a data-driven organization at scale.
+: - https://doi.org/10.1109/ICSE.2017.76
+  - 2017
+To type or not to type - quantifying detectable bugs in JavaScript.:
+- https://doi.org/10.1109/ICSE.2017.75
+- 2017
+Travioli - a dynamic analysis for detecting data-structure traversals.:
+- https://doi.org/10.1109/ICSE.2017.50
+- 2017
+UML diagram refinement (focusing on class- and use case diagrams).:
+- https://doi.org/10.1109/ICSE.2017.73
+- 2017
+Understanding the impressions, motivations, and barriers of one time code contributors to FLOSS projects - a survey.:
+- https://doi.org/10.1109/ICSE.2017.25
+- 2017
+Unsupervised software-specific morphological forms inference from informal discussions.:
+- https://doi.org/10.1109/ICSE.2017.48
+- 2017
+What causes my test alarm? - automatic cause analysis for test alarms in system and integration testing.:
+- https://doi.org/10.1109/ICSE.2017.71
+- 2017
+ZenIDS - introspective intrusion detection for PHP applications.:
+- https://doi.org/10.1109/ICSE.2017.29
+- 2017

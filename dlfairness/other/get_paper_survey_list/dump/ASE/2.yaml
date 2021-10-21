@@ -1,0 +1,340 @@
+A DSL for requirements in the context of a seamless approach.:
+- https://doi.org/10.1145/3238147.3241538
+- 2018
+A genetic algorithm for goal-conflict identification.:
+- https://doi.org/10.1145/3238147.3238220
+- 2018
+A large-scale study of test coverage evolution.:
+- https://doi.org/10.1145/3238147.3238183
+- 2018
+A multi-objective framework for effective performance fault injection in distributed systems.:
+- https://doi.org/10.1145/3238147.3241535
+- 2018
+A neural framework for retrieval and summarization of source code.:
+- https://doi.org/10.1145/3238147.3240471
+- 2018
+A symbolic model checking approach to the analysis of string and length constraints.:
+- https://doi.org/10.1145/3238147.3238189
+- 2018
+A tale of two cities - how WebView induces bugs to Android applications.:
+- https://doi.org/10.1145/3238147.3238180
+- 2018
+A unified lattice model and framework for purity analyses.:
+- https://doi.org/10.1145/3238147.3238226
+- 2018
+API method recommendation without worrying about the task-API knowledge gap.:
+- https://doi.org/10.1145/3238147.3238191
+- 2018
+Achieving test automation with testers without coding skills - an industrial report.:
+- https://doi.org/10.1145/3238147.3240463
+- 2018
+An automated approach to estimating code coverage measures via execution logs.:
+- https://doi.org/10.1145/3238147.3238214
+- 2018
+An empirical investigation into learning bug-fixing patches in the wild via neural machine translation.:
+- https://doi.org/10.1145/3238147.3240732
+- 2018
+An empirical study of Android test generation tools in industrial cases.:
+- https://doi.org/10.1145/3238147.3240465
+- 2018
+An evolutionary approach for analyzing Alloy specifications.:
+- https://doi.org/10.1145/3238147.3240468
+- 2018
+Android testing via synthetic symbolic execution.:
+- https://doi.org/10.1145/3238147.3238225
+- 2018
+Assessing and evaluating functional suitability of software.:
+- https://doi.org/10.1145/3238147.3241531
+- 2018
+Assessing the type annotation burden.:
+- https://doi.org/10.1145/3238147.3238173
+- 2018
+AutoConfig - automatic configuration tuning for distributed message systems.:
+- https://doi.org/10.1145/3238147.3238175
+- 2018
+Automated directed fairness testing.:
+- https://doi.org/10.1145/3238147.3238165
+- 2018
+Automated model repair for Alloy.:
+- https://doi.org/10.1145/3238147.3238162
+- 2018
+Automated requirements engineering challenges with examples from small unmanned aerial systems (keynote).:
+- https://doi.org/10.1145/3238147.3241986
+- 2018
+Automatic mining of constraints for monitoring systems of systems.:
+- https://doi.org/10.1145/3238147.3241532
+- 2018
+Automatically quantifying the impact of a change in systems (journal-first abstract).:
+- https://doi.org/10.1145/3238147.3241984
+- 2018
+Automatically testing implementations of numerical abstract domains.:
+- https://doi.org/10.1145/3238147.3240464
+- 2018
+Bounded model checking of C++ programs based on the Qt cross-platform framework (journal-first abstract).:
+- https://doi.org/10.1145/3238147.3241981
+- 2018
+Break the dead end of dynamic slicing - localizing data and control omission bug.:
+- https://doi.org/10.1145/3238147.3238163
+- 2018
+CANAL - a cache timing analysis framework via LLVM transformation.:
+- https://doi.org/10.1145/3238147.3240485
+- 2018
+CPA-SymExec - efficient symbolic execution in CPAchecker.:
+- https://doi.org/10.1145/3238147.3240478
+- 2018
+Characterizing and identifying misexposed activities in Android applications.:
+- https://doi.org/10.1145/3238147.3238164
+- 2018
+Characterizing the natural language descriptions in software logging statements.:
+- https://doi.org/10.1145/3238147.3238193
+- 2018
+ClDiff - generating concise linked code differences.:
+- https://doi.org/10.1145/3238147.3238219
+- 2018
+Client-specific equivalence checking.:
+- https://doi.org/10.1145/3238147.3238178
+- 2018
+Code2graph - automatic generation of static call graphs for Python source code.:
+- https://doi.org/10.1145/3238147.3240484
+- 2018
+Concolic testing for deep neural networks.:
+- https://doi.org/10.1145/3238147.3238172
+- 2018
+Continuous code quality - are we (really) doing that?:
+- https://doi.org/10.1145/3238147.3240729
+- 2018
+ContractFuzzer - fuzzing smart contracts for vulnerability detection.:
+- https://doi.org/10.1145/3238147.3238177
+- 2018
+Control flow-guided SMT solving for program verification.:
+- https://doi.org/10.1145/3238147.3238218
+- 2018
+DKVF - a framework for rapid prototyping and evaluating distributed key-value stores.:
+- https://doi.org/10.1145/3238147.3240476
+- 2018
+Datalog-based scalable semantic diffing of concurrent programs.:
+- https://doi.org/10.1145/3238147.3238211
+- 2018
+Deep learning based feature envy detection.:
+- https://doi.org/10.1145/3238147.3238166
+- 2018
+DeepGauge - multi-granularity testing criteria for deep learning systems.:
+- https://doi.org/10.1145/3238147.3238202
+- 2018
+DeepRoad - GAN-based metamorphic testing and input validation framework for autonomous driving systems.:
+- https://doi.org/10.1145/3238147.3238187
+- 2018
+Delta debugging microservice systems.:
+- https://doi.org/10.1145/3238147.3240730
+- 2018
+Descartes - a PITest engine to detect pseudo-tested methods - tool demonstration.:
+- https://doi.org/10.1145/3238147.3240474
+- 2018
+Detecting and summarizing GUI changes in evolving mobile apps.:
+- https://doi.org/10.1145/3238147.3238203
+- 2018
+Differential program analysis with fuzzing and symbolic execution.:
+- https://doi.org/10.1145/3238147.3241537
+- 2018
+Domain-independent multi-threaded software model checking.:
+- https://doi.org/10.1145/3238147.3238195
+- 2018
+DroidMate-2 - a platform for Android test generation.:
+- https://doi.org/10.1145/3238147.3240479
+- 2018
+Dual-force - understanding WebView malware via cross-language forced execution.:
+- https://doi.org/10.1145/3238147.3238221
+- 2018
+ESBMC 5.0 - an industrial-strength C model checker.:
+- https://doi.org/10.1145/3238147.3240481
+- 2018
+Effective API recommendation without historical software repositories.:
+- https://doi.org/10.1145/3238147.3238216
+- 2018
+Effectiveness and challenges in generating concurrent tests for thread-safe classes.:
+- https://doi.org/10.1145/3238147.3238224
+- 2018
+Efficiently manifesting asynchronous programming errors in Android apps.:
+- https://doi.org/10.1145/3238147.3238170
+- 2018
+Empirically assessing opportunities for prefetching and caching in mobile apps.:
+- https://doi.org/10.1145/3238147.3238215
+- 2018
+Estimating the number of remaining links in traceability recovery (journal-first abstract).:
+- https://doi.org/10.1145/3238147.3241982
+- 2018
+Expandable group identification in spreadsheets.:
+- https://doi.org/10.1145/3238147.3238222
+- 2018
+Experiences applying automated architecture analysis tool suites.:
+- https://doi.org/10.1145/3238147.3240467
+- 2018
+FairFuzz - a targeted mutation strategy for increasing greybox fuzz testing coverage.:
+- https://doi.org/10.1145/3238147.3238176
+- 2018
+Generating reusable web components from mockups.:
+- https://doi.org/10.1145/3238147.3238194
+- 2018
+How many of all bugs do we find? a study of static bug detectors.:
+- https://doi.org/10.1145/3238147.3238213
+- 2018
+Implementation science for software engineering - bridging the gap between research and practice (keynote).:
+- https://doi.org/10.1145/3238147.3264581
+- 2018
+Improving automatic source code summarization via deep reinforcement learning.:
+- https://doi.org/10.1145/3238147.3238206
+- 2018
+Is this class thread-safe? inferring documentation using graph-based learning.:
+- https://doi.org/10.1145/3238147.3238212
+- 2018
+L-CMP - an automatic learning-based parameterized verification tool.:
+- https://doi.org/10.1145/3238147.3240487
+- 2018
+Lightweight source code monitoring with Triggr.:
+- https://doi.org/10.1145/3238147.3240486
+- 2018
+Live versioning of web applications through refactoring.:
+- https://doi.org/10.1145/3238147.3240483
+- 2018
+Loop path reduction by state pruning.:
+- https://doi.org/10.1145/3238147.3240731
+- 2018
+Mining file histories - should we consider branches?:
+- https://doi.org/10.1145/3238147.3238169
+- 2018
+Model-driven run-time enforcement of complex role-based access control policies.:
+- https://doi.org/10.1145/3238147.3238167
+- 2018
+Navigating the maze - the impact of configurability in bioinformatics software.:
+- https://doi.org/10.1145/3238147.3240466
+- 2018
+Neural-machine-translation-based commit message generation - how far are we?:
+- https://doi.org/10.1145/3238147.3238190
+- 2018
+Noise and heterogeneity in historical build data - an empirical study of Travis CI.:
+- https://doi.org/10.1145/3238147.3238171
+- 2018
+OCELOT - a search-based test-data generation tool for C.:
+- https://doi.org/10.1145/3238147.3240477
+- 2018
+On adopting linters to deal with performance concerns in Android apps.:
+- https://doi.org/10.1145/3238147.3238197
+- 2018
+PARTI - a multi-interval theory solver for symbolic execution.:
+- https://doi.org/10.1145/3238147.3238179
+- 2018
+PFix - fixing concurrency bugs based on memory access patterns.:
+- https://doi.org/10.1145/3238147.3238198
+- 2018
+PaMpeR - proof method recommendation system for Isabelle/HOL.:
+- https://doi.org/10.1145/3238147.3238210
+- 2018
+PerfLearner - learning from bug reports to understand and generate performance test frames.:
+- https://doi.org/10.1145/3238147.3238204
+- 2018
+Personalized teammate recommendation for crowdsourced software developers.:
+- https://doi.org/10.1145/3238147.3240472
+- 2018
+? Proceedings of the 33rd ACM/IEEE International Conference on Automated Software
+  Engineering, ASE 2018, Montpellier, France, September 3-7, 2018
+: - https://doi.org/10.1145/3238147
+  - 2018
+RUDSEA - recommending updates of Dockerfiles via software environment analysis.:
+- https://doi.org/10.1145/3238147.3240470
+- 2018
+ReScue - crafting regular expression DoS attacks.:
+- https://doi.org/10.1145/3238147.3238159
+- 2018
+Reducing interactive refactoring effort via clustering-based multi-objective search.:
+- https://doi.org/10.1145/3238147.3238217
+- 2018
+Replay without recording of production bugs for service oriented applications.:
+- https://doi.org/10.1145/3238147.3238186
+- 2018
+S-gram - towards semantic-aware security auditing for Ethereum smart contracts.:
+- https://doi.org/10.1145/3238147.3240728
+- 2018
+SEEDE - simultaneous execution and editing in a development environment.:
+- https://doi.org/10.1145/3238147.3238182
+- 2018
+SRCIROR - a toolset for mutation testing of C source code and LLVM intermediate representation.:
+- https://doi.org/10.1145/3238147.3240482
+- 2018
+Safe stream-based programming with refinement types.:
+- https://doi.org/10.1145/3238147.3238174
+- 2018
+Scalable incremental building with dynamic task dependencies.:
+- https://doi.org/10.1145/3238147.3238196
+- 2018
+Scheduling constraint based abstraction refinement for weak memory models.:
+- https://doi.org/10.1145/3238147.3238223
+- 2018
+Self-protection of Android systems from inter-component communication attacks.:
+- https://doi.org/10.1145/3238147.3238207
+- 2018
+Semantic crash bucketing.:
+- https://doi.org/10.1145/3238147.3238200
+- 2018
+Software engineering techniques applied to relational databases.:
+- https://doi.org/10.1145/3238147.3241534
+- 2018
+Software heritage - collecting, preserving, and sharing all our source code (keynote).:
+- https://doi.org/10.1145/3238147.3241985
+- 2018
+TDroid - exposing app switching attacks in Android with control flow specialization.:
+- https://doi.org/10.1145/3238147.3238188
+- 2018
+TRIMMER - application specialization for code debloating.:
+- https://doi.org/10.1145/3238147.3238160
+- 2018
+Tackling combinatorial explosion - a study of industrial needs and practices for analyzing highly configurable systems.:
+- https://doi.org/10.1145/3238147.3238201
+- 2018
+Tell them apart - distilling technology differences from crowd-scale comparison discussions.:
+- https://doi.org/10.1145/3238147.3238208
+- 2018
+Template-guided concolic testing via online learning.:
+- https://doi.org/10.1145/3238147.3238227
+- 2018
+Testing autonomous cars for feature interaction failures using many-objective search.:
+- https://doi.org/10.1145/3238147.3238192
+- 2018
+The electrum analyzer - model checking relational first-order temporal specifications.:
+- https://doi.org/10.1145/3238147.3240475
+- 2018
+The need for context in software engineering (IEEE CS Harlan Mills award keynote).:
+- https://doi.org/10.1145/3238147.3241987
+- 2018
+Top-down model-driven engineering of web services from extended OpenAPI models.:
+- https://doi.org/10.1145/3238147.3241536
+- 2018
+Towards automatic restrictification of CUDA kernel arguments.:
+- https://doi.org/10.1145/3238147.3241533
+- 2018
+Towards automating disambiguation of regulations - using the wisdom of crowds.:
+- https://doi.org/10.1145/3238147.3240727
+- 2018
+Understanding Semi-structured merge conflict characteristics in open-source Java projects (journal-first abstract).:
+- https://doi.org/10.1145/3238147.3241983
+- 2018
+Understanding and detecting callback compatibility issues for Android applications.:
+- https://doi.org/10.1145/3238147.3238181
+- 2018
+Understanding and detecting evolution-induced compatibility issues in Android apps.:
+- https://doi.org/10.1145/3238147.3238185
+- 2018
+VulSeeker - a semantic learning based vulnerability seeker for cross-platform binary.:
+- https://doi.org/10.1145/3238147.3240480
+- 2018
+code_call_lens - raising the developer awareness of critical code.:
+- https://doi.org/10.1145/3238147.3240488
+- 2018
+jStanley - placing a green thumb on Java collections.:
+- https://doi.org/10.1145/3238147.3240473
+- 2018
+node2defect - using network embedding to improve software defect prediction.:
+- https://doi.org/10.1145/3238147.3240469
+- 2018
+"\u03B1Diff - cross-version binary code similarity detection with DNN.":
+- https://doi.org/10.1145/3238147.3238199
+- 2018

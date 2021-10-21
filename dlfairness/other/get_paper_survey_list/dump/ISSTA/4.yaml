@@ -1,0 +1,128 @@
+A learning-to-rank based fault localization approach using likely invariants.:
+- https://doi.org/10.1145/2931037.2931049
+- 2016
+ARROW - automated repair of races on client-side web pages.:
+- https://doi.org/10.1145/2931037.2931052
+- 2016
+ASTOR - a program repair library for Java (demo).:
+- https://doi.org/10.1145/2931037.2948705
+- 2016
+Analyzing test completeness for dynamic languages.:
+- https://doi.org/10.1145/2931037.2931059
+- 2016
+Automated and effective testing of web services for XML injection attacks.:
+- https://doi.org/10.1145/2931037.2931042
+- 2016
+Automatic generation of oracles for exceptional behaviors.:
+- https://doi.org/10.1145/2931037.2931061
+- 2016
+Automatic test case generation - what if test code quality matters?:
+- https://doi.org/10.1145/2931037.2931057
+- 2016
+Automatically verifying and reproducing event-based races in Android apps.:
+- https://doi.org/10.1145/2931037.2931069
+- 2016
+Binary code is not easy.:
+- https://doi.org/10.1145/2931037.2931047
+- 2016
+COSTOTest - a tool for building and running test harness for service-based component models (demo).:
+- https://doi.org/10.1145/2931037.2948704
+- 2016
+CSNIPPEX - automated synthesis of compilable code snippets from Q&amp;A sites.:
+- https://doi.org/10.1145/2931037.2931058
+- 2016
+DEKANT - a static analysis tool that learns to detect web application vulnerabilities.:
+- https://doi.org/10.1145/2931037.2931041
+- 2016
+DSI - an evidence-based approach to identify dynamic data structures in C programs.:
+- https://doi.org/10.1145/2931037.2931071
+- 2016
+Documenting database usages and schema constraints in database-centric applications.:
+- https://doi.org/10.1145/2931037.2931072
+- 2016
+DroidRA - taming reflection to support whole-program analysis of Android apps.:
+- https://doi.org/10.1145/2931037.2931044
+- 2016
+EagerMerge - an optimistic technique for efficient points-to analysis.:
+- https://doi.org/10.1145/2931037.2931045
+- 2016
+Efficient flow profiling for detecting performance bugs.:
+- https://doi.org/10.1145/2931037.2931066
+- 2016
+Efficient race detection in the presence of programmatic event loops.:
+- https://doi.org/10.1145/2931037.2931068
+- 2016
+Energy-aware test-suite minimization for Android apps.:
+- https://doi.org/10.1145/2931037.2931067
+- 2016
+Exploring regular expression usage and context in Python.:
+- https://doi.org/10.1145/2931037.2931073
+- 2016
+FSX - fine-grained incremental unit test generation for C/C++ programs.:
+- https://doi.org/10.1145/2931037.2931055
+- 2016
+Generating focused random tests using directed swarm testing.:
+- https://doi.org/10.1145/2931037.2931056
+- 2016
+IPA - improving predictive analysis with pointer analysis.:
+- https://doi.org/10.1145/2931037.2931046
+- 2016
+Jolinar - analysing the energy footprint of software applications (demo).:
+- https://doi.org/10.1145/2931037.2948706
+- 2016
+Monkey see, monkey do - effective generation of GUI tests with inferred macro events.:
+- https://doi.org/10.1145/2931037.2931053
+- 2016
+Mutation-aware fault prediction.:
+- https://doi.org/10.1145/2931037.2931039
+- 2016
+Optimal sanitization synthesis for web application vulnerability repair.:
+- https://doi.org/10.1145/2931037.2931050
+- 2016
+PIT - a practical mutation testing tool for Java (demo).:
+- https://doi.org/10.1145/2931037.2948707
+- 2016
+Practitioners&apos; expectations on automated fault localization.:
+- https://doi.org/10.1145/2931037.2931051
+- 2016
+Predictive mutation testing.:
+- https://doi.org/10.1145/2931037.2931038
+- 2016
+? "Proceedings of the 25th International Symposium on Software Testing and Analysis,\
+  \ ISSTA 2016, Saarbr\xFCcken, Germany, July 18-20, 2016"
+: - https://doi.org/10.1145/2931037
+  - 2016
+Sapienz - multi-objective automated testing for Android applications.:
+- https://doi.org/10.1145/2931037.2931054
+- 2016
+Semantic modelling of Android malware for effective malware comprehension, detection, and classification.:
+- https://doi.org/10.1145/2931037.2931043
+- 2016
+Specification of concretization and symbolization policies in symbolic execution.:
+- https://doi.org/10.1145/2931037.2931048
+- 2016
+SyncProf - detecting, localizing, and optimizing synchronization bottlenecks.:
+- https://doi.org/10.1145/2931037.2931070
+- 2016
+Test oracle assessment and improvement.:
+- https://doi.org/10.1145/2931037.2931062
+- 2016
+Testing stochastic software using pseudo-oracles.:
+- https://doi.org/10.1145/2931037.2931063
+- 2016
+Threats to the validity of mutation-based test assessment.:
+- https://doi.org/10.1145/2931037.2931040
+- 2016
+Toward understanding compiler bugs in GCC and LLVM.:
+- https://doi.org/10.1145/2931037.2931074
+- 2016
+? Unveiling anomalies and their impact on software quality in model-based automotive
+  software revisions with software metrics and domain experts.
+: - https://doi.org/10.1145/2931037.2931060
+  - 2016
+Verdict machinery - on the need to automatically make sense of test results.:
+- https://doi.org/10.1145/2931037.2931064
+- 2016
+Zero-overhead profiling via EM emanations.:
+- https://doi.org/10.1145/2931037.2931065
+- 2016

@@ -1,0 +1,193 @@
+original_code/women-snowboard/final_weights_eccv2018/train
+original_code/women-snowboard/final_weights_eccv2018/baseline
+
+original_code/women-snowboard/data/blocked_images_average
+original_code/women-snowboard/data/mscoco
+original_code/women-snowboard/im2txt/data/mscoco_base
+original_code/women-snowboard/im2txt/data/bias_and_blocked
+original_code/women-snowboard/im2txt/data/man
+original_code/women-snowboard/im2txt/data/woman
+
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/models
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/logs
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/attacker
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/data/train2014
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/data/val2014
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/data/test2014
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/data/annotations_pytorch
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/data/annotations_trainval2014.zip
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/data/image_info_test2014.zip
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/data/test2014.zip
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/data/train2014.zip
+original_code/Balanced-Datasets-Are-Not-Enough/object_multilabel/data/val2014.zip
+original_code/Balanced-Datasets-Are-Not-Enough/verb_classification/data/of500_images_resized.tar
+original_code/Balanced-Datasets-Are-Not-Enough/verb_classification/data/of500_images_resized
+
+original_code/FairALM/Experiments-CelebA/data
+original_code/FairALM/Experiments-ChestXRay/raw_data
+original_code/FairALM/Experiments-ChestXRay/tuberculosis-data-processed
+
+original_code/nifr/data
+
+other/bias_result_display/figures
+#ther/bias_result_display/table
+other/bias_result_display/stats
+
+*.log
+result
+result_*/
+**/.idea
+source_training_files/
+modified_training_files/
+original_code/DomainBiasMitigation/data
+
+!other/bias_result_display/result_submit
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/

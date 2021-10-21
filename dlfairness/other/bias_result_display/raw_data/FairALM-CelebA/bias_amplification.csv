@@ -1,0 +1,10 @@
+,,max_diff,max,min,std_dev,mean,rel_maxdiff(%)
+./celeba_aggregated_raw_prediction/fair-alm/,class0,0.06010,0.1144,0.05432,0.01537,0.06919,86.86
+./celeba_aggregated_raw_prediction/fair-alm/,class1,0.03493,0.05119,0.01627,0.01135,0.02943,118.7
+./celeba_aggregated_raw_prediction/fair-alm/,overall,0.04126,0.07752,0.03626,0.01196,0.04931,83.68
+./celeba_aggregated_raw_prediction/l2-penalty/,class0,0.1586,0.1636,0.005035,0.04217,0.06067,261.3
+./celeba_aggregated_raw_prediction/l2-penalty/,class1,0.08165,0.1140,0.03236,0.02139,0.05808,140.6
+./celeba_aggregated_raw_prediction/l2-penalty/,overall,0.1163,0.1388,0.02245,0.03109,0.05938,195.9
+./celeba_aggregated_raw_prediction/no-constraints/,class0,0.03248,0.03486,0.002378,0.009921,0.01929,168.4
+./celeba_aggregated_raw_prediction/no-constraints/,class1,0.02038,0.02097,0.0005972,0.005288,0.005528,368.6
+./celeba_aggregated_raw_prediction/no-constraints/,overall,0.01091,0.01789,0.006978,0.003411,0.01241,87.91

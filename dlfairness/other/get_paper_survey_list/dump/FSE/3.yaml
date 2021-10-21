@@ -1,0 +1,378 @@
+A compiler and verifier for page access oblivious computation.:
+- https://doi.org/10.1145/3106237.3106248
+- 2017
+A fast causal profiler for task parallel programs.:
+- https://doi.org/10.1145/3106237.3106254
+- 2017
+A feasibility study of using automated program repair for introductory programming assignments.:
+- https://doi.org/10.1145/3106237.3106262
+- 2017
+A symbolic justice violations transition system for unrealizable GR(1) specifications.:
+- https://doi.org/10.1145/3106237.3106240
+- 2017
+A tool for automated reasoning about traces based on configurable formal semantics.:
+- https://doi.org/10.1145/3106237.3122825
+- 2017
+ARCC - assistant for repetitive code comprehension.:
+- https://doi.org/10.1145/3106237.3122824
+- 2017
+ARTINALI - dynamic invariant detection for cyber-physical system security.:
+- https://doi.org/10.1145/3106237.3106282
+- 2017
+Adaptively generating high quality fixes for atomicity violations.:
+- https://doi.org/10.1145/3106237.3106239
+- 2017
+? Application of search-based software engineering methodologies for test suite optimization
+  and evolution in mission critical mobile application development.
+: - https://doi.org/10.1145/3106237.3119876
+  - 2017
+Applying deep learning based automatic bug triager to industrial projects.:
+- https://doi.org/10.1145/3106237.3117776
+- 2017
+Are deep neural networks the best choice for modeling source code?:
+- https://doi.org/10.1145/3106237.3106290
+- 2017
+AtexRace - across thread and execution sampling for in-house race detection.:
+- https://doi.org/10.1145/3106237.3106242
+- 2017
+Attributed variability models - outside the comfort zone.:
+- https://doi.org/10.1145/3106237.3106251
+- 2017
+Automated control of multiple software goals using multiple actuators.:
+- https://doi.org/10.1145/3106237.3106247
+- 2017
+Automated identification of security issues from commit messages and bug reports.:
+- https://doi.org/10.1145/3106237.3117771
+- 2017
+Automated testing of hybrid Simulink/Stateflow controllers - industrial case studies.:
+- https://doi.org/10.1145/3106237.3117770
+- 2017
+Automatic generation of inter-component communication exploits for Android applications.:
+- https://doi.org/10.1145/3106237.3106286
+- 2017
+Automatic inference of code transforms for patch generation.:
+- https://doi.org/10.1145/3106237.3106253
+- 2017
+Automatically analyzing groups of crashes for finding correlations.:
+- https://doi.org/10.1145/3106237.3106306
+- 2017
+Automatically diagnosing and repairing error handling bugs in C.:
+- https://doi.org/10.1145/3106237.3106300
+- 2017
+Automating traceability link recovery through classification.:
+- https://doi.org/10.1145/3106237.3121280
+- 2017
+BDCI - behavioral driven conflict identification.:
+- https://doi.org/10.1145/3106237.3106296
+- 2017
+Bayesian specification learning for finding API usage errors.:
+- https://doi.org/10.1145/3106237.3106284
+- 2017
+Better test cases for better automated program repair.:
+- https://doi.org/10.1145/3106237.3106274
+- 2017
+CLTSA - labelled transition system analyser with counting fluent support.:
+- https://doi.org/10.1145/3106237.3122828
+- 2017
+Cherry-picking of code commits in long-running, multi-release software.:
+- https://doi.org/10.1145/3106237.3122818
+- 2017
+Cimplifier - automatically debloating containers.:
+- https://doi.org/10.1145/3106237.3106271
+- 2017
+CodeCarbonCopy.:
+- https://doi.org/10.1145/3106237.3106269
+- 2017
+CodeMatch - obfuscation won&apos;t conceal your repackaged app.:
+- https://doi.org/10.1145/3106237.3106305
+- 2017
+Constraint normalization and parameterized caching for quantitative program analysis.:
+- https://doi.org/10.1145/3106237.3106303
+- 2017
+Continuous variable-specific resolutions of feature interactions.:
+- https://doi.org/10.1145/3106237.3106302
+- 2017
+Cooperative kernels - GPU multitasking for blocking algorithms.:
+- https://doi.org/10.1145/3106237.3106265
+- 2017
+Counterexample-guided approach to finding numerical invariants.:
+- https://doi.org/10.1145/3106237.3106281
+- 2017
+Craig vs. Newton in software model checking.:
+- https://doi.org/10.1145/3106237.3106307
+- 2017
+DESCRY - reproducing system-level concurrency failures.:
+- https://doi.org/10.1145/3106237.3106266
+- 2017
+DRACO - discovering refactorings that improve architecture using fine-grained co-change dependencies.:
+- https://doi.org/10.1145/3106237.3119872
+- 2017
+DecisionDroid - a supervised learning-based system to identify cloned Android applications.:
+- https://doi.org/10.1145/3106237.3121277
+- 2017
+Detecting missing information in bug descriptions.:
+- https://doi.org/10.1145/3106237.3106285
+- 2017
+Detecting wearable app permission mismatches - a case study on Android wear.:
+- https://doi.org/10.1145/3106237.3121279
+- 2017
+Discovering relational specifications.:
+- https://doi.org/10.1145/3106237.3106279
+- 2017
+DynAlloy analyzer - a tool for the specification and analysis of alloy models with dynamic behaviour.:
+- https://doi.org/10.1145/3106237.3122826
+- 2017
+Easy over hard - a case study on deep learning.:
+- https://doi.org/10.1145/3106237.3106256
+- 2017
+Enabling mutation testing for Android apps.:
+- https://doi.org/10.1145/3106237.3106275
+- 2017
+FOSS version differentiation as a benchmark for static analysis security testing tools.:
+- https://doi.org/10.1145/3106237.3121276
+- 2017
+Failure-directed program trimming.:
+- https://doi.org/10.1145/3106237.3106249
+- 2017
+Fairness testing - testing software for discrimination.:
+- https://doi.org/10.1145/3106237.3106277
+- 2017
+File-level vs. module-level regression test selection for .NET.:
+- https://doi.org/10.1145/3106237.3117763
+- 2017
+Finding near-optimal configurations in product lines by random sampling.:
+- https://doi.org/10.1145/3106237.3106273
+- 2017
+From scenario modeling to scenario programming for reactive systems with dynamic topology.:
+- https://doi.org/10.1145/3106237.3122827
+- 2017
+Generalized observational slicing for tree-represented modelling languages.:
+- https://doi.org/10.1145/3106237.3106304
+- 2017
+Guided, stochastic model-based GUI testing of Android apps.:
+- https://doi.org/10.1145/3106237.3106298
+- 2017
+Guidelines for adopting frontend architectures and patterns in microservices-based systems.:
+- https://doi.org/10.1145/3106237.3117775
+- 2017
+Improving performance of automatic program repair using learned heuristics.:
+- https://doi.org/10.1145/3106237.3121281
+- 2017
+Improving understanding of dynamically typed software developed by agile practitioners.:
+- https://doi.org/10.1145/3106237.3117772
+- 2017
+Is there a mismatch between real-world feature models and product-line research?:
+- https://doi.org/10.1145/3106237.3106252
+- 2017
+JoanAudit - a tool for auditing common injection vulnerabilities.:
+- https://doi.org/10.1145/3106237.3122822
+- 2017
+Kmax - finding all configurations of Kbuild makefiles statically.:
+- https://doi.org/10.1145/3106237.3106283
+- 2017
+LAMP - data provenance for graph based machine learning algorithms through derivative computation.:
+- https://doi.org/10.1145/3106237.3106291
+- 2017
+LaChouTi - kernel vulnerability responding framework for the fragmented Android devices.:
+- https://doi.org/10.1145/3106237.3117768
+- 2017
+Loopster - static loop termination analysis.:
+- https://doi.org/10.1145/3106237.3106260
+- 2017
+Measuring neural efficiency of program comprehension.:
+- https://doi.org/10.1145/3106237.3106268
+- 2017
+Measuring the cost of regression testing in practice - a study of Java projects using continuous integration.:
+- https://doi.org/10.1145/3106237.3106288
+- 2017
+Model-based dynamic software project scheduling.:
+- https://doi.org/10.1145/3106237.3119879
+- 2017
+Model-based privacy and security analysis with CARiSMA.:
+- https://doi.org/10.1145/3106237.3122823
+- 2017
+Model-driven software engineering in practice - privacy-enhanced filtering of network traffic.:
+- https://doi.org/10.1145/3106237.3117777
+- 2017
+Model-level, platform-independent debugging in the context of the model-driven development of real-time systems.:
+- https://doi.org/10.1145/3106237.3106278
+- 2017
+Modeling and verification of evolving cyber-physical spaces.:
+- https://doi.org/10.1145/3106237.3106299
+- 2017
+More accurate recommendations for method-level changes.:
+- https://doi.org/10.1145/3106237.3106276
+- 2017
+Natural language querying in SAP-ERP platform.:
+- https://doi.org/10.1145/3106237.3117765
+- 2017
+NoFAQ - synthesizing command repairs from examples.:
+- https://doi.org/10.1145/3106237.3106241
+- 2017
+OASIS - prioritizing static analysis warnings for Android apps based on app user reviews.:
+- https://doi.org/10.1145/3106237.3106294
+- 2017
+On evidence preservation requirements for forensic-ready systems.:
+- https://doi.org/10.1145/3106237.3106308
+- 2017
+On the scalability of Linux kernel maintainers&apos; work.:
+- https://doi.org/10.1145/3106237.3106287
+- 2017
+On the similarity of software development documentation.:
+- https://doi.org/10.1145/3106237.3119875
+- 2017
+PATDroid - permission-aware GUI testing of Android.:
+- https://doi.org/10.1145/3106237.3106250
+- 2017
+Practical symbolic verification of regular properties.:
+- https://doi.org/10.1145/3106237.3121275
+- 2017
+Probabilistic model checking of perturbed MDPs with applications to cloud computing.:
+- https://doi.org/10.1145/3106237.3106301
+- 2017
+? Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering,
+  ESEC/FSE 2017, Paderborn, Germany, September 4-8, 2017
+: - http://dl.acm.org/citation.cfm?id=3106237
+  - 2017
+QEMU-based framework for non-intrusive virtual machine instrumentation and introspection.:
+- https://doi.org/10.1145/3106237.3122817
+- 2017
+QTEP - quality-aware test case prioritization.:
+- https://doi.org/10.1145/3106237.3106258
+- 2017
+RGSE - a regular property guided symbolic executor for Java.:
+- https://doi.org/10.1145/3106237.3122830
+- 2017
+Reasons and drawbacks of using trivial npm packages - the developers&apos; perspective.:
+- https://doi.org/10.1145/3106237.3121278
+- 2017
+Recommender system for model driven software development.:
+- https://doi.org/10.1145/3106237.3119874
+- 2017
+Record and replay for Android - are we there yet in industrial cases?:
+- https://doi.org/10.1145/3106237.3117769
+- 2017
+Recovering clear, natural identifiers from obfuscated JS names.:
+- https://doi.org/10.1145/3106237.3106289
+- 2017
+Reference architectures and Scrum - friends or foes?:
+- https://doi.org/10.1145/3106237.3117773
+- 2017
+? Reflections on the REST architectural style and &quot;principled design of the modern
+  web architecture&quot; (impact paper award).
+: - https://doi.org/10.1145/3106237.3121282
+  - 2017
+Regression test selection across JVM boundaries.:
+- https://doi.org/10.1145/3106237.3106297
+- 2017
+Reproducing concurrency failures from crash stacks.:
+- https://doi.org/10.1145/3106237.3106292
+- 2017
+Revisiting unsupervised learning for defect prediction.:
+- https://doi.org/10.1145/3106237.3106257
+- 2017
+RunDroid - recovering execution call graphs for Android applications.:
+- https://doi.org/10.1145/3106237.3122821
+- 2017
+S3 - syntax- and semantic-guided repair synthesis via programming by examples.:
+- https://doi.org/10.1145/3106237.3106309
+- 2017
+Screening heuristics for project gating systems.:
+- https://doi.org/10.1145/3106237.3117766
+- 2017
+Serverless computing - economic and architectural impact.:
+- https://doi.org/10.1145/3106237.3117767
+- 2017
+Software engineering research results in industrial practice - a tale of two projects (invited talk).:
+- https://doi.org/10.1145/3106237.3121273
+- 2017
+Static analysis for optimizing big data queries.:
+- https://doi.org/10.1145/3106237.3117774
+- 2017
+Steelix - program-state based binary fuzzing.:
+- https://doi.org/10.1145/3106237.3106295
+- 2017
+Strong agile metrics - mining log data to determine predictive power of software metrics for continuous delivery teams.:
+- https://doi.org/10.1145/3106237.3117779
+- 2017
+Suggesting meaningful variable names for decompiled code - a machine translation approach.:
+- https://doi.org/10.1145/3106237.3121274
+- 2017
+Summarizing software engineering communication artifacts from different sources.:
+- https://doi.org/10.1145/3106237.3119877
+- 2017
+Symbolic execution of programmable logic controller code.:
+- https://doi.org/10.1145/3106237.3106245
+- 2017
+Synergistic debug-repair of heap manipulations.:
+- https://doi.org/10.1145/3106237.3106263
+- 2017
+System performance optimization via design and configuration space exploration.:
+- https://doi.org/10.1145/3106237.3119880
+- 2017
+The MONDO collaboration framework - secure collaborative modeling over existing version control systems.:
+- https://doi.org/10.1145/3106237.3122829
+- 2017
+The care and feeding of wild-caught mutants.:
+- https://doi.org/10.1145/3106237.3106280
+- 2017
+The power of &quot;why&quot; and &quot;why not&quot; - enriching scenario exploration with provenance.:
+- https://doi.org/10.1145/3106237.3106272
+- 2017
+The rising tide lifts all boats - the advancement of science in cyber security (invited talk).:
+- https://doi.org/10.1145/3106237.3121272
+- 2017
+Thread-modular static analysis for relaxed memory models.:
+- https://doi.org/10.1145/3106237.3106243
+- 2017
+Toward full elasticity in distributed static analysis - the case of callgraph analysis.:
+- https://doi.org/10.1145/3106237.3106261
+- 2017
+Trade-offs in continuous integration - assurance, security, and flexibility.:
+- https://doi.org/10.1145/3106237.3106270
+- 2017
+Understanding misunderstandings in source code.:
+- https://doi.org/10.1145/3106237.3106264
+- 2017
+Understanding the impact of refactoring on smells - a longitudinal study of 23 software projects.:
+- https://doi.org/10.1145/3106237.3106259
+- 2017
+Understanding the impact of support for iteration on code search.:
+- https://doi.org/10.1145/3106237.3106293
+- 2017
+User- and analysis-driven context aware software development in mobile computing.:
+- https://doi.org/10.1145/3106237.3119873
+- 2017
+Using bad learners to find good configurations.:
+- https://doi.org/10.1145/3106237.3106238
+- 2017
+Using search-based software engineering to handle the changes with uncertainties for self-adaptive systems.:
+- https://doi.org/10.1145/3106237.3119871
+- 2017
+VART - a tool for the automatic detection of regression faults.:
+- https://doi.org/10.1145/3106237.3122819
+- 2017
+Verifying the forecast - how climate models are developed and tested (invited talk).:
+- https://doi.org/10.1145/3106237.3121271
+- 2017
+What do software engineers care about? gaps between research and practice.:
+- https://doi.org/10.1145/3106237.3117778
+- 2017
+When program analysis meets mobile security - an industrial study of misusing Android internet sockets.:
+- https://doi.org/10.1145/3106237.3117764
+- 2017
+Where is the bug and how is it fixed? an experiment with practitioners.:
+- https://doi.org/10.1145/3106237.3106255
+- 2017
+Why do developers use trivial packages? an empirical case study on npm.:
+- https://doi.org/10.1145/3106237.3106267
+- 2017
+Why modern open source projects fail.:
+- https://doi.org/10.1145/3106237.3106246
+- 2017
+XSearch - a domain-specific cross-language relevant question retrieval tool.:
+- https://doi.org/10.1145/3106237.3122820
+- 2017
+"\xB5Droid - an energy-aware mutation testing framework for Android.":
+- https://doi.org/10.1145/3106237.3106244
+- 2017

@@ -1,0 +1,2904 @@
+Using label attribute: Attractive
+{'ALGORITHM': 'FAIR_ALM', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'ETA_INIT': 60.0, 'ETA_BETA': 1.01, 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 100, 'NUM_INNER': 5, 'OPTIMIZER_': 'SGD', 'MODEL_': 'resnet18', 'DEBUG_': False, 'SHUFFLE_': True}
+Epoch: 001/100 | Batch 0000/0636 | train_loss: 20.4473 | penalty_loss: 0.0000
+eta: 60.600 | lam0 - lam1: 0.000
+Epoch: 001/100 | Batch 0050/0636 | train_loss: 2.0680 | penalty_loss: -0.0003
+eta: 60.600 | lam0 - lam1: -1.931
+Epoch: 001/100 | Batch 0100/0636 | train_loss: 1.4945 | penalty_loss: 0.0030
+eta: 60.600 | lam0 - lam1: 4.685
+Epoch: 001/100 | Batch 0150/0636 | train_loss: 0.8136 | penalty_loss: 0.0010
+eta: 60.600 | lam0 - lam1: 9.713
+Epoch: 001/100 | Batch 0200/0636 | train_loss: 0.7080 | penalty_loss: 0.0005
+eta: 60.600 | lam0 - lam1: 10.498
+Epoch: 001/100 | Batch 0250/0636 | train_loss: 0.9363 | penalty_loss: -0.0014
+eta: 60.600 | lam0 - lam1: 11.369
+Epoch: 001/100 | Batch 0300/0636 | train_loss: 0.7690 | penalty_loss: 0.0002
+eta: 60.600 | lam0 - lam1: 11.908
+Epoch: 001/100 | Batch 0350/0636 | train_loss: 0.8933 | penalty_loss: -0.0004
+eta: 60.600 | lam0 - lam1: 11.926
+Epoch: 001/100 | Batch 0400/0636 | train_loss: 0.5738 | penalty_loss: -0.0003
+eta: 60.600 | lam0 - lam1: 12.242
+Epoch: 001/100 | Batch 0450/0636 | train_loss: 0.5848 | penalty_loss: -0.0008
+eta: 60.600 | lam0 - lam1: 12.072
+Epoch: 001/100 | Batch 0500/0636 | train_loss: 0.8270 | penalty_loss: -0.0003
+eta: 60.600 | lam0 - lam1: 12.373
+Epoch: 001/100 | Batch 0550/0636 | train_loss: 0.6935 | penalty_loss: -0.0002
+eta: 60.600 | lam0 - lam1: 11.729
+Epoch: 001/100 | Batch 0600/0636 | train_loss: 0.6008 | penalty_loss: -0.0009
+eta: 60.600 | lam0 - lam1: 12.017
+Epoch: 001/100 | Train Acc: 56.160% | Train Ddp: 31.344% | Train Deo: 0.315%
+Epoch: 001/100 | Valid Acc: 56.752% | Valid Ddp: 27.035% | Valid Deo: 0.678%
+Time elapsed: 35.11 min
+Epoch: 002/100 | Batch 0000/0636 | train_loss: 0.5737 | penalty_loss: -0.0013
+eta: 61.206 | lam0 - lam1: 11.969
+Epoch: 002/100 | Batch 0050/0636 | train_loss: 0.6226 | penalty_loss: -0.0004
+eta: 61.206 | lam0 - lam1: 12.135
+Epoch: 002/100 | Batch 0100/0636 | train_loss: 0.7409 | penalty_loss: -0.0001
+eta: 61.206 | lam0 - lam1: 12.354
+Epoch: 002/100 | Batch 0150/0636 | train_loss: 0.5824 | penalty_loss: -0.0008
+eta: 61.206 | lam0 - lam1: 12.543
+Epoch: 002/100 | Batch 0200/0636 | train_loss: 0.5089 | penalty_loss: 0.0007
+eta: 61.206 | lam0 - lam1: 13.177
+Epoch: 002/100 | Batch 0250/0636 | train_loss: 0.5730 | penalty_loss: 0.0003
+eta: 61.206 | lam0 - lam1: 12.842
+Epoch: 002/100 | Batch 0300/0636 | train_loss: 0.8286 | penalty_loss: 0.0007
+eta: 61.206 | lam0 - lam1: 13.220
+Epoch: 002/100 | Batch 0350/0636 | train_loss: 0.5547 | penalty_loss: -0.0001
+eta: 61.206 | lam0 - lam1: 13.587
+Epoch: 002/100 | Batch 0400/0636 | train_loss: 0.4697 | penalty_loss: -0.0006
+eta: 61.206 | lam0 - lam1: 13.959
+Epoch: 002/100 | Batch 0450/0636 | train_loss: 0.6275 | penalty_loss: -0.0001
+eta: 61.206 | lam0 - lam1: 13.491
+Epoch: 002/100 | Batch 0500/0636 | train_loss: 0.7400 | penalty_loss: 0.0007
+eta: 61.206 | lam0 - lam1: 13.328
+Epoch: 002/100 | Batch 0550/0636 | train_loss: 0.4047 | penalty_loss: -0.0001
+eta: 61.206 | lam0 - lam1: 13.274
+Epoch: 002/100 | Batch 0600/0636 | train_loss: 0.6369 | penalty_loss: 0.0000
+eta: 61.206 | lam0 - lam1: 13.091
+Epoch: 002/100 | Train Acc: 71.719% | Train Ddp: 7.918% | Train Deo: 6.990%
+Epoch: 002/100 | Valid Acc: 70.141% | Valid Ddp: 6.188% | Valid Deo: 9.235%
+Time elapsed: 79.42 min
+Epoch: 003/100 | Batch 0000/0636 | train_loss: 0.4546 | penalty_loss: -0.0001
+eta: 61.818 | lam0 - lam1: 13.631
+Epoch: 003/100 | Batch 0050/0636 | train_loss: 0.3879 | penalty_loss: -0.0008
+eta: 61.818 | lam0 - lam1: 13.808
+Epoch: 003/100 | Batch 0100/0636 | train_loss: 0.8173 | penalty_loss: 0.0002
+eta: 61.818 | lam0 - lam1: 13.480
+Epoch: 003/100 | Batch 0150/0636 | train_loss: 0.5361 | penalty_loss: 0.0002
+eta: 61.818 | lam0 - lam1: 13.491
+Epoch: 003/100 | Batch 0200/0636 | train_loss: 0.5801 | penalty_loss: 0.0001
+eta: 61.818 | lam0 - lam1: 14.163
+Epoch: 003/100 | Batch 0250/0636 | train_loss: 0.5858 | penalty_loss: 0.0002
+eta: 61.818 | lam0 - lam1: 14.253
+Epoch: 003/100 | Batch 0300/0636 | train_loss: 0.3923 | penalty_loss: 0.0010
+eta: 61.818 | lam0 - lam1: 14.849
+Epoch: 003/100 | Batch 0350/0636 | train_loss: 0.4867 | penalty_loss: -0.0003
+eta: 61.818 | lam0 - lam1: 14.761
+Epoch: 003/100 | Batch 0400/0636 | train_loss: 0.5980 | penalty_loss: 0.0005
+eta: 61.818 | lam0 - lam1: 14.370
+Epoch: 003/100 | Batch 0450/0636 | train_loss: 0.4216 | penalty_loss: 0.0009
+eta: 61.818 | lam0 - lam1: 14.411
+Epoch: 003/100 | Batch 0500/0636 | train_loss: 0.7341 | penalty_loss: 0.0000
+eta: 61.818 | lam0 - lam1: 14.697
+Epoch: 003/100 | Batch 0550/0636 | train_loss: 0.6107 | penalty_loss: -0.0009
+eta: 61.818 | lam0 - lam1: 14.151
+Epoch: 003/100 | Batch 0600/0636 | train_loss: 0.5573 | penalty_loss: 0.0006
+eta: 61.818 | lam0 - lam1: 14.190
+Epoch: 003/100 | Train Acc: 72.993% | Train Ddp: 4.747% | Train Deo: 6.273%
+Epoch: 003/100 | Valid Acc: 71.304% | Valid Ddp: 3.395% | Valid Deo: 10.765%
+Time elapsed: 121.89 min
+Epoch: 004/100 | Batch 0000/0636 | train_loss: 0.5621 | penalty_loss: -0.0003
+eta: 62.436 | lam0 - lam1: 14.104
+Epoch: 004/100 | Batch 0050/0636 | train_loss: 0.4386 | penalty_loss: 0.0002
+eta: 62.436 | lam0 - lam1: 14.335
+Epoch: 004/100 | Batch 0100/0636 | train_loss: 0.4666 | penalty_loss: -0.0006
+eta: 62.436 | lam0 - lam1: 14.202
+Epoch: 004/100 | Batch 0150/0636 | train_loss: 0.3865 | penalty_loss: 0.0000
+eta: 62.436 | lam0 - lam1: 14.534
+Epoch: 004/100 | Batch 0200/0636 | train_loss: 0.5220 | penalty_loss: 0.0000
+eta: 62.436 | lam0 - lam1: 14.631
+Epoch: 004/100 | Batch 0250/0636 | train_loss: 0.5752 | penalty_loss: 0.0000
+eta: 62.436 | lam0 - lam1: 14.803
+Epoch: 004/100 | Batch 0300/0636 | train_loss: 0.4080 | penalty_loss: 0.0003
+eta: 62.436 | lam0 - lam1: 15.133
+Epoch: 004/100 | Batch 0350/0636 | train_loss: 0.5476 | penalty_loss: 0.0008
+eta: 62.436 | lam0 - lam1: 15.429
+Epoch: 004/100 | Batch 0400/0636 | train_loss: 0.4420 | penalty_loss: 0.0002
+eta: 62.436 | lam0 - lam1: 15.206
+Epoch: 004/100 | Batch 0450/0636 | train_loss: 0.4754 | penalty_loss: -0.0001
+eta: 62.436 | lam0 - lam1: 15.189
+Epoch: 004/100 | Batch 0500/0636 | train_loss: 0.4528 | penalty_loss: -0.0003
+eta: 62.436 | lam0 - lam1: 15.040
+Epoch: 004/100 | Batch 0550/0636 | train_loss: 0.5474 | penalty_loss: -0.0006
+eta: 62.436 | lam0 - lam1: 15.022
+Epoch: 004/100 | Batch 0600/0636 | train_loss: 0.4586 | penalty_loss: 0.0002
+eta: 62.436 | lam0 - lam1: 14.992
+Epoch: 004/100 | Train Acc: 67.171% | Train Ddp: 13.253% | Train Deo: 1.312%
+Epoch: 004/100 | Valid Acc: 66.683% | Valid Ddp: 9.266% | Valid Deo: 3.303%
+Time elapsed: 159.83 min
+Epoch: 005/100 | Batch 0000/0636 | train_loss: 0.3601 | penalty_loss: -0.0003
+eta: 63.061 | lam0 - lam1: 14.986
+Epoch: 005/100 | Batch 0050/0636 | train_loss: 0.3097 | penalty_loss: 0.0001
+eta: 63.061 | lam0 - lam1: 15.421
+Epoch: 005/100 | Batch 0100/0636 | train_loss: 0.4790 | penalty_loss: -0.0003
+eta: 63.061 | lam0 - lam1: 15.541
+Epoch: 005/100 | Batch 0150/0636 | train_loss: 0.3612 | penalty_loss: 0.0002
+eta: 63.061 | lam0 - lam1: 15.752
+Epoch: 005/100 | Batch 0200/0636 | train_loss: 0.3474 | penalty_loss: 0.0001
+eta: 63.061 | lam0 - lam1: 15.468
+Epoch: 005/100 | Batch 0250/0636 | train_loss: 0.4908 | penalty_loss: -0.0000
+eta: 63.061 | lam0 - lam1: 15.579
+Epoch: 005/100 | Batch 0300/0636 | train_loss: 0.4471 | penalty_loss: -0.0002
+eta: 63.061 | lam0 - lam1: 15.659
+Epoch: 005/100 | Batch 0350/0636 | train_loss: 0.3644 | penalty_loss: 0.0002
+eta: 63.061 | lam0 - lam1: 15.949
+Epoch: 005/100 | Batch 0400/0636 | train_loss: 0.4199 | penalty_loss: -0.0001
+eta: 63.061 | lam0 - lam1: 16.199
+Epoch: 005/100 | Batch 0450/0636 | train_loss: 0.3919 | penalty_loss: -0.0002
+eta: 63.061 | lam0 - lam1: 16.096
+Epoch: 005/100 | Batch 0500/0636 | train_loss: 0.4288 | penalty_loss: -0.0001
+eta: 63.061 | lam0 - lam1: 16.015
+Epoch: 005/100 | Batch 0550/0636 | train_loss: 0.3457 | penalty_loss: 0.0005
+eta: 63.061 | lam0 - lam1: 16.106
+Epoch: 005/100 | Batch 0600/0636 | train_loss: 0.4799 | penalty_loss: -0.0004
+eta: 63.061 | lam0 - lam1: 16.452
+Epoch: 005/100 | Train Acc: 73.639% | Train Ddp: 4.120% | Train Deo: 3.582%
+Epoch: 005/100 | Valid Acc: 71.536% | Valid Ddp: 2.419% | Valid Deo: 8.086%
+Time elapsed: 197.28 min
+Epoch: 006/100 | Batch 0000/0636 | train_loss: 0.4413 | penalty_loss: -0.0004
+eta: 63.691 | lam0 - lam1: 16.212
+Epoch: 006/100 | Batch 0050/0636 | train_loss: 0.3247 | penalty_loss: 0.0004
+eta: 63.691 | lam0 - lam1: 16.548
+Epoch: 006/100 | Batch 0100/0636 | train_loss: 0.3263 | penalty_loss: 0.0005
+eta: 63.691 | lam0 - lam1: 17.028
+Epoch: 006/100 | Batch 0150/0636 | train_loss: 0.5964 | penalty_loss: 0.0000
+eta: 63.691 | lam0 - lam1: 17.122
+Epoch: 006/100 | Batch 0200/0636 | train_loss: 0.3292 | penalty_loss: 0.0001
+eta: 63.691 | lam0 - lam1: 17.045
+Epoch: 006/100 | Batch 0250/0636 | train_loss: 0.3054 | penalty_loss: 0.0000
+eta: 63.691 | lam0 - lam1: 16.865
+Epoch: 006/100 | Batch 0300/0636 | train_loss: 0.3029 | penalty_loss: -0.0001
+eta: 63.691 | lam0 - lam1: 17.148
+Epoch: 006/100 | Batch 0350/0636 | train_loss: 0.3690 | penalty_loss: 0.0002
+eta: 63.691 | lam0 - lam1: 17.180
+Epoch: 006/100 | Batch 0400/0636 | train_loss: 0.3128 | penalty_loss: 0.0004
+eta: 63.691 | lam0 - lam1: 17.486
+Epoch: 006/100 | Batch 0450/0636 | train_loss: 0.4240 | penalty_loss: 0.0002
+eta: 63.691 | lam0 - lam1: 17.660
+Epoch: 006/100 | Batch 0500/0636 | train_loss: 0.3658 | penalty_loss: -0.0002
+eta: 63.691 | lam0 - lam1: 17.508
+Epoch: 006/100 | Batch 0550/0636 | train_loss: 0.2826 | penalty_loss: -0.0001
+eta: 63.691 | lam0 - lam1: 17.391
+Epoch: 006/100 | Batch 0600/0636 | train_loss: 0.2586 | penalty_loss: 0.0001
+eta: 63.691 | lam0 - lam1: 17.452
+Epoch: 006/100 | Train Acc: 76.031% | Train Ddp: 3.759% | Train Deo: 3.547%
+Epoch: 006/100 | Valid Acc: 72.698% | Valid Ddp: 2.735% | Valid Deo: 9.388%
+Time elapsed: 212.89 min
+Epoch: 007/100 | Batch 0000/0636 | train_loss: 0.2798 | penalty_loss: -0.0002
+eta: 64.328 | lam0 - lam1: 17.329
+Epoch: 007/100 | Batch 0050/0636 | train_loss: 0.3266 | penalty_loss: 0.0001
+eta: 64.328 | lam0 - lam1: 17.828
+Epoch: 007/100 | Batch 0100/0636 | train_loss: 0.1764 | penalty_loss: -0.0001
+eta: 64.328 | lam0 - lam1: 17.800
+Epoch: 007/100 | Batch 0150/0636 | train_loss: 0.1897 | penalty_loss: 0.0001
+eta: 64.328 | lam0 - lam1: 17.990
+Epoch: 007/100 | Batch 0200/0636 | train_loss: 0.1952 | penalty_loss: 0.0003
+eta: 64.328 | lam0 - lam1: 17.933
+Epoch: 007/100 | Batch 0250/0636 | train_loss: 0.3067 | penalty_loss: -0.0001
+eta: 64.328 | lam0 - lam1: 17.573
+Epoch: 007/100 | Batch 0300/0636 | train_loss: 0.2179 | penalty_loss: -0.0003
+eta: 64.328 | lam0 - lam1: 17.764
+Epoch: 007/100 | Batch 0350/0636 | train_loss: 0.2712 | penalty_loss: 0.0001
+eta: 64.328 | lam0 - lam1: 17.669
+Epoch: 007/100 | Batch 0400/0636 | train_loss: 0.1800 | penalty_loss: -0.0000
+eta: 64.328 | lam0 - lam1: 17.873
+Epoch: 007/100 | Batch 0450/0636 | train_loss: 0.1589 | penalty_loss: -0.0003
+eta: 64.328 | lam0 - lam1: 18.183
+Epoch: 007/100 | Batch 0500/0636 | train_loss: 0.2000 | penalty_loss: -0.0002
+eta: 64.328 | lam0 - lam1: 17.564
+Epoch: 007/100 | Batch 0550/0636 | train_loss: 0.1883 | penalty_loss: 0.0001
+eta: 64.328 | lam0 - lam1: 17.638
+Epoch: 007/100 | Batch 0600/0636 | train_loss: 0.1584 | penalty_loss: 0.0003
+eta: 64.328 | lam0 - lam1: 17.244
+Epoch: 007/100 | Train Acc: 80.296% | Train Ddp: 0.723% | Train Deo: 5.711%
+Epoch: 007/100 | Valid Acc: 75.271% | Valid Ddp: 0.667% | Valid Deo: 13.777%
+Time elapsed: 227.45 min
+Epoch: 008/100 | Batch 0000/0636 | train_loss: 0.1663 | penalty_loss: -0.0000
+eta: 64.971 | lam0 - lam1: 15.621
+Epoch: 008/100 | Batch 0050/0636 | train_loss: 0.1045 | penalty_loss: 0.0002
+eta: 64.971 | lam0 - lam1: 16.344
+Epoch: 008/100 | Batch 0100/0636 | train_loss: 0.3832 | penalty_loss: 0.0006
+eta: 64.971 | lam0 - lam1: 16.164
+Epoch: 008/100 | Batch 0150/0636 | train_loss: 0.1019 | penalty_loss: 0.0002
+eta: 64.971 | lam0 - lam1: 16.661
+Epoch: 008/100 | Batch 0200/0636 | train_loss: 0.0990 | penalty_loss: -0.0001
+eta: 64.971 | lam0 - lam1: 15.915
+Epoch: 008/100 | Batch 0250/0636 | train_loss: 0.0908 | penalty_loss: 0.0003
+eta: 64.971 | lam0 - lam1: 15.553
+Epoch: 008/100 | Batch 0300/0636 | train_loss: 0.0976 | penalty_loss: -0.0001
+eta: 64.971 | lam0 - lam1: 14.822
+Epoch: 008/100 | Batch 0350/0636 | train_loss: 0.3020 | penalty_loss: 0.0001
+eta: 64.971 | lam0 - lam1: 15.350
+Epoch: 008/100 | Batch 0400/0636 | train_loss: 0.4086 | penalty_loss: -0.0040
+eta: 64.971 | lam0 - lam1: 14.079
+Epoch: 008/100 | Batch 0450/0636 | train_loss: 0.3884 | penalty_loss: 0.0012
+eta: 64.971 | lam0 - lam1: 13.529
+Epoch: 008/100 | Batch 0500/0636 | train_loss: 0.5753 | penalty_loss: -0.0002
+eta: 64.971 | lam0 - lam1: 12.014
+Epoch: 008/100 | Batch 0550/0636 | train_loss: 0.1819 | penalty_loss: -0.0004
+eta: 64.971 | lam0 - lam1: 11.522
+Epoch: 008/100 | Batch 0600/0636 | train_loss: 0.4097 | penalty_loss: 0.0006
+eta: 64.971 | lam0 - lam1: 11.189
+Epoch: 008/100 | Train Acc: 79.326% | Train Ddp: 0.113% | Train Deo: 4.601%
+Epoch: 008/100 | Valid Acc: 74.943% | Valid Ddp: 0.406% | Valid Deo: 12.477%
+Time elapsed: 241.83 min
+Epoch: 009/100 | Batch 0000/0636 | train_loss: 0.2098 | penalty_loss: -0.0004
+eta: 65.621 | lam0 - lam1: 11.860
+Epoch: 009/100 | Batch 0050/0636 | train_loss: 0.1531 | penalty_loss: -0.0004
+eta: 65.621 | lam0 - lam1: 12.893
+Epoch: 009/100 | Batch 0100/0636 | train_loss: 0.1946 | penalty_loss: -0.0002
+eta: 65.621 | lam0 - lam1: 12.686
+Epoch: 009/100 | Batch 0150/0636 | train_loss: 0.1785 | penalty_loss: -0.0001
+eta: 65.621 | lam0 - lam1: 12.480
+Epoch: 009/100 | Batch 0200/0636 | train_loss: 0.1591 | penalty_loss: -0.0001
+eta: 65.621 | lam0 - lam1: 12.592
+Epoch: 009/100 | Batch 0250/0636 | train_loss: 0.1465 | penalty_loss: 0.0010
+eta: 65.621 | lam0 - lam1: 12.597
+Epoch: 009/100 | Batch 0300/0636 | train_loss: 0.2618 | penalty_loss: 0.0010
+eta: 65.621 | lam0 - lam1: 12.586
+Epoch: 009/100 | Batch 0350/0636 | train_loss: 0.0937 | penalty_loss: -0.0001
+eta: 65.621 | lam0 - lam1: 13.212
+Epoch: 009/100 | Batch 0400/0636 | train_loss: 0.1086 | penalty_loss: 0.0005
+eta: 65.621 | lam0 - lam1: 12.960
+Epoch: 009/100 | Batch 0450/0636 | train_loss: 0.3280 | penalty_loss: -0.0005
+eta: 65.621 | lam0 - lam1: 12.131
+Epoch: 009/100 | Batch 0500/0636 | train_loss: 0.2411 | penalty_loss: -0.0006
+eta: 65.621 | lam0 - lam1: 10.945
+Epoch: 009/100 | Batch 0550/0636 | train_loss: 0.3375 | penalty_loss: -0.0006
+eta: 65.621 | lam0 - lam1: 11.588
+Epoch: 009/100 | Batch 0600/0636 | train_loss: 0.2324 | penalty_loss: 0.0004
+eta: 65.621 | lam0 - lam1: 11.483
+Epoch: 009/100 | Train Acc: 76.876% | Train Ddp: 5.791% | Train Deo: 1.721%
+Epoch: 009/100 | Valid Acc: 72.225% | Valid Ddp: 4.546% | Valid Deo: 6.763%
+Time elapsed: 256.19 min
+Epoch: 010/100 | Batch 0000/0636 | train_loss: 0.3098 | penalty_loss: -0.0004
+eta: 66.277 | lam0 - lam1: 11.545
+Epoch: 010/100 | Batch 0050/0636 | train_loss: 0.0885 | penalty_loss: -0.0000
+eta: 66.277 | lam0 - lam1: 11.899
+Epoch: 010/100 | Batch 0100/0636 | train_loss: 0.2357 | penalty_loss: 0.0002
+eta: 66.277 | lam0 - lam1: 12.705
+Epoch: 010/100 | Batch 0150/0636 | train_loss: 0.0596 | penalty_loss: 0.0003
+eta: 66.277 | lam0 - lam1: 12.436
+Epoch: 010/100 | Batch 0200/0636 | train_loss: 0.2271 | penalty_loss: -0.0001
+eta: 66.277 | lam0 - lam1: 12.247
+Epoch: 010/100 | Batch 0250/0636 | train_loss: 0.6143 | penalty_loss: -0.0002
+eta: 66.277 | lam0 - lam1: 12.173
+Epoch: 010/100 | Batch 0300/0636 | train_loss: 0.2447 | penalty_loss: -0.0007
+eta: 66.277 | lam0 - lam1: 12.163
+Epoch: 010/100 | Batch 0350/0636 | train_loss: 0.3620 | penalty_loss: 0.0001
+eta: 66.277 | lam0 - lam1: 11.893
+Epoch: 010/100 | Batch 0400/0636 | train_loss: 0.1428 | penalty_loss: -0.0001
+eta: 66.277 | lam0 - lam1: 11.920
+Epoch: 010/100 | Batch 0450/0636 | train_loss: 0.3173 | penalty_loss: -0.0007
+eta: 66.277 | lam0 - lam1: 11.815
+Epoch: 010/100 | Batch 0500/0636 | train_loss: 0.2042 | penalty_loss: -0.0004
+eta: 66.277 | lam0 - lam1: 11.669
+Epoch: 010/100 | Batch 0550/0636 | train_loss: 0.4293 | penalty_loss: -0.0006
+eta: 66.277 | lam0 - lam1: 11.817
+Epoch: 010/100 | Batch 0600/0636 | train_loss: 0.2922 | penalty_loss: 0.0001
+eta: 66.277 | lam0 - lam1: 12.344
+Epoch: 010/100 | Train Acc: 80.832% | Train Ddp: 1.185% | Train Deo: 3.178%
+Epoch: 010/100 | Valid Acc: 75.019% | Valid Ddp: 1.320% | Valid Deo: 12.203%
+Time elapsed: 270.45 min
+Epoch: 011/100 | Batch 0000/0636 | train_loss: 0.1364 | penalty_loss: 0.0003
+eta: 66.940 | lam0 - lam1: 12.147
+Epoch: 011/100 | Batch 0050/0636 | train_loss: 0.2768 | penalty_loss: -0.0008
+eta: 66.940 | lam0 - lam1: 12.239
+Epoch: 011/100 | Batch 0100/0636 | train_loss: 0.1266 | penalty_loss: 0.0004
+eta: 66.940 | lam0 - lam1: 11.961
+Epoch: 011/100 | Batch 0150/0636 | train_loss: 0.0648 | penalty_loss: 0.0001
+eta: 66.940 | lam0 - lam1: 11.891
+Epoch: 011/100 | Batch 0200/0636 | train_loss: 0.4179 | penalty_loss: -0.0002
+eta: 66.940 | lam0 - lam1: 11.789
+Epoch: 011/100 | Batch 0250/0636 | train_loss: 0.1998 | penalty_loss: -0.0001
+eta: 66.940 | lam0 - lam1: 11.968
+Epoch: 011/100 | Batch 0300/0636 | train_loss: 0.1679 | penalty_loss: -0.0002
+eta: 66.940 | lam0 - lam1: 11.749
+Epoch: 011/100 | Batch 0350/0636 | train_loss: 0.1757 | penalty_loss: 0.0001
+eta: 66.940 | lam0 - lam1: 11.808
+Epoch: 011/100 | Batch 0400/0636 | train_loss: 0.3364 | penalty_loss: -0.0001
+eta: 66.940 | lam0 - lam1: 11.665
+Epoch: 011/100 | Batch 0450/0636 | train_loss: 0.5107 | penalty_loss: 0.0000
+eta: 66.940 | lam0 - lam1: 11.024
+Epoch: 011/100 | Batch 0500/0636 | train_loss: 0.3840 | penalty_loss: 0.0001
+eta: 66.940 | lam0 - lam1: 10.587
+Epoch: 011/100 | Batch 0550/0636 | train_loss: 0.1264 | penalty_loss: 0.0003
+eta: 66.940 | lam0 - lam1: 10.649
+Epoch: 011/100 | Batch 0600/0636 | train_loss: 0.3435 | penalty_loss: 0.0000
+eta: 66.940 | lam0 - lam1: 10.861
+Epoch: 011/100 | Train Acc: 82.232% | Train Ddp: 1.003% | Train Deo: 2.771%
+Epoch: 011/100 | Valid Acc: 75.069% | Valid Ddp: 1.531% | Valid Deo: 12.887%
+Time elapsed: 284.66 min
+Epoch: 012/100 | Batch 0000/0636 | train_loss: 0.1258 | penalty_loss: 0.0004
+eta: 67.610 | lam0 - lam1: 11.269
+Epoch: 012/100 | Batch 0050/0636 | train_loss: 0.1428 | penalty_loss: 0.0004
+eta: 67.610 | lam0 - lam1: 11.591
+Epoch: 012/100 | Batch 0100/0636 | train_loss: 0.8739 | penalty_loss: -0.0005
+eta: 67.610 | lam0 - lam1: 11.065
+Epoch: 012/100 | Batch 0150/0636 | train_loss: 0.1067 | penalty_loss: 0.0002
+eta: 67.610 | lam0 - lam1: 11.235
+Epoch: 012/100 | Batch 0200/0636 | train_loss: 0.2585 | penalty_loss: 0.0001
+eta: 67.610 | lam0 - lam1: 11.487
+Epoch: 012/100 | Batch 0250/0636 | train_loss: 0.2813 | penalty_loss: 0.0002
+eta: 67.610 | lam0 - lam1: 11.157
+Epoch: 012/100 | Batch 0300/0636 | train_loss: 0.0740 | penalty_loss: 0.0003
+eta: 67.610 | lam0 - lam1: 11.394
+Epoch: 012/100 | Batch 0350/0636 | train_loss: 0.0694 | penalty_loss: 0.0003
+eta: 67.610 | lam0 - lam1: 11.458
+Epoch: 012/100 | Batch 0400/0636 | train_loss: 0.1705 | penalty_loss: -0.0001
+eta: 67.610 | lam0 - lam1: 11.378
+Epoch: 012/100 | Batch 0450/0636 | train_loss: 0.6775 | penalty_loss: -0.0016
+eta: 67.610 | lam0 - lam1: 11.389
+Epoch: 012/100 | Batch 0500/0636 | train_loss: 0.0537 | penalty_loss: 0.0003
+eta: 67.610 | lam0 - lam1: 11.591
+Epoch: 012/100 | Batch 0550/0636 | train_loss: 0.1272 | penalty_loss: -0.0001
+eta: 67.610 | lam0 - lam1: 11.179
+Epoch: 012/100 | Batch 0600/0636 | train_loss: 0.2996 | penalty_loss: 0.0003
+eta: 67.610 | lam0 - lam1: 11.473
+Epoch: 012/100 | Train Acc: 86.047% | Train Ddp: 0.794% | Train Deo: 3.624%
+Epoch: 012/100 | Valid Acc: 76.534% | Valid Ddp: 0.376% | Valid Deo: 17.128%
+Time elapsed: 298.97 min
+Epoch: 013/100 | Batch 0000/0636 | train_loss: 0.1187 | penalty_loss: -0.0001
+eta: 68.286 | lam0 - lam1: 11.583
+Epoch: 013/100 | Batch 0050/0636 | train_loss: 0.3182 | penalty_loss: 0.0000
+eta: 68.286 | lam0 - lam1: 11.802
+Epoch: 013/100 | Batch 0100/0636 | train_loss: 0.0966 | penalty_loss: 0.0001
+eta: 68.286 | lam0 - lam1: 11.758
+Epoch: 013/100 | Batch 0150/0636 | train_loss: 0.0522 | penalty_loss: 0.0001
+eta: 68.286 | lam0 - lam1: 11.855
+Epoch: 013/100 | Batch 0200/0636 | train_loss: 0.1908 | penalty_loss: 0.0001
+eta: 68.286 | lam0 - lam1: 11.402
+Epoch: 013/100 | Batch 0250/0636 | train_loss: 0.2513 | penalty_loss: -0.0002
+eta: 68.286 | lam0 - lam1: 11.596
+Epoch: 013/100 | Batch 0300/0636 | train_loss: 0.2265 | penalty_loss: 0.0003
+eta: 68.286 | lam0 - lam1: 11.740
+Epoch: 013/100 | Batch 0350/0636 | train_loss: 0.1451 | penalty_loss: -0.0002
+eta: 68.286 | lam0 - lam1: 11.765
+Epoch: 013/100 | Batch 0400/0636 | train_loss: 0.0970 | penalty_loss: -0.0000
+eta: 68.286 | lam0 - lam1: 11.986
+Epoch: 013/100 | Batch 0450/0636 | train_loss: 0.2308 | penalty_loss: -0.0001
+eta: 68.286 | lam0 - lam1: 11.726
+Epoch: 013/100 | Batch 0500/0636 | train_loss: 0.1625 | penalty_loss: -0.0000
+eta: 68.286 | lam0 - lam1: 11.442
+Epoch: 013/100 | Batch 0550/0636 | train_loss: 0.2331 | penalty_loss: 0.0000
+eta: 68.286 | lam0 - lam1: 11.058
+Epoch: 013/100 | Batch 0600/0636 | train_loss: 0.3950 | penalty_loss: 0.0000
+eta: 68.286 | lam0 - lam1: 11.451
+Epoch: 013/100 | Train Acc: 74.336% | Train Ddp: 6.087% | Train Deo: 0.317%
+Epoch: 013/100 | Valid Acc: 70.735% | Valid Ddp: 5.163% | Valid Deo: 5.089%
+Time elapsed: 313.30 min
+Epoch: 014/100 | Batch 0000/0636 | train_loss: 0.1233 | penalty_loss: 0.0001
+eta: 68.968 | lam0 - lam1: 11.214
+Epoch: 014/100 | Batch 0050/0636 | train_loss: 0.1662 | penalty_loss: 0.0002
+eta: 68.968 | lam0 - lam1: 11.620
+Epoch: 014/100 | Batch 0100/0636 | train_loss: 0.0987 | penalty_loss: -0.0001
+eta: 68.968 | lam0 - lam1: 11.696
+Epoch: 014/100 | Batch 0150/0636 | train_loss: 0.2035 | penalty_loss: 0.0000
+eta: 68.968 | lam0 - lam1: 12.403
+Epoch: 014/100 | Batch 0200/0636 | train_loss: 0.3930 | penalty_loss: 0.0002
+eta: 68.968 | lam0 - lam1: 12.541
+Epoch: 014/100 | Batch 0250/0636 | train_loss: 0.1770 | penalty_loss: 0.0001
+eta: 68.968 | lam0 - lam1: 12.629
+Epoch: 014/100 | Batch 0300/0636 | train_loss: 0.2465 | penalty_loss: -0.0002
+eta: 68.968 | lam0 - lam1: 12.639
+Epoch: 014/100 | Batch 0350/0636 | train_loss: 0.2610 | penalty_loss: 0.0001
+eta: 68.968 | lam0 - lam1: 12.796
+Epoch: 014/100 | Batch 0400/0636 | train_loss: 0.1329 | penalty_loss: 0.0006
+eta: 68.968 | lam0 - lam1: 13.055
+Epoch: 014/100 | Batch 0450/0636 | train_loss: 0.0772 | penalty_loss: 0.0003
+eta: 68.968 | lam0 - lam1: 12.941
+Epoch: 014/100 | Batch 0500/0636 | train_loss: 0.0635 | penalty_loss: 0.0002
+eta: 68.968 | lam0 - lam1: 13.009
+Epoch: 014/100 | Batch 0550/0636 | train_loss: 0.1245 | penalty_loss: 0.0001
+eta: 68.968 | lam0 - lam1: 13.235
+Epoch: 014/100 | Batch 0600/0636 | train_loss: 0.2381 | penalty_loss: 0.0005
+eta: 68.968 | lam0 - lam1: 13.293
+Epoch: 014/100 | Train Acc: 86.932% | Train Ddp: 0.738% | Train Deo: 2.025%
+Epoch: 014/100 | Valid Acc: 76.640% | Valid Ddp: 0.799% | Valid Deo: 15.228%
+Time elapsed: 327.58 min
+Epoch: 015/100 | Batch 0000/0636 | train_loss: 0.1220 | penalty_loss: 0.0007
+eta: 69.658 | lam0 - lam1: 13.404
+Epoch: 015/100 | Batch 0050/0636 | train_loss: 0.0258 | penalty_loss: -0.0001
+eta: 69.658 | lam0 - lam1: 13.495
+Epoch: 015/100 | Batch 0100/0636 | train_loss: 0.0773 | penalty_loss: -0.0002
+eta: 69.658 | lam0 - lam1: 13.482
+Epoch: 015/100 | Batch 0150/0636 | train_loss: 0.0789 | penalty_loss: 0.0002
+eta: 69.658 | lam0 - lam1: 13.626
+Epoch: 015/100 | Batch 0200/0636 | train_loss: 0.0914 | penalty_loss: -0.0001
+eta: 69.658 | lam0 - lam1: 13.585
+Epoch: 015/100 | Batch 0250/0636 | train_loss: 0.0710 | penalty_loss: 0.0003
+eta: 69.658 | lam0 - lam1: 13.485
+Epoch: 015/100 | Batch 0300/0636 | train_loss: 0.0752 | penalty_loss: -0.0000
+eta: 69.658 | lam0 - lam1: 13.561
+Epoch: 015/100 | Batch 0350/0636 | train_loss: 0.0594 | penalty_loss: 0.0001
+eta: 69.658 | lam0 - lam1: 13.401
+Epoch: 015/100 | Batch 0400/0636 | train_loss: 0.2070 | penalty_loss: 0.0002
+eta: 69.658 | lam0 - lam1: 13.116
+Epoch: 015/100 | Batch 0450/0636 | train_loss: 0.2939 | penalty_loss: 0.0000
+eta: 69.658 | lam0 - lam1: 13.467
+Epoch: 015/100 | Batch 0500/0636 | train_loss: 0.1981 | penalty_loss: -0.0005
+eta: 69.658 | lam0 - lam1: 13.328
+Epoch: 015/100 | Batch 0550/0636 | train_loss: 0.0704 | penalty_loss: -0.0001
+eta: 69.658 | lam0 - lam1: 13.585
+Epoch: 015/100 | Batch 0600/0636 | train_loss: 0.0755 | penalty_loss: 0.0002
+eta: 69.658 | lam0 - lam1: 12.962
+Epoch: 015/100 | Train Acc: 87.185% | Train Ddp: 1.629% | Train Deo: 3.498%
+Epoch: 015/100 | Valid Acc: 76.458% | Valid Ddp: 0.806% | Valid Deo: 17.596%
+Time elapsed: 341.77 min
+Epoch: 016/100 | Batch 0000/0636 | train_loss: 0.0786 | penalty_loss: 0.0001
+eta: 70.355 | lam0 - lam1: 12.806
+Epoch: 016/100 | Batch 0050/0636 | train_loss: 0.0876 | penalty_loss: 0.0001
+eta: 70.355 | lam0 - lam1: 13.016
+Epoch: 016/100 | Batch 0100/0636 | train_loss: 0.1105 | penalty_loss: 0.0002
+eta: 70.355 | lam0 - lam1: 13.162
+Epoch: 016/100 | Batch 0150/0636 | train_loss: 0.0487 | penalty_loss: -0.0004
+eta: 70.355 | lam0 - lam1: 13.028
+Epoch: 016/100 | Batch 0200/0636 | train_loss: 0.1343 | penalty_loss: 0.0001
+eta: 70.355 | lam0 - lam1: 13.143
+Epoch: 016/100 | Batch 0250/0636 | train_loss: 0.2931 | penalty_loss: 0.0002
+eta: 70.355 | lam0 - lam1: 13.050
+Epoch: 016/100 | Batch 0300/0636 | train_loss: 0.1017 | penalty_loss: 0.0002
+eta: 70.355 | lam0 - lam1: 13.065
+Epoch: 016/100 | Batch 0350/0636 | train_loss: 0.0607 | penalty_loss: 0.0001
+eta: 70.355 | lam0 - lam1: 12.915
+Epoch: 016/100 | Batch 0400/0636 | train_loss: 0.4806 | penalty_loss: -0.0003
+eta: 70.355 | lam0 - lam1: 13.152
+Epoch: 016/100 | Batch 0450/0636 | train_loss: 0.1506 | penalty_loss: 0.0003
+eta: 70.355 | lam0 - lam1: 13.059
+Epoch: 016/100 | Batch 0500/0636 | train_loss: 0.2295 | penalty_loss: -0.0000
+eta: 70.355 | lam0 - lam1: 13.107
+Epoch: 016/100 | Batch 0550/0636 | train_loss: 0.0449 | penalty_loss: 0.0000
+eta: 70.355 | lam0 - lam1: 13.044
+Epoch: 016/100 | Batch 0600/0636 | train_loss: 0.2094 | penalty_loss: -0.0002
+eta: 70.355 | lam0 - lam1: 13.008
+Epoch: 016/100 | Train Acc: 82.919% | Train Ddp: 0.458% | Train Deo: 0.778%
+Epoch: 016/100 | Valid Acc: 74.888% | Valid Ddp: 0.577% | Valid Deo: 11.305%
+Time elapsed: 355.75 min
+Epoch: 017/100 | Batch 0000/0636 | train_loss: 0.1471 | penalty_loss: -0.0004
+eta: 71.058 | lam0 - lam1: 12.831
+Epoch: 017/100 | Batch 0050/0636 | train_loss: 0.0828 | penalty_loss: 0.0001
+eta: 71.058 | lam0 - lam1: 12.975
+Epoch: 017/100 | Batch 0100/0636 | train_loss: 0.0212 | penalty_loss: 0.0001
+eta: 71.058 | lam0 - lam1: 13.188
+Epoch: 017/100 | Batch 0150/0636 | train_loss: 0.0903 | penalty_loss: 0.0002
+eta: 71.058 | lam0 - lam1: 13.439
+Epoch: 017/100 | Batch 0200/0636 | train_loss: 0.2350 | penalty_loss: -0.0002
+eta: 71.058 | lam0 - lam1: 13.763
+Epoch: 017/100 | Batch 0250/0636 | train_loss: 0.1258 | penalty_loss: 0.0001
+eta: 71.058 | lam0 - lam1: 13.920
+Epoch: 017/100 | Batch 0300/0636 | train_loss: 0.3203 | penalty_loss: -0.0005
+eta: 71.058 | lam0 - lam1: 13.846
+Epoch: 017/100 | Batch 0350/0636 | train_loss: 0.0765 | penalty_loss: 0.0000
+eta: 71.058 | lam0 - lam1: 13.935
+Epoch: 017/100 | Batch 0400/0636 | train_loss: 0.0980 | penalty_loss: 0.0000
+eta: 71.058 | lam0 - lam1: 13.951
+Epoch: 017/100 | Batch 0450/0636 | train_loss: 0.1982 | penalty_loss: 0.0002
+eta: 71.058 | lam0 - lam1: 14.096
+Epoch: 017/100 | Batch 0500/0636 | train_loss: 0.0974 | penalty_loss: 0.0001
+eta: 71.058 | lam0 - lam1: 14.150
+Epoch: 017/100 | Batch 0550/0636 | train_loss: 0.0181 | penalty_loss: 0.0003
+eta: 71.058 | lam0 - lam1: 14.275
+Epoch: 017/100 | Batch 0600/0636 | train_loss: 0.0646 | penalty_loss: 0.0001
+eta: 71.058 | lam0 - lam1: 14.562
+Epoch: 017/100 | Train Acc: 89.368% | Train Ddp: 1.546% | Train Deo: 2.214%
+Epoch: 017/100 | Valid Acc: 76.614% | Valid Ddp: 1.008% | Valid Deo: 17.789%
+Time elapsed: 369.81 min
+Epoch: 018/100 | Batch 0000/0636 | train_loss: 0.1778 | penalty_loss: -0.0003
+eta: 71.769 | lam0 - lam1: 14.298
+Epoch: 018/100 | Batch 0050/0636 | train_loss: 0.0811 | penalty_loss: 0.0000
+eta: 71.769 | lam0 - lam1: 14.452
+Epoch: 018/100 | Batch 0100/0636 | train_loss: 0.0894 | penalty_loss: 0.0001
+eta: 71.769 | lam0 - lam1: 14.350
+Epoch: 018/100 | Batch 0150/0636 | train_loss: 0.0273 | penalty_loss: 0.0001
+eta: 71.769 | lam0 - lam1: 14.203
+Epoch: 018/100 | Batch 0200/0636 | train_loss: 0.0812 | penalty_loss: 0.0002
+eta: 71.769 | lam0 - lam1: 14.169
+Epoch: 018/100 | Batch 0250/0636 | train_loss: 0.0725 | penalty_loss: 0.0002
+eta: 71.769 | lam0 - lam1: 14.229
+Epoch: 018/100 | Batch 0300/0636 | train_loss: 0.0195 | penalty_loss: 0.0000
+eta: 71.769 | lam0 - lam1: 14.547
+Epoch: 018/100 | Batch 0350/0636 | train_loss: 0.0421 | penalty_loss: 0.0001
+eta: 71.769 | lam0 - lam1: 14.782
+Epoch: 018/100 | Batch 0400/0636 | train_loss: 0.1190 | penalty_loss: -0.0004
+eta: 71.769 | lam0 - lam1: 14.816
+Epoch: 018/100 | Batch 0450/0636 | train_loss: 0.0498 | penalty_loss: 0.0001
+eta: 71.769 | lam0 - lam1: 14.921
+Epoch: 018/100 | Batch 0500/0636 | train_loss: 0.0237 | penalty_loss: 0.0000
+eta: 71.769 | lam0 - lam1: 14.806
+Epoch: 018/100 | Batch 0550/0636 | train_loss: 0.0986 | penalty_loss: -0.0002
+eta: 71.769 | lam0 - lam1: 14.804
+Epoch: 018/100 | Batch 0600/0636 | train_loss: 0.0660 | penalty_loss: -0.0000
+eta: 71.769 | lam0 - lam1: 14.632
+Epoch: 018/100 | Train Acc: 81.785% | Train Ddp: 1.283% | Train Deo: 0.478%
+Epoch: 018/100 | Valid Acc: 73.504% | Valid Ddp: 2.140% | Valid Deo: 10.056%
+Time elapsed: 384.11 min
+Epoch: 019/100 | Batch 0000/0636 | train_loss: 0.2071 | penalty_loss: -0.0000
+eta: 72.487 | lam0 - lam1: 14.430
+Epoch: 019/100 | Batch 0050/0636 | train_loss: 0.0387 | penalty_loss: 0.0001
+eta: 72.487 | lam0 - lam1: 14.394
+Epoch: 019/100 | Batch 0100/0636 | train_loss: 0.0849 | penalty_loss: -0.0002
+eta: 72.487 | lam0 - lam1: 14.515
+Epoch: 019/100 | Batch 0150/0636 | train_loss: 0.1396 | penalty_loss: 0.0001
+eta: 72.487 | lam0 - lam1: 14.740
+Epoch: 019/100 | Batch 0200/0636 | train_loss: 0.1293 | penalty_loss: -0.0000
+eta: 72.487 | lam0 - lam1: 14.806
+Epoch: 019/100 | Batch 0250/0636 | train_loss: 0.0737 | penalty_loss: -0.0002
+eta: 72.487 | lam0 - lam1: 14.484
+Epoch: 019/100 | Batch 0300/0636 | train_loss: 0.0529 | penalty_loss: 0.0001
+eta: 72.487 | lam0 - lam1: 14.509
+Epoch: 019/100 | Batch 0350/0636 | train_loss: 0.1107 | penalty_loss: -0.0001
+eta: 72.487 | lam0 - lam1: 14.380
+Epoch: 019/100 | Batch 0400/0636 | train_loss: 0.1230 | penalty_loss: -0.0002
+eta: 72.487 | lam0 - lam1: 14.446
+Epoch: 019/100 | Batch 0450/0636 | train_loss: 0.1152 | penalty_loss: 0.0001
+eta: 72.487 | lam0 - lam1: 14.428
+Epoch: 019/100 | Batch 0500/0636 | train_loss: 0.1543 | penalty_loss: -0.0004
+eta: 72.487 | lam0 - lam1: 14.322
+Epoch: 019/100 | Batch 0550/0636 | train_loss: 0.0749 | penalty_loss: 0.0002
+eta: 72.487 | lam0 - lam1: 14.365
+Epoch: 019/100 | Batch 0600/0636 | train_loss: 0.2198 | penalty_loss: 0.0002
+eta: 72.487 | lam0 - lam1: 14.293
+Epoch: 019/100 | Train Acc: 89.888% | Train Ddp: 1.561% | Train Deo: 1.231%
+Epoch: 019/100 | Valid Acc: 76.197% | Valid Ddp: 0.479% | Valid Deo: 18.082%
+Time elapsed: 398.12 min
+Epoch: 020/100 | Batch 0000/0636 | train_loss: 0.0225 | penalty_loss: 0.0000
+eta: 73.211 | lam0 - lam1: 14.209
+Epoch: 020/100 | Batch 0050/0636 | train_loss: 0.0788 | penalty_loss: -0.0000
+eta: 73.211 | lam0 - lam1: 14.273
+Epoch: 020/100 | Batch 0100/0636 | train_loss: 0.0806 | penalty_loss: -0.0001
+eta: 73.211 | lam0 - lam1: 14.484
+Epoch: 020/100 | Batch 0150/0636 | train_loss: 0.0691 | penalty_loss: 0.0000
+eta: 73.211 | lam0 - lam1: 14.671
+Epoch: 020/100 | Batch 0200/0636 | train_loss: 0.0369 | penalty_loss: 0.0001
+eta: 73.211 | lam0 - lam1: 14.613
+Epoch: 020/100 | Batch 0250/0636 | train_loss: 0.0778 | penalty_loss: -0.0001
+eta: 73.211 | lam0 - lam1: 14.679
+Epoch: 020/100 | Batch 0300/0636 | train_loss: 0.0945 | penalty_loss: 0.0002
+eta: 73.211 | lam0 - lam1: 14.688
+Epoch: 020/100 | Batch 0350/0636 | train_loss: 0.0853 | penalty_loss: 0.0002
+eta: 73.211 | lam0 - lam1: 14.693
+Epoch: 020/100 | Batch 0400/0636 | train_loss: 0.0113 | penalty_loss: 0.0000
+eta: 73.211 | lam0 - lam1: 14.815
+Epoch: 020/100 | Batch 0450/0636 | train_loss: 0.0420 | penalty_loss: -0.0001
+eta: 73.211 | lam0 - lam1: 15.014
+Epoch: 020/100 | Batch 0500/0636 | train_loss: 0.0163 | penalty_loss: 0.0001
+eta: 73.211 | lam0 - lam1: 15.166
+Epoch: 020/100 | Batch 0550/0636 | train_loss: 0.0545 | penalty_loss: -0.0000
+eta: 73.211 | lam0 - lam1: 15.116
+Epoch: 020/100 | Batch 0600/0636 | train_loss: 0.2660 | penalty_loss: -0.0006
+eta: 73.211 | lam0 - lam1: 15.053
+Epoch: 020/100 | Train Acc: 92.132% | Train Ddp: 1.603% | Train Deo: 0.857%
+Epoch: 020/100 | Valid Acc: 77.037% | Valid Ddp: 1.692% | Valid Deo: 17.359%
+Time elapsed: 411.97 min
+Epoch: 021/100 | Batch 0000/0636 | train_loss: 0.0640 | penalty_loss: -0.0001
+eta: 73.944 | lam0 - lam1: 14.800
+Epoch: 021/100 | Batch 0050/0636 | train_loss: 0.0816 | penalty_loss: -0.0001
+eta: 73.944 | lam0 - lam1: 14.801
+Epoch: 021/100 | Batch 0100/0636 | train_loss: 0.0237 | penalty_loss: 0.0002
+eta: 73.944 | lam0 - lam1: 15.015
+Epoch: 021/100 | Batch 0150/0636 | train_loss: 0.0762 | penalty_loss: -0.0000
+eta: 73.944 | lam0 - lam1: 15.016
+Epoch: 021/100 | Batch 0200/0636 | train_loss: 0.0152 | penalty_loss: 0.0000
+eta: 73.944 | lam0 - lam1: 15.112
+Epoch: 021/100 | Batch 0250/0636 | train_loss: 0.1535 | penalty_loss: -0.0001
+eta: 73.944 | lam0 - lam1: 14.998
+Epoch: 021/100 | Batch 0300/0636 | train_loss: 0.0407 | penalty_loss: 0.0002
+eta: 73.944 | lam0 - lam1: 15.070
+Epoch: 021/100 | Batch 0350/0636 | train_loss: 0.1459 | penalty_loss: 0.0001
+eta: 73.944 | lam0 - lam1: 15.120
+Epoch: 021/100 | Batch 0400/0636 | train_loss: 0.0231 | penalty_loss: 0.0000
+eta: 73.944 | lam0 - lam1: 15.158
+Epoch: 021/100 | Batch 0450/0636 | train_loss: 0.1262 | penalty_loss: 0.0003
+eta: 73.944 | lam0 - lam1: 15.167
+Epoch: 021/100 | Batch 0500/0636 | train_loss: 0.0641 | penalty_loss: 0.0000
+eta: 73.944 | lam0 - lam1: 14.984
+Epoch: 021/100 | Batch 0550/0636 | train_loss: 0.1820 | penalty_loss: -0.0006
+eta: 73.944 | lam0 - lam1: 14.985
+Epoch: 021/100 | Batch 0600/0636 | train_loss: 0.1024 | penalty_loss: 0.0001
+eta: 73.944 | lam0 - lam1: 14.851
+Epoch: 021/100 | Train Acc: 89.242% | Train Ddp: 1.055% | Train Deo: 0.482%
+Epoch: 021/100 | Valid Acc: 75.497% | Valid Ddp: 0.195% | Valid Deo: 14.283%
+Time elapsed: 425.63 min
+Epoch: 022/100 | Batch 0000/0636 | train_loss: 0.0972 | penalty_loss: -0.0000
+eta: 74.683 | lam0 - lam1: 14.791
+Epoch: 022/100 | Batch 0050/0636 | train_loss: 0.1820 | penalty_loss: 0.0001
+eta: 74.683 | lam0 - lam1: 14.798
+Epoch: 022/100 | Batch 0100/0636 | train_loss: 0.0262 | penalty_loss: -0.0000
+eta: 74.683 | lam0 - lam1: 14.874
+Epoch: 022/100 | Batch 0150/0636 | train_loss: 0.0584 | penalty_loss: 0.0000
+eta: 74.683 | lam0 - lam1: 14.786
+Epoch: 022/100 | Batch 0200/0636 | train_loss: 0.0367 | penalty_loss: 0.0000
+eta: 74.683 | lam0 - lam1: 14.785
+Epoch: 022/100 | Batch 0250/0636 | train_loss: 0.0267 | penalty_loss: -0.0000
+eta: 74.683 | lam0 - lam1: 14.829
+Epoch: 022/100 | Batch 0300/0636 | train_loss: 0.0070 | penalty_loss: -0.0001
+eta: 74.683 | lam0 - lam1: 14.901
+Epoch: 022/100 | Batch 0350/0636 | train_loss: 0.1130 | penalty_loss: 0.0000
+eta: 74.683 | lam0 - lam1: 14.865
+Epoch: 022/100 | Batch 0400/0636 | train_loss: 0.0117 | penalty_loss: 0.0000
+eta: 74.683 | lam0 - lam1: 14.763
+Epoch: 022/100 | Batch 0450/0636 | train_loss: 0.1417 | penalty_loss: 0.0002
+eta: 74.683 | lam0 - lam1: 14.860
+Epoch: 022/100 | Batch 0500/0636 | train_loss: 0.0396 | penalty_loss: -0.0000
+eta: 74.683 | lam0 - lam1: 14.899
+Epoch: 022/100 | Batch 0550/0636 | train_loss: 0.0274 | penalty_loss: 0.0001
+eta: 74.683 | lam0 - lam1: 15.072
+Epoch: 022/100 | Batch 0600/0636 | train_loss: 0.0502 | penalty_loss: -0.0000
+eta: 74.683 | lam0 - lam1: 15.045
+Epoch: 022/100 | Train Acc: 93.649% | Train Ddp: 0.642% | Train Deo: 0.520%
+Epoch: 022/100 | Valid Acc: 77.093% | Valid Ddp: 1.225% | Valid Deo: 16.525%
+Time elapsed: 439.19 min
+Epoch: 023/100 | Batch 0000/0636 | train_loss: 0.0185 | penalty_loss: 0.0000
+eta: 75.430 | lam0 - lam1: 15.093
+Epoch: 023/100 | Batch 0050/0636 | train_loss: 0.0449 | penalty_loss: -0.0002
+eta: 75.430 | lam0 - lam1: 15.282
+Epoch: 023/100 | Batch 0100/0636 | train_loss: 0.0127 | penalty_loss: 0.0002
+eta: 75.430 | lam0 - lam1: 15.133
+Epoch: 023/100 | Batch 0150/0636 | train_loss: 0.0193 | penalty_loss: 0.0001
+eta: 75.430 | lam0 - lam1: 15.101
+Epoch: 023/100 | Batch 0200/0636 | train_loss: 0.0262 | penalty_loss: -0.0002
+eta: 75.430 | lam0 - lam1: 15.136
+Epoch: 023/100 | Batch 0250/0636 | train_loss: 0.0194 | penalty_loss: 0.0001
+eta: 75.430 | lam0 - lam1: 15.007
+Epoch: 023/100 | Batch 0300/0636 | train_loss: 0.0251 | penalty_loss: 0.0000
+eta: 75.430 | lam0 - lam1: 15.149
+Epoch: 023/100 | Batch 0350/0636 | train_loss: 0.0464 | penalty_loss: -0.0004
+eta: 75.430 | lam0 - lam1: 15.258
+Epoch: 023/100 | Batch 0400/0636 | train_loss: 0.0098 | penalty_loss: 0.0000
+eta: 75.430 | lam0 - lam1: 15.310
+Epoch: 023/100 | Batch 0450/0636 | train_loss: 0.0092 | penalty_loss: 0.0001
+eta: 75.430 | lam0 - lam1: 15.315
+Epoch: 023/100 | Batch 0500/0636 | train_loss: 0.0691 | penalty_loss: -0.0001
+eta: 75.430 | lam0 - lam1: 15.366
+Epoch: 023/100 | Batch 0550/0636 | train_loss: 0.0711 | penalty_loss: 0.0000
+eta: 75.430 | lam0 - lam1: 15.197
+Epoch: 023/100 | Batch 0600/0636 | train_loss: 0.0126 | penalty_loss: 0.0000
+eta: 75.430 | lam0 - lam1: 15.164
+Epoch: 023/100 | Train Acc: 91.777% | Train Ddp: 1.003% | Train Deo: 0.043%
+Epoch: 023/100 | Valid Acc: 76.056% | Valid Ddp: 0.819% | Valid Deo: 13.053%
+Time elapsed: 452.56 min
+Epoch: 024/100 | Batch 0000/0636 | train_loss: 0.0159 | penalty_loss: 0.0002
+eta: 76.184 | lam0 - lam1: 15.169
+Epoch: 024/100 | Batch 0050/0636 | train_loss: 0.0901 | penalty_loss: -0.0001
+eta: 76.184 | lam0 - lam1: 15.096
+Epoch: 024/100 | Batch 0100/0636 | train_loss: 0.1105 | penalty_loss: 0.0003
+eta: 76.184 | lam0 - lam1: 15.030
+Epoch: 024/100 | Batch 0150/0636 | train_loss: 0.1045 | penalty_loss: -0.0001
+eta: 76.184 | lam0 - lam1: 15.076
+Epoch: 024/100 | Batch 0200/0636 | train_loss: 0.0233 | penalty_loss: 0.0001
+eta: 76.184 | lam0 - lam1: 15.132
+Epoch: 024/100 | Batch 0250/0636 | train_loss: 0.0786 | penalty_loss: -0.0000
+eta: 76.184 | lam0 - lam1: 15.250
+Epoch: 024/100 | Batch 0300/0636 | train_loss: 0.1247 | penalty_loss: -0.0001
+eta: 76.184 | lam0 - lam1: 15.283
+Epoch: 024/100 | Batch 0350/0636 | train_loss: 0.0453 | penalty_loss: -0.0001
+eta: 76.184 | lam0 - lam1: 15.264
+Epoch: 024/100 | Batch 0400/0636 | train_loss: 0.0158 | penalty_loss: -0.0000
+eta: 76.184 | lam0 - lam1: 15.219
+Epoch: 024/100 | Batch 0450/0636 | train_loss: 0.0400 | penalty_loss: -0.0000
+eta: 76.184 | lam0 - lam1: 15.224
+Epoch: 024/100 | Batch 0500/0636 | train_loss: 0.0259 | penalty_loss: -0.0000
+eta: 76.184 | lam0 - lam1: 15.334
+Epoch: 024/100 | Batch 0550/0636 | train_loss: 0.0097 | penalty_loss: 0.0002
+eta: 76.184 | lam0 - lam1: 15.439
+Epoch: 024/100 | Batch 0600/0636 | train_loss: 0.1596 | penalty_loss: -0.0006
+eta: 76.184 | lam0 - lam1: 15.331
+Epoch: 024/100 | Train Acc: 89.282% | Train Ddp: 2.571% | Train Deo: 0.028%
+Epoch: 024/100 | Valid Acc: 75.200% | Valid Ddp: 0.873% | Valid Deo: 11.210%
+Time elapsed: 465.56 min
+Epoch: 025/100 | Batch 0000/0636 | train_loss: 0.0987 | penalty_loss: 0.0001
+eta: 76.946 | lam0 - lam1: 15.327
+Epoch: 025/100 | Batch 0050/0636 | train_loss: 0.0150 | penalty_loss: -0.0001
+eta: 76.946 | lam0 - lam1: 15.311
+Epoch: 025/100 | Batch 0100/0636 | train_loss: 0.0212 | penalty_loss: -0.0000
+eta: 76.946 | lam0 - lam1: 15.329
+Epoch: 025/100 | Batch 0150/0636 | train_loss: 0.0375 | penalty_loss: -0.0001
+eta: 76.946 | lam0 - lam1: 15.284
+Epoch: 025/100 | Batch 0200/0636 | train_loss: 0.0796 | penalty_loss: -0.0000
+eta: 76.946 | lam0 - lam1: 15.288
+Epoch: 025/100 | Batch 0250/0636 | train_loss: 0.0637 | penalty_loss: 0.0001
+eta: 76.946 | lam0 - lam1: 15.261
+Epoch: 025/100 | Batch 0300/0636 | train_loss: 0.0504 | penalty_loss: 0.0000
+eta: 76.946 | lam0 - lam1: 15.329
+Epoch: 025/100 | Batch 0350/0636 | train_loss: 0.0311 | penalty_loss: -0.0001
+eta: 76.946 | lam0 - lam1: 15.159
+Epoch: 025/100 | Batch 0400/0636 | train_loss: 0.2038 | penalty_loss: -0.0000
+eta: 76.946 | lam0 - lam1: 15.096
+Epoch: 025/100 | Batch 0450/0636 | train_loss: 0.0233 | penalty_loss: 0.0000
+eta: 76.946 | lam0 - lam1: 15.234
+Epoch: 025/100 | Batch 0500/0636 | train_loss: 0.0471 | penalty_loss: 0.0000
+eta: 76.946 | lam0 - lam1: 15.232
+Epoch: 025/100 | Batch 0550/0636 | train_loss: 0.1010 | penalty_loss: 0.0000
+eta: 76.946 | lam0 - lam1: 15.169
+Epoch: 025/100 | Batch 0600/0636 | train_loss: 0.0536 | penalty_loss: 0.0000
+eta: 76.946 | lam0 - lam1: 15.151
+Epoch: 025/100 | Train Acc: 85.060% | Train Ddp: 0.544% | Train Deo: 0.688%
+Epoch: 025/100 | Valid Acc: 73.665% | Valid Ddp: 1.556% | Valid Deo: 12.922%
+Time elapsed: 478.35 min
+Epoch: 026/100 | Batch 0000/0636 | train_loss: 0.1834 | penalty_loss: 0.0001
+eta: 77.715 | lam0 - lam1: 15.322
+Epoch: 026/100 | Batch 0050/0636 | train_loss: 0.0146 | penalty_loss: 0.0000
+eta: 77.715 | lam0 - lam1: 15.215
+Epoch: 026/100 | Batch 0100/0636 | train_loss: 0.0233 | penalty_loss: -0.0000
+eta: 77.715 | lam0 - lam1: 15.058
+Epoch: 026/100 | Batch 0150/0636 | train_loss: 0.0604 | penalty_loss: 0.0000
+eta: 77.715 | lam0 - lam1: 14.946
+Epoch: 026/100 | Batch 0200/0636 | train_loss: 0.0364 | penalty_loss: 0.0000
+eta: 77.715 | lam0 - lam1: 15.124
+Epoch: 026/100 | Batch 0250/0636 | train_loss: 0.0808 | penalty_loss: 0.0001
+eta: 77.715 | lam0 - lam1: 15.130
+Epoch: 026/100 | Batch 0300/0636 | train_loss: 0.0893 | penalty_loss: -0.0002
+eta: 77.715 | lam0 - lam1: 15.249
+Epoch: 026/100 | Batch 0350/0636 | train_loss: 0.0170 | penalty_loss: 0.0001
+eta: 77.715 | lam0 - lam1: 15.236
+Epoch: 026/100 | Batch 0400/0636 | train_loss: 0.0191 | penalty_loss: -0.0000
+eta: 77.715 | lam0 - lam1: 15.212
+Epoch: 026/100 | Batch 0450/0636 | train_loss: 0.0509 | penalty_loss: -0.0000
+eta: 77.715 | lam0 - lam1: 15.298
+Epoch: 026/100 | Batch 0500/0636 | train_loss: 0.0475 | penalty_loss: -0.0001
+eta: 77.715 | lam0 - lam1: 15.250
+Epoch: 026/100 | Batch 0550/0636 | train_loss: 0.0157 | penalty_loss: -0.0000
+eta: 77.715 | lam0 - lam1: 15.209
+Epoch: 026/100 | Batch 0600/0636 | train_loss: 0.1485 | penalty_loss: -0.0001
+eta: 77.715 | lam0 - lam1: 15.140
+Epoch: 026/100 | Train Acc: 93.893% | Train Ddp: 0.575% | Train Deo: 0.302%
+Epoch: 026/100 | Valid Acc: 75.537% | Valid Ddp: 1.442% | Valid Deo: 16.445%
+Time elapsed: 490.96 min
+Epoch: 027/100 | Batch 0000/0636 | train_loss: 0.1065 | penalty_loss: 0.0000
+eta: 78.493 | lam0 - lam1: 15.100
+Epoch: 027/100 | Batch 0050/0636 | train_loss: 0.0314 | penalty_loss: -0.0000
+eta: 78.493 | lam0 - lam1: 15.070
+Epoch: 027/100 | Batch 0100/0636 | train_loss: 0.0372 | penalty_loss: -0.0002
+eta: 78.493 | lam0 - lam1: 15.036
+Epoch: 027/100 | Batch 0150/0636 | train_loss: 0.0186 | penalty_loss: -0.0001
+eta: 78.493 | lam0 - lam1: 15.173
+Epoch: 027/100 | Batch 0200/0636 | train_loss: 0.0151 | penalty_loss: -0.0000
+eta: 78.493 | lam0 - lam1: 15.234
+Epoch: 027/100 | Batch 0250/0636 | train_loss: 0.0266 | penalty_loss: 0.0001
+eta: 78.493 | lam0 - lam1: 15.075
+Epoch: 027/100 | Batch 0300/0636 | train_loss: 0.0168 | penalty_loss: 0.0000
+eta: 78.493 | lam0 - lam1: 15.011
+Epoch: 027/100 | Batch 0350/0636 | train_loss: 0.0771 | penalty_loss: -0.0000
+eta: 78.493 | lam0 - lam1: 14.997
+Epoch: 027/100 | Batch 0400/0636 | train_loss: 0.0671 | penalty_loss: 0.0001
+eta: 78.493 | lam0 - lam1: 15.118
+Epoch: 027/100 | Batch 0450/0636 | train_loss: 0.1211 | penalty_loss: 0.0001
+eta: 78.493 | lam0 - lam1: 15.104
+Epoch: 027/100 | Batch 0500/0636 | train_loss: 0.1414 | penalty_loss: 0.0000
+eta: 78.493 | lam0 - lam1: 15.084
+Epoch: 027/100 | Batch 0550/0636 | train_loss: 0.0167 | penalty_loss: -0.0000
+eta: 78.493 | lam0 - lam1: 15.043
+Epoch: 027/100 | Batch 0600/0636 | train_loss: 0.0420 | penalty_loss: -0.0001
+eta: 78.493 | lam0 - lam1: 15.013
+Epoch: 027/100 | Train Acc: 90.370% | Train Ddp: 1.391% | Train Deo: 0.214%
+Epoch: 027/100 | Valid Acc: 75.245% | Valid Ddp: 1.014% | Valid Deo: 15.287%
+Time elapsed: 503.67 min
+Epoch: 028/100 | Batch 0000/0636 | train_loss: 0.0069 | penalty_loss: 0.0001
+eta: 79.277 | lam0 - lam1: 15.088
+Epoch: 028/100 | Batch 0050/0636 | train_loss: 0.0355 | penalty_loss: 0.0001
+eta: 79.277 | lam0 - lam1: 15.176
+Epoch: 028/100 | Batch 0100/0636 | train_loss: 0.0163 | penalty_loss: 0.0001
+eta: 79.277 | lam0 - lam1: 15.154
+Epoch: 028/100 | Batch 0150/0636 | train_loss: 0.0347 | penalty_loss: -0.0000
+eta: 79.277 | lam0 - lam1: 15.135
+Epoch: 028/100 | Batch 0200/0636 | train_loss: 0.0368 | penalty_loss: 0.0000
+eta: 79.277 | lam0 - lam1: 15.113
+Epoch: 028/100 | Batch 0250/0636 | train_loss: 0.0248 | penalty_loss: -0.0000
+eta: 79.277 | lam0 - lam1: 14.988
+Epoch: 028/100 | Batch 0300/0636 | train_loss: 0.0225 | penalty_loss: -0.0000
+eta: 79.277 | lam0 - lam1: 14.891
+Epoch: 028/100 | Batch 0350/0636 | train_loss: 0.0110 | penalty_loss: -0.0000
+eta: 79.277 | lam0 - lam1: 14.960
+Epoch: 028/100 | Batch 0400/0636 | train_loss: 0.0180 | penalty_loss: 0.0001
+eta: 79.277 | lam0 - lam1: 15.037
+Epoch: 028/100 | Batch 0450/0636 | train_loss: 0.0510 | penalty_loss: -0.0002
+eta: 79.277 | lam0 - lam1: 15.048
+Epoch: 028/100 | Batch 0500/0636 | train_loss: 0.0390 | penalty_loss: 0.0001
+eta: 79.277 | lam0 - lam1: 15.048
+Epoch: 028/100 | Batch 0550/0636 | train_loss: 0.0863 | penalty_loss: -0.0001
+eta: 79.277 | lam0 - lam1: 14.962
+Epoch: 028/100 | Batch 0600/0636 | train_loss: 0.0184 | penalty_loss: 0.0001
+eta: 79.277 | lam0 - lam1: 14.921
+Epoch: 028/100 | Train Acc: 90.858% | Train Ddp: 1.344% | Train Deo: 0.415%
+Epoch: 028/100 | Valid Acc: 76.111% | Valid Ddp: 0.380% | Valid Deo: 16.231%
+Time elapsed: 516.52 min
+Epoch: 029/100 | Batch 0000/0636 | train_loss: 0.0468 | penalty_loss: 0.0000
+eta: 80.070 | lam0 - lam1: 14.882
+Epoch: 029/100 | Batch 0050/0636 | train_loss: 0.0438 | penalty_loss: -0.0000
+eta: 80.070 | lam0 - lam1: 14.890
+Epoch: 029/100 | Batch 0100/0636 | train_loss: 0.0570 | penalty_loss: 0.0000
+eta: 80.070 | lam0 - lam1: 15.031
+Epoch: 029/100 | Batch 0150/0636 | train_loss: 0.0340 | penalty_loss: 0.0001
+eta: 80.070 | lam0 - lam1: 15.075
+Epoch: 029/100 | Batch 0200/0636 | train_loss: 0.0498 | penalty_loss: -0.0000
+eta: 80.070 | lam0 - lam1: 15.203
+Epoch: 029/100 | Batch 0250/0636 | train_loss: 0.0295 | penalty_loss: 0.0001
+eta: 80.070 | lam0 - lam1: 15.196
+Epoch: 029/100 | Batch 0300/0636 | train_loss: 0.0474 | penalty_loss: 0.0002
+eta: 80.070 | lam0 - lam1: 15.185
+Epoch: 029/100 | Batch 0350/0636 | train_loss: 0.0242 | penalty_loss: -0.0000
+eta: 80.070 | lam0 - lam1: 15.069
+Epoch: 029/100 | Batch 0400/0636 | train_loss: 0.0136 | penalty_loss: -0.0000
+eta: 80.070 | lam0 - lam1: 15.013
+Epoch: 029/100 | Batch 0450/0636 | train_loss: 0.0317 | penalty_loss: -0.0001
+eta: 80.070 | lam0 - lam1: 15.115
+Epoch: 029/100 | Batch 0500/0636 | train_loss: 0.0911 | penalty_loss: 0.0001
+eta: 80.070 | lam0 - lam1: 15.130
+Epoch: 029/100 | Batch 0550/0636 | train_loss: 0.0220 | penalty_loss: 0.0004
+eta: 80.070 | lam0 - lam1: 15.175
+Epoch: 029/100 | Batch 0600/0636 | train_loss: 0.0138 | penalty_loss: 0.0001
+eta: 80.070 | lam0 - lam1: 15.114
+Epoch: 029/100 | Train Acc: 89.127% | Train Ddp: 1.267% | Train Deo: 0.239%
+Epoch: 029/100 | Valid Acc: 75.442% | Valid Ddp: 0.841% | Valid Deo: 12.620%
+Time elapsed: 529.14 min
+Epoch: 030/100 | Batch 0000/0636 | train_loss: 0.0844 | penalty_loss: 0.0001
+eta: 80.871 | lam0 - lam1: 15.084
+Epoch: 030/100 | Batch 0050/0636 | train_loss: 0.0422 | penalty_loss: 0.0000
+eta: 80.871 | lam0 - lam1: 15.054
+Epoch: 030/100 | Batch 0100/0636 | train_loss: 0.0183 | penalty_loss: 0.0000
+eta: 80.871 | lam0 - lam1: 15.044
+Epoch: 030/100 | Batch 0150/0636 | train_loss: 0.0270 | penalty_loss: 0.0001
+eta: 80.871 | lam0 - lam1: 15.068
+Epoch: 030/100 | Batch 0200/0636 | train_loss: 0.0114 | penalty_loss: 0.0001
+eta: 80.871 | lam0 - lam1: 15.184
+Epoch: 030/100 | Batch 0250/0636 | train_loss: 0.0872 | penalty_loss: -0.0002
+eta: 80.871 | lam0 - lam1: 15.070
+Epoch: 030/100 | Batch 0300/0636 | train_loss: 0.0273 | penalty_loss: 0.0000
+eta: 80.871 | lam0 - lam1: 15.120
+Epoch: 030/100 | Batch 0350/0636 | train_loss: 0.0434 | penalty_loss: -0.0000
+eta: 80.871 | lam0 - lam1: 15.102
+Epoch: 030/100 | Batch 0400/0636 | train_loss: 0.0373 | penalty_loss: -0.0000
+eta: 80.871 | lam0 - lam1: 15.034
+Epoch: 030/100 | Batch 0450/0636 | train_loss: 0.0197 | penalty_loss: -0.0002
+eta: 80.871 | lam0 - lam1: 14.956
+Epoch: 030/100 | Batch 0500/0636 | train_loss: 0.0261 | penalty_loss: 0.0000
+eta: 80.871 | lam0 - lam1: 15.049
+Epoch: 030/100 | Batch 0550/0636 | train_loss: 0.0340 | penalty_loss: -0.0000
+eta: 80.871 | lam0 - lam1: 14.979
+Epoch: 030/100 | Batch 0600/0636 | train_loss: 0.0406 | penalty_loss: 0.0001
+eta: 80.871 | lam0 - lam1: 14.882
+Epoch: 030/100 | Train Acc: 92.972% | Train Ddp: 0.845% | Train Deo: 0.219%
+Epoch: 030/100 | Valid Acc: 75.809% | Valid Ddp: 0.143% | Valid Deo: 13.966%
+Time elapsed: 541.70 min
+Epoch: 031/100 | Batch 0000/0636 | train_loss: 0.0490 | penalty_loss: -0.0000
+eta: 81.680 | lam0 - lam1: 14.818
+Epoch: 031/100 | Batch 0050/0636 | train_loss: 0.0198 | penalty_loss: -0.0000
+eta: 81.680 | lam0 - lam1: 14.830
+Epoch: 031/100 | Batch 0100/0636 | train_loss: 0.0388 | penalty_loss: 0.0000
+eta: 81.680 | lam0 - lam1: 14.849
+Epoch: 031/100 | Batch 0150/0636 | train_loss: 0.0389 | penalty_loss: 0.0001
+eta: 81.680 | lam0 - lam1: 14.810
+Epoch: 031/100 | Batch 0200/0636 | train_loss: 0.0070 | penalty_loss: -0.0000
+eta: 81.680 | lam0 - lam1: 14.673
+Epoch: 031/100 | Batch 0250/0636 | train_loss: 0.0515 | penalty_loss: 0.0001
+eta: 81.680 | lam0 - lam1: 14.650
+Epoch: 031/100 | Batch 0300/0636 | train_loss: 0.0867 | penalty_loss: -0.0001
+eta: 81.680 | lam0 - lam1: 14.505
+Epoch: 031/100 | Batch 0350/0636 | train_loss: 0.0271 | penalty_loss: 0.0000
+eta: 81.680 | lam0 - lam1: 14.558
+Epoch: 031/100 | Batch 0400/0636 | train_loss: 0.0248 | penalty_loss: -0.0000
+eta: 81.680 | lam0 - lam1: 14.663
+Epoch: 031/100 | Batch 0450/0636 | train_loss: 0.2519 | penalty_loss: -0.0000
+eta: 81.680 | lam0 - lam1: 14.660
+Epoch: 031/100 | Batch 0500/0636 | train_loss: 0.0181 | penalty_loss: -0.0001
+eta: 81.680 | lam0 - lam1: 14.630
+Epoch: 031/100 | Batch 0550/0636 | train_loss: 0.0643 | penalty_loss: 0.0002
+eta: 81.680 | lam0 - lam1: 14.710
+Epoch: 031/100 | Batch 0600/0636 | train_loss: 0.0586 | penalty_loss: -0.0000
+eta: 81.680 | lam0 - lam1: 14.750
+Epoch: 031/100 | Train Acc: 95.237% | Train Ddp: 0.381% | Train Deo: 0.028%
+Epoch: 031/100 | Valid Acc: 75.764% | Valid Ddp: 0.677% | Valid Deo: 14.932%
+Time elapsed: 554.21 min
+Epoch: 032/100 | Batch 0000/0636 | train_loss: 0.0116 | penalty_loss: 0.0000
+eta: 82.496 | lam0 - lam1: 14.762
+Epoch: 032/100 | Batch 0050/0636 | train_loss: 0.0862 | penalty_loss: -0.0000
+eta: 82.496 | lam0 - lam1: 14.840
+Epoch: 032/100 | Batch 0100/0636 | train_loss: 0.0114 | penalty_loss: 0.0000
+eta: 82.496 | lam0 - lam1: 14.900
+Epoch: 032/100 | Batch 0150/0636 | train_loss: 0.0284 | penalty_loss: -0.0000
+eta: 82.496 | lam0 - lam1: 14.985
+Epoch: 032/100 | Batch 0200/0636 | train_loss: 0.1025 | penalty_loss: -0.0001
+eta: 82.496 | lam0 - lam1: 15.013
+Epoch: 032/100 | Batch 0250/0636 | train_loss: 0.0402 | penalty_loss: -0.0001
+eta: 82.496 | lam0 - lam1: 15.049
+Epoch: 032/100 | Batch 0300/0636 | train_loss: 0.0128 | penalty_loss: -0.0000
+eta: 82.496 | lam0 - lam1: 15.057
+Epoch: 032/100 | Batch 0350/0636 | train_loss: 0.0181 | penalty_loss: 0.0000
+eta: 82.496 | lam0 - lam1: 15.032
+Epoch: 032/100 | Batch 0400/0636 | train_loss: 0.0095 | penalty_loss: 0.0000
+eta: 82.496 | lam0 - lam1: 14.995
+Epoch: 032/100 | Batch 0450/0636 | train_loss: 0.0778 | penalty_loss: 0.0001
+eta: 82.496 | lam0 - lam1: 15.019
+Epoch: 032/100 | Batch 0500/0636 | train_loss: 0.0417 | penalty_loss: -0.0001
+eta: 82.496 | lam0 - lam1: 15.052
+Epoch: 032/100 | Batch 0550/0636 | train_loss: 0.0189 | penalty_loss: 0.0001
+eta: 82.496 | lam0 - lam1: 15.175
+Epoch: 032/100 | Batch 0600/0636 | train_loss: 0.0319 | penalty_loss: 0.0000
+eta: 82.496 | lam0 - lam1: 15.212
+Epoch: 032/100 | Train Acc: 96.016% | Train Ddp: 0.429% | Train Deo: 0.143%
+Epoch: 032/100 | Valid Acc: 76.866% | Valid Ddp: 1.537% | Valid Deo: 16.078%
+Time elapsed: 568.74 min
+Epoch: 033/100 | Batch 0000/0636 | train_loss: 0.0435 | penalty_loss: -0.0000
+eta: 83.321 | lam0 - lam1: 15.276
+Epoch: 033/100 | Batch 0050/0636 | train_loss: 0.0064 | penalty_loss: 0.0000
+eta: 83.321 | lam0 - lam1: 15.460
+Epoch: 033/100 | Batch 0100/0636 | train_loss: 0.0756 | penalty_loss: -0.0000
+eta: 83.321 | lam0 - lam1: 15.508
+Epoch: 033/100 | Batch 0150/0636 | train_loss: 0.0134 | penalty_loss: 0.0000
+eta: 83.321 | lam0 - lam1: 15.503
+Epoch: 033/100 | Batch 0200/0636 | train_loss: 0.0670 | penalty_loss: 0.0000
+eta: 83.321 | lam0 - lam1: 15.493
+Epoch: 033/100 | Batch 0250/0636 | train_loss: 0.0637 | penalty_loss: 0.0000
+eta: 83.321 | lam0 - lam1: 15.592
+Epoch: 033/100 | Batch 0300/0636 | train_loss: 0.1050 | penalty_loss: 0.0002
+eta: 83.321 | lam0 - lam1: 15.600
+Epoch: 033/100 | Batch 0350/0636 | train_loss: 0.0153 | penalty_loss: -0.0001
+eta: 83.321 | lam0 - lam1: 15.523
+Epoch: 033/100 | Batch 0400/0636 | train_loss: 0.0499 | penalty_loss: -0.0000
+eta: 83.321 | lam0 - lam1: 15.472
+Epoch: 033/100 | Batch 0450/0636 | train_loss: 0.0306 | penalty_loss: 0.0000
+eta: 83.321 | lam0 - lam1: 15.445
+Epoch: 033/100 | Batch 0500/0636 | train_loss: 0.0155 | penalty_loss: 0.0000
+eta: 83.321 | lam0 - lam1: 15.441
+Epoch: 033/100 | Batch 0550/0636 | train_loss: 0.0149 | penalty_loss: -0.0001
+eta: 83.321 | lam0 - lam1: 15.309
+Epoch: 033/100 | Batch 0600/0636 | train_loss: 0.0108 | penalty_loss: -0.0000
+eta: 83.321 | lam0 - lam1: 15.415
+Epoch: 033/100 | Train Acc: 90.511% | Train Ddp: 2.541% | Train Deo: 0.192%
+Epoch: 033/100 | Valid Acc: 75.235% | Valid Ddp: 0.074% | Valid Deo: 14.869%
+Time elapsed: 586.23 min
+Epoch: 034/100 | Batch 0000/0636 | train_loss: 0.0369 | penalty_loss: -0.0000
+eta: 84.155 | lam0 - lam1: 15.407
+Epoch: 034/100 | Batch 0050/0636 | train_loss: 0.0510 | penalty_loss: 0.0000
+eta: 84.155 | lam0 - lam1: 15.502
+Epoch: 034/100 | Batch 0100/0636 | train_loss: 0.0119 | penalty_loss: -0.0000
+eta: 84.155 | lam0 - lam1: 15.509
+Epoch: 034/100 | Batch 0150/0636 | train_loss: 0.0469 | penalty_loss: -0.0001
+eta: 84.155 | lam0 - lam1: 15.470
+Epoch: 034/100 | Batch 0200/0636 | train_loss: 0.0506 | penalty_loss: -0.0002
+eta: 84.155 | lam0 - lam1: 15.391
+Epoch: 034/100 | Batch 0250/0636 | train_loss: 0.0533 | penalty_loss: -0.0000
+eta: 84.155 | lam0 - lam1: 15.344
+Epoch: 034/100 | Batch 0300/0636 | train_loss: 0.0350 | penalty_loss: 0.0000
+eta: 84.155 | lam0 - lam1: 15.555
+Epoch: 034/100 | Batch 0350/0636 | train_loss: 0.0662 | penalty_loss: -0.0001
+eta: 84.155 | lam0 - lam1: 15.580
+Epoch: 034/100 | Batch 0400/0636 | train_loss: 0.0065 | penalty_loss: 0.0000
+eta: 84.155 | lam0 - lam1: 15.616
+Epoch: 034/100 | Batch 0450/0636 | train_loss: 0.0545 | penalty_loss: 0.0001
+eta: 84.155 | lam0 - lam1: 15.564
+Epoch: 034/100 | Batch 0500/0636 | train_loss: 0.0055 | penalty_loss: 0.0000
+eta: 84.155 | lam0 - lam1: 15.529
+Epoch: 034/100 | Batch 0550/0636 | train_loss: 0.0764 | penalty_loss: -0.0003
+eta: 84.155 | lam0 - lam1: 15.588
+Epoch: 034/100 | Batch 0600/0636 | train_loss: 0.0359 | penalty_loss: 0.0000
+eta: 84.155 | lam0 - lam1: 15.462
+Epoch: 034/100 | Train Acc: 95.151% | Train Ddp: 0.649% | Train Deo: 0.016%
+Epoch: 034/100 | Valid Acc: 76.106% | Valid Ddp: 0.102% | Valid Deo: 14.871%
+Time elapsed: 603.69 min
+Epoch: 035/100 | Batch 0000/0636 | train_loss: 0.0244 | penalty_loss: 0.0001
+eta: 84.996 | lam0 - lam1: 15.471
+Epoch: 035/100 | Batch 0050/0636 | train_loss: 0.0058 | penalty_loss: -0.0001
+eta: 84.996 | lam0 - lam1: 15.484
+Epoch: 035/100 | Batch 0100/0636 | train_loss: 0.1088 | penalty_loss: -0.0000
+eta: 84.996 | lam0 - lam1: 15.447
+Epoch: 035/100 | Batch 0150/0636 | train_loss: 0.0045 | penalty_loss: -0.0000
+eta: 84.996 | lam0 - lam1: 15.445
+Epoch: 035/100 | Batch 0200/0636 | train_loss: 0.0237 | penalty_loss: 0.0000
+eta: 84.996 | lam0 - lam1: 15.458
+Epoch: 035/100 | Batch 0250/0636 | train_loss: 0.0084 | penalty_loss: 0.0000
+eta: 84.996 | lam0 - lam1: 15.381
+Epoch: 035/100 | Batch 0300/0636 | train_loss: 0.0168 | penalty_loss: 0.0001
+eta: 84.996 | lam0 - lam1: 15.345
+Epoch: 035/100 | Batch 0350/0636 | train_loss: 0.0112 | penalty_loss: 0.0000
+eta: 84.996 | lam0 - lam1: 15.276
+Epoch: 035/100 | Batch 0400/0636 | train_loss: 0.0813 | penalty_loss: 0.0000
+eta: 84.996 | lam0 - lam1: 15.402
+Epoch: 035/100 | Batch 0450/0636 | train_loss: 0.0939 | penalty_loss: -0.0001
+eta: 84.996 | lam0 - lam1: 15.385
+Epoch: 035/100 | Batch 0500/0636 | train_loss: 0.0393 | penalty_loss: -0.0002
+eta: 84.996 | lam0 - lam1: 15.366
+Epoch: 035/100 | Batch 0550/0636 | train_loss: 0.0198 | penalty_loss: -0.0000
+eta: 84.996 | lam0 - lam1: 15.257
+Epoch: 035/100 | Batch 0600/0636 | train_loss: 0.0038 | penalty_loss: -0.0000
+eta: 84.996 | lam0 - lam1: 15.119
+Epoch: 035/100 | Train Acc: 94.766% | Train Ddp: 0.062% | Train Deo: 0.319%
+Epoch: 035/100 | Valid Acc: 76.599% | Valid Ddp: 0.808% | Valid Deo: 15.203%
+Time elapsed: 621.01 min
+Epoch: 036/100 | Batch 0000/0636 | train_loss: 0.0164 | penalty_loss: 0.0001
+eta: 85.846 | lam0 - lam1: 15.040
+Epoch: 036/100 | Batch 0050/0636 | train_loss: 0.0140 | penalty_loss: 0.0001
+eta: 85.846 | lam0 - lam1: 15.068
+Epoch: 036/100 | Batch 0100/0636 | train_loss: 0.0245 | penalty_loss: -0.0000
+eta: 85.846 | lam0 - lam1: 15.111
+Epoch: 036/100 | Batch 0150/0636 | train_loss: 0.0521 | penalty_loss: 0.0000
+eta: 85.846 | lam0 - lam1: 15.253
+Epoch: 036/100 | Batch 0200/0636 | train_loss: 0.0203 | penalty_loss: 0.0000
+eta: 85.846 | lam0 - lam1: 15.246
+Epoch: 036/100 | Batch 0250/0636 | train_loss: 0.0790 | penalty_loss: -0.0001
+eta: 85.846 | lam0 - lam1: 15.198
+Epoch: 036/100 | Batch 0300/0636 | train_loss: 0.0355 | penalty_loss: -0.0000
+eta: 85.846 | lam0 - lam1: 15.132
+Epoch: 036/100 | Batch 0350/0636 | train_loss: 0.0115 | penalty_loss: 0.0000
+eta: 85.846 | lam0 - lam1: 15.021
+Epoch: 036/100 | Batch 0400/0636 | train_loss: 0.0296 | penalty_loss: 0.0000
+eta: 85.846 | lam0 - lam1: 14.978
+Epoch: 036/100 | Batch 0450/0636 | train_loss: 0.0806 | penalty_loss: 0.0000
+eta: 85.846 | lam0 - lam1: 15.103
+Epoch: 036/100 | Batch 0500/0636 | train_loss: 0.0656 | penalty_loss: -0.0001
+eta: 85.846 | lam0 - lam1: 14.996
+Epoch: 036/100 | Batch 0550/0636 | train_loss: 0.0102 | penalty_loss: 0.0001
+eta: 85.846 | lam0 - lam1: 15.052
+Epoch: 036/100 | Batch 0600/0636 | train_loss: 0.0505 | penalty_loss: -0.0001
+eta: 85.846 | lam0 - lam1: 15.092
+Epoch: 036/100 | Train Acc: 92.195% | Train Ddp: 1.472% | Train Deo: 0.100%
+Epoch: 036/100 | Valid Acc: 75.326% | Valid Ddp: 0.619% | Valid Deo: 11.942%
+Time elapsed: 638.87 min
+Epoch: 037/100 | Batch 0000/0636 | train_loss: 0.0193 | penalty_loss: -0.0001
+eta: 86.705 | lam0 - lam1: 15.120
+Epoch: 037/100 | Batch 0050/0636 | train_loss: 0.0228 | penalty_loss: 0.0000
+eta: 86.705 | lam0 - lam1: 15.209
+Epoch: 037/100 | Batch 0100/0636 | train_loss: 0.0658 | penalty_loss: -0.0000
+eta: 86.705 | lam0 - lam1: 15.171
+Epoch: 037/100 | Batch 0150/0636 | train_loss: 0.0335 | penalty_loss: -0.0000
+eta: 86.705 | lam0 - lam1: 15.169
+Epoch: 037/100 | Batch 0200/0636 | train_loss: 0.0223 | penalty_loss: 0.0000
+eta: 86.705 | lam0 - lam1: 15.115
+Epoch: 037/100 | Batch 0250/0636 | train_loss: 0.0386 | penalty_loss: 0.0001
+eta: 86.705 | lam0 - lam1: 15.065
+Epoch: 037/100 | Batch 0300/0636 | train_loss: 0.0377 | penalty_loss: -0.0001
+eta: 86.705 | lam0 - lam1: 14.988
+Epoch: 037/100 | Batch 0350/0636 | train_loss: 0.0245 | penalty_loss: 0.0000
+eta: 86.705 | lam0 - lam1: 14.947
+Epoch: 037/100 | Batch 0400/0636 | train_loss: 0.0943 | penalty_loss: 0.0001
+eta: 86.705 | lam0 - lam1: 14.866
+Epoch: 037/100 | Batch 0450/0636 | train_loss: 0.0226 | penalty_loss: -0.0000
+eta: 86.705 | lam0 - lam1: 14.932
+Epoch: 037/100 | Batch 0500/0636 | train_loss: 0.0492 | penalty_loss: -0.0001
+eta: 86.705 | lam0 - lam1: 14.882
+Epoch: 037/100 | Batch 0550/0636 | train_loss: 0.0370 | penalty_loss: 0.0001
+eta: 86.705 | lam0 - lam1: 14.899
+Epoch: 037/100 | Batch 0600/0636 | train_loss: 0.0658 | penalty_loss: -0.0000
+eta: 86.705 | lam0 - lam1: 14.953
+Epoch: 037/100 | Train Acc: 94.467% | Train Ddp: 0.847% | Train Deo: 0.398%
+Epoch: 037/100 | Valid Acc: 75.794% | Valid Ddp: 0.501% | Valid Deo: 16.766%
+Time elapsed: 656.73 min
+Epoch: 038/100 | Batch 0000/0636 | train_loss: 0.0347 | penalty_loss: 0.0000
+eta: 87.572 | lam0 - lam1: 15.111
+Epoch: 038/100 | Batch 0050/0636 | train_loss: 0.0316 | penalty_loss: -0.0000
+eta: 87.572 | lam0 - lam1: 15.129
+Epoch: 038/100 | Batch 0100/0636 | train_loss: 0.0272 | penalty_loss: -0.0001
+eta: 87.572 | lam0 - lam1: 15.058
+Epoch: 038/100 | Batch 0150/0636 | train_loss: 0.0295 | penalty_loss: -0.0000
+eta: 87.572 | lam0 - lam1: 15.044
+Epoch: 038/100 | Batch 0200/0636 | train_loss: 0.0390 | penalty_loss: -0.0000
+eta: 87.572 | lam0 - lam1: 15.126
+Epoch: 038/100 | Batch 0250/0636 | train_loss: 0.0197 | penalty_loss: 0.0001
+eta: 87.572 | lam0 - lam1: 15.209
+Epoch: 038/100 | Batch 0300/0636 | train_loss: 0.0319 | penalty_loss: -0.0000
+eta: 87.572 | lam0 - lam1: 15.191
+Epoch: 038/100 | Batch 0350/0636 | train_loss: 0.0210 | penalty_loss: -0.0000
+eta: 87.572 | lam0 - lam1: 15.226
+Epoch: 038/100 | Batch 0400/0636 | train_loss: 0.0113 | penalty_loss: -0.0000
+eta: 87.572 | lam0 - lam1: 15.274
+Epoch: 038/100 | Batch 0450/0636 | train_loss: 0.0262 | penalty_loss: -0.0000
+eta: 87.572 | lam0 - lam1: 15.345
+Epoch: 038/100 | Batch 0500/0636 | train_loss: 0.0468 | penalty_loss: 0.0000
+eta: 87.572 | lam0 - lam1: 15.250
+Epoch: 038/100 | Batch 0550/0636 | train_loss: 0.0401 | penalty_loss: -0.0001
+eta: 87.572 | lam0 - lam1: 15.198
+Epoch: 038/100 | Batch 0600/0636 | train_loss: 0.0263 | penalty_loss: -0.0000
+eta: 87.572 | lam0 - lam1: 15.181
+Epoch: 038/100 | Train Acc: 92.016% | Train Ddp: 0.916% | Train Deo: 0.045%
+Epoch: 038/100 | Valid Acc: 76.172% | Valid Ddp: 0.712% | Valid Deo: 13.867%
+Time elapsed: 675.00 min
+Epoch: 039/100 | Batch 0000/0636 | train_loss: 0.1166 | penalty_loss: 0.0001
+eta: 88.447 | lam0 - lam1: 15.181
+Epoch: 039/100 | Batch 0050/0636 | train_loss: 0.0360 | penalty_loss: -0.0001
+eta: 88.447 | lam0 - lam1: 15.190
+Epoch: 039/100 | Batch 0100/0636 | train_loss: 0.0122 | penalty_loss: 0.0001
+eta: 88.447 | lam0 - lam1: 15.103
+Epoch: 039/100 | Batch 0150/0636 | train_loss: 0.0721 | penalty_loss: -0.0000
+eta: 88.447 | lam0 - lam1: 15.153
+Epoch: 039/100 | Batch 0200/0636 | train_loss: 0.0794 | penalty_loss: -0.0001
+eta: 88.447 | lam0 - lam1: 15.255
+Epoch: 039/100 | Batch 0250/0636 | train_loss: 0.1193 | penalty_loss: 0.0000
+eta: 88.447 | lam0 - lam1: 15.172
+Epoch: 039/100 | Batch 0300/0636 | train_loss: 0.0447 | penalty_loss: -0.0000
+eta: 88.447 | lam0 - lam1: 15.126
+Epoch: 039/100 | Batch 0350/0636 | train_loss: 0.0362 | penalty_loss: -0.0001
+eta: 88.447 | lam0 - lam1: 15.179
+Epoch: 039/100 | Batch 0400/0636 | train_loss: 0.0342 | penalty_loss: -0.0001
+eta: 88.447 | lam0 - lam1: 15.204
+Epoch: 039/100 | Batch 0450/0636 | train_loss: 0.0599 | penalty_loss: -0.0001
+eta: 88.447 | lam0 - lam1: 15.189
+Epoch: 039/100 | Batch 0500/0636 | train_loss: 0.0122 | penalty_loss: 0.0000
+eta: 88.447 | lam0 - lam1: 15.202
+Epoch: 039/100 | Batch 0550/0636 | train_loss: 0.0128 | penalty_loss: -0.0000
+eta: 88.447 | lam0 - lam1: 15.182
+Epoch: 039/100 | Batch 0600/0636 | train_loss: 0.0151 | penalty_loss: -0.0000
+eta: 88.447 | lam0 - lam1: 15.128
+Epoch: 039/100 | Train Acc: 95.033% | Train Ddp: 0.823% | Train Deo: 0.551%
+Epoch: 039/100 | Valid Acc: 76.111% | Valid Ddp: 0.381% | Valid Deo: 18.948%
+Time elapsed: 693.24 min
+Epoch: 040/100 | Batch 0000/0636 | train_loss: 0.0434 | penalty_loss: 0.0001
+eta: 89.332 | lam0 - lam1: 15.075
+Epoch: 040/100 | Batch 0050/0636 | train_loss: 0.0496 | penalty_loss: -0.0000
+eta: 89.332 | lam0 - lam1: 15.050
+Epoch: 040/100 | Batch 0100/0636 | train_loss: 0.0289 | penalty_loss: 0.0001
+eta: 89.332 | lam0 - lam1: 15.147
+Epoch: 040/100 | Batch 0150/0636 | train_loss: 0.0171 | penalty_loss: 0.0001
+eta: 89.332 | lam0 - lam1: 15.153
+Epoch: 040/100 | Batch 0200/0636 | train_loss: 0.0641 | penalty_loss: -0.0001
+eta: 89.332 | lam0 - lam1: 15.122
+Epoch: 040/100 | Batch 0250/0636 | train_loss: 0.0147 | penalty_loss: -0.0001
+eta: 89.332 | lam0 - lam1: 14.955
+Epoch: 040/100 | Batch 0300/0636 | train_loss: 0.0086 | penalty_loss: 0.0000
+eta: 89.332 | lam0 - lam1: 14.920
+Epoch: 040/100 | Batch 0350/0636 | train_loss: 0.0138 | penalty_loss: 0.0001
+eta: 89.332 | lam0 - lam1: 14.930
+Epoch: 040/100 | Batch 0400/0636 | train_loss: 0.0492 | penalty_loss: -0.0000
+eta: 89.332 | lam0 - lam1: 14.873
+Epoch: 040/100 | Batch 0450/0636 | train_loss: 0.0092 | penalty_loss: 0.0000
+eta: 89.332 | lam0 - lam1: 14.885
+Epoch: 040/100 | Batch 0500/0636 | train_loss: 0.0206 | penalty_loss: -0.0000
+eta: 89.332 | lam0 - lam1: 14.846
+Epoch: 040/100 | Batch 0550/0636 | train_loss: 0.0085 | penalty_loss: -0.0000
+eta: 89.332 | lam0 - lam1: 14.797
+Epoch: 040/100 | Batch 0600/0636 | train_loss: 0.0237 | penalty_loss: -0.0002
+eta: 89.332 | lam0 - lam1: 14.751
+Epoch: 040/100 | Train Acc: 87.779% | Train Ddp: 1.662% | Train Deo: 0.008%
+Epoch: 040/100 | Valid Acc: 73.645% | Valid Ddp: 2.077% | Valid Deo: 10.151%
+Time elapsed: 712.07 min
+Epoch: 041/100 | Batch 0000/0636 | train_loss: 0.0131 | penalty_loss: -0.0001
+eta: 90.225 | lam0 - lam1: 14.741
+Epoch: 041/100 | Batch 0050/0636 | train_loss: 0.0417 | penalty_loss: 0.0000
+eta: 90.225 | lam0 - lam1: 14.712
+Epoch: 041/100 | Batch 0100/0636 | train_loss: 0.0433 | penalty_loss: 0.0001
+eta: 90.225 | lam0 - lam1: 14.719
+Epoch: 041/100 | Batch 0150/0636 | train_loss: 0.0420 | penalty_loss: 0.0000
+eta: 90.225 | lam0 - lam1: 14.781
+Epoch: 041/100 | Batch 0200/0636 | train_loss: 0.0148 | penalty_loss: 0.0001
+eta: 90.225 | lam0 - lam1: 14.866
+Epoch: 041/100 | Batch 0250/0636 | train_loss: 0.0151 | penalty_loss: -0.0000
+eta: 90.225 | lam0 - lam1: 14.812
+Epoch: 041/100 | Batch 0300/0636 | train_loss: 0.0299 | penalty_loss: -0.0000
+eta: 90.225 | lam0 - lam1: 14.834
+Epoch: 041/100 | Batch 0350/0636 | train_loss: 0.0347 | penalty_loss: 0.0001
+eta: 90.225 | lam0 - lam1: 14.869
+Epoch: 041/100 | Batch 0400/0636 | train_loss: 0.0311 | penalty_loss: -0.0000
+eta: 90.225 | lam0 - lam1: 14.890
+Epoch: 041/100 | Batch 0450/0636 | train_loss: 0.0875 | penalty_loss: 0.0000
+eta: 90.225 | lam0 - lam1: 14.953
+Epoch: 041/100 | Batch 0500/0636 | train_loss: 0.0200 | penalty_loss: -0.0000
+eta: 90.225 | lam0 - lam1: 14.847
+Epoch: 041/100 | Batch 0550/0636 | train_loss: 0.0726 | penalty_loss: -0.0001
+eta: 90.225 | lam0 - lam1: 14.766
+Epoch: 041/100 | Batch 0600/0636 | train_loss: 0.0201 | penalty_loss: 0.0000
+eta: 90.225 | lam0 - lam1: 14.757
+Epoch: 041/100 | Train Acc: 89.301% | Train Ddp: 0.195% | Train Deo: 0.141%
+Epoch: 041/100 | Valid Acc: 74.128% | Valid Ddp: 0.983% | Valid Deo: 12.347%
+Time elapsed: 730.58 min
+Epoch: 042/100 | Batch 0000/0636 | train_loss: 0.0476 | penalty_loss: 0.0001
+eta: 91.127 | lam0 - lam1: 14.687
+Epoch: 042/100 | Batch 0050/0636 | train_loss: 0.0194 | penalty_loss: 0.0000
+eta: 91.127 | lam0 - lam1: 14.736
+Epoch: 042/100 | Batch 0100/0636 | train_loss: 0.0193 | penalty_loss: 0.0000
+eta: 91.127 | lam0 - lam1: 14.779
+Epoch: 042/100 | Batch 0150/0636 | train_loss: 0.0198 | penalty_loss: -0.0000
+eta: 91.127 | lam0 - lam1: 14.865
+Epoch: 042/100 | Batch 0200/0636 | train_loss: 0.0344 | penalty_loss: 0.0000
+eta: 91.127 | lam0 - lam1: 14.858
+Epoch: 042/100 | Batch 0250/0636 | train_loss: 0.0161 | penalty_loss: -0.0000
+eta: 91.127 | lam0 - lam1: 14.801
+Epoch: 042/100 | Batch 0300/0636 | train_loss: 0.0303 | penalty_loss: 0.0000
+eta: 91.127 | lam0 - lam1: 14.808
+Epoch: 042/100 | Batch 0350/0636 | train_loss: 0.0383 | penalty_loss: 0.0000
+eta: 91.127 | lam0 - lam1: 14.810
+Epoch: 042/100 | Batch 0400/0636 | train_loss: 0.0374 | penalty_loss: 0.0000
+eta: 91.127 | lam0 - lam1: 14.719
+Epoch: 042/100 | Batch 0450/0636 | train_loss: 0.0132 | penalty_loss: -0.0000
+eta: 91.127 | lam0 - lam1: 14.769
+Epoch: 042/100 | Batch 0500/0636 | train_loss: 0.1201 | penalty_loss: -0.0000
+eta: 91.127 | lam0 - lam1: 14.653
+Epoch: 042/100 | Batch 0550/0636 | train_loss: 0.0278 | penalty_loss: 0.0000
+eta: 91.127 | lam0 - lam1: 14.621
+Epoch: 042/100 | Batch 0600/0636 | train_loss: 0.0199 | penalty_loss: -0.0000
+eta: 91.127 | lam0 - lam1: 14.754
+Epoch: 042/100 | Train Acc: 91.775% | Train Ddp: 0.710% | Train Deo: 0.019%
+Epoch: 042/100 | Valid Acc: 75.079% | Valid Ddp: 1.260% | Valid Deo: 12.924%
+Time elapsed: 748.58 min
+Epoch: 043/100 | Batch 0000/0636 | train_loss: 0.0301 | penalty_loss: 0.0000
+eta: 92.039 | lam0 - lam1: 14.752
+Epoch: 043/100 | Batch 0050/0636 | train_loss: 0.0154 | penalty_loss: 0.0000
+eta: 92.039 | lam0 - lam1: 14.822
+Epoch: 043/100 | Batch 0100/0636 | train_loss: 0.0198 | penalty_loss: 0.0000
+eta: 92.039 | lam0 - lam1: 14.830
+Epoch: 043/100 | Batch 0150/0636 | train_loss: 0.0071 | penalty_loss: -0.0000
+eta: 92.039 | lam0 - lam1: 14.802
+Epoch: 043/100 | Batch 0200/0636 | train_loss: 0.0092 | penalty_loss: 0.0000
+eta: 92.039 | lam0 - lam1: 14.794
+Epoch: 043/100 | Batch 0250/0636 | train_loss: 0.0558 | penalty_loss: -0.0001
+eta: 92.039 | lam0 - lam1: 14.859
+Epoch: 043/100 | Batch 0300/0636 | train_loss: 0.0144 | penalty_loss: -0.0000
+eta: 92.039 | lam0 - lam1: 14.754
+Epoch: 043/100 | Batch 0350/0636 | train_loss: 0.0428 | penalty_loss: 0.0001
+eta: 92.039 | lam0 - lam1: 14.696
+Epoch: 043/100 | Batch 0400/0636 | train_loss: 0.0208 | penalty_loss: 0.0000
+eta: 92.039 | lam0 - lam1: 14.804
+Epoch: 043/100 | Batch 0450/0636 | train_loss: 0.0705 | penalty_loss: -0.0000
+eta: 92.039 | lam0 - lam1: 14.776
+Epoch: 043/100 | Batch 0500/0636 | train_loss: 0.1947 | penalty_loss: 0.0001
+eta: 92.039 | lam0 - lam1: 14.851
+Epoch: 043/100 | Batch 0550/0636 | train_loss: 0.0145 | penalty_loss: -0.0000
+eta: 92.039 | lam0 - lam1: 14.733
+Epoch: 043/100 | Batch 0600/0636 | train_loss: 0.0911 | penalty_loss: -0.0001
+eta: 92.039 | lam0 - lam1: 14.538
+Epoch: 043/100 | Train Acc: 94.047% | Train Ddp: 1.686% | Train Deo: 0.230%
+Epoch: 043/100 | Valid Acc: 75.920% | Valid Ddp: 0.150% | Valid Deo: 13.596%
+Time elapsed: 766.74 min
+Epoch: 044/100 | Batch 0000/0636 | train_loss: 0.0516 | penalty_loss: 0.0001
+eta: 92.959 | lam0 - lam1: 14.441
+Epoch: 044/100 | Batch 0050/0636 | train_loss: 0.0171 | penalty_loss: 0.0000
+eta: 92.959 | lam0 - lam1: 14.329
+Epoch: 044/100 | Batch 0100/0636 | train_loss: 0.0267 | penalty_loss: -0.0000
+eta: 92.959 | lam0 - lam1: 14.296
+Epoch: 044/100 | Batch 0150/0636 | train_loss: 0.1100 | penalty_loss: -0.0000
+eta: 92.959 | lam0 - lam1: 14.213
+Epoch: 044/100 | Batch 0200/0636 | train_loss: 0.0808 | penalty_loss: 0.0000
+eta: 92.959 | lam0 - lam1: 14.229
+Epoch: 044/100 | Batch 0250/0636 | train_loss: 0.0404 | penalty_loss: 0.0001
+eta: 92.959 | lam0 - lam1: 14.128
+Epoch: 044/100 | Batch 0300/0636 | train_loss: 0.0538 | penalty_loss: -0.0002
+eta: 92.959 | lam0 - lam1: 14.011
+Epoch: 044/100 | Batch 0350/0636 | train_loss: 0.0134 | penalty_loss: 0.0000
+eta: 92.959 | lam0 - lam1: 14.010
+Epoch: 044/100 | Batch 0400/0636 | train_loss: 0.0319 | penalty_loss: 0.0000
+eta: 92.959 | lam0 - lam1: 14.016
+Epoch: 044/100 | Batch 0450/0636 | train_loss: 0.0416 | penalty_loss: -0.0001
+eta: 92.959 | lam0 - lam1: 14.031
+Epoch: 044/100 | Batch 0500/0636 | train_loss: 0.0504 | penalty_loss: -0.0000
+eta: 92.959 | lam0 - lam1: 13.896
+Epoch: 044/100 | Batch 0550/0636 | train_loss: 0.0712 | penalty_loss: 0.0001
+eta: 92.959 | lam0 - lam1: 13.945
+Epoch: 044/100 | Batch 0600/0636 | train_loss: 0.0197 | penalty_loss: 0.0001
+eta: 92.959 | lam0 - lam1: 14.005
+Epoch: 044/100 | Train Acc: 93.687% | Train Ddp: 0.327% | Train Deo: 0.141%
+Epoch: 044/100 | Valid Acc: 75.678% | Valid Ddp: 0.188% | Valid Deo: 14.897%
+Time elapsed: 786.27 min
+Epoch: 045/100 | Batch 0000/0636 | train_loss: 0.0171 | penalty_loss: 0.0001
+eta: 93.889 | lam0 - lam1: 14.052
+Epoch: 045/100 | Batch 0050/0636 | train_loss: 0.0680 | penalty_loss: 0.0000
+eta: 93.889 | lam0 - lam1: 13.989
+Epoch: 045/100 | Batch 0100/0636 | train_loss: 0.0331 | penalty_loss: 0.0000
+eta: 93.889 | lam0 - lam1: 13.970
+Epoch: 045/100 | Batch 0150/0636 | train_loss: 0.0505 | penalty_loss: -0.0001
+eta: 93.889 | lam0 - lam1: 13.941
+Epoch: 045/100 | Batch 0200/0636 | train_loss: 0.0148 | penalty_loss: 0.0000
+eta: 93.889 | lam0 - lam1: 13.983
+Epoch: 045/100 | Batch 0250/0636 | train_loss: 0.0101 | penalty_loss: 0.0000
+eta: 93.889 | lam0 - lam1: 13.985
+Epoch: 045/100 | Batch 0300/0636 | train_loss: 0.0329 | penalty_loss: 0.0000
+eta: 93.889 | lam0 - lam1: 13.925
+Epoch: 045/100 | Batch 0350/0636 | train_loss: 0.0164 | penalty_loss: -0.0001
+eta: 93.889 | lam0 - lam1: 14.052
+Epoch: 045/100 | Batch 0400/0636 | train_loss: 0.0395 | penalty_loss: 0.0001
+eta: 93.889 | lam0 - lam1: 14.101
+Epoch: 045/100 | Batch 0450/0636 | train_loss: 0.0169 | penalty_loss: -0.0001
+eta: 93.889 | lam0 - lam1: 14.086
+Epoch: 045/100 | Batch 0500/0636 | train_loss: 0.0323 | penalty_loss: 0.0000
+eta: 93.889 | lam0 - lam1: 14.105
+Epoch: 045/100 | Batch 0550/0636 | train_loss: 0.0624 | penalty_loss: -0.0000
+eta: 93.889 | lam0 - lam1: 14.154
+Epoch: 045/100 | Batch 0600/0636 | train_loss: 0.0091 | penalty_loss: -0.0000
+eta: 93.889 | lam0 - lam1: 14.240
+Epoch: 045/100 | Train Acc: 96.106% | Train Ddp: 0.208% | Train Deo: 0.056%
+Epoch: 045/100 | Valid Acc: 76.584% | Valid Ddp: 0.257% | Valid Deo: 15.567%
+Time elapsed: 804.81 min
+Epoch: 046/100 | Batch 0000/0636 | train_loss: 0.0328 | penalty_loss: -0.0000
+eta: 94.828 | lam0 - lam1: 14.234
+Epoch: 046/100 | Batch 0050/0636 | train_loss: 0.0036 | penalty_loss: 0.0000
+eta: 94.828 | lam0 - lam1: 14.240
+Epoch: 046/100 | Batch 0100/0636 | train_loss: 0.0303 | penalty_loss: 0.0000
+eta: 94.828 | lam0 - lam1: 14.283
+Epoch: 046/100 | Batch 0150/0636 | train_loss: 0.0242 | penalty_loss: 0.0000
+eta: 94.828 | lam0 - lam1: 14.406
+Epoch: 046/100 | Batch 0200/0636 | train_loss: 0.0140 | penalty_loss: 0.0000
+eta: 94.828 | lam0 - lam1: 14.514
+Epoch: 046/100 | Batch 0250/0636 | train_loss: 0.0243 | penalty_loss: 0.0001
+eta: 94.828 | lam0 - lam1: 14.572
+Epoch: 046/100 | Batch 0300/0636 | train_loss: 0.0141 | penalty_loss: 0.0001
+eta: 94.828 | lam0 - lam1: 14.694
+Epoch: 046/100 | Batch 0350/0636 | train_loss: 0.0155 | penalty_loss: 0.0000
+eta: 94.828 | lam0 - lam1: 14.718
+Epoch: 046/100 | Batch 0400/0636 | train_loss: 0.0550 | penalty_loss: -0.0000
+eta: 94.828 | lam0 - lam1: 14.700
+Epoch: 046/100 | Batch 0450/0636 | train_loss: 0.0443 | penalty_loss: 0.0001
+eta: 94.828 | lam0 - lam1: 14.690
+Epoch: 046/100 | Batch 0500/0636 | train_loss: 0.0709 | penalty_loss: -0.0000
+eta: 94.828 | lam0 - lam1: 14.612
+Epoch: 046/100 | Batch 0550/0636 | train_loss: 0.0828 | penalty_loss: 0.0000
+eta: 94.828 | lam0 - lam1: 14.796
+Epoch: 046/100 | Batch 0600/0636 | train_loss: 0.0063 | penalty_loss: 0.0000
+eta: 94.828 | lam0 - lam1: 14.774
+Epoch: 046/100 | Train Acc: 93.689% | Train Ddp: 2.321% | Train Deo: 0.186%
+Epoch: 046/100 | Valid Acc: 75.844% | Valid Ddp: 0.537% | Valid Deo: 17.464%
+Time elapsed: 823.09 min
+Epoch: 047/100 | Batch 0000/0636 | train_loss: 0.0274 | penalty_loss: 0.0000
+eta: 95.776 | lam0 - lam1: 14.839
+Epoch: 047/100 | Batch 0050/0636 | train_loss: 0.0112 | penalty_loss: -0.0000
+eta: 95.776 | lam0 - lam1: 14.738
+Epoch: 047/100 | Batch 0100/0636 | train_loss: 0.0132 | penalty_loss: 0.0001
+eta: 95.776 | lam0 - lam1: 14.756
+Epoch: 047/100 | Batch 0150/0636 | train_loss: 0.0039 | penalty_loss: 0.0000
+eta: 95.776 | lam0 - lam1: 14.753
+Epoch: 047/100 | Batch 0200/0636 | train_loss: 0.0126 | penalty_loss: 0.0000
+eta: 95.776 | lam0 - lam1: 14.738
+Epoch: 047/100 | Batch 0250/0636 | train_loss: 0.0992 | penalty_loss: 0.0000
+eta: 95.776 | lam0 - lam1: 14.783
+Epoch: 047/100 | Batch 0300/0636 | train_loss: 0.0096 | penalty_loss: 0.0001
+eta: 95.776 | lam0 - lam1: 14.702
+Epoch: 047/100 | Batch 0350/0636 | train_loss: 0.0485 | penalty_loss: 0.0001
+eta: 95.776 | lam0 - lam1: 14.685
+Epoch: 047/100 | Batch 0400/0636 | train_loss: 0.0119 | penalty_loss: 0.0000
+eta: 95.776 | lam0 - lam1: 14.747
+Epoch: 047/100 | Batch 0450/0636 | train_loss: 0.0597 | penalty_loss: -0.0001
+eta: 95.776 | lam0 - lam1: 14.651
+Epoch: 047/100 | Batch 0500/0636 | train_loss: 0.1045 | penalty_loss: 0.0001
+eta: 95.776 | lam0 - lam1: 14.589
+Epoch: 047/100 | Batch 0550/0636 | train_loss: 0.0425 | penalty_loss: -0.0001
+eta: 95.776 | lam0 - lam1: 14.554
+Epoch: 047/100 | Batch 0600/0636 | train_loss: 0.0341 | penalty_loss: 0.0000
+eta: 95.776 | lam0 - lam1: 14.447
+Epoch: 047/100 | Train Acc: 96.531% | Train Ddp: 0.426% | Train Deo: 0.055%
+Epoch: 047/100 | Valid Acc: 75.955% | Valid Ddp: 0.118% | Valid Deo: 16.563%
+Time elapsed: 841.58 min
+Epoch: 048/100 | Batch 0000/0636 | train_loss: 0.0402 | penalty_loss: 0.0000
+eta: 96.734 | lam0 - lam1: 14.436
+Epoch: 048/100 | Batch 0050/0636 | train_loss: 0.0117 | penalty_loss: -0.0000
+eta: 96.734 | lam0 - lam1: 14.378
+Epoch: 048/100 | Batch 0100/0636 | train_loss: 0.0187 | penalty_loss: 0.0000
+eta: 96.734 | lam0 - lam1: 14.393
+Epoch: 048/100 | Batch 0150/0636 | train_loss: 0.0192 | penalty_loss: -0.0000
+eta: 96.734 | lam0 - lam1: 14.348
+Epoch: 048/100 | Batch 0200/0636 | train_loss: 0.0446 | penalty_loss: -0.0001
+eta: 96.734 | lam0 - lam1: 14.364
+Epoch: 048/100 | Batch 0250/0636 | train_loss: 0.0291 | penalty_loss: -0.0001
+eta: 96.734 | lam0 - lam1: 14.257
+Epoch: 048/100 | Batch 0300/0636 | train_loss: 0.0371 | penalty_loss: -0.0001
+eta: 96.734 | lam0 - lam1: 14.358
+Epoch: 048/100 | Batch 0350/0636 | train_loss: 0.0486 | penalty_loss: 0.0000
+eta: 96.734 | lam0 - lam1: 14.468
+Epoch: 048/100 | Batch 0400/0636 | train_loss: 0.0824 | penalty_loss: -0.0000
+eta: 96.734 | lam0 - lam1: 14.355
+Epoch: 048/100 | Batch 0450/0636 | train_loss: 0.0370 | penalty_loss: 0.0000
+eta: 96.734 | lam0 - lam1: 14.361
+Epoch: 048/100 | Batch 0500/0636 | train_loss: 0.0297 | penalty_loss: -0.0000
+eta: 96.734 | lam0 - lam1: 14.375
+Epoch: 048/100 | Batch 0550/0636 | train_loss: 0.1226 | penalty_loss: -0.0002
+eta: 96.734 | lam0 - lam1: 14.436
+Epoch: 048/100 | Batch 0600/0636 | train_loss: 0.0861 | penalty_loss: 0.0001
+eta: 96.734 | lam0 - lam1: 14.509
+Epoch: 048/100 | Train Acc: 92.599% | Train Ddp: 0.438% | Train Deo: 0.071%
+Epoch: 048/100 | Valid Acc: 74.853% | Valid Ddp: 1.113% | Valid Deo: 13.863%
+Time elapsed: 859.82 min
+Epoch: 049/100 | Batch 0000/0636 | train_loss: 0.0240 | penalty_loss: 0.0000
+eta: 97.701 | lam0 - lam1: 14.381
+Epoch: 049/100 | Batch 0050/0636 | train_loss: 0.0293 | penalty_loss: -0.0000
+eta: 97.701 | lam0 - lam1: 14.534
+Epoch: 049/100 | Batch 0100/0636 | train_loss: 0.0225 | penalty_loss: -0.0000
+eta: 97.701 | lam0 - lam1: 14.511
+Epoch: 049/100 | Batch 0150/0636 | train_loss: 0.0429 | penalty_loss: -0.0000
+eta: 97.701 | lam0 - lam1: 14.532
+Epoch: 049/100 | Batch 0200/0636 | train_loss: 0.0115 | penalty_loss: 0.0000
+eta: 97.701 | lam0 - lam1: 14.523
+Epoch: 049/100 | Batch 0250/0636 | train_loss: 0.0113 | penalty_loss: 0.0000
+eta: 97.701 | lam0 - lam1: 14.530
+Epoch: 049/100 | Batch 0300/0636 | train_loss: 0.0574 | penalty_loss: 0.0000
+eta: 97.701 | lam0 - lam1: 14.385
+Epoch: 049/100 | Batch 0350/0636 | train_loss: 0.0364 | penalty_loss: -0.0000
+eta: 97.701 | lam0 - lam1: 14.344
+Epoch: 049/100 | Batch 0400/0636 | train_loss: 0.0126 | penalty_loss: 0.0000
+eta: 97.701 | lam0 - lam1: 14.332
+Epoch: 049/100 | Batch 0450/0636 | train_loss: 0.0761 | penalty_loss: -0.0000
+eta: 97.701 | lam0 - lam1: 14.225
+Epoch: 049/100 | Batch 0500/0636 | train_loss: 0.0756 | penalty_loss: -0.0000
+eta: 97.701 | lam0 - lam1: 14.225
+Epoch: 049/100 | Batch 0550/0636 | train_loss: 0.1136 | penalty_loss: -0.0000
+eta: 97.701 | lam0 - lam1: 14.245
+Epoch: 049/100 | Batch 0600/0636 | train_loss: 0.0677 | penalty_loss: -0.0001
+eta: 97.701 | lam0 - lam1: 14.269
+Epoch: 049/100 | Train Acc: 95.803% | Train Ddp: 0.331% | Train Deo: 0.634%
+Epoch: 049/100 | Valid Acc: 75.920% | Valid Ddp: 0.467% | Valid Deo: 14.549%
+Time elapsed: 877.96 min
+Epoch: 050/100 | Batch 0000/0636 | train_loss: 0.0112 | penalty_loss: 0.0000
+eta: 98.678 | lam0 - lam1: 14.351
+Epoch: 050/100 | Batch 0050/0636 | train_loss: 0.0413 | penalty_loss: 0.0000
+eta: 98.678 | lam0 - lam1: 14.324
+Epoch: 050/100 | Batch 0100/0636 | train_loss: 0.0189 | penalty_loss: 0.0000
+eta: 98.678 | lam0 - lam1: 14.323
+Epoch: 050/100 | Batch 0150/0636 | train_loss: 0.0928 | penalty_loss: -0.0000
+eta: 98.678 | lam0 - lam1: 14.220
+Epoch: 050/100 | Batch 0200/0636 | train_loss: 0.0342 | penalty_loss: 0.0000
+eta: 98.678 | lam0 - lam1: 14.103
+Epoch: 050/100 | Batch 0250/0636 | train_loss: 0.0773 | penalty_loss: -0.0001
+eta: 98.678 | lam0 - lam1: 13.989
+Epoch: 050/100 | Batch 0300/0636 | train_loss: 0.0205 | penalty_loss: -0.0001
+eta: 98.678 | lam0 - lam1: 13.908
+Epoch: 050/100 | Batch 0350/0636 | train_loss: 0.0336 | penalty_loss: -0.0000
+eta: 98.678 | lam0 - lam1: 13.867
+Epoch: 050/100 | Batch 0400/0636 | train_loss: 0.0122 | penalty_loss: 0.0000
+eta: 98.678 | lam0 - lam1: 13.907
+Epoch: 050/100 | Batch 0450/0636 | train_loss: 0.0424 | penalty_loss: -0.0000
+eta: 98.678 | lam0 - lam1: 13.779
+Epoch: 050/100 | Batch 0500/0636 | train_loss: 0.0203 | penalty_loss: 0.0000
+eta: 98.678 | lam0 - lam1: 13.845
+Epoch: 050/100 | Batch 0550/0636 | train_loss: 0.0431 | penalty_loss: 0.0000
+eta: 98.678 | lam0 - lam1: 13.887
+Epoch: 050/100 | Batch 0600/0636 | train_loss: 0.0874 | penalty_loss: -0.0000
+eta: 98.678 | lam0 - lam1: 13.870
+Epoch: 050/100 | Train Acc: 96.644% | Train Ddp: 0.738% | Train Deo: 0.107%
+Epoch: 050/100 | Valid Acc: 75.945% | Valid Ddp: 0.362% | Valid Deo: 16.219%
+Time elapsed: 896.29 min
+Epoch: 051/100 | Batch 0000/0636 | train_loss: 0.0224 | penalty_loss: -0.0000
+eta: 99.665 | lam0 - lam1: 13.829
+Epoch: 051/100 | Batch 0050/0636 | train_loss: 0.0293 | penalty_loss: -0.0000
+eta: 99.665 | lam0 - lam1: 13.837
+Epoch: 051/100 | Batch 0100/0636 | train_loss: 0.0470 | penalty_loss: 0.0001
+eta: 99.665 | lam0 - lam1: 13.870
+Epoch: 051/100 | Batch 0150/0636 | train_loss: 0.0123 | penalty_loss: 0.0001
+eta: 99.665 | lam0 - lam1: 13.888
+Epoch: 051/100 | Batch 0200/0636 | train_loss: 0.0821 | penalty_loss: 0.0000
+eta: 99.665 | lam0 - lam1: 13.828
+Epoch: 051/100 | Batch 0250/0636 | train_loss: 0.0039 | penalty_loss: 0.0000
+eta: 99.665 | lam0 - lam1: 13.795
+Epoch: 051/100 | Batch 0300/0636 | train_loss: 0.1059 | penalty_loss: 0.0000
+eta: 99.665 | lam0 - lam1: 13.786
+Epoch: 051/100 | Batch 0350/0636 | train_loss: 0.0481 | penalty_loss: 0.0000
+eta: 99.665 | lam0 - lam1: 13.828
+Epoch: 051/100 | Batch 0400/0636 | train_loss: 0.0168 | penalty_loss: 0.0000
+eta: 99.665 | lam0 - lam1: 13.846
+Epoch: 051/100 | Batch 0450/0636 | train_loss: 0.0917 | penalty_loss: -0.0001
+eta: 99.665 | lam0 - lam1: 13.786
+Epoch: 051/100 | Batch 0500/0636 | train_loss: 0.0444 | penalty_loss: -0.0001
+eta: 99.665 | lam0 - lam1: 13.707
+Epoch: 051/100 | Batch 0550/0636 | train_loss: 0.0386 | penalty_loss: 0.0001
+eta: 99.665 | lam0 - lam1: 13.795
+Epoch: 051/100 | Batch 0600/0636 | train_loss: 0.0955 | penalty_loss: -0.0001
+eta: 99.665 | lam0 - lam1: 13.895
+Epoch: 051/100 | Train Acc: 91.489% | Train Ddp: 0.999% | Train Deo: 0.049%
+Epoch: 051/100 | Valid Acc: 74.556% | Valid Ddp: 1.687% | Valid Deo: 12.582%
+Time elapsed: 914.62 min
+Epoch: 052/100 | Batch 0000/0636 | train_loss: 0.0651 | penalty_loss: -0.0000
+eta: 100.661 | lam0 - lam1: 13.808
+Epoch: 052/100 | Batch 0050/0636 | train_loss: 0.0095 | penalty_loss: 0.0000
+eta: 100.661 | lam0 - lam1: 13.886
+Epoch: 052/100 | Batch 0100/0636 | train_loss: 0.0522 | penalty_loss: -0.0000
+eta: 100.661 | lam0 - lam1: 13.924
+Epoch: 052/100 | Batch 0150/0636 | train_loss: 0.0106 | penalty_loss: -0.0000
+eta: 100.661 | lam0 - lam1: 13.946
+Epoch: 052/100 | Batch 0200/0636 | train_loss: 0.0186 | penalty_loss: -0.0000
+eta: 100.661 | lam0 - lam1: 13.872
+Epoch: 052/100 | Batch 0250/0636 | train_loss: 0.0228 | penalty_loss: -0.0000
+eta: 100.661 | lam0 - lam1: 13.712
+Epoch: 052/100 | Batch 0300/0636 | train_loss: 0.0864 | penalty_loss: 0.0000
+eta: 100.661 | lam0 - lam1: 13.688
+Epoch: 052/100 | Batch 0350/0636 | train_loss: 0.0254 | penalty_loss: 0.0001
+eta: 100.661 | lam0 - lam1: 13.771
+Epoch: 052/100 | Batch 0400/0636 | train_loss: 0.0806 | penalty_loss: -0.0000
+eta: 100.661 | lam0 - lam1: 13.790
+Epoch: 052/100 | Batch 0450/0636 | train_loss: 0.0138 | penalty_loss: 0.0000
+eta: 100.661 | lam0 - lam1: 13.838
+Epoch: 052/100 | Batch 0500/0636 | train_loss: 0.0217 | penalty_loss: -0.0000
+eta: 100.661 | lam0 - lam1: 13.886
+Epoch: 052/100 | Batch 0550/0636 | train_loss: 0.0143 | penalty_loss: 0.0000
+eta: 100.661 | lam0 - lam1: 13.963
+Epoch: 052/100 | Batch 0600/0636 | train_loss: 0.0245 | penalty_loss: 0.0001
+eta: 100.661 | lam0 - lam1: 13.941
+Epoch: 052/100 | Train Acc: 95.083% | Train Ddp: 0.968% | Train Deo: 0.155%
+Epoch: 052/100 | Valid Acc: 75.854% | Valid Ddp: 0.386% | Valid Deo: 16.203%
+Time elapsed: 941.05 min
+Epoch: 053/100 | Batch 0000/0636 | train_loss: 0.0352 | penalty_loss: 0.0000
+eta: 101.668 | lam0 - lam1: 14.077
+Epoch: 053/100 | Batch 0050/0636 | train_loss: 0.0031 | penalty_loss: 0.0000
+eta: 101.668 | lam0 - lam1: 14.157
+Epoch: 053/100 | Batch 0100/0636 | train_loss: 0.0336 | penalty_loss: 0.0000
+eta: 101.668 | lam0 - lam1: 14.190
+Epoch: 053/100 | Batch 0150/0636 | train_loss: 0.0205 | penalty_loss: -0.0001
+eta: 101.668 | lam0 - lam1: 14.253
+Epoch: 053/100 | Batch 0200/0636 | train_loss: 0.0428 | penalty_loss: 0.0001
+eta: 101.668 | lam0 - lam1: 14.299
+Epoch: 053/100 | Batch 0250/0636 | train_loss: 0.0182 | penalty_loss: 0.0000
+eta: 101.668 | lam0 - lam1: 14.386
+Epoch: 053/100 | Batch 0300/0636 | train_loss: 0.0593 | penalty_loss: 0.0000
+eta: 101.668 | lam0 - lam1: 14.386
+Epoch: 053/100 | Batch 0350/0636 | train_loss: 0.0607 | penalty_loss: 0.0001
+eta: 101.668 | lam0 - lam1: 14.396
+Epoch: 053/100 | Batch 0400/0636 | train_loss: 0.0561 | penalty_loss: 0.0000
+eta: 101.668 | lam0 - lam1: 14.523
+Epoch: 053/100 | Batch 0450/0636 | train_loss: 0.1149 | penalty_loss: 0.0001
+eta: 101.668 | lam0 - lam1: 14.610
+Epoch: 053/100 | Batch 0500/0636 | train_loss: 0.0323 | penalty_loss: 0.0000
+eta: 101.668 | lam0 - lam1: 14.521
+Epoch: 053/100 | Batch 0550/0636 | train_loss: 0.0706 | penalty_loss: 0.0001
+eta: 101.668 | lam0 - lam1: 14.553
+Epoch: 053/100 | Batch 0600/0636 | train_loss: 0.0916 | penalty_loss: 0.0001
+eta: 101.668 | lam0 - lam1: 14.617
+Epoch: 053/100 | Train Acc: 95.578% | Train Ddp: 0.776% | Train Deo: 0.153%
+Epoch: 053/100 | Valid Acc: 76.141% | Valid Ddp: 0.412% | Valid Deo: 15.256%
+Time elapsed: 974.74 min
+Epoch: 054/100 | Batch 0000/0636 | train_loss: 0.1036 | penalty_loss: -0.0000
+eta: 102.685 | lam0 - lam1: 14.594
+Epoch: 054/100 | Batch 0050/0636 | train_loss: 0.0252 | penalty_loss: -0.0000
+eta: 102.685 | lam0 - lam1: 14.694
+Epoch: 054/100 | Batch 0100/0636 | train_loss: 0.0233 | penalty_loss: -0.0000
+eta: 102.685 | lam0 - lam1: 14.750
+Epoch: 054/100 | Batch 0150/0636 | train_loss: 0.0199 | penalty_loss: 0.0000
+eta: 102.685 | lam0 - lam1: 14.716
+Epoch: 054/100 | Batch 0200/0636 | train_loss: 0.1105 | penalty_loss: 0.0000
+eta: 102.685 | lam0 - lam1: 14.622
+Epoch: 054/100 | Batch 0250/0636 | train_loss: 0.0119 | penalty_loss: 0.0000
+eta: 102.685 | lam0 - lam1: 14.587
+Epoch: 054/100 | Batch 0300/0636 | train_loss: 0.0255 | penalty_loss: 0.0000
+eta: 102.685 | lam0 - lam1: 14.581
+Epoch: 054/100 | Batch 0350/0636 | train_loss: 0.0334 | penalty_loss: -0.0000
+eta: 102.685 | lam0 - lam1: 14.613
+Epoch: 054/100 | Batch 0400/0636 | train_loss: 0.1110 | penalty_loss: 0.0001
+eta: 102.685 | lam0 - lam1: 14.712
+Epoch: 054/100 | Batch 0450/0636 | train_loss: 0.0213 | penalty_loss: 0.0000
+eta: 102.685 | lam0 - lam1: 14.699
+Epoch: 054/100 | Batch 0500/0636 | train_loss: 0.0674 | penalty_loss: -0.0000
+eta: 102.685 | lam0 - lam1: 14.692
+Epoch: 054/100 | Batch 0550/0636 | train_loss: 0.0515 | penalty_loss: -0.0001
+eta: 102.685 | lam0 - lam1: 14.560
+Epoch: 054/100 | Batch 0600/0636 | train_loss: 0.0668 | penalty_loss: 0.0001
+eta: 102.685 | lam0 - lam1: 14.566
+Epoch: 054/100 | Train Acc: 95.594% | Train Ddp: 1.149% | Train Deo: 0.159%
+Epoch: 054/100 | Valid Acc: 75.613% | Valid Ddp: 0.624% | Valid Deo: 17.685%
+Time elapsed: 1017.10 min
+Epoch: 055/100 | Batch 0000/0636 | train_loss: 0.0330 | penalty_loss: 0.0000
+eta: 103.711 | lam0 - lam1: 14.525
+Epoch: 055/100 | Batch 0050/0636 | train_loss: 0.0078 | penalty_loss: -0.0000
+eta: 103.711 | lam0 - lam1: 14.543
+Epoch: 055/100 | Batch 0100/0636 | train_loss: 0.0117 | penalty_loss: 0.0000
+eta: 103.711 | lam0 - lam1: 14.542
+Epoch: 055/100 | Batch 0150/0636 | train_loss: 0.0257 | penalty_loss: 0.0000
+eta: 103.711 | lam0 - lam1: 14.533
+Epoch: 055/100 | Batch 0200/0636 | train_loss: 0.0188 | penalty_loss: -0.0000
+eta: 103.711 | lam0 - lam1: 14.602
+Epoch: 055/100 | Batch 0250/0636 | train_loss: 0.0207 | penalty_loss: 0.0001
+eta: 103.711 | lam0 - lam1: 14.619
+Epoch: 055/100 | Batch 0300/0636 | train_loss: 0.0653 | penalty_loss: 0.0000
+eta: 103.711 | lam0 - lam1: 14.561
+Epoch: 055/100 | Batch 0350/0636 | train_loss: 0.0211 | penalty_loss: -0.0000
+eta: 103.711 | lam0 - lam1: 14.501
+Epoch: 055/100 | Batch 0400/0636 | train_loss: 0.0614 | penalty_loss: -0.0000
+eta: 103.711 | lam0 - lam1: 14.448
+Epoch: 055/100 | Batch 0450/0636 | train_loss: 0.0625 | penalty_loss: -0.0000
+eta: 103.711 | lam0 - lam1: 14.462
+Epoch: 055/100 | Batch 0500/0636 | train_loss: 0.0256 | penalty_loss: -0.0000
+eta: 103.711 | lam0 - lam1: 14.452
+Epoch: 055/100 | Batch 0550/0636 | train_loss: 0.0712 | penalty_loss: -0.0000
+eta: 103.711 | lam0 - lam1: 14.365
+Epoch: 055/100 | Batch 0600/0636 | train_loss: 0.0204 | penalty_loss: -0.0000
+eta: 103.711 | lam0 - lam1: 14.425
+Epoch: 055/100 | Train Acc: 88.773% | Train Ddp: 0.069% | Train Deo: 0.020%
+Epoch: 055/100 | Valid Acc: 73.896% | Valid Ddp: 2.989% | Valid Deo: 11.812%
+Time elapsed: 1059.32 min
+Epoch: 056/100 | Batch 0000/0636 | train_loss: 0.0671 | penalty_loss: -0.0001
+eta: 104.749 | lam0 - lam1: 14.352
+Epoch: 056/100 | Batch 0050/0636 | train_loss: 0.0572 | penalty_loss: -0.0000
+eta: 104.749 | lam0 - lam1: 14.347
+Epoch: 056/100 | Batch 0100/0636 | train_loss: 0.0296 | penalty_loss: -0.0000
+eta: 104.749 | lam0 - lam1: 14.279
+Epoch: 056/100 | Batch 0150/0636 | train_loss: 0.0141 | penalty_loss: -0.0000
+eta: 104.749 | lam0 - lam1: 14.272
+Epoch: 056/100 | Batch 0200/0636 | train_loss: 0.0232 | penalty_loss: 0.0000
+eta: 104.749 | lam0 - lam1: 14.279
+Epoch: 056/100 | Batch 0250/0636 | train_loss: 0.0246 | penalty_loss: -0.0000
+eta: 104.749 | lam0 - lam1: 14.353
+Epoch: 056/100 | Batch 0300/0636 | train_loss: 0.0256 | penalty_loss: -0.0000
+eta: 104.749 | lam0 - lam1: 14.326
+Epoch: 056/100 | Batch 0350/0636 | train_loss: 0.0160 | penalty_loss: 0.0000
+eta: 104.749 | lam0 - lam1: 14.372
+Epoch: 056/100 | Batch 0400/0636 | train_loss: 0.0534 | penalty_loss: 0.0000
+eta: 104.749 | lam0 - lam1: 14.481
+Epoch: 056/100 | Batch 0450/0636 | train_loss: 0.0895 | penalty_loss: -0.0000
+eta: 104.749 | lam0 - lam1: 14.616
+Epoch: 056/100 | Batch 0500/0636 | train_loss: 0.0392 | penalty_loss: 0.0001
+eta: 104.749 | lam0 - lam1: 14.624
+Epoch: 056/100 | Batch 0550/0636 | train_loss: 0.0485 | penalty_loss: 0.0000
+eta: 104.749 | lam0 - lam1: 14.715
+Epoch: 056/100 | Batch 0600/0636 | train_loss: 0.1918 | penalty_loss: -0.0001
+eta: 104.749 | lam0 - lam1: 14.741
+Epoch: 056/100 | Train Acc: 95.674% | Train Ddp: 0.100% | Train Deo: 0.043%
+Epoch: 056/100 | Valid Acc: 76.363% | Valid Ddp: 0.149% | Valid Deo: 15.836%
+Time elapsed: 1102.40 min
+Epoch: 057/100 | Batch 0000/0636 | train_loss: 0.0137 | penalty_loss: -0.0000
+eta: 105.796 | lam0 - lam1: 14.773
+Epoch: 057/100 | Batch 0050/0636 | train_loss: 0.0115 | penalty_loss: 0.0000
+eta: 105.796 | lam0 - lam1: 14.825
+Epoch: 057/100 | Batch 0100/0636 | train_loss: 0.0105 | penalty_loss: 0.0000
+eta: 105.796 | lam0 - lam1: 14.787
+Epoch: 057/100 | Batch 0150/0636 | train_loss: 0.0136 | penalty_loss: 0.0000
+eta: 105.796 | lam0 - lam1: 14.742
+Epoch: 057/100 | Batch 0200/0636 | train_loss: 0.0288 | penalty_loss: 0.0000
+eta: 105.796 | lam0 - lam1: 14.817
+Epoch: 057/100 | Batch 0250/0636 | train_loss: 0.0256 | penalty_loss: 0.0000
+eta: 105.796 | lam0 - lam1: 14.824
+Epoch: 057/100 | Batch 0300/0636 | train_loss: 0.0295 | penalty_loss: 0.0000
+eta: 105.796 | lam0 - lam1: 14.914
+Epoch: 057/100 | Batch 0350/0636 | train_loss: 0.0352 | penalty_loss: -0.0000
+eta: 105.796 | lam0 - lam1: 14.773
+Epoch: 057/100 | Batch 0400/0636 | train_loss: 0.0517 | penalty_loss: 0.0001
+eta: 105.796 | lam0 - lam1: 14.870
+Epoch: 057/100 | Batch 0450/0636 | train_loss: 0.0065 | penalty_loss: 0.0001
+eta: 105.796 | lam0 - lam1: 14.882
+Epoch: 057/100 | Batch 0500/0636 | train_loss: 0.0282 | penalty_loss: -0.0000
+eta: 105.796 | lam0 - lam1: 14.956
+Epoch: 057/100 | Batch 0550/0636 | train_loss: 0.0365 | penalty_loss: -0.0000
+eta: 105.796 | lam0 - lam1: 14.894
+Epoch: 057/100 | Batch 0600/0636 | train_loss: 0.0111 | penalty_loss: 0.0001
+eta: 105.796 | lam0 - lam1: 14.897
+Epoch: 057/100 | Train Acc: 95.946% | Train Ddp: 0.243% | Train Deo: 0.027%
+Epoch: 057/100 | Valid Acc: 75.512% | Valid Ddp: 0.305% | Valid Deo: 16.626%
+Time elapsed: 1143.39 min
+Epoch: 058/100 | Batch 0000/0636 | train_loss: 0.0684 | penalty_loss: -0.0001
+eta: 106.854 | lam0 - lam1: 14.880
+Epoch: 058/100 | Batch 0050/0636 | train_loss: 0.0246 | penalty_loss: -0.0000
+eta: 106.854 | lam0 - lam1: 14.941
+Epoch: 058/100 | Batch 0100/0636 | train_loss: 0.0339 | penalty_loss: -0.0000
+eta: 106.854 | lam0 - lam1: 14.919
+Epoch: 058/100 | Batch 0150/0636 | train_loss: 0.0476 | penalty_loss: -0.0000
+eta: 106.854 | lam0 - lam1: 14.837
+Epoch: 058/100 | Batch 0200/0636 | train_loss: 0.0139 | penalty_loss: 0.0000
+eta: 106.854 | lam0 - lam1: 14.921
+Epoch: 058/100 | Batch 0250/0636 | train_loss: 0.1005 | penalty_loss: -0.0000
+eta: 106.854 | lam0 - lam1: 14.894
+Epoch: 058/100 | Batch 0300/0636 | train_loss: 0.0653 | penalty_loss: 0.0000
+eta: 106.854 | lam0 - lam1: 14.832
+Epoch: 058/100 | Batch 0350/0636 | train_loss: 0.0357 | penalty_loss: 0.0000
+eta: 106.854 | lam0 - lam1: 14.812
+Epoch: 058/100 | Batch 0400/0636 | train_loss: 0.0384 | penalty_loss: 0.0000
+eta: 106.854 | lam0 - lam1: 14.792
+Epoch: 058/100 | Batch 0450/0636 | train_loss: 0.1272 | penalty_loss: -0.0001
+eta: 106.854 | lam0 - lam1: 14.724
+Epoch: 058/100 | Batch 0500/0636 | train_loss: 0.0400 | penalty_loss: -0.0000
+eta: 106.854 | lam0 - lam1: 14.744
+Epoch: 058/100 | Batch 0550/0636 | train_loss: 0.0149 | penalty_loss: 0.0000
+eta: 106.854 | lam0 - lam1: 14.747
+Epoch: 058/100 | Batch 0600/0636 | train_loss: 0.0695 | penalty_loss: -0.0000
+eta: 106.854 | lam0 - lam1: 14.748
+Epoch: 058/100 | Train Acc: 97.171% | Train Ddp: 0.301% | Train Deo: 0.183%
+Epoch: 058/100 | Valid Acc: 75.875% | Valid Ddp: 0.401% | Valid Deo: 18.953%
+Time elapsed: 1186.32 min
+Epoch: 059/100 | Batch 0000/0636 | train_loss: 0.0378 | penalty_loss: -0.0001
+eta: 107.923 | lam0 - lam1: 14.780
+Epoch: 059/100 | Batch 0050/0636 | train_loss: 0.0453 | penalty_loss: -0.0000
+eta: 107.923 | lam0 - lam1: 14.733
+Epoch: 059/100 | Batch 0100/0636 | train_loss: 0.0392 | penalty_loss: -0.0000
+eta: 107.923 | lam0 - lam1: 14.670
+Epoch: 059/100 | Batch 0150/0636 | train_loss: 0.0113 | penalty_loss: 0.0000
+eta: 107.923 | lam0 - lam1: 14.644
+Epoch: 059/100 | Batch 0200/0636 | train_loss: 0.0145 | penalty_loss: 0.0000
+eta: 107.923 | lam0 - lam1: 14.564
+Epoch: 059/100 | Batch 0250/0636 | train_loss: 0.0465 | penalty_loss: -0.0001
+eta: 107.923 | lam0 - lam1: 14.634
+Epoch: 059/100 | Batch 0300/0636 | train_loss: 0.0157 | penalty_loss: 0.0000
+eta: 107.923 | lam0 - lam1: 14.633
+Epoch: 059/100 | Batch 0350/0636 | train_loss: 0.0625 | penalty_loss: -0.0001
+eta: 107.923 | lam0 - lam1: 14.380
+Epoch: 059/100 | Batch 0400/0636 | train_loss: 0.0263 | penalty_loss: 0.0001
+eta: 107.923 | lam0 - lam1: 14.492
+Epoch: 059/100 | Batch 0450/0636 | train_loss: 0.0456 | penalty_loss: -0.0000
+eta: 107.923 | lam0 - lam1: 14.466
+Epoch: 059/100 | Batch 0500/0636 | train_loss: 0.0686 | penalty_loss: -0.0000
+eta: 107.923 | lam0 - lam1: 14.420
+Epoch: 059/100 | Batch 0550/0636 | train_loss: 0.0767 | penalty_loss: -0.0000
+eta: 107.923 | lam0 - lam1: 14.535
+Epoch: 059/100 | Batch 0600/0636 | train_loss: 0.0495 | penalty_loss: -0.0000
+eta: 107.923 | lam0 - lam1: 14.567
+Epoch: 059/100 | Train Acc: 97.273% | Train Ddp: 0.202% | Train Deo: 0.187%
+Epoch: 059/100 | Valid Acc: 76.172% | Valid Ddp: 0.362% | Valid Deo: 18.705%
+Time elapsed: 1230.14 min
+Epoch: 060/100 | Batch 0000/0636 | train_loss: 0.0069 | penalty_loss: -0.0000
+eta: 109.002 | lam0 - lam1: 14.550
+Epoch: 060/100 | Batch 0050/0636 | train_loss: 0.0153 | penalty_loss: 0.0000
+eta: 109.002 | lam0 - lam1: 14.549
+Epoch: 060/100 | Batch 0100/0636 | train_loss: 0.0190 | penalty_loss: -0.0000
+eta: 109.002 | lam0 - lam1: 14.600
+Epoch: 060/100 | Batch 0150/0636 | train_loss: 0.0254 | penalty_loss: 0.0001
+eta: 109.002 | lam0 - lam1: 14.621
+Epoch: 060/100 | Batch 0200/0636 | train_loss: 0.0636 | penalty_loss: 0.0000
+eta: 109.002 | lam0 - lam1: 14.640
+Epoch: 060/100 | Batch 0250/0636 | train_loss: 0.0196 | penalty_loss: -0.0000
+eta: 109.002 | lam0 - lam1: 14.748
+Epoch: 060/100 | Batch 0300/0636 | train_loss: 0.0793 | penalty_loss: -0.0002
+eta: 109.002 | lam0 - lam1: 14.825
+Epoch: 060/100 | Batch 0350/0636 | train_loss: 0.0232 | penalty_loss: 0.0000
+eta: 109.002 | lam0 - lam1: 14.867
+Epoch: 060/100 | Batch 0400/0636 | train_loss: 0.0773 | penalty_loss: -0.0000
+eta: 109.002 | lam0 - lam1: 14.733
+Epoch: 060/100 | Batch 0450/0636 | train_loss: 0.0425 | penalty_loss: -0.0000
+eta: 109.002 | lam0 - lam1: 14.719
+Epoch: 060/100 | Batch 0500/0636 | train_loss: 0.0665 | penalty_loss: 0.0000
+eta: 109.002 | lam0 - lam1: 14.703
+Epoch: 060/100 | Batch 0550/0636 | train_loss: 0.0426 | penalty_loss: 0.0000
+eta: 109.002 | lam0 - lam1: 14.754
+Epoch: 060/100 | Batch 0600/0636 | train_loss: 0.1038 | penalty_loss: -0.0000
+eta: 109.002 | lam0 - lam1: 14.620
+Epoch: 060/100 | Train Acc: 95.857% | Train Ddp: 1.392% | Train Deo: 0.015%
+Epoch: 060/100 | Valid Acc: 75.935% | Valid Ddp: 1.021% | Valid Deo: 14.559%
+Time elapsed: 1293.30 min
+Epoch: 061/100 | Batch 0000/0636 | train_loss: 0.0144 | penalty_loss: 0.0000
+eta: 110.092 | lam0 - lam1: 14.706
+Epoch: 061/100 | Batch 0050/0636 | train_loss: 0.0055 | penalty_loss: 0.0000
+eta: 110.092 | lam0 - lam1: 14.698
+Epoch: 061/100 | Batch 0100/0636 | train_loss: 0.0101 | penalty_loss: 0.0000
+eta: 110.092 | lam0 - lam1: 14.715
+Epoch: 061/100 | Batch 0150/0636 | train_loss: 0.0074 | penalty_loss: -0.0000
+eta: 110.092 | lam0 - lam1: 14.705
+Epoch: 061/100 | Batch 0200/0636 | train_loss: 0.0136 | penalty_loss: 0.0001
+eta: 110.092 | lam0 - lam1: 14.714
+Epoch: 061/100 | Batch 0250/0636 | train_loss: 0.0075 | penalty_loss: 0.0000
+eta: 110.092 | lam0 - lam1: 14.637
+Epoch: 061/100 | Batch 0300/0636 | train_loss: 0.0055 | penalty_loss: -0.0000
+eta: 110.092 | lam0 - lam1: 14.631
+Epoch: 061/100 | Batch 0350/0636 | train_loss: 0.0052 | penalty_loss: 0.0000
+eta: 110.092 | lam0 - lam1: 14.554
+Epoch: 061/100 | Batch 0400/0636 | train_loss: 0.0230 | penalty_loss: -0.0000
+eta: 110.092 | lam0 - lam1: 14.431
+Epoch: 061/100 | Batch 0450/0636 | train_loss: 0.0306 | penalty_loss: 0.0000
+eta: 110.092 | lam0 - lam1: 14.264
+Epoch: 061/100 | Batch 0500/0636 | train_loss: 0.0192 | penalty_loss: -0.0000
+eta: 110.092 | lam0 - lam1: 14.187
+Epoch: 061/100 | Batch 0550/0636 | train_loss: 0.0358 | penalty_loss: -0.0000
+eta: 110.092 | lam0 - lam1: 14.161
+Epoch: 061/100 | Batch 0600/0636 | train_loss: 0.0820 | penalty_loss: 0.0000
+eta: 110.092 | lam0 - lam1: 14.131
+Epoch: 061/100 | Train Acc: 97.114% | Train Ddp: 0.326% | Train Deo: 0.191%
+Epoch: 061/100 | Valid Acc: 76.474% | Valid Ddp: 0.430% | Valid Deo: 17.597%
+Time elapsed: 1386.82 min
+Epoch: 062/100 | Batch 0000/0636 | train_loss: 0.0463 | penalty_loss: -0.0001
+eta: 111.193 | lam0 - lam1: 14.069
+Epoch: 062/100 | Batch 0050/0636 | train_loss: 0.0130 | penalty_loss: 0.0001
+eta: 111.193 | lam0 - lam1: 14.120
+Epoch: 062/100 | Batch 0100/0636 | train_loss: 0.0419 | penalty_loss: 0.0001
+eta: 111.193 | lam0 - lam1: 14.183
+Epoch: 062/100 | Batch 0150/0636 | train_loss: 0.0252 | penalty_loss: 0.0001
+eta: 111.193 | lam0 - lam1: 14.305
+Epoch: 062/100 | Batch 0200/0636 | train_loss: 0.1226 | penalty_loss: -0.0000
+eta: 111.193 | lam0 - lam1: 14.303
+Epoch: 062/100 | Batch 0250/0636 | train_loss: 0.0457 | penalty_loss: 0.0000
+eta: 111.193 | lam0 - lam1: 14.205
+Epoch: 062/100 | Batch 0300/0636 | train_loss: 0.0190 | penalty_loss: 0.0001
+eta: 111.193 | lam0 - lam1: 14.198
+Epoch: 062/100 | Batch 0350/0636 | train_loss: 0.0560 | penalty_loss: 0.0001
+eta: 111.193 | lam0 - lam1: 14.213
+Epoch: 062/100 | Batch 0400/0636 | train_loss: 0.1315 | penalty_loss: 0.0000
+eta: 111.193 | lam0 - lam1: 14.170
+Epoch: 062/100 | Batch 0450/0636 | train_loss: 0.0569 | penalty_loss: 0.0000
+eta: 111.193 | lam0 - lam1: 14.118
+Epoch: 062/100 | Batch 0500/0636 | train_loss: 0.0331 | penalty_loss: 0.0000
+eta: 111.193 | lam0 - lam1: 14.042
+Epoch: 062/100 | Batch 0550/0636 | train_loss: 0.0548 | penalty_loss: -0.0000
+eta: 111.193 | lam0 - lam1: 13.915
+Epoch: 062/100 | Batch 0600/0636 | train_loss: 0.0209 | penalty_loss: -0.0000
+eta: 111.193 | lam0 - lam1: 13.844
+Epoch: 062/100 | Train Acc: 95.486% | Train Ddp: 1.447% | Train Deo: 0.072%
+Epoch: 062/100 | Valid Acc: 75.693% | Valid Ddp: 0.079% | Valid Deo: 16.706%
+Time elapsed: 1477.12 min
+Epoch: 063/100 | Batch 0000/0636 | train_loss: 0.0190 | penalty_loss: 0.0000
+eta: 112.305 | lam0 - lam1: 13.761
+Epoch: 063/100 | Batch 0050/0636 | train_loss: 0.0616 | penalty_loss: 0.0000
+eta: 112.305 | lam0 - lam1: 13.708
+Epoch: 063/100 | Batch 0100/0636 | train_loss: 0.0617 | penalty_loss: 0.0001
+eta: 112.305 | lam0 - lam1: 13.745
+Epoch: 063/100 | Batch 0150/0636 | train_loss: 0.0115 | penalty_loss: 0.0000
+eta: 112.305 | lam0 - lam1: 13.783
+Epoch: 063/100 | Batch 0200/0636 | train_loss: 0.0372 | penalty_loss: -0.0001
+eta: 112.305 | lam0 - lam1: 13.863
+Epoch: 063/100 | Batch 0250/0636 | train_loss: 0.0525 | penalty_loss: 0.0000
+eta: 112.305 | lam0 - lam1: 13.836
+Epoch: 063/100 | Batch 0300/0636 | train_loss: 0.0333 | penalty_loss: 0.0000
+eta: 112.305 | lam0 - lam1: 13.885
+Epoch: 063/100 | Batch 0350/0636 | train_loss: 0.0188 | penalty_loss: 0.0001
+eta: 112.305 | lam0 - lam1: 13.892
+Epoch: 063/100 | Batch 0400/0636 | train_loss: 0.0202 | penalty_loss: -0.0000
+eta: 112.305 | lam0 - lam1: 13.807
+Epoch: 063/100 | Batch 0450/0636 | train_loss: 0.0101 | penalty_loss: -0.0000
+eta: 112.305 | lam0 - lam1: 13.863
+Epoch: 063/100 | Batch 0500/0636 | train_loss: 0.0417 | penalty_loss: 0.0001
+eta: 112.305 | lam0 - lam1: 13.940
+Epoch: 063/100 | Batch 0550/0636 | train_loss: 0.0141 | penalty_loss: 0.0000
+eta: 112.305 | lam0 - lam1: 13.999
+Epoch: 063/100 | Batch 0600/0636 | train_loss: 0.0529 | penalty_loss: 0.0000
+eta: 112.305 | lam0 - lam1: 14.019
+Epoch: 063/100 | Train Acc: 96.705% | Train Ddp: 0.381% | Train Deo: 0.001%
+Epoch: 063/100 | Valid Acc: 76.036% | Valid Ddp: 0.019% | Valid Deo: 16.504%
+Time elapsed: 1563.80 min
+Epoch: 064/100 | Batch 0000/0636 | train_loss: 0.0149 | penalty_loss: -0.0000
+eta: 113.428 | lam0 - lam1: 14.004
+Epoch: 064/100 | Batch 0050/0636 | train_loss: 0.0063 | penalty_loss: 0.0000
+eta: 113.428 | lam0 - lam1: 13.967
+Epoch: 064/100 | Batch 0100/0636 | train_loss: 0.0099 | penalty_loss: 0.0000
+eta: 113.428 | lam0 - lam1: 13.936
+Epoch: 064/100 | Batch 0150/0636 | train_loss: 0.0323 | penalty_loss: 0.0000
+eta: 113.428 | lam0 - lam1: 13.985
+Epoch: 064/100 | Batch 0200/0636 | train_loss: 0.0138 | penalty_loss: 0.0001
+eta: 113.428 | lam0 - lam1: 14.086
+Epoch: 064/100 | Batch 0250/0636 | train_loss: 0.0986 | penalty_loss: 0.0000
+eta: 113.428 | lam0 - lam1: 14.144
+Epoch: 064/100 | Batch 0300/0636 | train_loss: 0.0283 | penalty_loss: 0.0000
+eta: 113.428 | lam0 - lam1: 14.223
+Epoch: 064/100 | Batch 0350/0636 | train_loss: 0.0935 | penalty_loss: 0.0000
+eta: 113.428 | lam0 - lam1: 14.180
+Epoch: 064/100 | Batch 0400/0636 | train_loss: 0.0153 | penalty_loss: 0.0001
+eta: 113.428 | lam0 - lam1: 14.244
+Epoch: 064/100 | Batch 0450/0636 | train_loss: 0.0759 | penalty_loss: 0.0000
+eta: 113.428 | lam0 - lam1: 14.263
+Epoch: 064/100 | Batch 0500/0636 | train_loss: 0.0527 | penalty_loss: -0.0000
+eta: 113.428 | lam0 - lam1: 14.282
+Epoch: 064/100 | Batch 0550/0636 | train_loss: 0.0403 | penalty_loss: 0.0000
+eta: 113.428 | lam0 - lam1: 14.346
+Epoch: 064/100 | Batch 0600/0636 | train_loss: 0.0400 | penalty_loss: -0.0000
+eta: 113.428 | lam0 - lam1: 14.411
+Epoch: 064/100 | Train Acc: 95.648% | Train Ddp: 0.514% | Train Deo: 0.191%
+Epoch: 064/100 | Valid Acc: 75.880% | Valid Ddp: 0.121% | Valid Deo: 16.908%
+Time elapsed: 1646.61 min
+Epoch: 065/100 | Batch 0000/0636 | train_loss: 0.1148 | penalty_loss: 0.0000
+eta: 114.562 | lam0 - lam1: 14.435
+Epoch: 065/100 | Batch 0050/0636 | train_loss: 0.0559 | penalty_loss: -0.0000
+eta: 114.562 | lam0 - lam1: 14.433
+Epoch: 065/100 | Batch 0100/0636 | train_loss: 0.0095 | penalty_loss: 0.0000
+eta: 114.562 | lam0 - lam1: 14.426
+Epoch: 065/100 | Batch 0150/0636 | train_loss: 0.0060 | penalty_loss: 0.0001
+eta: 114.562 | lam0 - lam1: 14.476
+Epoch: 065/100 | Batch 0200/0636 | train_loss: 0.0213 | penalty_loss: -0.0000
+eta: 114.562 | lam0 - lam1: 14.487
+Epoch: 065/100 | Batch 0250/0636 | train_loss: 0.0149 | penalty_loss: -0.0000
+eta: 114.562 | lam0 - lam1: 14.480
+Epoch: 065/100 | Batch 0300/0636 | train_loss: 0.0333 | penalty_loss: 0.0000
+eta: 114.562 | lam0 - lam1: 14.599
+Epoch: 065/100 | Batch 0350/0636 | train_loss: 0.0101 | penalty_loss: 0.0000
+eta: 114.562 | lam0 - lam1: 14.668
+Epoch: 065/100 | Batch 0400/0636 | train_loss: 0.0644 | penalty_loss: 0.0000
+eta: 114.562 | lam0 - lam1: 14.555
+Epoch: 065/100 | Batch 0450/0636 | train_loss: 0.0662 | penalty_loss: -0.0000
+eta: 114.562 | lam0 - lam1: 14.489
+Epoch: 065/100 | Batch 0500/0636 | train_loss: 0.0489 | penalty_loss: -0.0000
+eta: 114.562 | lam0 - lam1: 14.548
+Epoch: 065/100 | Batch 0550/0636 | train_loss: 0.0607 | penalty_loss: -0.0000
+eta: 114.562 | lam0 - lam1: 14.591
+Epoch: 065/100 | Batch 0600/0636 | train_loss: 0.0111 | penalty_loss: 0.0001
+eta: 114.562 | lam0 - lam1: 14.774
+Epoch: 065/100 | Train Acc: 95.883% | Train Ddp: 0.158% | Train Deo: 0.067%
+Epoch: 065/100 | Valid Acc: 75.784% | Valid Ddp: 0.573% | Valid Deo: 15.889%
+Time elapsed: 1727.39 min
+Epoch: 066/100 | Batch 0000/0636 | train_loss: 0.0156 | penalty_loss: 0.0000
+eta: 115.708 | lam0 - lam1: 14.850
+Epoch: 066/100 | Batch 0050/0636 | train_loss: 0.0149 | penalty_loss: -0.0000
+eta: 115.708 | lam0 - lam1: 14.896
+Epoch: 066/100 | Batch 0100/0636 | train_loss: 0.0331 | penalty_loss: -0.0000
+eta: 115.708 | lam0 - lam1: 14.841
+Epoch: 066/100 | Batch 0150/0636 | train_loss: 0.0664 | penalty_loss: 0.0000
+eta: 115.708 | lam0 - lam1: 14.926
+Epoch: 066/100 | Batch 0200/0636 | train_loss: 0.0181 | penalty_loss: -0.0000
+eta: 115.708 | lam0 - lam1: 15.010
+Epoch: 066/100 | Batch 0250/0636 | train_loss: 0.0309 | penalty_loss: -0.0000
+eta: 115.708 | lam0 - lam1: 15.012
+Epoch: 066/100 | Batch 0300/0636 | train_loss: 0.0183 | penalty_loss: 0.0000
+eta: 115.708 | lam0 - lam1: 15.063
+Epoch: 066/100 | Batch 0350/0636 | train_loss: 0.0130 | penalty_loss: 0.0000
+eta: 115.708 | lam0 - lam1: 14.997
+Epoch: 066/100 | Batch 0400/0636 | train_loss: 0.0051 | penalty_loss: 0.0000
+eta: 115.708 | lam0 - lam1: 14.948
+Epoch: 066/100 | Batch 0450/0636 | train_loss: 0.0352 | penalty_loss: 0.0001
+eta: 115.708 | lam0 - lam1: 15.011
+Epoch: 066/100 | Batch 0500/0636 | train_loss: 0.0284 | penalty_loss: 0.0001
+eta: 115.708 | lam0 - lam1: 15.042
+Epoch: 066/100 | Batch 0550/0636 | train_loss: 0.0580 | penalty_loss: 0.0000
+eta: 115.708 | lam0 - lam1: 14.963
+Epoch: 066/100 | Batch 0600/0636 | train_loss: 0.0100 | penalty_loss: -0.0000
+eta: 115.708 | lam0 - lam1: 15.011
+Epoch: 066/100 | Train Acc: 96.273% | Train Ddp: 1.137% | Train Deo: 0.074%
+Epoch: 066/100 | Valid Acc: 76.217% | Valid Ddp: 0.359% | Valid Deo: 13.846%
+Time elapsed: 1806.78 min
+Epoch: 067/100 | Batch 0000/0636 | train_loss: 0.0211 | penalty_loss: 0.0000
+eta: 116.865 | lam0 - lam1: 15.138
+Epoch: 067/100 | Batch 0050/0636 | train_loss: 0.0586 | penalty_loss: -0.0001
+eta: 116.865 | lam0 - lam1: 15.194
+Epoch: 067/100 | Batch 0100/0636 | train_loss: 0.0151 | penalty_loss: 0.0001
+eta: 116.865 | lam0 - lam1: 15.152
+Epoch: 067/100 | Batch 0150/0636 | train_loss: 0.0174 | penalty_loss: -0.0001
+eta: 116.865 | lam0 - lam1: 15.156
+Epoch: 067/100 | Batch 0200/0636 | train_loss: 0.0168 | penalty_loss: 0.0001
+eta: 116.865 | lam0 - lam1: 15.135
+Epoch: 067/100 | Batch 0250/0636 | train_loss: 0.0678 | penalty_loss: -0.0001
+eta: 116.865 | lam0 - lam1: 15.172
+Epoch: 067/100 | Batch 0300/0636 | train_loss: 0.0868 | penalty_loss: 0.0000
+eta: 116.865 | lam0 - lam1: 15.266
+Epoch: 067/100 | Batch 0350/0636 | train_loss: 0.0404 | penalty_loss: 0.0001
+eta: 116.865 | lam0 - lam1: 15.298
+Epoch: 067/100 | Batch 0400/0636 | train_loss: 0.0551 | penalty_loss: -0.0001
+eta: 116.865 | lam0 - lam1: 15.499
+Epoch: 067/100 | Batch 0450/0636 | train_loss: 0.0481 | penalty_loss: 0.0001
+eta: 116.865 | lam0 - lam1: 15.533
+Epoch: 067/100 | Batch 0500/0636 | train_loss: 0.1359 | penalty_loss: 0.0000
+eta: 116.865 | lam0 - lam1: 15.576
+Epoch: 067/100 | Batch 0550/0636 | train_loss: 0.0579 | penalty_loss: -0.0001
+eta: 116.865 | lam0 - lam1: 15.574
+Epoch: 067/100 | Batch 0600/0636 | train_loss: 0.0706 | penalty_loss: 0.0001
+eta: 116.865 | lam0 - lam1: 15.717
+Epoch: 067/100 | Train Acc: 95.778% | Train Ddp: 2.213% | Train Deo: 0.210%
+Epoch: 067/100 | Valid Acc: 75.814% | Valid Ddp: 0.316% | Valid Deo: 11.235%
+Time elapsed: 1848.31 min
+Epoch: 068/100 | Batch 0000/0636 | train_loss: 0.1129 | penalty_loss: 0.0001
+eta: 118.033 | lam0 - lam1: 15.799
+Epoch: 068/100 | Batch 0050/0636 | train_loss: 0.0622 | penalty_loss: -0.0000
+eta: 118.033 | lam0 - lam1: 15.707
+Epoch: 068/100 | Batch 0100/0636 | train_loss: 0.0277 | penalty_loss: -0.0000
+eta: 118.033 | lam0 - lam1: 15.730
+Epoch: 068/100 | Batch 0150/0636 | train_loss: 0.0435 | penalty_loss: 0.0000
+eta: 118.033 | lam0 - lam1: 15.713
+Epoch: 068/100 | Batch 0200/0636 | train_loss: 0.0956 | penalty_loss: -0.0000
+eta: 118.033 | lam0 - lam1: 15.667
+Epoch: 068/100 | Batch 0250/0636 | train_loss: 0.0116 | penalty_loss: -0.0001
+eta: 118.033 | lam0 - lam1: 15.671
+Epoch: 068/100 | Batch 0300/0636 | train_loss: 0.0212 | penalty_loss: -0.0001
+eta: 118.033 | lam0 - lam1: 15.703
+Epoch: 068/100 | Batch 0350/0636 | train_loss: 0.0089 | penalty_loss: -0.0000
+eta: 118.033 | lam0 - lam1: 15.736
+Epoch: 068/100 | Batch 0400/0636 | train_loss: 0.0793 | penalty_loss: -0.0000
+eta: 118.033 | lam0 - lam1: 15.703
+Epoch: 068/100 | Batch 0450/0636 | train_loss: 0.0317 | penalty_loss: -0.0000
+eta: 118.033 | lam0 - lam1: 15.800
+Epoch: 068/100 | Batch 0500/0636 | train_loss: 0.0207 | penalty_loss: 0.0000
+eta: 118.033 | lam0 - lam1: 15.889
+Epoch: 068/100 | Batch 0550/0636 | train_loss: 0.0419 | penalty_loss: -0.0001
+eta: 118.033 | lam0 - lam1: 15.938
+Epoch: 068/100 | Batch 0600/0636 | train_loss: 0.0326 | penalty_loss: -0.0000
+eta: 118.033 | lam0 - lam1: 16.067
+Epoch: 068/100 | Train Acc: 94.779% | Train Ddp: 3.089% | Train Deo: 0.071%
+Epoch: 068/100 | Valid Acc: 75.115% | Valid Ddp: 3.990% | Valid Deo: 20.289%
+Time elapsed: 1884.98 min
+Epoch: 069/100 | Batch 0000/0636 | train_loss: 0.0570 | penalty_loss: -0.0000
+eta: 119.214 | lam0 - lam1: 16.090
+Epoch: 069/100 | Batch 0050/0636 | train_loss: 0.0070 | penalty_loss: 0.0001
+eta: 119.214 | lam0 - lam1: 16.117
+Epoch: 069/100 | Batch 0100/0636 | train_loss: 0.0134 | penalty_loss: -0.0000
+eta: 119.214 | lam0 - lam1: 16.184
+Epoch: 069/100 | Batch 0150/0636 | train_loss: 0.0070 | penalty_loss: 0.0000
+eta: 119.214 | lam0 - lam1: 16.276
+Epoch: 069/100 | Batch 0200/0636 | train_loss: 0.0110 | penalty_loss: -0.0000
+eta: 119.214 | lam0 - lam1: 16.309
+Epoch: 069/100 | Batch 0250/0636 | train_loss: 0.0054 | penalty_loss: 0.0000
+eta: 119.214 | lam0 - lam1: 16.309
+Epoch: 069/100 | Batch 0300/0636 | train_loss: 0.0593 | penalty_loss: 0.0000
+eta: 119.214 | lam0 - lam1: 16.358
+Epoch: 069/100 | Batch 0350/0636 | train_loss: 0.0205 | penalty_loss: 0.0000
+eta: 119.214 | lam0 - lam1: 16.388
+Epoch: 069/100 | Batch 0400/0636 | train_loss: 0.0815 | penalty_loss: 0.0000
+eta: 119.214 | lam0 - lam1: 16.462
+Epoch: 069/100 | Batch 0450/0636 | train_loss: 0.0716 | penalty_loss: -0.0000
+eta: 119.214 | lam0 - lam1: 16.425
+Epoch: 069/100 | Batch 0500/0636 | train_loss: 0.0338 | penalty_loss: 0.0000
+eta: 119.214 | lam0 - lam1: 16.478
+Epoch: 069/100 | Batch 0550/0636 | train_loss: 0.0208 | penalty_loss: 0.0000
+eta: 119.214 | lam0 - lam1: 16.560
+Epoch: 069/100 | Batch 0600/0636 | train_loss: 0.0521 | penalty_loss: -0.0000
+eta: 119.214 | lam0 - lam1: 16.587
+Epoch: 069/100 | Train Acc: 94.926% | Train Ddp: 0.544% | Train Deo: 0.027%
+Epoch: 069/100 | Valid Acc: 75.593% | Valid Ddp: 1.681% | Valid Deo: 14.934%
+Time elapsed: 1921.96 min
+Epoch: 070/100 | Batch 0000/0636 | train_loss: 0.0393 | penalty_loss: -0.0001
+eta: 120.406 | lam0 - lam1: 16.657
+Epoch: 070/100 | Batch 0050/0636 | train_loss: 0.0393 | penalty_loss: 0.0001
+eta: 120.406 | lam0 - lam1: 16.767
+Epoch: 070/100 | Batch 0100/0636 | train_loss: 0.0568 | penalty_loss: -0.0000
+eta: 120.406 | lam0 - lam1: 16.750
+Epoch: 070/100 | Batch 0150/0636 | train_loss: 0.0090 | penalty_loss: 0.0000
+eta: 120.406 | lam0 - lam1: 16.818
+Epoch: 070/100 | Batch 0200/0636 | train_loss: 0.0341 | penalty_loss: -0.0000
+eta: 120.406 | lam0 - lam1: 16.878
+Epoch: 070/100 | Batch 0250/0636 | train_loss: 0.0077 | penalty_loss: -0.0000
+eta: 120.406 | lam0 - lam1: 16.919
+Epoch: 070/100 | Batch 0300/0636 | train_loss: 0.0456 | penalty_loss: 0.0000
+eta: 120.406 | lam0 - lam1: 16.965
+Epoch: 070/100 | Batch 0350/0636 | train_loss: 0.0551 | penalty_loss: -0.0000
+eta: 120.406 | lam0 - lam1: 16.947
+Epoch: 070/100 | Batch 0400/0636 | train_loss: 0.0149 | penalty_loss: 0.0000
+eta: 120.406 | lam0 - lam1: 16.988
+Epoch: 070/100 | Batch 0450/0636 | train_loss: 0.0354 | penalty_loss: 0.0000
+eta: 120.406 | lam0 - lam1: 16.969
+Epoch: 070/100 | Batch 0500/0636 | train_loss: 0.0217 | penalty_loss: 0.0000
+eta: 120.406 | lam0 - lam1: 17.022
+Epoch: 070/100 | Batch 0550/0636 | train_loss: 0.0302 | penalty_loss: 0.0000
+eta: 120.406 | lam0 - lam1: 16.996
+Epoch: 070/100 | Batch 0600/0636 | train_loss: 0.1003 | penalty_loss: 0.0000
+eta: 120.406 | lam0 - lam1: 17.105
+Epoch: 070/100 | Train Acc: 95.457% | Train Ddp: 1.465% | Train Deo: 0.001%
+Epoch: 070/100 | Valid Acc: 74.873% | Valid Ddp: 0.427% | Valid Deo: 12.880%
+Time elapsed: 1958.82 min
+Epoch: 071/100 | Batch 0000/0636 | train_loss: 0.0064 | penalty_loss: -0.0000
+eta: 121.610 | lam0 - lam1: 17.129
+Epoch: 071/100 | Batch 0050/0636 | train_loss: 0.0133 | penalty_loss: 0.0000
+eta: 121.610 | lam0 - lam1: 17.150
+Epoch: 071/100 | Batch 0100/0636 | train_loss: 0.0264 | penalty_loss: 0.0000
+eta: 121.610 | lam0 - lam1: 17.208
+Epoch: 071/100 | Batch 0150/0636 | train_loss: 0.0442 | penalty_loss: -0.0000
+eta: 121.610 | lam0 - lam1: 17.232
+Epoch: 071/100 | Batch 0200/0636 | train_loss: 0.0104 | penalty_loss: 0.0000
+eta: 121.610 | lam0 - lam1: 17.228
+Epoch: 071/100 | Batch 0250/0636 | train_loss: 0.0223 | penalty_loss: -0.0000
+eta: 121.610 | lam0 - lam1: 17.251
+Epoch: 071/100 | Batch 0300/0636 | train_loss: 0.0602 | penalty_loss: -0.0001
+eta: 121.610 | lam0 - lam1: 17.201
+Epoch: 071/100 | Batch 0350/0636 | train_loss: 0.0208 | penalty_loss: -0.0000
+eta: 121.610 | lam0 - lam1: 17.145
+Epoch: 071/100 | Batch 0400/0636 | train_loss: 0.0079 | penalty_loss: -0.0000
+eta: 121.610 | lam0 - lam1: 17.112
+Epoch: 071/100 | Batch 0450/0636 | train_loss: 0.0156 | penalty_loss: -0.0000
+eta: 121.610 | lam0 - lam1: 17.134
+Epoch: 071/100 | Batch 0500/0636 | train_loss: 0.0293 | penalty_loss: 0.0000
+eta: 121.610 | lam0 - lam1: 17.142
+Epoch: 071/100 | Batch 0550/0636 | train_loss: 0.0156 | penalty_loss: 0.0000
+eta: 121.610 | lam0 - lam1: 17.205
+Epoch: 071/100 | Batch 0600/0636 | train_loss: 0.0994 | penalty_loss: -0.0000
+eta: 121.610 | lam0 - lam1: 17.263
+Epoch: 071/100 | Train Acc: 92.631% | Train Ddp: 2.791% | Train Deo: 0.055%
+Epoch: 071/100 | Valid Acc: 73.755% | Valid Ddp: 3.237% | Valid Deo: 11.654%
+Time elapsed: 1995.55 min
+Epoch: 072/100 | Batch 0000/0636 | train_loss: 0.0340 | penalty_loss: 0.0001
+eta: 122.826 | lam0 - lam1: 17.168
+Epoch: 072/100 | Batch 0050/0636 | train_loss: 0.0170 | penalty_loss: -0.0000
+eta: 122.826 | lam0 - lam1: 17.147
+Epoch: 072/100 | Batch 0100/0636 | train_loss: 0.0109 | penalty_loss: -0.0000
+eta: 122.826 | lam0 - lam1: 17.144
+Epoch: 072/100 | Batch 0150/0636 | train_loss: 0.0136 | penalty_loss: -0.0000
+eta: 122.826 | lam0 - lam1: 17.156
+Epoch: 072/100 | Batch 0200/0636 | train_loss: 0.0181 | penalty_loss: 0.0000
+eta: 122.826 | lam0 - lam1: 17.211
+Epoch: 072/100 | Batch 0250/0636 | train_loss: 0.0903 | penalty_loss: 0.0000
+eta: 122.826 | lam0 - lam1: 17.218
+Epoch: 072/100 | Batch 0300/0636 | train_loss: 0.0170 | penalty_loss: 0.0000
+eta: 122.826 | lam0 - lam1: 17.268
+Epoch: 072/100 | Batch 0350/0636 | train_loss: 0.1238 | penalty_loss: 0.0000
+eta: 122.826 | lam0 - lam1: 17.323
+Epoch: 072/100 | Batch 0400/0636 | train_loss: 0.0339 | penalty_loss: 0.0000
+eta: 122.826 | lam0 - lam1: 17.394
+Epoch: 072/100 | Batch 0450/0636 | train_loss: 0.0300 | penalty_loss: 0.0000
+eta: 122.826 | lam0 - lam1: 17.397
+Epoch: 072/100 | Batch 0500/0636 | train_loss: 0.0731 | penalty_loss: 0.0000
+eta: 122.826 | lam0 - lam1: 17.418
+Epoch: 072/100 | Batch 0550/0636 | train_loss: 0.0160 | penalty_loss: 0.0000
+eta: 122.826 | lam0 - lam1: 17.454
+Epoch: 072/100 | Batch 0600/0636 | train_loss: 0.0213 | penalty_loss: 0.0001
+eta: 122.826 | lam0 - lam1: 17.419
+Epoch: 072/100 | Train Acc: 88.042% | Train Ddp: 0.712% | Train Deo: 0.002%
+Epoch: 072/100 | Valid Acc: 74.214% | Valid Ddp: 1.091% | Valid Deo: 10.181%
+Time elapsed: 2032.18 min
+Epoch: 073/100 | Batch 0000/0636 | train_loss: 0.0669 | penalty_loss: -0.0000
+eta: 124.054 | lam0 - lam1: 17.475
+Epoch: 073/100 | Batch 0050/0636 | train_loss: 0.0407 | penalty_loss: -0.0001
+eta: 124.054 | lam0 - lam1: 17.443
+Epoch: 073/100 | Batch 0100/0636 | train_loss: 0.0518 | penalty_loss: 0.0000
+eta: 124.054 | lam0 - lam1: 17.464
+Epoch: 073/100 | Batch 0150/0636 | train_loss: 0.0072 | penalty_loss: 0.0000
+eta: 124.054 | lam0 - lam1: 17.482
+Epoch: 073/100 | Batch 0200/0636 | train_loss: 0.0161 | penalty_loss: 0.0000
+eta: 124.054 | lam0 - lam1: 17.540
+Epoch: 073/100 | Batch 0250/0636 | train_loss: 0.0458 | penalty_loss: 0.0000
+eta: 124.054 | lam0 - lam1: 17.561
+Epoch: 073/100 | Batch 0300/0636 | train_loss: 0.0315 | penalty_loss: 0.0000
+eta: 124.054 | lam0 - lam1: 17.466
+Epoch: 073/100 | Batch 0350/0636 | train_loss: 0.0124 | penalty_loss: 0.0000
+eta: 124.054 | lam0 - lam1: 17.455
+Epoch: 073/100 | Batch 0400/0636 | train_loss: 0.0206 | penalty_loss: -0.0000
+eta: 124.054 | lam0 - lam1: 17.465
+Epoch: 073/100 | Batch 0450/0636 | train_loss: 0.0223 | penalty_loss: 0.0001
+eta: 124.054 | lam0 - lam1: 17.517
+Epoch: 073/100 | Batch 0500/0636 | train_loss: 0.0149 | penalty_loss: -0.0001
+eta: 124.054 | lam0 - lam1: 17.510
+Epoch: 073/100 | Batch 0550/0636 | train_loss: 0.0258 | penalty_loss: -0.0000
+eta: 124.054 | lam0 - lam1: 17.623
+Epoch: 073/100 | Batch 0600/0636 | train_loss: 0.0195 | penalty_loss: -0.0000
+eta: 124.054 | lam0 - lam1: 17.655
+Epoch: 073/100 | Train Acc: 93.600% | Train Ddp: 2.411% | Train Deo: 0.073%
+Epoch: 073/100 | Valid Acc: 75.235% | Valid Ddp: 2.314% | Valid Deo: 11.506%
+Time elapsed: 2069.90 min
+Epoch: 074/100 | Batch 0000/0636 | train_loss: 0.0488 | penalty_loss: 0.0000
+eta: 125.295 | lam0 - lam1: 17.693
+Epoch: 074/100 | Batch 0050/0636 | train_loss: 0.0164 | penalty_loss: 0.0000
+eta: 125.295 | lam0 - lam1: 17.658
+Epoch: 074/100 | Batch 0100/0636 | train_loss: 0.0154 | penalty_loss: 0.0000
+eta: 125.295 | lam0 - lam1: 17.604
+Epoch: 074/100 | Batch 0150/0636 | train_loss: 0.0348 | penalty_loss: 0.0000
+eta: 125.295 | lam0 - lam1: 17.566
+Epoch: 074/100 | Batch 0200/0636 | train_loss: 0.0128 | penalty_loss: -0.0000
+eta: 125.295 | lam0 - lam1: 17.481
+Epoch: 074/100 | Batch 0250/0636 | train_loss: 0.0119 | penalty_loss: 0.0000
+eta: 125.295 | lam0 - lam1: 17.463
+Epoch: 074/100 | Batch 0300/0636 | train_loss: 0.0309 | penalty_loss: 0.0000
+eta: 125.295 | lam0 - lam1: 17.450
+Epoch: 074/100 | Batch 0350/0636 | train_loss: 0.0251 | penalty_loss: 0.0000
+eta: 125.295 | lam0 - lam1: 17.526
+Epoch: 074/100 | Batch 0400/0636 | train_loss: 0.0594 | penalty_loss: 0.0000
+eta: 125.295 | lam0 - lam1: 17.569
+Epoch: 074/100 | Batch 0450/0636 | train_loss: 0.0632 | penalty_loss: 0.0000
+eta: 125.295 | lam0 - lam1: 17.665
+Epoch: 074/100 | Batch 0500/0636 | train_loss: 0.0382 | penalty_loss: -0.0000
+eta: 125.295 | lam0 - lam1: 17.884
+Epoch: 074/100 | Batch 0550/0636 | train_loss: 0.0164 | penalty_loss: 0.0000
+eta: 125.295 | lam0 - lam1: 17.973
+Epoch: 074/100 | Batch 0600/0636 | train_loss: 0.0820 | penalty_loss: 0.0001
+eta: 125.295 | lam0 - lam1: 18.100
+Epoch: 074/100 | Train Acc: 97.227% | Train Ddp: 0.215% | Train Deo: 0.055%
+Epoch: 074/100 | Valid Acc: 76.383% | Valid Ddp: 0.318% | Valid Deo: 16.567%
+Time elapsed: 2107.62 min
+Epoch: 075/100 | Batch 0000/0636 | train_loss: 0.0029 | penalty_loss: 0.0000
+eta: 126.548 | lam0 - lam1: 18.232
+Epoch: 075/100 | Batch 0050/0636 | train_loss: 0.0160 | penalty_loss: -0.0000
+eta: 126.548 | lam0 - lam1: 18.303
+Epoch: 075/100 | Batch 0100/0636 | train_loss: 0.0226 | penalty_loss: 0.0000
+eta: 126.548 | lam0 - lam1: 18.369
+Epoch: 075/100 | Batch 0150/0636 | train_loss: 0.0122 | penalty_loss: 0.0000
+eta: 126.548 | lam0 - lam1: 18.449
+Epoch: 075/100 | Batch 0200/0636 | train_loss: 0.0216 | penalty_loss: -0.0000
+eta: 126.548 | lam0 - lam1: 18.482
+Epoch: 075/100 | Batch 0250/0636 | train_loss: 0.0049 | penalty_loss: -0.0001
+eta: 126.548 | lam0 - lam1: 18.450
+Epoch: 075/100 | Batch 0300/0636 | train_loss: 0.0115 | penalty_loss: -0.0000
+eta: 126.548 | lam0 - lam1: 18.400
+Epoch: 075/100 | Batch 0350/0636 | train_loss: 0.0187 | penalty_loss: -0.0000
+eta: 126.548 | lam0 - lam1: 18.429
+Epoch: 075/100 | Batch 0400/0636 | train_loss: 0.0234 | penalty_loss: -0.0000
+eta: 126.548 | lam0 - lam1: 18.360
+Epoch: 075/100 | Batch 0450/0636 | train_loss: 0.0564 | penalty_loss: 0.0000
+eta: 126.548 | lam0 - lam1: 18.350
+Epoch: 075/100 | Batch 0500/0636 | train_loss: 0.0104 | penalty_loss: -0.0000
+eta: 126.548 | lam0 - lam1: 18.199
+Epoch: 075/100 | Batch 0550/0636 | train_loss: 0.0137 | penalty_loss: -0.0001
+eta: 126.548 | lam0 - lam1: 18.161
+Epoch: 075/100 | Batch 0600/0636 | train_loss: 0.0352 | penalty_loss: 0.0000
+eta: 126.548 | lam0 - lam1: 18.182
+Epoch: 075/100 | Train Acc: 92.195% | Train Ddp: 0.287% | Train Deo: 0.074%
+Epoch: 075/100 | Valid Acc: 75.633% | Valid Ddp: 0.927% | Valid Deo: 12.337%
+Time elapsed: 2145.71 min
+Epoch: 076/100 | Batch 0000/0636 | train_loss: 0.0843 | penalty_loss: -0.0000
+eta: 127.813 | lam0 - lam1: 18.052
+Epoch: 076/100 | Batch 0050/0636 | train_loss: 0.0618 | penalty_loss: -0.0000
+eta: 127.813 | lam0 - lam1: 18.077
+Epoch: 076/100 | Batch 0100/0636 | train_loss: 0.0199 | penalty_loss: -0.0001
+eta: 127.813 | lam0 - lam1: 18.073
+Epoch: 076/100 | Batch 0150/0636 | train_loss: 0.0341 | penalty_loss: -0.0000
+eta: 127.813 | lam0 - lam1: 18.133
+Epoch: 076/100 | Batch 0200/0636 | train_loss: 0.0424 | penalty_loss: 0.0000
+eta: 127.813 | lam0 - lam1: 18.231
+Epoch: 076/100 | Batch 0250/0636 | train_loss: 0.0473 | penalty_loss: -0.0000
+eta: 127.813 | lam0 - lam1: 18.146
+Epoch: 076/100 | Batch 0300/0636 | train_loss: 0.0439 | penalty_loss: -0.0001
+eta: 127.813 | lam0 - lam1: 17.913
+Epoch: 076/100 | Batch 0350/0636 | train_loss: 0.0379 | penalty_loss: 0.0000
+eta: 127.813 | lam0 - lam1: 17.884
+Epoch: 076/100 | Batch 0400/0636 | train_loss: 0.0681 | penalty_loss: 0.0000
+eta: 127.813 | lam0 - lam1: 17.838
+Epoch: 076/100 | Batch 0450/0636 | train_loss: 0.1084 | penalty_loss: -0.0000
+eta: 127.813 | lam0 - lam1: 17.867
+Epoch: 076/100 | Batch 0500/0636 | train_loss: 0.0574 | penalty_loss: 0.0001
+eta: 127.813 | lam0 - lam1: 17.883
+Epoch: 076/100 | Batch 0550/0636 | train_loss: 0.0277 | penalty_loss: -0.0000
+eta: 127.813 | lam0 - lam1: 17.787
+Epoch: 076/100 | Batch 0600/0636 | train_loss: 0.0569 | penalty_loss: -0.0001
+eta: 127.813 | lam0 - lam1: 17.711
+Epoch: 076/100 | Train Acc: 93.898% | Train Ddp: 0.152% | Train Deo: 0.003%
+Epoch: 076/100 | Valid Acc: 74.707% | Valid Ddp: 1.085% | Valid Deo: 11.903%
+Time elapsed: 2183.12 min
+Epoch: 077/100 | Batch 0000/0636 | train_loss: 0.0206 | penalty_loss: 0.0000
+eta: 129.091 | lam0 - lam1: 17.736
+Epoch: 077/100 | Batch 0050/0636 | train_loss: 0.0241 | penalty_loss: 0.0000
+eta: 129.091 | lam0 - lam1: 17.697
+Epoch: 077/100 | Batch 0100/0636 | train_loss: 0.0315 | penalty_loss: 0.0000
+eta: 129.091 | lam0 - lam1: 17.724
+Epoch: 077/100 | Batch 0150/0636 | train_loss: 0.0206 | penalty_loss: -0.0000
+eta: 129.091 | lam0 - lam1: 17.644
+Epoch: 077/100 | Batch 0200/0636 | train_loss: 0.0171 | penalty_loss: -0.0000
+eta: 129.091 | lam0 - lam1: 17.622
+Epoch: 077/100 | Batch 0250/0636 | train_loss: 0.0517 | penalty_loss: 0.0000
+eta: 129.091 | lam0 - lam1: 17.597
+Epoch: 077/100 | Batch 0300/0636 | train_loss: 0.0339 | penalty_loss: 0.0000
+eta: 129.091 | lam0 - lam1: 17.569
+Epoch: 077/100 | Batch 0350/0636 | train_loss: 0.0513 | penalty_loss: 0.0000
+eta: 129.091 | lam0 - lam1: 17.619
+Epoch: 077/100 | Batch 0400/0636 | train_loss: 0.0094 | penalty_loss: -0.0000
+eta: 129.091 | lam0 - lam1: 17.623
+Epoch: 077/100 | Batch 0450/0636 | train_loss: 0.0146 | penalty_loss: 0.0000
+eta: 129.091 | lam0 - lam1: 17.563
+Epoch: 077/100 | Batch 0500/0636 | train_loss: 0.0120 | penalty_loss: 0.0000
+eta: 129.091 | lam0 - lam1: 17.603
+Epoch: 077/100 | Batch 0550/0636 | train_loss: 0.0117 | penalty_loss: 0.0000
+eta: 129.091 | lam0 - lam1: 17.670
+Epoch: 077/100 | Batch 0600/0636 | train_loss: 0.0124 | penalty_loss: 0.0000
+eta: 129.091 | lam0 - lam1: 17.640
+Epoch: 077/100 | Train Acc: 95.090% | Train Ddp: 1.018% | Train Deo: 0.024%
+Epoch: 077/100 | Valid Acc: 75.115% | Valid Ddp: 1.342% | Valid Deo: 12.849%
+Time elapsed: 2220.78 min
+Epoch: 078/100 | Batch 0000/0636 | train_loss: 0.0161 | penalty_loss: 0.0000
+eta: 130.382 | lam0 - lam1: 17.690
+Epoch: 078/100 | Batch 0050/0636 | train_loss: 0.0265 | penalty_loss: -0.0000
+eta: 130.382 | lam0 - lam1: 17.738
+Epoch: 078/100 | Batch 0100/0636 | train_loss: 0.0185 | penalty_loss: 0.0000
+eta: 130.382 | lam0 - lam1: 17.753
+Epoch: 078/100 | Batch 0150/0636 | train_loss: 0.1003 | penalty_loss: -0.0000
+eta: 130.382 | lam0 - lam1: 17.804
+Epoch: 078/100 | Batch 0200/0636 | train_loss: 0.1970 | penalty_loss: -0.0000
+eta: 130.382 | lam0 - lam1: 17.864
+Epoch: 078/100 | Batch 0250/0636 | train_loss: 0.0128 | penalty_loss: 0.0000
+eta: 130.382 | lam0 - lam1: 18.003
+Epoch: 078/100 | Batch 0300/0636 | train_loss: 0.0102 | penalty_loss: -0.0000
+eta: 130.382 | lam0 - lam1: 17.936
+Epoch: 078/100 | Batch 0350/0636 | train_loss: 0.0111 | penalty_loss: -0.0000
+eta: 130.382 | lam0 - lam1: 18.068
+Epoch: 078/100 | Batch 0400/0636 | train_loss: 0.0168 | penalty_loss: -0.0000
+eta: 130.382 | lam0 - lam1: 18.063
+Epoch: 078/100 | Batch 0450/0636 | train_loss: 0.0111 | penalty_loss: -0.0000
+eta: 130.382 | lam0 - lam1: 18.117
+Epoch: 078/100 | Batch 0500/0636 | train_loss: 0.0580 | penalty_loss: -0.0000
+eta: 130.382 | lam0 - lam1: 18.089
+Epoch: 078/100 | Batch 0550/0636 | train_loss: 0.0114 | penalty_loss: -0.0000
+eta: 130.382 | lam0 - lam1: 18.112
+Epoch: 078/100 | Batch 0600/0636 | train_loss: 0.0119 | penalty_loss: 0.0000
+eta: 130.382 | lam0 - lam1: 18.195
+Epoch: 078/100 | Train Acc: 82.223% | Train Ddp: 4.167% | Train Deo: 0.001%
+Epoch: 078/100 | Valid Acc: 71.410% | Valid Ddp: 4.732% | Valid Deo: 7.921%
+Time elapsed: 2258.28 min
+Epoch: 079/100 | Batch 0000/0636 | train_loss: 0.0278 | penalty_loss: 0.0000
+eta: 131.686 | lam0 - lam1: 18.185
+Epoch: 079/100 | Batch 0050/0636 | train_loss: 0.0388 | penalty_loss: 0.0000
+eta: 131.686 | lam0 - lam1: 18.158
+Epoch: 079/100 | Batch 0100/0636 | train_loss: 0.0104 | penalty_loss: 0.0000
+eta: 131.686 | lam0 - lam1: 18.206
+Epoch: 079/100 | Batch 0150/0636 | train_loss: 0.0126 | penalty_loss: 0.0000
+eta: 131.686 | lam0 - lam1: 18.261
+Epoch: 079/100 | Batch 0200/0636 | train_loss: 0.0085 | penalty_loss: -0.0000
+eta: 131.686 | lam0 - lam1: 18.282
+Epoch: 079/100 | Batch 0250/0636 | train_loss: 0.0470 | penalty_loss: -0.0000
+eta: 131.686 | lam0 - lam1: 18.283
+Epoch: 079/100 | Batch 0300/0636 | train_loss: 0.0099 | penalty_loss: 0.0000
+eta: 131.686 | lam0 - lam1: 18.335
+Epoch: 079/100 | Batch 0350/0636 | train_loss: 0.0506 | penalty_loss: 0.0000
+eta: 131.686 | lam0 - lam1: 18.327
+Epoch: 079/100 | Batch 0400/0636 | train_loss: 0.0143 | penalty_loss: -0.0000
+eta: 131.686 | lam0 - lam1: 18.318
+Epoch: 079/100 | Batch 0450/0636 | train_loss: 0.0368 | penalty_loss: -0.0000
+eta: 131.686 | lam0 - lam1: 18.299
+Epoch: 079/100 | Batch 0500/0636 | train_loss: 0.0175 | penalty_loss: 0.0000
+eta: 131.686 | lam0 - lam1: 18.286
+Epoch: 079/100 | Batch 0550/0636 | train_loss: 0.0322 | penalty_loss: -0.0000
+eta: 131.686 | lam0 - lam1: 18.132
+Epoch: 079/100 | Batch 0600/0636 | train_loss: 0.0598 | penalty_loss: 0.0000
+eta: 131.686 | lam0 - lam1: 18.054
+Epoch: 079/100 | Train Acc: 94.920% | Train Ddp: 0.373% | Train Deo: 0.040%
+Epoch: 079/100 | Valid Acc: 75.361% | Valid Ddp: 1.154% | Valid Deo: 15.421%
+Time elapsed: 2294.45 min
+Epoch: 080/100 | Batch 0000/0636 | train_loss: 0.0326 | penalty_loss: -0.0000
+eta: 133.003 | lam0 - lam1: 17.975
+Epoch: 080/100 | Batch 0050/0636 | train_loss: 0.0118 | penalty_loss: -0.0000
+eta: 133.003 | lam0 - lam1: 17.997
+Epoch: 080/100 | Batch 0100/0636 | train_loss: 0.0112 | penalty_loss: 0.0000
+eta: 133.003 | lam0 - lam1: 17.973
+Epoch: 080/100 | Batch 0150/0636 | train_loss: 0.0129 | penalty_loss: 0.0000
+eta: 133.003 | lam0 - lam1: 17.992
+Epoch: 080/100 | Batch 0200/0636 | train_loss: 0.0107 | penalty_loss: 0.0000
+eta: 133.003 | lam0 - lam1: 17.965
+Epoch: 080/100 | Batch 0250/0636 | train_loss: 0.0115 | penalty_loss: -0.0000
+eta: 133.003 | lam0 - lam1: 17.874
+Epoch: 080/100 | Batch 0300/0636 | train_loss: 0.0414 | penalty_loss: 0.0001
+eta: 133.003 | lam0 - lam1: 17.927
+Epoch: 080/100 | Batch 0350/0636 | train_loss: 0.0178 | penalty_loss: -0.0000
+eta: 133.003 | lam0 - lam1: 17.829
+Epoch: 080/100 | Batch 0400/0636 | train_loss: 0.0249 | penalty_loss: -0.0000
+eta: 133.003 | lam0 - lam1: 17.795
+Epoch: 080/100 | Batch 0450/0636 | train_loss: 0.0464 | penalty_loss: -0.0000
+eta: 133.003 | lam0 - lam1: 17.674
+Epoch: 080/100 | Batch 0500/0636 | train_loss: 0.0292 | penalty_loss: 0.0000
+eta: 133.003 | lam0 - lam1: 17.648
+Epoch: 080/100 | Batch 0550/0636 | train_loss: 0.0519 | penalty_loss: -0.0000
+eta: 133.003 | lam0 - lam1: 17.643
+Epoch: 080/100 | Batch 0600/0636 | train_loss: 0.0633 | penalty_loss: 0.0001
+eta: 133.003 | lam0 - lam1: 17.750
+Epoch: 080/100 | Train Acc: 95.712% | Train Ddp: 0.427% | Train Deo: 0.041%
+Epoch: 080/100 | Valid Acc: 75.386% | Valid Ddp: 1.095% | Valid Deo: 15.205%
+Time elapsed: 2330.20 min
+Epoch: 081/100 | Batch 0000/0636 | train_loss: 0.0520 | penalty_loss: -0.0000
+eta: 134.333 | lam0 - lam1: 17.823
+Epoch: 081/100 | Batch 0050/0636 | train_loss: 0.0379 | penalty_loss: 0.0000
+eta: 134.333 | lam0 - lam1: 17.784
+Epoch: 081/100 | Batch 0100/0636 | train_loss: 0.0155 | penalty_loss: -0.0000
+eta: 134.333 | lam0 - lam1: 17.724
+Epoch: 081/100 | Batch 0150/0636 | train_loss: 0.0442 | penalty_loss: -0.0000
+eta: 134.333 | lam0 - lam1: 17.750
+Epoch: 081/100 | Batch 0200/0636 | train_loss: 0.0562 | penalty_loss: 0.0000
+eta: 134.333 | lam0 - lam1: 17.710
+Epoch: 081/100 | Batch 0250/0636 | train_loss: 0.0105 | penalty_loss: -0.0000
+eta: 134.333 | lam0 - lam1: 17.721
+Epoch: 081/100 | Batch 0300/0636 | train_loss: 0.0125 | penalty_loss: -0.0000
+eta: 134.333 | lam0 - lam1: 17.816
+Epoch: 081/100 | Batch 0350/0636 | train_loss: 0.0623 | penalty_loss: 0.0001
+eta: 134.333 | lam0 - lam1: 17.863
+Epoch: 081/100 | Batch 0400/0636 | train_loss: 0.1322 | penalty_loss: -0.0000
+eta: 134.333 | lam0 - lam1: 17.929
+Epoch: 081/100 | Batch 0450/0636 | train_loss: 0.0253 | penalty_loss: -0.0001
+eta: 134.333 | lam0 - lam1: 17.865
+Epoch: 081/100 | Batch 0500/0636 | train_loss: 0.0172 | penalty_loss: -0.0000
+eta: 134.333 | lam0 - lam1: 17.837
+Epoch: 081/100 | Batch 0550/0636 | train_loss: 0.0984 | penalty_loss: -0.0001
+eta: 134.333 | lam0 - lam1: 17.773
+Epoch: 081/100 | Batch 0600/0636 | train_loss: 0.0183 | penalty_loss: 0.0000
+eta: 134.333 | lam0 - lam1: 17.608
+Epoch: 081/100 | Train Acc: 95.886% | Train Ddp: 0.451% | Train Deo: 0.120%
+Epoch: 081/100 | Valid Acc: 76.272% | Valid Ddp: 0.307% | Valid Deo: 13.046%
+Time elapsed: 2364.72 min
+Epoch: 082/100 | Batch 0000/0636 | train_loss: 0.0273 | penalty_loss: -0.0000
+eta: 135.676 | lam0 - lam1: 17.478
+Epoch: 082/100 | Batch 0050/0636 | train_loss: 0.0073 | penalty_loss: -0.0000
+eta: 135.676 | lam0 - lam1: 17.480
+Epoch: 082/100 | Batch 0100/0636 | train_loss: 0.0068 | penalty_loss: -0.0000
+eta: 135.676 | lam0 - lam1: 17.459
+Epoch: 082/100 | Batch 0150/0636 | train_loss: 0.1674 | penalty_loss: 0.0000
+eta: 135.676 | lam0 - lam1: 17.421
+Epoch: 082/100 | Batch 0200/0636 | train_loss: 0.0150 | penalty_loss: 0.0000
+eta: 135.676 | lam0 - lam1: 17.410
+Epoch: 082/100 | Batch 0250/0636 | train_loss: 0.0181 | penalty_loss: 0.0000
+eta: 135.676 | lam0 - lam1: 17.434
+Epoch: 082/100 | Batch 0300/0636 | train_loss: 0.0188 | penalty_loss: -0.0000
+eta: 135.676 | lam0 - lam1: 17.318
+Epoch: 082/100 | Batch 0350/0636 | train_loss: 0.0591 | penalty_loss: 0.0001
+eta: 135.676 | lam0 - lam1: 17.272
+Epoch: 082/100 | Batch 0400/0636 | train_loss: 0.0214 | penalty_loss: -0.0000
+eta: 135.676 | lam0 - lam1: 17.253
+Epoch: 082/100 | Batch 0450/0636 | train_loss: 0.0444 | penalty_loss: 0.0000
+eta: 135.676 | lam0 - lam1: 17.344
+Epoch: 082/100 | Batch 0500/0636 | train_loss: 0.0328 | penalty_loss: 0.0000
+eta: 135.676 | lam0 - lam1: 17.435
+Epoch: 082/100 | Batch 0550/0636 | train_loss: 0.0169 | penalty_loss: 0.0000
+eta: 135.676 | lam0 - lam1: 17.386
+Epoch: 082/100 | Batch 0600/0636 | train_loss: 0.0508 | penalty_loss: -0.0001
+eta: 135.676 | lam0 - lam1: 17.442
+Epoch: 082/100 | Train Acc: 97.885% | Train Ddp: 0.110% | Train Deo: 0.048%
+Epoch: 082/100 | Valid Acc: 77.078% | Valid Ddp: 0.149% | Valid Deo: 17.366%
+Time elapsed: 2399.46 min
+Epoch: 083/100 | Batch 0000/0636 | train_loss: 0.0112 | penalty_loss: 0.0000
+eta: 137.033 | lam0 - lam1: 17.377
+Epoch: 083/100 | Batch 0050/0636 | train_loss: 0.0443 | penalty_loss: 0.0000
+eta: 137.033 | lam0 - lam1: 17.303
+Epoch: 083/100 | Batch 0100/0636 | train_loss: 0.0167 | penalty_loss: -0.0000
+eta: 137.033 | lam0 - lam1: 17.337
+Epoch: 083/100 | Batch 0150/0636 | train_loss: 0.0477 | penalty_loss: -0.0001
+eta: 137.033 | lam0 - lam1: 17.257
+Epoch: 083/100 | Batch 0200/0636 | train_loss: 0.0229 | penalty_loss: 0.0000
+eta: 137.033 | lam0 - lam1: 17.209
+Epoch: 083/100 | Batch 0250/0636 | train_loss: 0.0280 | penalty_loss: -0.0001
+eta: 137.033 | lam0 - lam1: 17.112
+Epoch: 083/100 | Batch 0300/0636 | train_loss: 0.0102 | penalty_loss: 0.0000
+eta: 137.033 | lam0 - lam1: 17.095
+Epoch: 083/100 | Batch 0350/0636 | train_loss: 0.0350 | penalty_loss: 0.0000
+eta: 137.033 | lam0 - lam1: 17.142
+Epoch: 083/100 | Batch 0400/0636 | train_loss: 0.0891 | penalty_loss: 0.0000
+eta: 137.033 | lam0 - lam1: 17.167
+Epoch: 083/100 | Batch 0450/0636 | train_loss: 0.0133 | penalty_loss: 0.0000
+eta: 137.033 | lam0 - lam1: 17.164
+Epoch: 083/100 | Batch 0500/0636 | train_loss: 0.0152 | penalty_loss: 0.0000
+eta: 137.033 | lam0 - lam1: 17.277
+Epoch: 083/100 | Batch 0550/0636 | train_loss: 0.0128 | penalty_loss: -0.0000
+eta: 137.033 | lam0 - lam1: 17.265
+Epoch: 083/100 | Batch 0600/0636 | train_loss: 0.0504 | penalty_loss: 0.0000
+eta: 137.033 | lam0 - lam1: 17.295
+Epoch: 083/100 | Train Acc: 96.305% | Train Ddp: 3.184% | Train Deo: 3.030%
+Epoch: 083/100 | Valid Acc: 74.697% | Valid Ddp: 3.956% | Valid Deo: 17.621%
+Time elapsed: 2433.81 min
+Epoch: 084/100 | Batch 0000/0636 | train_loss: 0.0170 | penalty_loss: 0.0000
+eta: 138.403 | lam0 - lam1: 17.412
+Epoch: 084/100 | Batch 0050/0636 | train_loss: 0.0219 | penalty_loss: -0.0000
+eta: 138.403 | lam0 - lam1: 17.470
+Epoch: 084/100 | Batch 0100/0636 | train_loss: 0.0311 | penalty_loss: 0.0000
+eta: 138.403 | lam0 - lam1: 17.490
+Epoch: 084/100 | Batch 0150/0636 | train_loss: 0.0489 | penalty_loss: 0.0000
+eta: 138.403 | lam0 - lam1: 17.635
+Epoch: 084/100 | Batch 0200/0636 | train_loss: 0.0921 | penalty_loss: 0.0000
+eta: 138.403 | lam0 - lam1: 17.820
+Epoch: 084/100 | Batch 0250/0636 | train_loss: 0.0397 | penalty_loss: -0.0000
+eta: 138.403 | lam0 - lam1: 17.834
+Epoch: 084/100 | Batch 0300/0636 | train_loss: 0.1314 | penalty_loss: -0.0000
+eta: 138.403 | lam0 - lam1: 17.900
+Epoch: 084/100 | Batch 0350/0636 | train_loss: 0.0171 | penalty_loss: -0.0000
+eta: 138.403 | lam0 - lam1: 17.924
+Epoch: 084/100 | Batch 0400/0636 | train_loss: 0.0166 | penalty_loss: -0.0000
+eta: 138.403 | lam0 - lam1: 17.968
+Epoch: 084/100 | Batch 0450/0636 | train_loss: 0.0108 | penalty_loss: 0.0000
+eta: 138.403 | lam0 - lam1: 17.933
+Epoch: 084/100 | Batch 0500/0636 | train_loss: 0.0446 | penalty_loss: -0.0000
+eta: 138.403 | lam0 - lam1: 17.913
+Epoch: 084/100 | Batch 0550/0636 | train_loss: 0.0407 | penalty_loss: -0.0000
+eta: 138.403 | lam0 - lam1: 17.863
+Epoch: 084/100 | Batch 0600/0636 | train_loss: 0.0625 | penalty_loss: -0.0000
+eta: 138.403 | lam0 - lam1: 17.863
+Epoch: 084/100 | Train Acc: 95.727% | Train Ddp: 0.252% | Train Deo: 0.011%
+Epoch: 084/100 | Valid Acc: 75.784% | Valid Ddp: 1.211% | Valid Deo: 15.126%
+Time elapsed: 2468.32 min
+Epoch: 085/100 | Batch 0000/0636 | train_loss: 0.0242 | penalty_loss: -0.0000
+eta: 139.787 | lam0 - lam1: 17.891
+Epoch: 085/100 | Batch 0050/0636 | train_loss: 0.0129 | penalty_loss: 0.0000
+eta: 139.787 | lam0 - lam1: 17.851
+Epoch: 085/100 | Batch 0100/0636 | train_loss: 0.0386 | penalty_loss: 0.0001
+eta: 139.787 | lam0 - lam1: 17.897
+Epoch: 085/100 | Batch 0150/0636 | train_loss: 0.0106 | penalty_loss: 0.0000
+eta: 139.787 | lam0 - lam1: 17.856
+Epoch: 085/100 | Batch 0200/0636 | train_loss: 0.0279 | penalty_loss: -0.0000
+eta: 139.787 | lam0 - lam1: 17.882
+Epoch: 085/100 | Batch 0250/0636 | train_loss: 0.0220 | penalty_loss: -0.0000
+eta: 139.787 | lam0 - lam1: 17.868
+Epoch: 085/100 | Batch 0300/0636 | train_loss: 0.0233 | penalty_loss: -0.0000
+eta: 139.787 | lam0 - lam1: 17.837
+Epoch: 085/100 | Batch 0350/0636 | train_loss: 0.0037 | penalty_loss: -0.0000
+eta: 139.787 | lam0 - lam1: 17.873
+Epoch: 085/100 | Batch 0400/0636 | train_loss: 0.0906 | penalty_loss: 0.0000
+eta: 139.787 | lam0 - lam1: 17.912
+Epoch: 085/100 | Batch 0450/0636 | train_loss: 0.0191 | penalty_loss: 0.0001
+eta: 139.787 | lam0 - lam1: 18.051
+Epoch: 085/100 | Batch 0500/0636 | train_loss: 0.0693 | penalty_loss: 0.0000
+eta: 139.787 | lam0 - lam1: 18.173
+Epoch: 085/100 | Batch 0550/0636 | train_loss: 0.0817 | penalty_loss: 0.0000
+eta: 139.787 | lam0 - lam1: 18.039
+Epoch: 085/100 | Batch 0600/0636 | train_loss: 0.0216 | penalty_loss: -0.0000
+eta: 139.787 | lam0 - lam1: 17.992
+Epoch: 085/100 | Train Acc: 91.647% | Train Ddp: 1.088% | Train Deo: 0.004%
+Epoch: 085/100 | Valid Acc: 74.677% | Valid Ddp: 1.712% | Valid Deo: 11.874%
+Time elapsed: 2501.33 min
+Epoch: 086/100 | Batch 0000/0636 | train_loss: 0.1036 | penalty_loss: 0.0000
+eta: 141.185 | lam0 - lam1: 18.026
+Epoch: 086/100 | Batch 0050/0636 | train_loss: 0.0631 | penalty_loss: 0.0000
+eta: 141.185 | lam0 - lam1: 18.088
+Epoch: 086/100 | Batch 0100/0636 | train_loss: 0.0108 | penalty_loss: 0.0000
+eta: 141.185 | lam0 - lam1: 18.137
+Epoch: 086/100 | Batch 0150/0636 | train_loss: 0.0271 | penalty_loss: -0.0000
+eta: 141.185 | lam0 - lam1: 18.074
+Epoch: 086/100 | Batch 0200/0636 | train_loss: 0.0252 | penalty_loss: 0.0000
+eta: 141.185 | lam0 - lam1: 18.125
+Epoch: 086/100 | Batch 0250/0636 | train_loss: 0.0425 | penalty_loss: 0.0000
+eta: 141.185 | lam0 - lam1: 18.115
+Epoch: 086/100 | Batch 0300/0636 | train_loss: 0.0254 | penalty_loss: 0.0000
+eta: 141.185 | lam0 - lam1: 17.973
+Epoch: 086/100 | Batch 0350/0636 | train_loss: 0.1007 | penalty_loss: -0.0000
+eta: 141.185 | lam0 - lam1: 18.041
+Epoch: 086/100 | Batch 0400/0636 | train_loss: 0.0257 | penalty_loss: -0.0000
+eta: 141.185 | lam0 - lam1: 18.114
+Epoch: 086/100 | Batch 0450/0636 | train_loss: 0.1091 | penalty_loss: 0.0000
+eta: 141.185 | lam0 - lam1: 18.297
+Epoch: 086/100 | Batch 0500/0636 | train_loss: 0.0709 | penalty_loss: 0.0000
+eta: 141.185 | lam0 - lam1: 18.295
+Epoch: 086/100 | Batch 0550/0636 | train_loss: 0.0700 | penalty_loss: 0.0000
+eta: 141.185 | lam0 - lam1: 18.178
+Epoch: 086/100 | Batch 0600/0636 | train_loss: 0.0922 | penalty_loss: 0.0001
+eta: 141.185 | lam0 - lam1: 18.309
+Epoch: 086/100 | Train Acc: 95.260% | Train Ddp: 0.198% | Train Deo: 0.018%
+Epoch: 086/100 | Valid Acc: 75.880% | Valid Ddp: 1.130% | Valid Deo: 14.897%
+Time elapsed: 2535.72 min
+Epoch: 087/100 | Batch 0000/0636 | train_loss: 0.0398 | penalty_loss: 0.0000
+eta: 142.597 | lam0 - lam1: 18.373
+Epoch: 087/100 | Batch 0050/0636 | train_loss: 0.0146 | penalty_loss: -0.0000
+eta: 142.597 | lam0 - lam1: 18.387
+Epoch: 087/100 | Batch 0100/0636 | train_loss: 0.0220 | penalty_loss: 0.0001
+eta: 142.597 | lam0 - lam1: 18.376
+Epoch: 087/100 | Batch 0150/0636 | train_loss: 0.0282 | penalty_loss: -0.0000
+eta: 142.597 | lam0 - lam1: 18.327
+Epoch: 087/100 | Batch 0200/0636 | train_loss: 0.0158 | penalty_loss: 0.0000
+eta: 142.597 | lam0 - lam1: 18.248
+Epoch: 087/100 | Batch 0250/0636 | train_loss: 0.0207 | penalty_loss: 0.0000
+eta: 142.597 | lam0 - lam1: 18.140
+Epoch: 087/100 | Batch 0300/0636 | train_loss: 0.0107 | penalty_loss: -0.0000
+eta: 142.597 | lam0 - lam1: 18.045
+Epoch: 087/100 | Batch 0350/0636 | train_loss: 0.0256 | penalty_loss: -0.0001
+eta: 142.597 | lam0 - lam1: 18.097
+Epoch: 087/100 | Batch 0400/0636 | train_loss: 0.0373 | penalty_loss: 0.0000
+eta: 142.597 | lam0 - lam1: 18.185
+Epoch: 087/100 | Batch 0450/0636 | train_loss: 0.0457 | penalty_loss: 0.0000
+eta: 142.597 | lam0 - lam1: 18.142
+Epoch: 087/100 | Batch 0500/0636 | train_loss: 0.0726 | penalty_loss: 0.0000
+eta: 142.597 | lam0 - lam1: 18.153
+Epoch: 087/100 | Batch 0550/0636 | train_loss: 0.0176 | penalty_loss: 0.0000
+eta: 142.597 | lam0 - lam1: 18.099
+Epoch: 087/100 | Batch 0600/0636 | train_loss: 0.0398 | penalty_loss: 0.0000
+eta: 142.597 | lam0 - lam1: 18.092
+Epoch: 087/100 | Train Acc: 96.290% | Train Ddp: 0.582% | Train Deo: 0.004%
+Epoch: 087/100 | Valid Acc: 75.507% | Valid Ddp: 1.161% | Valid Deo: 15.078%
+Time elapsed: 2570.07 min
+Epoch: 088/100 | Batch 0000/0636 | train_loss: 0.0141 | penalty_loss: -0.0000
+eta: 144.023 | lam0 - lam1: 18.096
+Epoch: 088/100 | Batch 0050/0636 | train_loss: 0.0139 | penalty_loss: -0.0001
+eta: 144.023 | lam0 - lam1: 18.095
+Epoch: 088/100 | Batch 0100/0636 | train_loss: 0.0440 | penalty_loss: -0.0000
+eta: 144.023 | lam0 - lam1: 18.092
+Epoch: 088/100 | Batch 0150/0636 | train_loss: 0.0208 | penalty_loss: -0.0000
+eta: 144.023 | lam0 - lam1: 18.044
+Epoch: 088/100 | Batch 0200/0636 | train_loss: 0.0060 | penalty_loss: -0.0000
+eta: 144.023 | lam0 - lam1: 18.020
+Epoch: 088/100 | Batch 0250/0636 | train_loss: 0.0334 | penalty_loss: -0.0000
+eta: 144.023 | lam0 - lam1: 18.042
+Epoch: 088/100 | Batch 0300/0636 | train_loss: 0.0170 | penalty_loss: 0.0000
+eta: 144.023 | lam0 - lam1: 18.087
+Epoch: 088/100 | Batch 0350/0636 | train_loss: 0.0132 | penalty_loss: 0.0000
+eta: 144.023 | lam0 - lam1: 18.054
+Epoch: 088/100 | Batch 0400/0636 | train_loss: 0.0498 | penalty_loss: -0.0000
+eta: 144.023 | lam0 - lam1: 18.003
+Epoch: 088/100 | Batch 0450/0636 | train_loss: 0.0651 | penalty_loss: -0.0001
+eta: 144.023 | lam0 - lam1: 17.995
+Epoch: 088/100 | Batch 0500/0636 | train_loss: 0.0220 | penalty_loss: 0.0000
+eta: 144.023 | lam0 - lam1: 18.010
+Epoch: 088/100 | Batch 0550/0636 | train_loss: 0.0304 | penalty_loss: -0.0000
+eta: 144.023 | lam0 - lam1: 18.048
+Epoch: 088/100 | Batch 0600/0636 | train_loss: 0.0244 | penalty_loss: -0.0001
+eta: 144.023 | lam0 - lam1: 18.039
+Epoch: 088/100 | Train Acc: 92.636% | Train Ddp: 1.469% | Train Deo: 0.009%
+Epoch: 088/100 | Valid Acc: 74.510% | Valid Ddp: 1.649% | Valid Deo: 11.013%
+Time elapsed: 2607.23 min
+Epoch: 089/100 | Batch 0000/0636 | train_loss: 0.0946 | penalty_loss: -0.0000
+eta: 145.463 | lam0 - lam1: 18.071
+Epoch: 089/100 | Batch 0050/0636 | train_loss: 0.0344 | penalty_loss: -0.0000
+eta: 145.463 | lam0 - lam1: 18.053
+Epoch: 089/100 | Batch 0100/0636 | train_loss: 0.0283 | penalty_loss: 0.0000
+eta: 145.463 | lam0 - lam1: 18.065
+Epoch: 089/100 | Batch 0150/0636 | train_loss: 0.0387 | penalty_loss: -0.0000
+eta: 145.463 | lam0 - lam1: 18.067
+Epoch: 089/100 | Batch 0200/0636 | train_loss: 0.0342 | penalty_loss: -0.0000
+eta: 145.463 | lam0 - lam1: 18.111
+Epoch: 089/100 | Batch 0250/0636 | train_loss: 0.0087 | penalty_loss: -0.0000
+eta: 145.463 | lam0 - lam1: 18.041
+Epoch: 089/100 | Batch 0300/0636 | train_loss: 0.0070 | penalty_loss: 0.0000
+eta: 145.463 | lam0 - lam1: 18.055
+Epoch: 089/100 | Batch 0350/0636 | train_loss: 0.0340 | penalty_loss: 0.0000
+eta: 145.463 | lam0 - lam1: 18.001
+Epoch: 089/100 | Batch 0400/0636 | train_loss: 0.0282 | penalty_loss: -0.0000
+eta: 145.463 | lam0 - lam1: 18.064
+Epoch: 089/100 | Batch 0450/0636 | train_loss: 0.0329 | penalty_loss: -0.0000
+eta: 145.463 | lam0 - lam1: 18.156
+Epoch: 089/100 | Batch 0500/0636 | train_loss: 0.0582 | penalty_loss: -0.0001
+eta: 145.463 | lam0 - lam1: 18.212
+Epoch: 089/100 | Batch 0550/0636 | train_loss: 0.0438 | penalty_loss: -0.0000
+eta: 145.463 | lam0 - lam1: 18.344
+Epoch: 089/100 | Batch 0600/0636 | train_loss: 0.0516 | penalty_loss: 0.0001
+eta: 145.463 | lam0 - lam1: 18.397
+Epoch: 089/100 | Train Acc: 96.568% | Train Ddp: 2.581% | Train Deo: 0.179%
+Epoch: 089/100 | Valid Acc: 75.739% | Valid Ddp: 1.173% | Valid Deo: 13.876%
+Time elapsed: 2646.52 min
+Epoch: 090/100 | Batch 0000/0636 | train_loss: 0.0135 | penalty_loss: 0.0000
+eta: 146.918 | lam0 - lam1: 18.490
+Epoch: 090/100 | Batch 0050/0636 | train_loss: 0.0424 | penalty_loss: -0.0000
+eta: 146.918 | lam0 - lam1: 18.594
+Epoch: 090/100 | Batch 0100/0636 | train_loss: 0.0337 | penalty_loss: 0.0000
+eta: 146.918 | lam0 - lam1: 18.537
+Epoch: 090/100 | Batch 0150/0636 | train_loss: 0.0277 | penalty_loss: -0.0000
+eta: 146.918 | lam0 - lam1: 18.520
+Epoch: 090/100 | Batch 0200/0636 | train_loss: 0.0298 | penalty_loss: -0.0000
+eta: 146.918 | lam0 - lam1: 18.562
+Epoch: 090/100 | Batch 0250/0636 | train_loss: 0.0254 | penalty_loss: -0.0000
+eta: 146.918 | lam0 - lam1: 18.517
+Epoch: 090/100 | Batch 0300/0636 | train_loss: 0.0161 | penalty_loss: 0.0000
+eta: 146.918 | lam0 - lam1: 18.390
+Epoch: 090/100 | Batch 0350/0636 | train_loss: 0.0409 | penalty_loss: -0.0000
+eta: 146.918 | lam0 - lam1: 18.421
+Epoch: 090/100 | Batch 0400/0636 | train_loss: 0.0173 | penalty_loss: -0.0000
+eta: 146.918 | lam0 - lam1: 18.450
+Epoch: 090/100 | Batch 0450/0636 | train_loss: 0.0111 | penalty_loss: 0.0000
+eta: 146.918 | lam0 - lam1: 18.580
+Epoch: 090/100 | Batch 0500/0636 | train_loss: 0.0560 | penalty_loss: 0.0000
+eta: 146.918 | lam0 - lam1: 18.576
+Epoch: 090/100 | Batch 0550/0636 | train_loss: 0.0352 | penalty_loss: -0.0000
+eta: 146.918 | lam0 - lam1: 18.602
+Epoch: 090/100 | Batch 0600/0636 | train_loss: 0.0094 | penalty_loss: -0.0000
+eta: 146.918 | lam0 - lam1: 18.531
+Epoch: 090/100 | Train Acc: 96.881% | Train Ddp: 1.324% | Train Deo: 0.037%
+Epoch: 090/100 | Valid Acc: 76.141% | Valid Ddp: 0.351% | Valid Deo: 18.675%
+Time elapsed: 2666.88 min
+Epoch: 091/100 | Batch 0000/0636 | train_loss: 0.0091 | penalty_loss: 0.0000
+eta: 148.387 | lam0 - lam1: 18.523
+Epoch: 091/100 | Batch 0050/0636 | train_loss: 0.0261 | penalty_loss: 0.0000
+eta: 148.387 | lam0 - lam1: 18.491
+Epoch: 091/100 | Batch 0100/0636 | train_loss: 0.0073 | penalty_loss: 0.0000
+eta: 148.387 | lam0 - lam1: 18.526
+Epoch: 091/100 | Batch 0150/0636 | train_loss: 0.0307 | penalty_loss: 0.0000
+eta: 148.387 | lam0 - lam1: 18.562
+Epoch: 091/100 | Batch 0200/0636 | train_loss: 0.0361 | penalty_loss: -0.0000
+eta: 148.387 | lam0 - lam1: 18.578
+Epoch: 091/100 | Batch 0250/0636 | train_loss: 0.0470 | penalty_loss: -0.0000
+eta: 148.387 | lam0 - lam1: 18.602
+Epoch: 091/100 | Batch 0300/0636 | train_loss: 0.0224 | penalty_loss: 0.0000
+eta: 148.387 | lam0 - lam1: 18.592
+Epoch: 091/100 | Batch 0350/0636 | train_loss: 0.0146 | penalty_loss: -0.0001
+eta: 148.387 | lam0 - lam1: 18.613
+Epoch: 091/100 | Batch 0400/0636 | train_loss: 0.0524 | penalty_loss: 0.0001
+eta: 148.387 | lam0 - lam1: 18.639
+Epoch: 091/100 | Batch 0450/0636 | train_loss: 0.0415 | penalty_loss: 0.0000
+eta: 148.387 | lam0 - lam1: 18.715
+Epoch: 091/100 | Batch 0500/0636 | train_loss: 0.0175 | penalty_loss: -0.0000
+eta: 148.387 | lam0 - lam1: 18.737
+Epoch: 091/100 | Batch 0550/0636 | train_loss: 0.0616 | penalty_loss: -0.0000
+eta: 148.387 | lam0 - lam1: 18.772
+Epoch: 091/100 | Batch 0600/0636 | train_loss: 0.0516 | penalty_loss: -0.0001
+eta: 148.387 | lam0 - lam1: 18.733
+Epoch: 091/100 | Train Acc: 92.926% | Train Ddp: 0.843% | Train Deo: 0.002%
+Epoch: 091/100 | Valid Acc: 74.687% | Valid Ddp: 1.606% | Valid Deo: 12.068%
+Time elapsed: 2686.97 min
+Epoch: 092/100 | Batch 0000/0636 | train_loss: 0.0865 | penalty_loss: 0.0000
+eta: 149.871 | lam0 - lam1: 18.727
+Epoch: 092/100 | Batch 0050/0636 | train_loss: 0.0797 | penalty_loss: -0.0000
+eta: 149.871 | lam0 - lam1: 18.694
+Epoch: 092/100 | Batch 0100/0636 | train_loss: 0.0937 | penalty_loss: -0.0000
+eta: 149.871 | lam0 - lam1: 18.557
+Epoch: 092/100 | Batch 0150/0636 | train_loss: 0.0621 | penalty_loss: -0.0000
+eta: 149.871 | lam0 - lam1: 18.493
+Epoch: 092/100 | Batch 0200/0636 | train_loss: 0.0267 | penalty_loss: -0.0001
+eta: 149.871 | lam0 - lam1: 18.442
+Epoch: 092/100 | Batch 0250/0636 | train_loss: 0.0402 | penalty_loss: 0.0000
+eta: 149.871 | lam0 - lam1: 18.407
+Epoch: 092/100 | Batch 0300/0636 | train_loss: 0.0110 | penalty_loss: -0.0000
+eta: 149.871 | lam0 - lam1: 18.392
+Epoch: 092/100 | Batch 0350/0636 | train_loss: 0.0188 | penalty_loss: -0.0000
+eta: 149.871 | lam0 - lam1: 18.386
+Epoch: 092/100 | Batch 0400/0636 | train_loss: 0.0251 | penalty_loss: 0.0001
+eta: 149.871 | lam0 - lam1: 18.235
+Epoch: 092/100 | Batch 0450/0636 | train_loss: 0.0384 | penalty_loss: 0.0000
+eta: 149.871 | lam0 - lam1: 18.191
+Epoch: 092/100 | Batch 0500/0636 | train_loss: 0.0605 | penalty_loss: -0.0000
+eta: 149.871 | lam0 - lam1: 18.081
+Epoch: 092/100 | Batch 0550/0636 | train_loss: 0.0307 | penalty_loss: 0.0000
+eta: 149.871 | lam0 - lam1: 18.142
+Epoch: 092/100 | Batch 0600/0636 | train_loss: 0.0352 | penalty_loss: 0.0001
+eta: 149.871 | lam0 - lam1: 18.300
+Epoch: 092/100 | Train Acc: 95.971% | Train Ddp: 0.143% | Train Deo: 0.076%
+Epoch: 092/100 | Valid Acc: 76.398% | Valid Ddp: 0.149% | Valid Deo: 15.240%
+Time elapsed: 2706.95 min
+Epoch: 093/100 | Batch 0000/0636 | train_loss: 0.0823 | penalty_loss: -0.0000
+eta: 151.370 | lam0 - lam1: 18.341
+Epoch: 093/100 | Batch 0050/0636 | train_loss: 0.0479 | penalty_loss: -0.0000
+eta: 151.370 | lam0 - lam1: 18.155
+Epoch: 093/100 | Batch 0100/0636 | train_loss: 0.0144 | penalty_loss: 0.0000
+eta: 151.370 | lam0 - lam1: 18.117
+Epoch: 093/100 | Batch 0150/0636 | train_loss: 0.0533 | penalty_loss: 0.0000
+eta: 151.370 | lam0 - lam1: 18.069
+Epoch: 093/100 | Batch 0200/0636 | train_loss: 0.0072 | penalty_loss: 0.0000
+eta: 151.370 | lam0 - lam1: 18.080
+Epoch: 093/100 | Batch 0250/0636 | train_loss: 0.0249 | penalty_loss: 0.0000
+eta: 151.370 | lam0 - lam1: 18.087
+Epoch: 093/100 | Batch 0300/0636 | train_loss: 0.0259 | penalty_loss: 0.0000
+eta: 151.370 | lam0 - lam1: 18.065
+Epoch: 093/100 | Batch 0350/0636 | train_loss: 0.0339 | penalty_loss: -0.0000
+eta: 151.370 | lam0 - lam1: 17.986
+Epoch: 093/100 | Batch 0400/0636 | train_loss: 0.0609 | penalty_loss: -0.0000
+eta: 151.370 | lam0 - lam1: 17.886
+Epoch: 093/100 | Batch 0450/0636 | train_loss: 0.0264 | penalty_loss: 0.0000
+eta: 151.370 | lam0 - lam1: 17.840
+Epoch: 093/100 | Batch 0500/0636 | train_loss: 0.0109 | penalty_loss: 0.0000
+eta: 151.370 | lam0 - lam1: 17.863
+Epoch: 093/100 | Batch 0550/0636 | train_loss: 0.0275 | penalty_loss: -0.0001
+eta: 151.370 | lam0 - lam1: 17.720
+Epoch: 093/100 | Batch 0600/0636 | train_loss: 0.0584 | penalty_loss: 0.0000
+eta: 151.370 | lam0 - lam1: 17.724
+Epoch: 093/100 | Train Acc: 94.888% | Train Ddp: 0.861% | Train Deo: 0.034%
+Epoch: 093/100 | Valid Acc: 75.537% | Valid Ddp: 0.596% | Valid Deo: 14.642%
+Time elapsed: 2726.84 min
+Epoch: 094/100 | Batch 0000/0636 | train_loss: 0.0109 | penalty_loss: 0.0000
+eta: 152.883 | lam0 - lam1: 17.772
+Epoch: 094/100 | Batch 0050/0636 | train_loss: 0.0083 | penalty_loss: -0.0000
+eta: 152.883 | lam0 - lam1: 17.797
+Epoch: 094/100 | Batch 0100/0636 | train_loss: 0.0053 | penalty_loss: 0.0000
+eta: 152.883 | lam0 - lam1: 17.816
+Epoch: 094/100 | Batch 0150/0636 | train_loss: 0.0101 | penalty_loss: 0.0000
+eta: 152.883 | lam0 - lam1: 17.802
+Epoch: 094/100 | Batch 0200/0636 | train_loss: 0.0136 | penalty_loss: 0.0000
+eta: 152.883 | lam0 - lam1: 17.820
+Epoch: 094/100 | Batch 0250/0636 | train_loss: 0.0216 | penalty_loss: 0.0000
+eta: 152.883 | lam0 - lam1: 17.829
+Epoch: 094/100 | Batch 0300/0636 | train_loss: 0.0121 | penalty_loss: 0.0000
+eta: 152.883 | lam0 - lam1: 17.886
+Epoch: 094/100 | Batch 0350/0636 | train_loss: 0.0736 | penalty_loss: 0.0000
+eta: 152.883 | lam0 - lam1: 17.933
+Epoch: 094/100 | Batch 0400/0636 | train_loss: 0.0163 | penalty_loss: 0.0000
+eta: 152.883 | lam0 - lam1: 18.033
+Epoch: 094/100 | Batch 0450/0636 | train_loss: 0.0074 | penalty_loss: -0.0000
+eta: 152.883 | lam0 - lam1: 17.992
+Epoch: 094/100 | Batch 0500/0636 | train_loss: 0.0166 | penalty_loss: 0.0000
+eta: 152.883 | lam0 - lam1: 18.057
+Epoch: 094/100 | Batch 0550/0636 | train_loss: 0.0419 | penalty_loss: -0.0000
+eta: 152.883 | lam0 - lam1: 18.093
+Epoch: 094/100 | Batch 0600/0636 | train_loss: 0.1207 | penalty_loss: -0.0000
+eta: 152.883 | lam0 - lam1: 18.008
+Epoch: 094/100 | Train Acc: 92.441% | Train Ddp: 1.867% | Train Deo: 0.016%
+Epoch: 094/100 | Valid Acc: 74.460% | Valid Ddp: 2.014% | Valid Deo: 11.650%
+Time elapsed: 2746.73 min
+Epoch: 095/100 | Batch 0000/0636 | train_loss: 0.0538 | penalty_loss: -0.0000
+eta: 154.412 | lam0 - lam1: 18.003
+Epoch: 095/100 | Batch 0050/0636 | train_loss: 0.0222 | penalty_loss: 0.0000
+eta: 154.412 | lam0 - lam1: 17.977
+Epoch: 095/100 | Batch 0100/0636 | train_loss: 0.0135 | penalty_loss: -0.0000
+eta: 154.412 | lam0 - lam1: 17.926
+Epoch: 095/100 | Batch 0150/0636 | train_loss: 0.0302 | penalty_loss: 0.0000
+eta: 154.412 | lam0 - lam1: 17.868
+Epoch: 095/100 | Batch 0200/0636 | train_loss: 0.0556 | penalty_loss: -0.0000
+eta: 154.412 | lam0 - lam1: 17.831
+Epoch: 095/100 | Batch 0250/0636 | train_loss: 0.0328 | penalty_loss: 0.0000
+eta: 154.412 | lam0 - lam1: 17.919
+Epoch: 095/100 | Batch 0300/0636 | train_loss: 0.0232 | penalty_loss: -0.0000
+eta: 154.412 | lam0 - lam1: 18.034
+Epoch: 095/100 | Batch 0350/0636 | train_loss: 0.0358 | penalty_loss: 0.0000
+eta: 154.412 | lam0 - lam1: 18.120
+Epoch: 095/100 | Batch 0400/0636 | train_loss: 0.0292 | penalty_loss: 0.0000
+eta: 154.412 | lam0 - lam1: 18.208
+Epoch: 095/100 | Batch 0450/0636 | train_loss: 0.0771 | penalty_loss: 0.0001
+eta: 154.412 | lam0 - lam1: 18.320
+Epoch: 095/100 | Batch 0500/0636 | train_loss: 0.0800 | penalty_loss: 0.0000
+eta: 154.412 | lam0 - lam1: 18.449
+Epoch: 095/100 | Batch 0550/0636 | train_loss: 0.0311 | penalty_loss: 0.0001
+eta: 154.412 | lam0 - lam1: 18.694
+Epoch: 095/100 | Batch 0600/0636 | train_loss: 0.0980 | penalty_loss: -0.0000
+eta: 154.412 | lam0 - lam1: 18.699
+Epoch: 095/100 | Train Acc: 94.489% | Train Ddp: 0.990% | Train Deo: 0.014%
+Epoch: 095/100 | Valid Acc: 75.079% | Valid Ddp: 1.857% | Valid Deo: 14.837%
+Time elapsed: 2768.87 min
+Epoch: 096/100 | Batch 0000/0636 | train_loss: 0.0881 | penalty_loss: -0.0001
+eta: 155.956 | lam0 - lam1: 18.746
+Epoch: 096/100 | Batch 0050/0636 | train_loss: 0.0344 | penalty_loss: 0.0000
+eta: 155.956 | lam0 - lam1: 18.755
+Epoch: 096/100 | Batch 0100/0636 | train_loss: 0.0266 | penalty_loss: -0.0000
+eta: 155.956 | lam0 - lam1: 18.795
+Epoch: 096/100 | Batch 0150/0636 | train_loss: 0.0060 | penalty_loss: 0.0000
+eta: 155.956 | lam0 - lam1: 18.850
+Epoch: 096/100 | Batch 0200/0636 | train_loss: 0.0241 | penalty_loss: -0.0000
+eta: 155.956 | lam0 - lam1: 18.813
+Epoch: 096/100 | Batch 0250/0636 | train_loss: 0.0245 | penalty_loss: -0.0000
+eta: 155.956 | lam0 - lam1: 18.847
+Epoch: 096/100 | Batch 0300/0636 | train_loss: 0.0530 | penalty_loss: 0.0000
+eta: 155.956 | lam0 - lam1: 18.889
+Epoch: 096/100 | Batch 0350/0636 | train_loss: 0.0561 | penalty_loss: 0.0000
+eta: 155.956 | lam0 - lam1: 18.879
+Epoch: 096/100 | Batch 0400/0636 | train_loss: 0.0484 | penalty_loss: -0.0000
+eta: 155.956 | lam0 - lam1: 18.912
+Epoch: 096/100 | Batch 0450/0636 | train_loss: 0.1261 | penalty_loss: 0.0000
+eta: 155.956 | lam0 - lam1: 18.841
+Epoch: 096/100 | Batch 0500/0636 | train_loss: 0.0365 | penalty_loss: -0.0000
+eta: 155.956 | lam0 - lam1: 18.774
+Epoch: 096/100 | Batch 0550/0636 | train_loss: 0.0555 | penalty_loss: 0.0001
+eta: 155.956 | lam0 - lam1: 18.874
+Epoch: 096/100 | Batch 0600/0636 | train_loss: 0.0568 | penalty_loss: -0.0000
+eta: 155.956 | lam0 - lam1: 18.818
+Epoch: 096/100 | Train Acc: 91.588% | Train Ddp: 2.909% | Train Deo: 0.031%
+Epoch: 096/100 | Valid Acc: 74.339% | Valid Ddp: 2.483% | Valid Deo: 9.512%
+Time elapsed: 2788.68 min
+Epoch: 097/100 | Batch 0000/0636 | train_loss: 0.0517 | penalty_loss: -0.0000
+eta: 157.516 | lam0 - lam1: 18.844
+Epoch: 097/100 | Batch 0050/0636 | train_loss: 0.0112 | penalty_loss: 0.0000
+eta: 157.516 | lam0 - lam1: 18.910
+Epoch: 097/100 | Batch 0100/0636 | train_loss: 0.0233 | penalty_loss: 0.0000
+eta: 157.516 | lam0 - lam1: 18.960
+Epoch: 097/100 | Batch 0150/0636 | train_loss: 0.0317 | penalty_loss: -0.0000
+eta: 157.516 | lam0 - lam1: 18.927
+Epoch: 097/100 | Batch 0200/0636 | train_loss: 0.1000 | penalty_loss: -0.0001
+eta: 157.516 | lam0 - lam1: 18.861
+Epoch: 097/100 | Batch 0250/0636 | train_loss: 0.0093 | penalty_loss: -0.0000
+eta: 157.516 | lam0 - lam1: 18.837
+Epoch: 097/100 | Batch 0300/0636 | train_loss: 0.0432 | penalty_loss: 0.0000
+eta: 157.516 | lam0 - lam1: 18.835
+Epoch: 097/100 | Batch 0350/0636 | train_loss: 0.0583 | penalty_loss: -0.0000
+eta: 157.516 | lam0 - lam1: 18.783
+Epoch: 097/100 | Batch 0400/0636 | train_loss: 0.0412 | penalty_loss: 0.0000
+eta: 157.516 | lam0 - lam1: 18.683
+Epoch: 097/100 | Batch 0450/0636 | train_loss: 0.0327 | penalty_loss: 0.0000
+eta: 157.516 | lam0 - lam1: 18.729
+Epoch: 097/100 | Batch 0500/0636 | train_loss: 0.0397 | penalty_loss: -0.0000
+eta: 157.516 | lam0 - lam1: 18.634
+Epoch: 097/100 | Batch 0550/0636 | train_loss: 0.0571 | penalty_loss: 0.0000
+eta: 157.516 | lam0 - lam1: 18.714
+Epoch: 097/100 | Batch 0600/0636 | train_loss: 0.0793 | penalty_loss: 0.0001
+eta: 157.516 | lam0 - lam1: 18.766
+Epoch: 097/100 | Train Acc: 96.267% | Train Ddp: 0.915% | Train Deo: 0.031%
+Epoch: 097/100 | Valid Acc: 75.522% | Valid Ddp: 1.476% | Valid Deo: 15.384%
+Time elapsed: 2806.48 min
+Epoch: 098/100 | Batch 0000/0636 | train_loss: 0.0458 | penalty_loss: 0.0000
+eta: 159.091 | lam0 - lam1: 18.751
+Epoch: 098/100 | Batch 0050/0636 | train_loss: 0.0529 | penalty_loss: -0.0000
+eta: 159.091 | lam0 - lam1: 18.757
+Epoch: 098/100 | Batch 0100/0636 | train_loss: 0.0268 | penalty_loss: 0.0000
+eta: 159.091 | lam0 - lam1: 18.660
+Epoch: 098/100 | Batch 0150/0636 | train_loss: 0.0423 | penalty_loss: -0.0000
+eta: 159.091 | lam0 - lam1: 18.619
+Epoch: 098/100 | Batch 0200/0636 | train_loss: 0.0237 | penalty_loss: 0.0000
+eta: 159.091 | lam0 - lam1: 18.602
+Epoch: 098/100 | Batch 0250/0636 | train_loss: 0.0274 | penalty_loss: 0.0000
+eta: 159.091 | lam0 - lam1: 18.618
+Epoch: 098/100 | Batch 0300/0636 | train_loss: 0.0267 | penalty_loss: 0.0000
+eta: 159.091 | lam0 - lam1: 18.678
+Epoch: 098/100 | Batch 0350/0636 | train_loss: 0.0328 | penalty_loss: -0.0000
+eta: 159.091 | lam0 - lam1: 18.681
+Epoch: 098/100 | Batch 0400/0636 | train_loss: 0.0231 | penalty_loss: -0.0001
+eta: 159.091 | lam0 - lam1: 18.714
+Epoch: 098/100 | Batch 0450/0636 | train_loss: 0.0629 | penalty_loss: 0.0000
+eta: 159.091 | lam0 - lam1: 18.677
+Epoch: 098/100 | Batch 0500/0636 | train_loss: 0.0471 | penalty_loss: -0.0000
+eta: 159.091 | lam0 - lam1: 18.661
+Epoch: 098/100 | Batch 0550/0636 | train_loss: 0.0678 | penalty_loss: 0.0000
+eta: 159.091 | lam0 - lam1: 18.641
+Epoch: 098/100 | Batch 0600/0636 | train_loss: 0.0230 | penalty_loss: -0.0000
+eta: 159.091 | lam0 - lam1: 18.664
+Epoch: 098/100 | Train Acc: 95.891% | Train Ddp: 0.719% | Train Deo: 0.056%
+Epoch: 098/100 | Valid Acc: 75.029% | Valid Ddp: 2.305% | Valid Deo: 16.638%
+Time elapsed: 2824.64 min
+Epoch: 099/100 | Batch 0000/0636 | train_loss: 0.0157 | penalty_loss: -0.0000
+eta: 160.682 | lam0 - lam1: 18.589
+Epoch: 099/100 | Batch 0050/0636 | train_loss: 0.0138 | penalty_loss: -0.0000
+eta: 160.682 | lam0 - lam1: 18.593
+Epoch: 099/100 | Batch 0100/0636 | train_loss: 0.0218 | penalty_loss: -0.0000
+eta: 160.682 | lam0 - lam1: 18.519
+Epoch: 099/100 | Batch 0150/0636 | train_loss: 0.0505 | penalty_loss: 0.0000
+eta: 160.682 | lam0 - lam1: 18.556
+Epoch: 099/100 | Batch 0200/0636 | train_loss: 0.0239 | penalty_loss: 0.0000
+eta: 160.682 | lam0 - lam1: 18.546
+Epoch: 099/100 | Batch 0250/0636 | train_loss: 0.0225 | penalty_loss: -0.0000
+eta: 160.682 | lam0 - lam1: 18.548
+Epoch: 099/100 | Batch 0300/0636 | train_loss: 0.0205 | penalty_loss: 0.0000
+eta: 160.682 | lam0 - lam1: 18.556
+Epoch: 099/100 | Batch 0350/0636 | train_loss: 0.0170 | penalty_loss: -0.0000
+eta: 160.682 | lam0 - lam1: 18.518
+Epoch: 099/100 | Batch 0400/0636 | train_loss: 0.1030 | penalty_loss: -0.0000
+eta: 160.682 | lam0 - lam1: 18.467
+Epoch: 099/100 | Batch 0450/0636 | train_loss: 0.0298 | penalty_loss: 0.0000
+eta: 160.682 | lam0 - lam1: 18.456
+Epoch: 099/100 | Batch 0500/0636 | train_loss: 0.0169 | penalty_loss: 0.0000
+eta: 160.682 | lam0 - lam1: 18.493
+Epoch: 099/100 | Batch 0550/0636 | train_loss: 0.0595 | penalty_loss: 0.0000
+eta: 160.682 | lam0 - lam1: 18.500
+Epoch: 099/100 | Batch 0600/0636 | train_loss: 0.0830 | penalty_loss: -0.0001
+eta: 160.682 | lam0 - lam1: 18.529
+Epoch: 099/100 | Train Acc: 96.346% | Train Ddp: 0.850% | Train Deo: 0.695%
+Epoch: 099/100 | Valid Acc: 74.732% | Valid Ddp: 0.374% | Valid Deo: 12.689%
+Time elapsed: 2840.77 min
+Epoch: 100/100 | Batch 0000/0636 | train_loss: 0.0442 | penalty_loss: -0.0000
+eta: 162.289 | lam0 - lam1: 18.469
+Epoch: 100/100 | Batch 0050/0636 | train_loss: 0.0657 | penalty_loss: 0.0000
+eta: 162.289 | lam0 - lam1: 18.475
+Epoch: 100/100 | Batch 0100/0636 | train_loss: 0.0259 | penalty_loss: -0.0000
+eta: 162.289 | lam0 - lam1: 18.462
+Epoch: 100/100 | Batch 0150/0636 | train_loss: 0.0300 | penalty_loss: -0.0000
+eta: 162.289 | lam0 - lam1: 18.426
+Epoch: 100/100 | Batch 0200/0636 | train_loss: 0.0448 | penalty_loss: -0.0001
+eta: 162.289 | lam0 - lam1: 18.408
+Epoch: 100/100 | Batch 0250/0636 | train_loss: 0.0290 | penalty_loss: 0.0000
+eta: 162.289 | lam0 - lam1: 18.344
+Epoch: 100/100 | Batch 0300/0636 | train_loss: 0.0515 | penalty_loss: 0.0000
+eta: 162.289 | lam0 - lam1: 18.304
+Epoch: 100/100 | Batch 0350/0636 | train_loss: 0.1128 | penalty_loss: -0.0000
+eta: 162.289 | lam0 - lam1: 18.362
+Epoch: 100/100 | Batch 0400/0636 | train_loss: 0.0693 | penalty_loss: 0.0000
+eta: 162.289 | lam0 - lam1: 18.293
+Epoch: 100/100 | Batch 0450/0636 | train_loss: 0.0701 | penalty_loss: 0.0000
+eta: 162.289 | lam0 - lam1: 18.178
+Epoch: 100/100 | Batch 0500/0636 | train_loss: 0.0819 | penalty_loss: -0.0000
+eta: 162.289 | lam0 - lam1: 18.113
+Epoch: 100/100 | Batch 0550/0636 | train_loss: 0.0496 | penalty_loss: 0.0000
+eta: 162.289 | lam0 - lam1: 18.257
+Epoch: 100/100 | Batch 0600/0636 | train_loss: 0.0209 | penalty_loss: 0.0000
+eta: 162.289 | lam0 - lam1: 18.246
+Epoch: 100/100 | Train Acc: 96.297% | Train Ddp: 0.310% | Train Deo: 0.017%
+Epoch: 100/100 | Valid Acc: 75.759% | Valid Ddp: 1.682% | Valid Deo: 15.602%
+Time elapsed: 2856.50 min
+Total Training Time: 2856.50 min
+Test Acc: 75.52% | Test Ddp: 0.28% | Test Deo: 10.37%

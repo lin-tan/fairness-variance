@@ -1,0 +1,1273 @@
+,,max_diff,max,min,std_dev,mean,rel_maxdiff(%)
+./imSitu_aggregated_raw_prediction/adv-conv4/,class  0,0.005556,0.9167,0.9111,0.001438,0.9142,0.6077
+./imSitu_aggregated_raw_prediction/adv-conv4/,class  1,0,0.9189,0.9189,3.331E-16,0.9189,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class  2,0.002849,0.9259,0.9231,0.0007889,0.9249,0.3080
+./imSitu_aggregated_raw_prediction/adv-conv4/,class  3,0.1156,0.5556,0.4400,0.03174,0.5101,22.65
+./imSitu_aggregated_raw_prediction/adv-conv4/,class  4,0.003788,0.8788,0.875,0.001834,0.8764,0.4322
+./imSitu_aggregated_raw_prediction/adv-conv4/,class  5,0.02157,0.9216,0.9000,0.006703,0.9186,2.348
+./imSitu_aggregated_raw_prediction/adv-conv4/,class  6,0.004268,0.8293,0.8250,0.001666,0.8285,0.5152
+./imSitu_aggregated_raw_prediction/adv-conv4/,class  7,0.01349,0.5278,0.5143,0.003266,0.5151,2.619
+./imSitu_aggregated_raw_prediction/adv-conv4/,class  8,0.01212,0.8788,0.8667,0.003291,0.8752,1.385
+./imSitu_aggregated_raw_prediction/adv-conv4/,class  9,0,0.875,0.875,0,0.875,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 10,0.05856,0.8919,0.8333,0.01743,0.8495,6.894
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 11,0.02187,0.8846,0.8627,0.004814,0.8813,2.482
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 12,0.03030,0.6667,0.6364,0.01020,0.6565,4.616
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 13,0.04808,0.9231,0.875,0.01970,0.8939,5.379
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 14,0.04500,0.9200,0.875,0.01946,0.8950,5.028
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 15,0.1000,0.1000,0,0.04330,0.02500,400
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 16,0.04545,0.8182,0.7727,0.01104,0.8126,5.593
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 17,0.03896,0.8571,0.8182,0.009606,0.8426,4.624
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 18,0.01648,0.7857,0.7692,0.006434,0.7723,2.134
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 19,0.02935,0.7674,0.7381,0.006799,0.7578,3.872
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 20,0.03261,0.7826,0.75,0.008236,0.7623,4.278
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 21,0.03226,0.8065,0.7742,0.01600,0.7883,4.092
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 22,0.06926,0.6176,0.5484,0.01943,0.5821,11.90
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 23,0.01596,0.7660,0.75,0.004603,0.7561,2.110
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 24,0.005682,0.8182,0.8125,0.002819,0.8157,0.6966
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 25,0.003077,0.9231,0.9200,0.0007448,0.9202,0.3344
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 26,0,0.7333,0.7333,2.220E-16,0.7333,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 27,0.04301,0.7097,0.6667,0.01066,0.6952,6.187
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 28,0.08201,0.7857,0.7037,0.02038,0.7562,10.85
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 29,0,0.5333,0.5333,0,0.5333,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 30,0.01070,0.6471,0.6364,0.003537,0.6377,1.677
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 31,0.05556,0.2778,0.2222,0.02168,0.2674,20.78
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 32,0.1364,0.6364,0.5,0.03936,0.5455,25
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 33,0.03321,0.5517,0.5185,0.01035,0.5270,6.300
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 34,0.05882,0.2353,0.1765,0.01974,0.1859,31.65
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 35,0.06767,0.8571,0.7895,0.02410,0.8332,8.121
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 36,0.08095,0.3667,0.2857,0.02583,0.3139,25.79
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 37,0.1111,0.1111,0,0.03321,0.08435,131.7
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 38,0.07130,0.6800,0.6087,0.01952,0.6533,10.91
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 39,0,0.5455,0.5455,2.220E-16,0.5455,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 40,0.02827,0.6136,0.5854,0.009083,0.5974,4.732
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 41,0.02074,0.7407,0.7200,0.007488,0.7325,2.832
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 42,0.02000,0.5200,0.5,0.01000,0.5100,3.922
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 43,0.09000,0.8400,0.75,0.03009,0.7921,11.36
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 44,0.01500,0.6400,0.625,0.006953,0.6297,2.382
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 45,0.03333,0.3333,0.3000,0.01545,0.3229,10.32
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 46,0.07246,0.3333,0.2609,0.02570,0.2839,25.53
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 47,0,0.09091,0.09091,0,0.09091,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 48,0,1,1,0,1,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 49,0,0.3750,0.3750,5.551E-17,0.3750,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 50,0.03810,0.4667,0.4286,0.01650,0.4571,8.333
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 51,0.1190,0.6190,0.5,0.03014,0.5627,21.16
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 52,0.02244,0.7308,0.7083,0.005347,0.7213,3.111
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 53,0.1667,0.3333,0.1667,0.03377,0.2457,67.82
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 54,0.1447,0.25,0.1053,0.05077,0.1758,82.32
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 55,0.09091,0.09091,0,0.04214,0.06250,145.5
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 56,0.06410,0.2308,0.1667,0.01577,0.1957,32.76
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 57,0.1636,0.3636,0.2000,0.03032,0.2773,59.02
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 58,0.07609,0.25,0.1739,0.02396,0.2232,34.09
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 59,0.05556,0.2222,0.1667,0.02350,0.2016,27.56
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 60,0.07167,0.2800,0.2083,0.02853,0.2244,31.94
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 61,0.01504,0.8571,0.8421,0.004311,0.8480,1.773
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 62,0.03333,0.6000,0.5667,0.01667,0.5833,5.714
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 63,0.2556,0.7000,0.4444,0.07237,0.5729,44.61
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 64,0.09524,0.09524,0,0.02917,0.04748,200.6
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 65,0.04762,0.3333,0.2857,0.02381,0.3095,15.38
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 66,0.02174,0.5,0.4783,0.005262,0.4796,4.533
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 67,0.1099,0.5714,0.4615,0.03216,0.5112,21.50
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 68,0.1154,0.6154,0.5,0.03665,0.5488,21.03
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 69,0.1538,0.1538,0,0.05075,0.09655,159.3
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 70,0.09524,0.4286,0.3333,0.02663,0.3961,24.05
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 71,0.1090,0.6923,0.5833,0.03386,0.6615,16.47
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 72,0,0.05882,0.05882,0,0.05882,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 73,0.1176,0.7059,0.5882,0.04011,0.6654,17.68
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 74,0.3333,0.3333,0,0.1102,0.04167,800
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 75,0,0.75,0.75,0,0.75,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 76,0.2222,0.2222,0,0.05832,0.1054,210.9
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 77,0.1545,0.4545,0.3000,0.04246,0.3784,40.84
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 78,0.09524,0.09524,0,0.02916,0.07143,133.3
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 79,0,0.6000,0.6000,2.220E-16,0.6000,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 80,0.1667,0.1667,0,0.06942,0.1190,140
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 81,0,0,0,0,0,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 82,0,0,0,0,0,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 83,0.05556,0.3333,0.2778,0.01628,0.3004,18.49
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 84,0.05383,0.4348,0.3810,0.01487,0.4104,13.12
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 85,0.08889,0.2000,0.1111,0.04410,0.1611,55.17
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 86,0.1250,0.25,0.1250,0.04134,0.2344,53.33
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 87,0.03011,0.09677,0.06667,0.009957,0.09301,32.37
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 88,0.04762,0.7143,0.6667,0.02362,0.6875,6.926
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 89,0.08013,0.5385,0.4583,0.01658,0.5010,15.99
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 90,0.04762,0.2857,0.2381,0.01153,0.2411,19.75
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 91,0.005698,0.8519,0.8462,0.001379,0.8465,0.6731
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 92,0.125,1,0.875,0.04201,0.9137,13.68
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 93,0.07692,0.4615,0.3846,0.02533,0.4255,18.08
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 94,0.0625,0.0625,0,0.02965,0.02964,210.9
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 95,0.08480,0.4737,0.3889,0.03103,0.4282,19.80
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 96,0.09649,0.2632,0.1667,0.02945,0.1851,52.12
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 97,0.1250,0.1250,0,0.04402,0.03516,355.6
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 98,0,0.1538,0.1538,5.551E-17,0.1538,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class 99,0.1250,0.1250,0,0.03738,0.02031,615.4
+./imSitu_aggregated_raw_prediction/adv-conv4/,class100,0.1474,0.2308,0.08333,0.04614,0.1708,86.33
+./imSitu_aggregated_raw_prediction/adv-conv4/,class101,0.2308,0.2308,0,0.07144,0.1134,203.5
+./imSitu_aggregated_raw_prediction/adv-conv4/,class102,0.2143,0.5,0.2857,0.07616,0.4330,49.48
+./imSitu_aggregated_raw_prediction/adv-conv4/,class103,0.09091,0.09091,0,0.04214,0.02841,320
+./imSitu_aggregated_raw_prediction/adv-conv4/,class104,0.2000,0.5333,0.3333,0.05118,0.4134,48.38
+./imSitu_aggregated_raw_prediction/adv-conv4/,class105,0,0.2308,0.2308,8.327E-17,0.2308,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class106,0,0.75,0.75,0,0.75,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class107,0.05263,0.2105,0.1579,0.02366,0.1946,27.04
+./imSitu_aggregated_raw_prediction/adv-conv4/,class108,0.1667,0.1667,0,0.08069,0.1042,160.0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class109,0.09524,0.6667,0.5714,0.03101,0.6216,15.32
+./imSitu_aggregated_raw_prediction/adv-conv4/,class110,0.09444,0.1500,0.05556,0.01996,0.1077,87.65
+./imSitu_aggregated_raw_prediction/adv-conv4/,class111,0.07692,0.3846,0.3077,0.01862,0.3798,20.25
+./imSitu_aggregated_raw_prediction/adv-conv4/,class112,0.05357,0.625,0.5714,0.02091,0.6150,8.711
+./imSitu_aggregated_raw_prediction/adv-conv4/,class113,0.07143,0.5714,0.5,0.02393,0.5282,13.52
+./imSitu_aggregated_raw_prediction/adv-conv4/,class114,0.04150,0.08696,0.04545,0.01373,0.08177,50.76
+./imSitu_aggregated_raw_prediction/adv-conv4/,class115,0.2000,0.2000,0,0.06357,0.05972,334.9
+./imSitu_aggregated_raw_prediction/adv-conv4/,class116,0.1667,0.6667,0.5,0.07217,0.5764,28.92
+./imSitu_aggregated_raw_prediction/adv-conv4/,class117,0.08333,0.08333,0,0.03253,0.06771,123.1
+./imSitu_aggregated_raw_prediction/adv-conv4/,class118,0.07273,0.2727,0.2000,0.02839,0.2591,28.07
+./imSitu_aggregated_raw_prediction/adv-conv4/,class119,0.1353,0.4815,0.3462,0.03524,0.4208,32.16
+./imSitu_aggregated_raw_prediction/adv-conv4/,class120,0,0.5,0.5,0,0.5,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class121,0.05882,0.4706,0.4118,0.02547,0.4559,12.90
+./imSitu_aggregated_raw_prediction/adv-conv4/,class122,0.1455,0.5455,0.4000,0.03724,0.5165,28.16
+./imSitu_aggregated_raw_prediction/adv-conv4/,class123,0.01905,0.2857,0.2667,0.004611,0.2679,7.111
+./imSitu_aggregated_raw_prediction/adv-conv4/,class124,0.09091,0.8182,0.7273,0.02068,0.7524,12.08
+./imSitu_aggregated_raw_prediction/adv-conv4/,class125,0.1111,0.1111,0,0.04167,0.04167,266.7
+./imSitu_aggregated_raw_prediction/adv-conv4/,class126,0.09524,0.4286,0.3333,0.04762,0.3810,25
+./imSitu_aggregated_raw_prediction/adv-conv4/,class127,0.04583,0.3125,0.2667,0.01621,0.2900,15.81
+./imSitu_aggregated_raw_prediction/adv-conv4/,class128,0.1111,0.5,0.3889,0.03384,0.4757,23.36
+./imSitu_aggregated_raw_prediction/adv-conv4/,class129,0.1053,0.4737,0.3684,0.03663,0.4145,25.40
+./imSitu_aggregated_raw_prediction/adv-conv4/,class130,0.07143,0.4286,0.3571,0.02667,0.3768,18.96
+./imSitu_aggregated_raw_prediction/adv-conv4/,class131,0.2000,0.3000,0.1000,0.08342,0.1789,111.8
+./imSitu_aggregated_raw_prediction/adv-conv4/,class132,0,0.6667,0.6667,1.110E-16,0.6667,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class133,0.05833,0.6000,0.5417,0.02158,0.5565,10.48
+./imSitu_aggregated_raw_prediction/adv-conv4/,class134,0.02381,0.5,0.4762,0.01031,0.4821,4.938
+./imSitu_aggregated_raw_prediction/adv-conv4/,class135,0.03889,0.6500,0.6111,0.01153,0.6395,6.081
+./imSitu_aggregated_raw_prediction/adv-conv4/,class136,0.4000,0.4000,0,0.1453,0.1667,240.0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class137,0,0.3750,0.3750,5.551E-17,0.3750,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class138,0,0.7692,0.7692,2.220E-16,0.7692,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class139,0.09091,0.09091,0,0.04545,0.04545,200
+./imSitu_aggregated_raw_prediction/adv-conv4/,class140,0.1346,0.3846,0.25,0.04521,0.3177,42.37
+./imSitu_aggregated_raw_prediction/adv-conv4/,class141,0.1429,0.3571,0.2143,0.04282,0.2768,51.61
+./imSitu_aggregated_raw_prediction/adv-conv4/,class142,0.1429,0.7857,0.6429,0.04971,0.7411,19.28
+./imSitu_aggregated_raw_prediction/adv-conv4/,class143,0.08000,0.1600,0.08000,0.02437,0.1425,56.14
+./imSitu_aggregated_raw_prediction/adv-conv4/,class144,0.08333,0.6667,0.5833,0.01938,0.6320,13.18
+./imSitu_aggregated_raw_prediction/adv-conv4/,class145,0.07051,0.1538,0.08333,0.01707,0.08774,80.37
+./imSitu_aggregated_raw_prediction/adv-conv4/,class146,0.05682,0.375,0.3182,0.02031,0.3327,17.08
+./imSitu_aggregated_raw_prediction/adv-conv4/,class147,0.004598,0.8667,0.8621,0.002131,0.8652,0.5314
+./imSitu_aggregated_raw_prediction/adv-conv4/,class148,0,0.5,0.5,0,0.5,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class149,0.1000,0.6000,0.5,0.02421,0.5937,16.84
+./imSitu_aggregated_raw_prediction/adv-conv4/,class150,0,0.6923,0.6923,1.110E-16,0.6923,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class151,0.01455,0.6071,0.5926,0.006744,0.5971,2.437
+./imSitu_aggregated_raw_prediction/adv-conv4/,class152,0.02447,0.6452,0.6207,0.007224,0.6246,3.918
+./imSitu_aggregated_raw_prediction/adv-conv4/,class153,0.09231,0.4000,0.3077,0.03506,0.3435,26.87
+./imSitu_aggregated_raw_prediction/adv-conv4/,class154,0.06993,0.6154,0.5455,0.01916,0.5759,12.14
+./imSitu_aggregated_raw_prediction/adv-conv4/,class155,0,0.8636,0.8636,2.220E-16,0.8636,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class156,0.05882,0.2941,0.2353,0.01424,0.2904,20.25
+./imSitu_aggregated_raw_prediction/adv-conv4/,class157,0,0.6667,0.6667,1.110E-16,0.6667,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class158,0.2000,0.4000,0.2000,0.1000,0.3000,66.67
+./imSitu_aggregated_raw_prediction/adv-conv4/,class159,0.09890,0.7143,0.6154,0.03813,0.6473,15.28
+./imSitu_aggregated_raw_prediction/adv-conv4/,class160,0.01515,0.8333,0.8182,0.005011,0.8201,1.848
+./imSitu_aggregated_raw_prediction/adv-conv4/,class161,0.08333,0.5833,0.5,0.03863,0.5260,15.84
+./imSitu_aggregated_raw_prediction/adv-conv4/,class162,0.1818,0.6364,0.4545,0.05675,0.5426,33.51
+./imSitu_aggregated_raw_prediction/adv-conv4/,class163,0.09848,0.9167,0.8182,0.04298,0.8641,11.40
+./imSitu_aggregated_raw_prediction/adv-conv4/,class164,0,0.7143,0.7143,2.220E-16,0.7143,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class165,0.01183,0.6452,0.6333,0.005726,0.6407,1.846
+./imSitu_aggregated_raw_prediction/adv-conv4/,class166,0.1529,0.3529,0.2000,0.04185,0.2901,52.73
+./imSitu_aggregated_raw_prediction/adv-conv4/,class167,0.05882,0.7059,0.6471,0.02547,0.6618,8.889
+./imSitu_aggregated_raw_prediction/adv-conv4/,class168,0,0.4118,0.4118,1.110E-16,0.4118,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class169,0.02083,0.8333,0.8125,0.006158,0.8277,2.517
+./imSitu_aggregated_raw_prediction/adv-conv4/,class170,0.07280,0.5172,0.4444,0.01757,0.4952,14.70
+./imSitu_aggregated_raw_prediction/adv-conv4/,class171,0.03309,0.4706,0.4375,0.01094,0.4665,7.094
+./imSitu_aggregated_raw_prediction/adv-conv4/,class172,0.1000,1,0.9000,0.04236,0.9756,10.25
+./imSitu_aggregated_raw_prediction/adv-conv4/,class173,0,0.8000,0.8000,1.110E-16,0.8000,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class174,0.01462,0.7368,0.7222,0.006776,0.7323,1.997
+./imSitu_aggregated_raw_prediction/adv-conv4/,class175,0.1059,0.7059,0.6000,0.03637,0.6374,16.61
+./imSitu_aggregated_raw_prediction/adv-conv4/,class176,0.02222,0.8000,0.7778,0.005497,0.7879,2.820
+./imSitu_aggregated_raw_prediction/adv-conv4/,class177,0.02381,0.6667,0.6429,0.008601,0.6572,3.623
+./imSitu_aggregated_raw_prediction/adv-conv4/,class178,0.01190,0.7619,0.75,0.003937,0.7604,1.566
+./imSitu_aggregated_raw_prediction/adv-conv4/,class179,0.01667,0.75,0.7333,0.004034,0.7344,2.270
+./imSitu_aggregated_raw_prediction/adv-conv4/,class180,0.06667,0.8000,0.7333,0.01637,0.7940,8.396
+./imSitu_aggregated_raw_prediction/adv-conv4/,class181,0.009195,0.7333,0.7241,0.004452,0.7276,1.264
+./imSitu_aggregated_raw_prediction/adv-conv4/,class182,0,0.1429,0.1429,5.551E-17,0.1429,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class183,0.05952,0.5833,0.5238,0.01540,0.5538,10.75
+./imSitu_aggregated_raw_prediction/adv-conv4/,class184,0.05000,0.75,0.7000,0.01952,0.7094,7.048
+./imSitu_aggregated_raw_prediction/adv-conv4/,class185,0.004646,0.8095,0.8049,0.002012,0.8060,0.5764
+./imSitu_aggregated_raw_prediction/adv-conv4/,class186,0.06061,0.7273,0.6667,0.01390,0.7154,8.472
+./imSitu_aggregated_raw_prediction/adv-conv4/,class187,0.03030,0.8182,0.7879,0.01163,0.8118,3.733
+./imSitu_aggregated_raw_prediction/adv-conv4/,class188,0.06897,0.6897,0.6207,0.01932,0.6616,10.42
+./imSitu_aggregated_raw_prediction/adv-conv4/,class189,0.008333,0.8000,0.7917,0.002017,0.7922,1.052
+./imSitu_aggregated_raw_prediction/adv-conv4/,class190,0.04167,0.6667,0.625,0.01009,0.6641,6.275
+./imSitu_aggregated_raw_prediction/adv-conv4/,class191,0.03448,0.9310,0.8966,0.01493,0.9052,3.810
+./imSitu_aggregated_raw_prediction/adv-conv4/,class192,0.006158,0.8276,0.8214,0.003055,0.8249,0.7465
+./imSitu_aggregated_raw_prediction/adv-conv4/,class193,0,0.7241,0.7241,0,0.7241,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class194,0.06061,0.8333,0.7727,0.01927,0.8009,7.567
+./imSitu_aggregated_raw_prediction/adv-conv4/,class195,0.04365,0.8214,0.7778,0.009212,0.8129,5.370
+./imSitu_aggregated_raw_prediction/adv-conv4/,class196,0.01648,0.7857,0.7692,0.004557,0.7782,2.118
+./imSitu_aggregated_raw_prediction/adv-conv4/,class197,0.03704,0.6667,0.6296,0.01240,0.6367,5.817
+./imSitu_aggregated_raw_prediction/adv-conv4/,class198,0.08750,0.6875,0.6000,0.03204,0.6352,13.78
+./imSitu_aggregated_raw_prediction/adv-conv4/,class199,0.02935,0.7674,0.7381,0.008571,0.7628,3.847
+./imSitu_aggregated_raw_prediction/adv-conv4/,class200,0.04233,0.8571,0.8148,0.01631,0.8252,5.129
+./imSitu_aggregated_raw_prediction/adv-conv4/,class201,0.005040,0.8438,0.8387,0.001220,0.8434,0.5976
+./imSitu_aggregated_raw_prediction/adv-conv4/,class202,0,0.5625,0.5625,0,0.5625,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class203,0.06061,0.8333,0.7727,0.01812,0.8148,7.439
+./imSitu_aggregated_raw_prediction/adv-conv4/,class204,0,0.9333,0.9333,1.110E-16,0.9333,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class205,0,0.7692,0.7692,2.220E-16,0.7692,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class206,0,1,1,0,1,0
+./imSitu_aggregated_raw_prediction/adv-conv4/,class207,0.009413,0.6047,0.5952,0.002279,0.6041,1.558
+./imSitu_aggregated_raw_prediction/adv-conv4/,class208,0.01190,0.9167,0.9048,0.003094,0.9110,1.307
+./imSitu_aggregated_raw_prediction/adv-conv4/,class209,0.125,0.6875,0.5625,0.02678,0.6289,19.88
+./imSitu_aggregated_raw_prediction/adv-conv4/,class210,0.1182,0.8182,0.7000,0.02560,0.7893,14.97
+./imSitu_aggregated_raw_prediction/adv-conv4/,overall,0.008309,0.5276,0.5193,0.002287,0.5240,1.586
+./imSitu_aggregated_raw_prediction/adv-conv5/,class  0,0.04416,0.7714,0.7273,0.01528,0.7531,5.863
+./imSitu_aggregated_raw_prediction/adv-conv5/,class  1,0.06434,0.9706,0.9062,0.01826,0.9511,6.764
+./imSitu_aggregated_raw_prediction/adv-conv5/,class  2,0.04831,0.8261,0.7778,0.01391,0.8105,5.960
+./imSitu_aggregated_raw_prediction/adv-conv5/,class  3,0.05128,0.6667,0.6154,0.01862,0.6426,7.980
+./imSitu_aggregated_raw_prediction/adv-conv5/,class  4,0.09341,0.7857,0.6923,0.03090,0.7547,12.38
+./imSitu_aggregated_raw_prediction/adv-conv5/,class  5,0.007203,0.8235,0.8163,0.002184,0.8218,0.8765
+./imSitu_aggregated_raw_prediction/adv-conv5/,class  6,0.07259,0.7297,0.6571,0.01748,0.6932,10.47
+./imSitu_aggregated_raw_prediction/adv-conv5/,class  7,0.1314,0.4231,0.2917,0.03117,0.3587,36.63
+./imSitu_aggregated_raw_prediction/adv-conv5/,class  8,0.1090,0.6923,0.5833,0.03530,0.6461,16.87
+./imSitu_aggregated_raw_prediction/adv-conv5/,class  9,0.08235,0.8824,0.8000,0.02248,0.8683,9.484
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 10,0.1395,0.7917,0.6522,0.04181,0.7193,19.39
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 11,0.06579,0.8158,0.75,0.01993,0.7920,8.306
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 12,0.1071,0.6429,0.5357,0.03611,0.5984,17.90
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 13,0.008333,0.875,0.8667,0.002017,0.8672,0.9610
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 14,0.2059,0.7059,0.5,0.05992,0.5881,35.01
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 15,0.2222,0.2222,0,0.08256,0.06753,329.0
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 16,0.07792,0.7143,0.6364,0.02206,0.6800,11.46
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 17,0.3333,0.3333,0,0.1025,0.1229,271.2
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 18,0.1875,0.6875,0.5,0.05094,0.6107,30.70
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 19,0.1183,0.4516,0.3333,0.03142,0.4046,29.23
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 20,0.02074,0.7407,0.7200,0.006647,0.7287,2.846
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 21,0.01923,0.75,0.7308,0.006429,0.7382,2.605
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 22,0.07680,0.6944,0.6176,0.01838,0.6418,11.97
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 23,0.03571,0.6429,0.6071,0.01394,0.6362,5.614
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 24,0.09375,0.6875,0.5938,0.02309,0.6620,14.16
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 25,0.04121,0.9643,0.9231,0.01234,0.9567,4.307
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 26,0.08333,0.08333,0,0.02017,0.005208,1600
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 27,0.04487,0.4615,0.4167,0.01694,0.4338,10.34
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 28,0.1146,0.5263,0.4118,0.03591,0.4582,25.00
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 29,0.08627,0.3529,0.2667,0.03029,0.3058,28.22
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 30,0.05000,0.5500,0.5,0.01564,0.5282,9.466
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 31,0.1167,0.25,0.1333,0.04117,0.2245,51.97
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 32,0.2679,0.625,0.3571,0.06880,0.4914,54.51
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 33,0.1078,0.4762,0.3684,0.02626,0.4467,24.13
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 34,0.04444,0.6000,0.5556,0.01391,0.5686,7.817
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 35,0.1500,0.9500,0.8000,0.04165,0.8620,17.40
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 36,0.03704,0.03704,0,0.01781,0.01571,235.8
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 37,0.1444,0.2000,0.05556,0.03591,0.1200,120.3
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 38,0.08772,0.6667,0.5789,0.02607,0.6305,13.91
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 39,0.08333,0.5833,0.5,0.02170,0.5440,15.32
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 40,0.1455,0.5455,0.4000,0.03277,0.4923,29.55
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 41,0.09964,0.7083,0.6087,0.02731,0.6339,15.72
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 42,0.07407,0.4444,0.3704,0.01950,0.3773,19.63
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 43,0.07721,0.7647,0.6875,0.01620,0.7145,10.81
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 44,0.1169,0.5455,0.4286,0.02687,0.4911,23.80
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 45,0.1333,0.1333,0,0.03341,0.06964,191.5
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 46,0.07708,0.3438,0.2667,0.01824,0.3031,25.43
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 47,0.07500,0.2000,0.125,0.01938,0.1676,44.75
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 48,0.5,0.5,0,0.2318,0.1562,320
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 49,0.01905,0.6190,0.6000,0.008829,0.6060,3.143
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 50,0.1000,0.4000,0.3000,0.03409,0.3413,29.30
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 51,0.09926,0.4118,0.3125,0.03877,0.3336,29.75
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 52,0.06435,0.7600,0.6957,0.01718,0.7341,8.766
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 53,0.3000,0.3000,0,0.08125,0.1485,202.1
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 54,0.1436,0.2800,0.1364,0.04493,0.1943,73.92
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 55,0.2000,0.2000,0,0.1000,0.1000,200.0
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 56,0.1601,0.2778,0.1176,0.04391,0.1822,87.90
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 57,0.1250,0.1250,0,0.05420,0.04184,298.8
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 58,0.09524,0.3810,0.2857,0.03377,0.3300,28.86
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 59,0.1739,0.1739,0,0.05689,0.07193,241.8
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 60,0.1200,0.2800,0.1600,0.03039,0.2101,57.11
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 61,0.1111,0.6667,0.5556,0.02595,0.6162,18.03
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 62,0.04522,0.4800,0.4348,0.01168,0.4623,9.781
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 63,0.02500,0.9000,0.875,0.008823,0.8842,2.827
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 64,0.04000,0.1200,0.08000,0.01812,0.1005,39.81
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 65,0.1212,0.6667,0.5455,0.02644,0.6293,19.26
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 66,0.1923,0.5,0.3077,0.05191,0.3804,50.56
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 67,0.08333,0.6667,0.5833,0.01660,0.6277,13.28
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 68,0.1923,0.6923,0.5,0.05576,0.6280,30.62
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 69,0.1667,0.1667,0,0.05221,0.04877,341.7
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 70,0.1111,0.5,0.3889,0.03072,0.4462,24.90
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 71,0.1507,0.5625,0.4118,0.04350,0.4947,30.47
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 72,0.1200,0.1200,0,0.03693,0.03139,382.3
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 73,0.2857,0.5,0.2143,0.07609,0.3419,83.57
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 74,0.2857,0.2857,0,0.09421,0.125,228.6
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 75,0.1500,0.4000,0.25,0.04961,0.2687,55.81
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 76,0.09737,0.1500,0.05263,0.03635,0.1054,92.36
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 77,0.4000,0.4000,0,0.1031,0.1873,213.5
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 78,0.1405,0.1905,0.05000,0.03594,0.1148,122.4
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 79,0.25,0.25,0,0.08917,0.09375,266.7
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 80,0.2619,0.4286,0.1667,0.08708,0.2467,106.2
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 81,0.2698,0.5556,0.2857,0.07075,0.4498,59.99
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 82,0.05556,0.05556,0,0.02743,0.02741,202.7
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 83,0.1340,0.7222,0.5882,0.04513,0.6662,20.11
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 84,0.05899,0.5429,0.4839,0.01665,0.5118,11.53
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 85,0.1000,0.6000,0.5,0.02591,0.5091,19.64
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 86,0.3571,0.5,0.1429,0.1085,0.2711,131.7
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 87,0.07143,0.07143,0,0.02498,0.03191,223.8
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 88,0.3500,0.6000,0.25,0.08046,0.3844,91.06
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 89,0.07941,0.5500,0.4706,0.02354,0.5124,15.50
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 90,0.1000,0.2000,0.1000,0.03216,0.1566,63.85
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 91,0.009231,0.7692,0.7600,0.003053,0.7681,1.202
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 92,0.08242,0.9286,0.8462,0.01912,0.9196,8.962
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 93,0.1111,0.1111,0,0.03295,0.07602,146.2
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 94,0.2308,0.2308,0,0.05310,0.1190,193.9
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 95,0.2727,0.5,0.2273,0.07495,0.4049,67.36
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 96,0.1000,0.1000,0,0.03093,0.02237,447.1
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 97,0.2222,0.2222,0,0.06462,0.1292,171.9
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 98,0.1538,0.3077,0.1538,0.04611,0.2404,64.00
+./imSitu_aggregated_raw_prediction/adv-conv5/,class 99,0.2857,0.2857,0,0.09530,0.08705,328.2
+./imSitu_aggregated_raw_prediction/adv-conv5/,class100,0.2615,0.4615,0.2000,0.07467,0.3339,78.32
+./imSitu_aggregated_raw_prediction/adv-conv5/,class101,0.1000,0.1000,0,0.04915,0.05568,179.6
+./imSitu_aggregated_raw_prediction/adv-conv5/,class102,0.1000,0.3000,0.2000,0.04547,0.2604,38.40
+./imSitu_aggregated_raw_prediction/adv-conv5/,class103,0.1727,0.2727,0.1000,0.05290,0.1848,93.47
+./imSitu_aggregated_raw_prediction/adv-conv5/,class104,0.03309,0.4706,0.4375,0.01534,0.4602,7.189
+./imSitu_aggregated_raw_prediction/adv-conv5/,class105,0.05128,0.3846,0.3333,0.02221,0.3462,14.81
+./imSitu_aggregated_raw_prediction/adv-conv5/,class106,0.01905,0.7333,0.7143,0.009221,0.7214,2.640
+./imSitu_aggregated_raw_prediction/adv-conv5/,class107,0.1333,0.3333,0.2000,0.03819,0.2421,55.07
+./imSitu_aggregated_raw_prediction/adv-conv5/,class108,0.2637,0.5714,0.3077,0.06643,0.4784,55.13
+./imSitu_aggregated_raw_prediction/adv-conv5/,class109,0.1050,0.4800,0.375,0.03119,0.4110,25.54
+./imSitu_aggregated_raw_prediction/adv-conv5/,class110,0.2222,0.2222,0,0.06903,0.08976,247.6
+./imSitu_aggregated_raw_prediction/adv-conv5/,class111,0.03309,0.4706,0.4375,0.01654,0.4540,7.287
+./imSitu_aggregated_raw_prediction/adv-conv5/,class112,0.2857,0.2857,0,0.09754,0.1131,252.6
+./imSitu_aggregated_raw_prediction/adv-conv5/,class113,0.2500,0.5833,0.3333,0.07311,0.4578,54.61
+./imSitu_aggregated_raw_prediction/adv-conv5/,class114,0.08696,0.08696,0,0.02420,0.05459,159.3
+./imSitu_aggregated_raw_prediction/adv-conv5/,class115,0.1000,0.5,0.4000,0.02974,0.4544,22.01
+./imSitu_aggregated_raw_prediction/adv-conv5/,class116,0.125,0.625,0.5,0.04134,0.6094,20.51
+./imSitu_aggregated_raw_prediction/adv-conv5/,class117,0.1319,0.2857,0.1538,0.03669,0.2115,62.34
+./imSitu_aggregated_raw_prediction/adv-conv5/,class118,0.1515,0.3333,0.1818,0.05666,0.2292,66.12
+./imSitu_aggregated_raw_prediction/adv-conv5/,class119,0.1108,0.2308,0.1200,0.03063,0.1703,65.05
+./imSitu_aggregated_raw_prediction/adv-conv5/,class120,0,0.6000,0.6000,2.220E-16,0.6000,0
+./imSitu_aggregated_raw_prediction/adv-conv5/,class121,0.06944,0.4444,0.3750,0.02278,0.4130,16.81
+./imSitu_aggregated_raw_prediction/adv-conv5/,class122,0.08824,0.5882,0.5,0.02898,0.5589,15.79
+./imSitu_aggregated_raw_prediction/adv-conv5/,class123,0.2667,0.2667,0,0.07904,0.1577,169.1
+./imSitu_aggregated_raw_prediction/adv-conv5/,class124,0.2022,0.7647,0.5625,0.05166,0.6505,31.08
+./imSitu_aggregated_raw_prediction/adv-conv5/,class125,0.1206,0.3478,0.2273,0.03470,0.2937,41.04
+./imSitu_aggregated_raw_prediction/adv-conv5/,class126,0.3500,0.6000,0.25,0.1059,0.4812,72.73
+./imSitu_aggregated_raw_prediction/adv-conv5/,class127,0.06322,0.1667,0.1034,0.02252,0.1289,49.04
+./imSitu_aggregated_raw_prediction/adv-conv5/,class128,0.1237,0.6500,0.5263,0.04239,0.5920,20.89
+./imSitu_aggregated_raw_prediction/adv-conv5/,class129,0.05263,0.4211,0.3684,0.01448,0.4158,12.66
+./imSitu_aggregated_raw_prediction/adv-conv5/,class130,0.01462,0.7368,0.7222,0.006776,0.7323,1.997
+./imSitu_aggregated_raw_prediction/adv-conv5/,class131,0,0.4286,0.4286,1.665E-16,0.4286,0
+./imSitu_aggregated_raw_prediction/adv-conv5/,class132,0.1587,0.7143,0.5556,0.04651,0.6257,25.37
+./imSitu_aggregated_raw_prediction/adv-conv5/,class133,0.07632,0.5500,0.4737,0.02443,0.5189,14.71
+./imSitu_aggregated_raw_prediction/adv-conv5/,class134,0.1667,0.5,0.3333,0.04196,0.4074,40.91
+./imSitu_aggregated_raw_prediction/adv-conv5/,class135,0.1500,0.75,0.6000,0.04211,0.6967,21.53
+./imSitu_aggregated_raw_prediction/adv-conv5/,class136,0.3333,0.3333,0,0.1176,0.1417,235.3
+./imSitu_aggregated_raw_prediction/adv-conv5/,class137,0.04248,0.2778,0.2353,0.01658,0.2698,15.75
+./imSitu_aggregated_raw_prediction/adv-conv5/,class138,0.1364,0.6364,0.5,0.04351,0.5747,23.73
+./imSitu_aggregated_raw_prediction/adv-conv5/,class139,0.08333,0.3333,0.25,0.02131,0.2902,28.72
+./imSitu_aggregated_raw_prediction/adv-conv5/,class140,0.06905,0.6190,0.5500,0.01842,0.5932,11.64
+./imSitu_aggregated_raw_prediction/adv-conv5/,class141,0.1374,0.2143,0.07692,0.04246,0.1116,123.1
+./imSitu_aggregated_raw_prediction/adv-conv5/,class142,0.1667,1,0.8333,0.05181,0.8661,19.24
+./imSitu_aggregated_raw_prediction/adv-conv5/,class143,0.1448,0.2400,0.09524,0.03386,0.1721,84.12
+./imSitu_aggregated_raw_prediction/adv-conv5/,class144,0.2167,0.4167,0.2000,0.05826,0.3210,67.50
+./imSitu_aggregated_raw_prediction/adv-conv5/,class145,0.2727,0.2727,0,0.06648,0.1625,167.8
+./imSitu_aggregated_raw_prediction/adv-conv5/,class146,0.05882,0.5588,0.5,0.01958,0.5304,11.09
+./imSitu_aggregated_raw_prediction/adv-conv5/,class147,0.04103,0.6410,0.6000,0.01114,0.6219,6.597
+./imSitu_aggregated_raw_prediction/adv-conv5/,class148,0.1667,0.5,0.3333,0.04130,0.3991,41.76
+./imSitu_aggregated_raw_prediction/adv-conv5/,class149,0.4000,0.4000,0,0.1082,0.3531,113.3
+./imSitu_aggregated_raw_prediction/adv-conv5/,class150,0.1786,0.75,0.5714,0.05560,0.6487,27.53
+./imSitu_aggregated_raw_prediction/adv-conv5/,class151,0,0.3333,0.3333,1.110E-16,0.3333,0
+./imSitu_aggregated_raw_prediction/adv-conv5/,class152,0.1429,0.7143,0.5714,0.03354,0.6458,22.12
+./imSitu_aggregated_raw_prediction/adv-conv5/,class153,0.1059,0.7059,0.6000,0.03349,0.6492,16.31
+./imSitu_aggregated_raw_prediction/adv-conv5/,class154,0.2051,0.5385,0.3333,0.05624,0.4127,49.71
+./imSitu_aggregated_raw_prediction/adv-conv5/,class155,0.06061,0.7273,0.6667,0.01646,0.7142,8.486
+./imSitu_aggregated_raw_prediction/adv-conv5/,class156,0.1804,0.6471,0.4667,0.05296,0.5524,32.65
+./imSitu_aggregated_raw_prediction/adv-conv5/,class157,0.06159,0.5833,0.5217,0.01736,0.5712,10.78
+./imSitu_aggregated_raw_prediction/adv-conv5/,class158,0.4286,0.4286,0,0.1161,0.2574,166.5
+./imSitu_aggregated_raw_prediction/adv-conv5/,class159,0.2636,0.3636,0.1000,0.07335,0.2541,103.8
+./imSitu_aggregated_raw_prediction/adv-conv5/,class160,0.05952,0.6429,0.5833,0.02015,0.6068,9.809
+./imSitu_aggregated_raw_prediction/adv-conv5/,class161,0.2364,0.6000,0.3636,0.06677,0.4780,49.44
+./imSitu_aggregated_raw_prediction/adv-conv5/,class162,0.09524,0.4286,0.3333,0.04124,0.4048,23.53
+./imSitu_aggregated_raw_prediction/adv-conv5/,class163,0.01111,0.9000,0.8889,0.005150,0.8965,1.239
+./imSitu_aggregated_raw_prediction/adv-conv5/,class164,0.09583,0.5625,0.4667,0.03527,0.5190,18.46
+./imSitu_aggregated_raw_prediction/adv-conv5/,class165,0.07386,0.6364,0.5625,0.02635,0.5875,12.57
+./imSitu_aggregated_raw_prediction/adv-conv5/,class166,0.2000,0.2000,0,0.05866,0.1422,140.7
+./imSitu_aggregated_raw_prediction/adv-conv5/,class167,0.1111,0.5556,0.4444,0.03384,0.5312,20.92
+./imSitu_aggregated_raw_prediction/adv-conv5/,class168,0.07692,0.3077,0.2308,0.03002,0.2933,26.23
+./imSitu_aggregated_raw_prediction/adv-conv5/,class169,0.06053,0.8500,0.7895,0.01710,0.8102,7.471
+./imSitu_aggregated_raw_prediction/adv-conv5/,class170,0.09130,0.3913,0.3000,0.02804,0.3341,27.33
+./imSitu_aggregated_raw_prediction/adv-conv5/,class171,0.0625,0.5625,0.5,0.01929,0.5122,12.20
+./imSitu_aggregated_raw_prediction/adv-conv5/,class172,0.2222,0.7778,0.5556,0.08304,0.6597,33.68
+./imSitu_aggregated_raw_prediction/adv-conv5/,class173,0.008333,0.875,0.8667,0.002756,0.8740,0.9535
+./imSitu_aggregated_raw_prediction/adv-conv5/,class174,0.01667,0.6667,0.6500,0.008333,0.6583,2.532
+./imSitu_aggregated_raw_prediction/adv-conv5/,class175,0.2333,0.7000,0.4667,0.06058,0.6091,38.31
+./imSitu_aggregated_raw_prediction/adv-conv5/,class176,0.1161,0.6875,0.5714,0.03950,0.6311,18.39
+./imSitu_aggregated_raw_prediction/adv-conv5/,class177,0.1033,0.5200,0.4167,0.03136,0.4761,21.70
+./imSitu_aggregated_raw_prediction/adv-conv5/,class178,0.04843,0.7407,0.6923,0.01933,0.7245,6.685
+./imSitu_aggregated_raw_prediction/adv-conv5/,class179,0.2460,0.3889,0.1429,0.07075,0.2593,94.87
+./imSitu_aggregated_raw_prediction/adv-conv5/,class180,0.03529,0.8000,0.7647,0.008150,0.7820,4.513
+./imSitu_aggregated_raw_prediction/adv-conv5/,class181,0.06993,0.6154,0.5455,0.01966,0.5940,11.77
+./imSitu_aggregated_raw_prediction/adv-conv5/,class182,0.1538,0.3077,0.1538,0.05418,0.2644,58.18
+./imSitu_aggregated_raw_prediction/adv-conv5/,class183,0.09091,0.7727,0.6818,0.03007,0.7386,12.31
+./imSitu_aggregated_raw_prediction/adv-conv5/,class184,0.09444,0.6500,0.5556,0.02347,0.6318,14.95
+./imSitu_aggregated_raw_prediction/adv-conv5/,class185,0.04831,0.8261,0.7778,0.01242,0.8076,5.982
+./imSitu_aggregated_raw_prediction/adv-conv5/,class186,0.05616,0.7083,0.6522,0.01265,0.6656,8.437
+./imSitu_aggregated_raw_prediction/adv-conv5/,class187,0.06061,0.7879,0.7273,0.01638,0.7761,7.809
+./imSitu_aggregated_raw_prediction/adv-conv5/,class188,0.09375,0.6562,0.5625,0.03152,0.6030,15.55
+./imSitu_aggregated_raw_prediction/adv-conv5/,class189,0,0.7391,0.7391,1.110E-16,0.7391,0
+./imSitu_aggregated_raw_prediction/adv-conv5/,class190,0.07105,0.6500,0.5789,0.02407,0.6137,11.58
+./imSitu_aggregated_raw_prediction/adv-conv5/,class191,0.04023,0.8333,0.7931,0.01721,0.8125,4.952
+./imSitu_aggregated_raw_prediction/adv-conv5/,class192,0.04402,0.7297,0.6857,0.01022,0.7025,6.266
+./imSitu_aggregated_raw_prediction/adv-conv5/,class193,0.07029,0.7241,0.6538,0.02264,0.6921,10.16
+./imSitu_aggregated_raw_prediction/adv-conv5/,class194,0.1350,0.7600,0.625,0.02980,0.6791,19.88
+./imSitu_aggregated_raw_prediction/adv-conv5/,class195,0.1183,0.6400,0.5217,0.03060,0.5483,21.57
+./imSitu_aggregated_raw_prediction/adv-conv5/,class196,0.1000,0.7000,0.6000,0.01929,0.6552,15.26
+./imSitu_aggregated_raw_prediction/adv-conv5/,class197,0.03205,0.6154,0.5833,0.006947,0.5989,5.352
+./imSitu_aggregated_raw_prediction/adv-conv5/,class198,0.06494,0.6364,0.5714,0.02314,0.5946,10.92
+./imSitu_aggregated_raw_prediction/adv-conv5/,class199,0.04032,0.75,0.7097,0.01698,0.7310,5.516
+./imSitu_aggregated_raw_prediction/adv-conv5/,class200,0.006158,0.8276,0.8214,0.001491,0.8272,0.7444
+./imSitu_aggregated_raw_prediction/adv-conv5/,class201,0.004301,0.8710,0.8667,0.001041,0.8669,0.4961
+./imSitu_aggregated_raw_prediction/adv-conv5/,class202,0.125,0.4375,0.3125,0.04100,0.3798,32.91
+./imSitu_aggregated_raw_prediction/adv-conv5/,class203,0.08333,0.8333,0.75,0.02446,0.7966,10.46
+./imSitu_aggregated_raw_prediction/adv-conv5/,class204,0.005291,0.8571,0.8519,0.001750,0.8525,0.6206
+./imSitu_aggregated_raw_prediction/adv-conv5/,class205,0.07740,0.8421,0.7647,0.02800,0.7895,9.803
+./imSitu_aggregated_raw_prediction/adv-conv5/,class206,0.3000,0.8000,0.5,0.1161,0.6625,45.28
+./imSitu_aggregated_raw_prediction/adv-conv5/,class207,0.06587,0.6944,0.6286,0.01916,0.6585,10.00
+./imSitu_aggregated_raw_prediction/adv-conv5/,class208,0.1889,0.8000,0.6111,0.04150,0.6799,27.78
+./imSitu_aggregated_raw_prediction/adv-conv5/,class209,0.08456,0.6471,0.5625,0.02383,0.6009,14.07
+./imSitu_aggregated_raw_prediction/adv-conv5/,class210,0.09697,0.7333,0.6364,0.02471,0.6780,14.30
+./imSitu_aggregated_raw_prediction/adv-conv5/,overall,0.009755,0.4741,0.4644,0.003054,0.4696,2.077
+./imSitu_aggregated_raw_prediction/no_gender/,class  0,0.03150,0.9744,0.9429,0.01011,0.9694,3.250
+./imSitu_aggregated_raw_prediction/no_gender/,class  1,0.03220,0.9697,0.9375,0.01381,0.9566,3.366
+./imSitu_aggregated_raw_prediction/no_gender/,class  2,0.01721,0.9130,0.8958,0.006052,0.9070,1.898
+./imSitu_aggregated_raw_prediction/no_gender/,class  3,0.04545,0.5455,0.5,0.01509,0.5111,8.894
+./imSitu_aggregated_raw_prediction/no_gender/,class  4,0.04750,0.9394,0.8919,0.01772,0.9273,5.123
+./imSitu_aggregated_raw_prediction/no_gender/,class  5,0.02174,1,0.9783,0.009684,0.9856,2.206
+./imSitu_aggregated_raw_prediction/no_gender/,class  6,0.01776,0.8286,0.8108,0.008232,0.8164,2.176
+./imSitu_aggregated_raw_prediction/no_gender/,class  7,0.1786,0.8571,0.6786,0.06558,0.7577,23.57
+./imSitu_aggregated_raw_prediction/no_gender/,class  8,0.1222,0.8889,0.7667,0.04765,0.8547,14.30
+./imSitu_aggregated_raw_prediction/no_gender/,class  9,0.04565,0.6957,0.6500,0.02032,0.6683,6.831
+./imSitu_aggregated_raw_prediction/no_gender/,class 10,0.006061,0.9394,0.9333,0.001562,0.9372,0.6467
+./imSitu_aggregated_raw_prediction/no_gender/,class 11,0.04512,0.8500,0.8049,0.01534,0.8149,5.537
+./imSitu_aggregated_raw_prediction/no_gender/,class 12,0.07727,0.7273,0.6500,0.02184,0.7006,11.03
+./imSitu_aggregated_raw_prediction/no_gender/,class 13,0.03592,0.8276,0.7917,0.01124,0.8084,4.443
+./imSitu_aggregated_raw_prediction/no_gender/,class 14,0.05185,0.8519,0.8000,0.01789,0.8162,6.352
+./imSitu_aggregated_raw_prediction/no_gender/,class 15,0.2857,0.2857,0,0.07892,0.1517,188.4
+./imSitu_aggregated_raw_prediction/no_gender/,class 16,0.09532,0.8261,0.7308,0.02591,0.7587,12.56
+./imSitu_aggregated_raw_prediction/no_gender/,class 17,0.1333,0.8000,0.6667,0.03643,0.7477,17.83
+./imSitu_aggregated_raw_prediction/no_gender/,class 18,0.1424,0.7895,0.6471,0.06392,0.6901,20.64
+./imSitu_aggregated_raw_prediction/no_gender/,class 19,0.04274,0.8205,0.7778,0.01369,0.8032,5.321
+./imSitu_aggregated_raw_prediction/no_gender/,class 20,0.1282,0.7949,0.6667,0.04549,0.7415,17.29
+./imSitu_aggregated_raw_prediction/no_gender/,class 21,0.01857,0.8462,0.8276,0.008152,0.8392,2.213
+./imSitu_aggregated_raw_prediction/no_gender/,class 22,0.02706,0.8485,0.8214,0.01056,0.8305,3.258
+./imSitu_aggregated_raw_prediction/no_gender/,class 23,0.1893,0.6750,0.4857,0.06681,0.5613,33.72
+./imSitu_aggregated_raw_prediction/no_gender/,class 24,0.04348,0.8261,0.7826,0.01098,0.8125,5.351
+./imSitu_aggregated_raw_prediction/no_gender/,class 25,0.01616,0.8438,0.8276,0.006597,0.8351,1.935
+./imSitu_aggregated_raw_prediction/no_gender/,class 26,0.09191,0.5294,0.4375,0.03334,0.4917,18.69
+./imSitu_aggregated_raw_prediction/no_gender/,class 27,0.2511,0.7273,0.4762,0.09527,0.6626,37.89
+./imSitu_aggregated_raw_prediction/no_gender/,class 28,0.04348,0.8261,0.7826,0.01556,0.8039,5.408
+./imSitu_aggregated_raw_prediction/no_gender/,class 29,0.2222,0.5556,0.3333,0.05553,0.4566,48.67
+./imSitu_aggregated_raw_prediction/no_gender/,class 30,0.1077,0.8077,0.7000,0.04175,0.7736,13.92
+./imSitu_aggregated_raw_prediction/no_gender/,class 31,0.1433,0.4211,0.2778,0.04909,0.3573,40.10
+./imSitu_aggregated_raw_prediction/no_gender/,class 32,0.1355,0.7826,0.6471,0.04158,0.7394,18.33
+./imSitu_aggregated_raw_prediction/no_gender/,class 33,0.01961,0.6667,0.6471,0.005922,0.6513,3.010
+./imSitu_aggregated_raw_prediction/no_gender/,class 34,0.1789,0.6000,0.4211,0.05283,0.5107,35.04
+./imSitu_aggregated_raw_prediction/no_gender/,class 35,0.1298,0.6923,0.5625,0.03973,0.6529,19.88
+./imSitu_aggregated_raw_prediction/no_gender/,class 36,0.04348,0.5217,0.4783,0.01303,0.5136,8.466
+./imSitu_aggregated_raw_prediction/no_gender/,class 37,0.1429,0.1429,0,0.04393,0.07166,199.4
+./imSitu_aggregated_raw_prediction/no_gender/,class 38,0.1357,0.7857,0.6500,0.04463,0.7126,19.05
+./imSitu_aggregated_raw_prediction/no_gender/,class 39,0.08000,0.6800,0.6000,0.02183,0.6568,12.18
+./imSitu_aggregated_raw_prediction/no_gender/,class 40,0.05357,0.625,0.5714,0.02180,0.6005,8.921
+./imSitu_aggregated_raw_prediction/no_gender/,class 41,0.06087,0.8000,0.7391,0.02192,0.7731,7.873
+./imSitu_aggregated_raw_prediction/no_gender/,class 42,0.08000,0.6400,0.5600,0.03042,0.6150,13.01
+./imSitu_aggregated_raw_prediction/no_gender/,class 43,0.1331,0.8519,0.7188,0.04345,0.7884,16.88
+./imSitu_aggregated_raw_prediction/no_gender/,class 44,0.05000,0.75,0.7000,0.01641,0.7216,6.929
+./imSitu_aggregated_raw_prediction/no_gender/,class 45,0.1136,0.3636,0.25,0.03441,0.3179,35.75
+./imSitu_aggregated_raw_prediction/no_gender/,class 46,0.1686,0.2353,0.06667,0.05025,0.1329,126.8
+./imSitu_aggregated_raw_prediction/no_gender/,class 47,0.1333,0.1333,0,0.02804,0.07539,176.9
+./imSitu_aggregated_raw_prediction/no_gender/,class 48,0.5889,0.7000,0.1111,0.2262,0.3796,155.1
+./imSitu_aggregated_raw_prediction/no_gender/,class 49,0.08333,0.75,0.6667,0.02621,0.7129,11.69
+./imSitu_aggregated_raw_prediction/no_gender/,class 50,0.2222,0.2222,0,0.06725,0.1188,187.1
+./imSitu_aggregated_raw_prediction/no_gender/,class 51,0.2138,0.5263,0.3125,0.08172,0.4027,53.10
+./imSitu_aggregated_raw_prediction/no_gender/,class 52,0.07825,0.6552,0.5769,0.03099,0.6313,12.39
+./imSitu_aggregated_raw_prediction/no_gender/,class 53,0.4000,0.4000,0,0.1526,0.1645,243.2
+./imSitu_aggregated_raw_prediction/no_gender/,class 54,0.1912,0.25,0.05882,0.06355,0.1615,118.4
+./imSitu_aggregated_raw_prediction/no_gender/,class 55,0.2857,0.3571,0.07143,0.08540,0.1845,154.8
+./imSitu_aggregated_raw_prediction/no_gender/,class 56,0.2400,0.3600,0.1200,0.07155,0.2788,86.09
+./imSitu_aggregated_raw_prediction/no_gender/,class 57,0.1433,0.7222,0.5789,0.04973,0.6472,22.14
+./imSitu_aggregated_raw_prediction/no_gender/,class 58,0.1516,0.7000,0.5484,0.04366,0.6222,24.37
+./imSitu_aggregated_raw_prediction/no_gender/,class 59,0.3333,0.4000,0.06667,0.1060,0.2542,131.1
+./imSitu_aggregated_raw_prediction/no_gender/,class 60,0.1095,0.3000,0.1905,0.02930,0.2504,43.73
+./imSitu_aggregated_raw_prediction/no_gender/,class 61,0.06190,0.7619,0.7000,0.01765,0.7183,8.619
+./imSitu_aggregated_raw_prediction/no_gender/,class 62,0.1071,0.6071,0.5,0.03856,0.5733,18.69
+./imSitu_aggregated_raw_prediction/no_gender/,class 63,0.3333,0.3333,0,0.1184,0.1562,213.3
+./imSitu_aggregated_raw_prediction/no_gender/,class 64,0.1667,0.1667,0,0.05418,0.08159,204.3
+./imSitu_aggregated_raw_prediction/no_gender/,class 65,0.2923,0.6923,0.4000,0.07895,0.5884,49.68
+./imSitu_aggregated_raw_prediction/no_gender/,class 66,0.2667,0.3333,0.06667,0.1026,0.2554,104.4
+./imSitu_aggregated_raw_prediction/no_gender/,class 67,0.09848,0.6818,0.5833,0.03479,0.6273,15.70
+./imSitu_aggregated_raw_prediction/no_gender/,class 68,0.1294,0.6000,0.4706,0.03688,0.5257,24.62
+./imSitu_aggregated_raw_prediction/no_gender/,class 69,0.1543,0.4400,0.2857,0.03642,0.3458,44.61
+./imSitu_aggregated_raw_prediction/no_gender/,class 70,0.08863,0.6538,0.5652,0.03992,0.5920,14.97
+./imSitu_aggregated_raw_prediction/no_gender/,class 71,0.2626,0.4444,0.1818,0.1041,0.3179,82.61
+./imSitu_aggregated_raw_prediction/no_gender/,class 72,0.1500,0.1500,0,0.04617,0.07615,197.0
+./imSitu_aggregated_raw_prediction/no_gender/,class 73,0.1388,0.4545,0.3158,0.03744,0.3867,35.88
+./imSitu_aggregated_raw_prediction/no_gender/,class 74,0.1875,0.6875,0.5,0.05341,0.6006,31.22
+./imSitu_aggregated_raw_prediction/no_gender/,class 75,0.2143,0.7143,0.5,0.05654,0.6026,35.56
+./imSitu_aggregated_raw_prediction/no_gender/,class 76,0.2508,0.3684,0.1176,0.05891,0.2636,95.15
+./imSitu_aggregated_raw_prediction/no_gender/,class 77,0.2316,0.2941,0.0625,0.08517,0.2188,105.9
+./imSitu_aggregated_raw_prediction/no_gender/,class 78,0.1520,0.2632,0.1111,0.05511,0.1920,79.20
+./imSitu_aggregated_raw_prediction/no_gender/,class 79,0.3654,0.6154,0.25,0.1598,0.4841,75.48
+./imSitu_aggregated_raw_prediction/no_gender/,class 80,0.3452,0.4286,0.08333,0.08405,0.2712,127.3
+./imSitu_aggregated_raw_prediction/no_gender/,class 81,0.25,0.25,0,0.05315,0.1139,219.5
+./imSitu_aggregated_raw_prediction/no_gender/,class 82,0.1111,0.2222,0.1111,0.03727,0.1757,63.26
+./imSitu_aggregated_raw_prediction/no_gender/,class 83,0.1923,0.5,0.3077,0.04508,0.4215,45.63
+./imSitu_aggregated_raw_prediction/no_gender/,class 84,0.1167,0.6667,0.5500,0.02965,0.6068,19.23
+./imSitu_aggregated_raw_prediction/no_gender/,class 85,0.3333,0.3333,0,0.1240,0.1597,208.7
+./imSitu_aggregated_raw_prediction/no_gender/,class 86,0.1944,0.2778,0.08333,0.06482,0.1938,100.3
+./imSitu_aggregated_raw_prediction/no_gender/,class 87,0.1852,0.1852,0,0.05516,0.1186,156.1
+./imSitu_aggregated_raw_prediction/no_gender/,class 88,0.2805,0.6923,0.4118,0.07470,0.5124,54.75
+./imSitu_aggregated_raw_prediction/no_gender/,class 89,0.1029,0.3529,0.25,0.03984,0.3041,33.85
+./imSitu_aggregated_raw_prediction/no_gender/,class 90,0.09048,0.1905,0.1000,0.01989,0.1649,54.86
+./imSitu_aggregated_raw_prediction/no_gender/,class 91,0.04000,0.8000,0.7600,0.01764,0.7804,5.126
+./imSitu_aggregated_raw_prediction/no_gender/,class 92,0.2393,0.4615,0.2222,0.08963,0.3411,70.16
+./imSitu_aggregated_raw_prediction/no_gender/,class 93,0.1758,0.4615,0.2857,0.05886,0.4117,42.71
+./imSitu_aggregated_raw_prediction/no_gender/,class 94,0.3000,0.3000,0,0.08641,0.1529,196.2
+./imSitu_aggregated_raw_prediction/no_gender/,class 95,0.2647,0.5,0.2353,0.07106,0.3322,79.69
+./imSitu_aggregated_raw_prediction/no_gender/,class 96,0.1333,0.1333,0,0.04696,0.03750,355.6
+./imSitu_aggregated_raw_prediction/no_gender/,class 97,0.1958,0.2727,0.07692,0.06051,0.1706,114.7
+./imSitu_aggregated_raw_prediction/no_gender/,class 98,0.2411,0.3125,0.07143,0.1082,0.1557,154.8
+./imSitu_aggregated_raw_prediction/no_gender/,class 99,0.1556,0.6000,0.4444,0.04258,0.5306,29.32
+./imSitu_aggregated_raw_prediction/no_gender/,class100,0.2000,0.5,0.3000,0.04787,0.3862,51.79
+./imSitu_aggregated_raw_prediction/no_gender/,class101,0.1833,0.2667,0.08333,0.06543,0.1985,92.34
+./imSitu_aggregated_raw_prediction/no_gender/,class102,0.2000,0.2000,0,0.07800,0.1132,176.7
+./imSitu_aggregated_raw_prediction/no_gender/,class103,0.2275,0.2941,0.06667,0.05452,0.2468,92.15
+./imSitu_aggregated_raw_prediction/no_gender/,class104,0.1818,0.2727,0.09091,0.05732,0.2230,81.53
+./imSitu_aggregated_raw_prediction/no_gender/,class105,0.07143,0.6429,0.5714,0.02075,0.6089,11.73
+./imSitu_aggregated_raw_prediction/no_gender/,class106,0.02198,0.7143,0.6923,0.01064,0.7060,3.113
+./imSitu_aggregated_raw_prediction/no_gender/,class107,0.1912,0.25,0.05882,0.07768,0.1629,117.3
+./imSitu_aggregated_raw_prediction/no_gender/,class108,0.2206,0.4706,0.25,0.05901,0.3928,56.16
+./imSitu_aggregated_raw_prediction/no_gender/,class109,0.1705,0.5455,0.375,0.06391,0.4819,35.37
+./imSitu_aggregated_raw_prediction/no_gender/,class110,0.06667,0.2000,0.1333,0.02764,0.1518,43.91
+./imSitu_aggregated_raw_prediction/no_gender/,class111,0.2143,0.2143,0,0.07685,0.1135,188.8
+./imSitu_aggregated_raw_prediction/no_gender/,class112,0.1161,0.6875,0.5714,0.02921,0.6229,18.63
+./imSitu_aggregated_raw_prediction/no_gender/,class113,0.2319,0.5652,0.3333,0.08901,0.4963,46.73
+./imSitu_aggregated_raw_prediction/no_gender/,class114,0.09524,0.09524,0,0.03141,0.06142,155.1
+./imSitu_aggregated_raw_prediction/no_gender/,class115,0.2500,0.3333,0.08333,0.06846,0.2461,101.6
+./imSitu_aggregated_raw_prediction/no_gender/,class116,0.5,0.6000,0.1000,0.1728,0.4612,108.4
+./imSitu_aggregated_raw_prediction/no_gender/,class117,0.2222,0.2222,0,0.07767,0.07944,279.8
+./imSitu_aggregated_raw_prediction/no_gender/,class118,0.25,0.5,0.25,0.1097,0.4271,58.54
+./imSitu_aggregated_raw_prediction/no_gender/,class119,0.2343,0.5200,0.2857,0.06871,0.4127,56.77
+./imSitu_aggregated_raw_prediction/no_gender/,class120,0.1152,0.9333,0.8182,0.03083,0.9047,12.73
+./imSitu_aggregated_raw_prediction/no_gender/,class121,0.05769,0.3077,0.25,0.02252,0.2969,19.43
+./imSitu_aggregated_raw_prediction/no_gender/,class122,0.1765,0.7647,0.5882,0.06496,0.6673,26.45
+./imSitu_aggregated_raw_prediction/no_gender/,class123,0.2516,0.5294,0.2778,0.09017,0.3948,63.74
+./imSitu_aggregated_raw_prediction/no_gender/,class124,0.2063,0.4286,0.2222,0.07907,0.3374,61.16
+./imSitu_aggregated_raw_prediction/no_gender/,class125,0.1579,0.1579,0,0.03630,0.07298,216.3
+./imSitu_aggregated_raw_prediction/no_gender/,class126,0.2632,0.2632,0,0.08025,0.1684,156.3
+./imSitu_aggregated_raw_prediction/no_gender/,class127,0.09037,0.3704,0.2800,0.02131,0.3197,28.27
+./imSitu_aggregated_raw_prediction/no_gender/,class128,0.1333,0.6667,0.5333,0.03986,0.5953,22.40
+./imSitu_aggregated_raw_prediction/no_gender/,class129,0.09524,0.4286,0.3333,0.03928,0.3961,24.05
+./imSitu_aggregated_raw_prediction/no_gender/,class130,0.04706,0.6471,0.6000,0.01458,0.6154,7.646
+./imSitu_aggregated_raw_prediction/no_gender/,class131,0.3444,0.4444,0.1000,0.08331,0.2924,117.8
+./imSitu_aggregated_raw_prediction/no_gender/,class132,0.25,0.25,0,0.07620,0.1229,203.5
+./imSitu_aggregated_raw_prediction/no_gender/,class133,0.1087,0.5,0.3913,0.02689,0.4348,25.00
+./imSitu_aggregated_raw_prediction/no_gender/,class134,0.1429,0.5714,0.4286,0.04061,0.5058,28.24
+./imSitu_aggregated_raw_prediction/no_gender/,class135,0.02047,0.6316,0.6111,0.006769,0.6290,3.254
+./imSitu_aggregated_raw_prediction/no_gender/,class136,0.08974,0.1667,0.07692,0.01908,0.1498,59.89
+./imSitu_aggregated_raw_prediction/no_gender/,class137,0.1339,0.5625,0.4286,0.05253,0.5278,25.38
+./imSitu_aggregated_raw_prediction/no_gender/,class138,0.4343,0.5455,0.1111,0.1353,0.2874,151.1
+./imSitu_aggregated_raw_prediction/no_gender/,class139,0.2000,0.5,0.3000,0.07222,0.3977,50.29
+./imSitu_aggregated_raw_prediction/no_gender/,class140,0.2232,0.2857,0.0625,0.06509,0.1730,129.0
+./imSitu_aggregated_raw_prediction/no_gender/,class141,0.07143,0.5,0.4286,0.02747,0.4526,15.78
+./imSitu_aggregated_raw_prediction/no_gender/,class142,0.04010,0.6190,0.5789,0.01840,0.5928,6.765
+./imSitu_aggregated_raw_prediction/no_gender/,class143,0.07428,0.2917,0.2174,0.02493,0.2448,30.34
+./imSitu_aggregated_raw_prediction/no_gender/,class144,0.2028,0.3846,0.1818,0.08140,0.2954,68.66
+./imSitu_aggregated_raw_prediction/no_gender/,class145,0.1000,0.1000,0,0.04303,0.02898,345.1
+./imSitu_aggregated_raw_prediction/no_gender/,class146,0.1815,0.4815,0.3000,0.06400,0.3778,48.04
+./imSitu_aggregated_raw_prediction/no_gender/,class147,0.06897,0.9310,0.8621,0.01923,0.8925,7.727
+./imSitu_aggregated_raw_prediction/no_gender/,class148,0.4706,0.4706,0,0.1815,0.1899,247.9
+./imSitu_aggregated_raw_prediction/no_gender/,class149,0.2222,0.2222,0,0.05917,0.1014,219.2
+./imSitu_aggregated_raw_prediction/no_gender/,class150,0.3365,0.4615,0.1250,0.07666,0.2509,134.1
+./imSitu_aggregated_raw_prediction/no_gender/,class151,0.08075,0.6522,0.5714,0.01887,0.6262,12.89
+./imSitu_aggregated_raw_prediction/no_gender/,class152,0.1429,0.8095,0.6667,0.04528,0.7417,19.26
+./imSitu_aggregated_raw_prediction/no_gender/,class153,0.1765,0.5882,0.4118,0.06159,0.4643,38.01
+./imSitu_aggregated_raw_prediction/no_gender/,class154,0.06667,0.4667,0.4000,0.02915,0.4344,15.35
+./imSitu_aggregated_raw_prediction/no_gender/,class155,0.1053,0.9474,0.8421,0.01885,0.8936,11.78
+./imSitu_aggregated_raw_prediction/no_gender/,class156,0.1786,0.4286,0.25,0.04262,0.3615,49.40
+./imSitu_aggregated_raw_prediction/no_gender/,class157,0.1100,0.6364,0.5263,0.02900,0.5762,19.10
+./imSitu_aggregated_raw_prediction/no_gender/,class158,0.2848,0.4667,0.1818,0.07482,0.3587,79.41
+./imSitu_aggregated_raw_prediction/no_gender/,class159,0.1053,0.5789,0.4737,0.04447,0.5163,20.39
+./imSitu_aggregated_raw_prediction/no_gender/,class160,0.2308,0.7692,0.5385,0.07089,0.6131,37.64
+./imSitu_aggregated_raw_prediction/no_gender/,class161,0.2045,0.4545,0.25,0.06139,0.3779,54.13
+./imSitu_aggregated_raw_prediction/no_gender/,class162,0.1591,0.25,0.09091,0.03780,0.1577,100.9
+./imSitu_aggregated_raw_prediction/no_gender/,class163,0.1389,0.7222,0.5833,0.03777,0.6760,20.54
+./imSitu_aggregated_raw_prediction/no_gender/,class164,0.05430,0.8235,0.7692,0.02393,0.8076,6.724
+./imSitu_aggregated_raw_prediction/no_gender/,class165,0.1993,0.6538,0.4545,0.07635,0.5778,34.49
+./imSitu_aggregated_raw_prediction/no_gender/,class166,0.2000,0.5,0.3000,0.05682,0.4013,49.84
+./imSitu_aggregated_raw_prediction/no_gender/,class167,0.1216,0.5333,0.4118,0.03164,0.4635,26.23
+./imSitu_aggregated_raw_prediction/no_gender/,class168,0.07917,0.2667,0.1875,0.03399,0.2449,32.32
+./imSitu_aggregated_raw_prediction/no_gender/,class169,0.03846,0.7308,0.6923,0.01247,0.7168,5.366
+./imSitu_aggregated_raw_prediction/no_gender/,class170,0.04348,0.4348,0.3913,0.01268,0.4001,10.87
+./imSitu_aggregated_raw_prediction/no_gender/,class171,0.1587,0.7143,0.5556,0.05356,0.6583,24.11
+./imSitu_aggregated_raw_prediction/no_gender/,class172,0.05882,0.9412,0.8824,0.02217,0.9188,6.402
+./imSitu_aggregated_raw_prediction/no_gender/,class173,0.1597,0.9375,0.7778,0.04629,0.8721,18.32
+./imSitu_aggregated_raw_prediction/no_gender/,class174,0.06842,0.7000,0.6316,0.01689,0.6857,9.978
+./imSitu_aggregated_raw_prediction/no_gender/,class175,0.06044,0.7143,0.6538,0.01556,0.6899,8.760
+./imSitu_aggregated_raw_prediction/no_gender/,class176,0.1264,0.7692,0.6429,0.04028,0.7312,17.28
+./imSitu_aggregated_raw_prediction/no_gender/,class177,0.02941,0.5294,0.5,0.01363,0.5202,5.654
+./imSitu_aggregated_raw_prediction/no_gender/,class178,0.1148,0.7619,0.6471,0.04182,0.7127,16.12
+./imSitu_aggregated_raw_prediction/no_gender/,class179,0.1423,0.8696,0.7273,0.04472,0.7941,17.92
+./imSitu_aggregated_raw_prediction/no_gender/,class180,0.04971,0.9444,0.8947,0.02082,0.9255,5.371
+./imSitu_aggregated_raw_prediction/no_gender/,class181,0.04750,0.7317,0.6842,0.01335,0.7070,6.718
+./imSitu_aggregated_raw_prediction/no_gender/,class182,0.08929,0.3750,0.2857,0.04074,0.3406,26.22
+./imSitu_aggregated_raw_prediction/no_gender/,class183,0.06579,0.75,0.6842,0.01623,0.6942,9.476
+./imSitu_aggregated_raw_prediction/no_gender/,class184,0.1065,0.9583,0.8519,0.02924,0.9135,11.66
+./imSitu_aggregated_raw_prediction/no_gender/,class185,0.02564,0.7949,0.7692,0.006258,0.7762,3.304
+./imSitu_aggregated_raw_prediction/no_gender/,class186,0.06917,0.5909,0.5217,0.02560,0.5714,12.10
+./imSitu_aggregated_raw_prediction/no_gender/,class187,0.04725,0.8621,0.8148,0.01538,0.8235,5.738
+./imSitu_aggregated_raw_prediction/no_gender/,class188,0.006239,0.7941,0.7879,0.002621,0.7899,0.7898
+./imSitu_aggregated_raw_prediction/no_gender/,class189,0.04545,0.8182,0.7727,0.01100,0.7756,5.861
+./imSitu_aggregated_raw_prediction/no_gender/,class190,0.1277,0.8077,0.6800,0.05401,0.7218,17.69
+./imSitu_aggregated_raw_prediction/no_gender/,class191,0.1083,0.9000,0.7917,0.04759,0.8237,13.15
+./imSitu_aggregated_raw_prediction/no_gender/,class192,0.04365,0.8214,0.7778,0.01730,0.8115,5.379
+./imSitu_aggregated_raw_prediction/no_gender/,class193,0.01338,0.7826,0.7692,0.006201,0.7784,1.719
+./imSitu_aggregated_raw_prediction/no_gender/,class194,0.08696,0.9565,0.8696,0.03353,0.9276,9.374
+./imSitu_aggregated_raw_prediction/no_gender/,class195,0.0625,0.9688,0.9062,0.02846,0.9485,6.590
+./imSitu_aggregated_raw_prediction/no_gender/,class196,0.05000,0.6500,0.6000,0.01921,0.6129,8.157
+./imSitu_aggregated_raw_prediction/no_gender/,class197,0.02171,0.8148,0.7931,0.007064,0.8021,2.707
+./imSitu_aggregated_raw_prediction/no_gender/,class198,0.07917,0.8125,0.7333,0.01833,0.8005,9.889
+./imSitu_aggregated_raw_prediction/no_gender/,class199,0.07857,0.8286,0.75,0.03201,0.7987,9.838
+./imSitu_aggregated_raw_prediction/no_gender/,class200,0.09247,0.8667,0.7742,0.03647,0.7980,11.59
+./imSitu_aggregated_raw_prediction/no_gender/,class201,0.01194,0.8966,0.8846,0.003432,0.8906,1.340
+./imSitu_aggregated_raw_prediction/no_gender/,class202,0.1257,0.7368,0.6111,0.03006,0.6695,18.78
+./imSitu_aggregated_raw_prediction/no_gender/,class203,0.09000,0.8400,0.75,0.03645,0.7899,11.39
+./imSitu_aggregated_raw_prediction/no_gender/,class204,0,0.9231,0.9231,1.110E-16,0.9231,0
+./imSitu_aggregated_raw_prediction/no_gender/,class205,0.09664,0.8824,0.7857,0.03368,0.8235,11.74
+./imSitu_aggregated_raw_prediction/no_gender/,class206,0.1491,0.9091,0.7600,0.05330,0.8126,18.35
+./imSitu_aggregated_raw_prediction/no_gender/,class207,0.03922,0.7059,0.6667,0.01495,0.6884,5.697
+./imSitu_aggregated_raw_prediction/no_gender/,class208,0.1357,0.7879,0.6522,0.04135,0.7384,18.38
+./imSitu_aggregated_raw_prediction/no_gender/,class209,0.04762,0.7143,0.6667,0.01224,0.6795,7.008
+./imSitu_aggregated_raw_prediction/no_gender/,class210,0.1333,1,0.8667,0.04964,0.9245,14.42
+./imSitu_aggregated_raw_prediction/no_gender/,overall,0.007910,0.5265,0.5186,0.001927,0.5215,1.517
+./imSitu_aggregated_raw_prediction/ratio-1/,class  0,0,1,1,0,1,0
+./imSitu_aggregated_raw_prediction/ratio-1/,class  1,0.05556,1,0.9444,0.02406,0.9583,5.797
+./imSitu_aggregated_raw_prediction/ratio-1/,class  2,0.05488,0.8049,0.75,0.01868,0.7663,7.162
+./imSitu_aggregated_raw_prediction/ratio-1/,class  3,0.25,0.5,0.25,0.09270,0.4430,56.44
+./imSitu_aggregated_raw_prediction/ratio-1/,class  4,0.1000,0.8333,0.7333,0.02968,0.7494,13.34
+./imSitu_aggregated_raw_prediction/ratio-1/,class  5,0.07097,0.8710,0.8000,0.02589,0.8395,8.453
+./imSitu_aggregated_raw_prediction/ratio-1/,class  6,0.06281,0.8214,0.7586,0.02120,0.8065,7.788
+./imSitu_aggregated_raw_prediction/ratio-1/,class  7,0.2186,0.5263,0.3077,0.05357,0.4646,47.06
+./imSitu_aggregated_raw_prediction/ratio-1/,class  8,0.1500,0.9000,0.75,0.05490,0.8212,18.27
+./imSitu_aggregated_raw_prediction/ratio-1/,class  9,0.4306,0.5556,0.1250,0.09336,0.4158,103.5
+./imSitu_aggregated_raw_prediction/ratio-1/,class 10,0.06061,0.7273,0.6667,0.01727,0.6974,8.691
+./imSitu_aggregated_raw_prediction/ratio-1/,class 11,0.02302,0.8286,0.8056,0.009018,0.8105,2.840
+./imSitu_aggregated_raw_prediction/ratio-1/,class 12,0.09559,0.625,0.5294,0.03112,0.5544,17.24
+./imSitu_aggregated_raw_prediction/ratio-1/,class 13,0.1053,0.6842,0.5789,0.03021,0.6184,17.02
+./imSitu_aggregated_raw_prediction/ratio-1/,class 14,0.1674,0.7059,0.5385,0.04838,0.6157,27.19
+./imSitu_aggregated_raw_prediction/ratio-1/,class 15,0.2000,0.2000,0,0.07836,0.08194,244.1
+./imSitu_aggregated_raw_prediction/ratio-1/,class 16,0.01107,0.8974,0.8864,0.004447,0.8945,1.238
+./imSitu_aggregated_raw_prediction/ratio-1/,class 17,0.5,0.5,0,0.1477,0.2143,233.3
+./imSitu_aggregated_raw_prediction/ratio-1/,class 18,0.08333,0.6667,0.5833,0.03345,0.6023,13.84
+./imSitu_aggregated_raw_prediction/ratio-1/,class 19,0.1068,0.4516,0.3448,0.04244,0.3805,28.06
+./imSitu_aggregated_raw_prediction/ratio-1/,class 20,0.08142,0.8056,0.7241,0.02758,0.7509,10.84
+./imSitu_aggregated_raw_prediction/ratio-1/,class 21,0.1032,0.8889,0.7857,0.03301,0.8581,12.02
+./imSitu_aggregated_raw_prediction/ratio-1/,class 22,0.05398,0.7812,0.7273,0.02337,0.7408,7.287
+./imSitu_aggregated_raw_prediction/ratio-1/,class 23,0.05571,0.5357,0.4800,0.02059,0.5199,10.72
+./imSitu_aggregated_raw_prediction/ratio-1/,class 24,0.06061,0.8333,0.7727,0.01319,0.8222,7.371
+./imSitu_aggregated_raw_prediction/ratio-1/,class 25,0.1182,0.6897,0.5714,0.02989,0.5972,19.80
+./imSitu_aggregated_raw_prediction/ratio-1/,class 26,0.2458,0.3125,0.06667,0.06840,0.1882,130.6
+./imSitu_aggregated_raw_prediction/ratio-1/,class 27,0.25,0.25,0,0.06371,0.1338,186.8
+./imSitu_aggregated_raw_prediction/ratio-1/,class 28,0.1667,0.6667,0.5,0.05058,0.5595,29.79
+./imSitu_aggregated_raw_prediction/ratio-1/,class 29,0.2857,0.2857,0,0.05739,0.08997,317.6
+./imSitu_aggregated_raw_prediction/ratio-1/,class 30,0.1005,0.6190,0.5185,0.03843,0.5973,16.83
+./imSitu_aggregated_raw_prediction/ratio-1/,class 31,0.1111,0.1667,0.05556,0.03208,0.09276,119.8
+./imSitu_aggregated_raw_prediction/ratio-1/,class 32,0.3857,0.6000,0.2143,0.1208,0.3411,113.1
+./imSitu_aggregated_raw_prediction/ratio-1/,class 33,0.2308,0.2308,0,0.05142,0.1461,158.0
+./imSitu_aggregated_raw_prediction/ratio-1/,class 34,0.2129,0.3182,0.1053,0.09157,0.2653,80.25
+./imSitu_aggregated_raw_prediction/ratio-1/,class 35,0.09524,0.7619,0.6667,0.02852,0.7054,13.50
+./imSitu_aggregated_raw_prediction/ratio-1/,class 36,0.09569,0.7273,0.6316,0.02165,0.6545,14.62
+./imSitu_aggregated_raw_prediction/ratio-1/,class 37,0.2667,0.2667,0,0.05944,0.1354,196.9
+./imSitu_aggregated_raw_prediction/ratio-1/,class 38,0.07368,0.6000,0.5263,0.02556,0.5555,13.26
+./imSitu_aggregated_raw_prediction/ratio-1/,class 39,0.1225,0.8148,0.6923,0.02849,0.7169,17.09
+./imSitu_aggregated_raw_prediction/ratio-1/,class 40,0.04598,0.3793,0.3333,0.01357,0.3709,12.40
+./imSitu_aggregated_raw_prediction/ratio-1/,class 41,0.1010,0.5455,0.4444,0.03391,0.5145,19.63
+./imSitu_aggregated_raw_prediction/ratio-1/,class 42,0.06667,0.5667,0.5,0.01253,0.5345,12.47
+./imSitu_aggregated_raw_prediction/ratio-1/,class 43,0.1237,0.7391,0.6154,0.02659,0.6922,17.88
+./imSitu_aggregated_raw_prediction/ratio-1/,class 44,0.2222,0.5,0.2778,0.07074,0.3491,63.66
+./imSitu_aggregated_raw_prediction/ratio-1/,class 45,0.1111,0.4815,0.3704,0.02689,0.4115,27.00
+./imSitu_aggregated_raw_prediction/ratio-1/,class 46,0.1143,0.4000,0.2857,0.03739,0.3439,33.23
+./imSitu_aggregated_raw_prediction/ratio-1/,class 47,0.1690,0.6190,0.4500,0.03808,0.4878,34.66
+./imSitu_aggregated_raw_prediction/ratio-1/,class 48,0.1429,0.1429,0,0.07143,0.07143,200
+./imSitu_aggregated_raw_prediction/ratio-1/,class 49,0.08182,0.6818,0.6000,0.02274,0.6564,12.46
+./imSitu_aggregated_raw_prediction/ratio-1/,class 50,0.1454,0.5263,0.3810,0.06008,0.4855,29.94
+./imSitu_aggregated_raw_prediction/ratio-1/,class 51,0.1316,0.5,0.3684,0.03672,0.4809,27.36
+./imSitu_aggregated_raw_prediction/ratio-1/,class 52,0.1810,0.7143,0.5333,0.05657,0.6706,26.98
+./imSitu_aggregated_raw_prediction/ratio-1/,class 53,0.2091,0.3000,0.09091,0.03744,0.1972,106.1
+./imSitu_aggregated_raw_prediction/ratio-1/,class 54,0.2000,0.2000,0,0.05723,0.09814,203.8
+./imSitu_aggregated_raw_prediction/ratio-1/,class 55,0.2857,0.2857,0,0.07726,0.1555,183.7
+./imSitu_aggregated_raw_prediction/ratio-1/,class 56,0.08333,0.375,0.2917,0.02461,0.3341,24.94
+./imSitu_aggregated_raw_prediction/ratio-1/,class 57,0.1282,0.4615,0.3333,0.04192,0.4311,29.74
+./imSitu_aggregated_raw_prediction/ratio-1/,class 58,0.1364,0.5,0.3636,0.04747,0.4556,29.93
+./imSitu_aggregated_raw_prediction/ratio-1/,class 59,0.07692,0.07692,0,0.03816,0.03365,228.6
+./imSitu_aggregated_raw_prediction/ratio-1/,class 60,0.08000,0.2800,0.2000,0.02806,0.2648,30.22
+./imSitu_aggregated_raw_prediction/ratio-1/,class 61,0.1113,0.7200,0.6087,0.03135,0.6914,16.10
+./imSitu_aggregated_raw_prediction/ratio-1/,class 62,0.07407,0.4815,0.4074,0.02840,0.4260,17.39
+./imSitu_aggregated_raw_prediction/ratio-1/,class 63,0.1696,0.3125,0.1429,0.06560,0.1921,88.32
+./imSitu_aggregated_raw_prediction/ratio-1/,class 64,0.1261,0.4595,0.3333,0.04040,0.4082,30.90
+./imSitu_aggregated_raw_prediction/ratio-1/,class 65,0.1532,0.3913,0.2381,0.04165,0.3195,47.95
+./imSitu_aggregated_raw_prediction/ratio-1/,class 66,0.2569,0.4444,0.1875,0.07479,0.2764,92.95
+./imSitu_aggregated_raw_prediction/ratio-1/,class 67,0.03542,0.4687,0.4333,0.01084,0.4431,7.994
+./imSitu_aggregated_raw_prediction/ratio-1/,class 68,0.1010,0.5455,0.4444,0.03255,0.4883,20.68
+./imSitu_aggregated_raw_prediction/ratio-1/,class 69,0.2420,0.4324,0.1905,0.05747,0.3767,64.23
+./imSitu_aggregated_raw_prediction/ratio-1/,class 70,0.07143,0.7143,0.6429,0.02221,0.6733,10.61
+./imSitu_aggregated_raw_prediction/ratio-1/,class 71,0.2484,0.7778,0.5294,0.09337,0.6069,40.92
+./imSitu_aggregated_raw_prediction/ratio-1/,class 72,0.09823,0.1852,0.08696,0.02814,0.1216,80.76
+./imSitu_aggregated_raw_prediction/ratio-1/,class 73,0.1594,0.3333,0.1739,0.04964,0.2779,57.37
+./imSitu_aggregated_raw_prediction/ratio-1/,class 74,0.1875,0.6875,0.5,0.07211,0.5467,34.30
+./imSitu_aggregated_raw_prediction/ratio-1/,class 75,0.2667,0.6000,0.3333,0.07719,0.4780,55.79
+./imSitu_aggregated_raw_prediction/ratio-1/,class 76,0.1224,0.2963,0.1739,0.03768,0.2106,58.12
+./imSitu_aggregated_raw_prediction/ratio-1/,class 77,0.07353,0.25,0.1765,0.01661,0.2241,32.81
+./imSitu_aggregated_raw_prediction/ratio-1/,class 78,0.1200,0.2400,0.1200,0.04052,0.1573,76.29
+./imSitu_aggregated_raw_prediction/ratio-1/,class 79,0.08075,0.6522,0.5714,0.02719,0.6100,13.24
+./imSitu_aggregated_raw_prediction/ratio-1/,class 80,0.1231,0.2000,0.07692,0.04833,0.1159,106.2
+./imSitu_aggregated_raw_prediction/ratio-1/,class 81,0.2009,0.2778,0.07692,0.07044,0.1218,164.9
+./imSitu_aggregated_raw_prediction/ratio-1/,class 82,0.1111,0.1111,0,0.04051,0.05101,217.8
+./imSitu_aggregated_raw_prediction/ratio-1/,class 83,0.1455,0.6000,0.4545,0.05197,0.5575,26.09
+./imSitu_aggregated_raw_prediction/ratio-1/,class 84,0.2297,0.5455,0.3158,0.07242,0.4707,48.80
+./imSitu_aggregated_raw_prediction/ratio-1/,class 85,0.25,0.5,0.25,0.06072,0.3116,80.24
+./imSitu_aggregated_raw_prediction/ratio-1/,class 86,0.4333,0.5,0.06667,0.1174,0.2539,170.6
+./imSitu_aggregated_raw_prediction/ratio-1/,class 87,0.06386,0.1379,0.07407,0.02213,0.1182,54.04
+./imSitu_aggregated_raw_prediction/ratio-1/,class 88,0.09524,0.6667,0.5714,0.02458,0.6167,15.44
+./imSitu_aggregated_raw_prediction/ratio-1/,class 89,0.3016,0.4444,0.1429,0.09428,0.3418,88.22
+./imSitu_aggregated_raw_prediction/ratio-1/,class 90,0.3041,0.5263,0.2222,0.09270,0.4393,69.23
+./imSitu_aggregated_raw_prediction/ratio-1/,class 91,0.04985,0.7273,0.6774,0.01646,0.6937,7.187
+./imSitu_aggregated_raw_prediction/ratio-1/,class 92,0.2143,0.4286,0.2143,0.07092,0.3477,61.63
+./imSitu_aggregated_raw_prediction/ratio-1/,class 93,0.2593,0.5556,0.2963,0.06348,0.5010,51.75
+./imSitu_aggregated_raw_prediction/ratio-1/,class 94,0.125,0.4375,0.3125,0.03026,0.3672,34.04
+./imSitu_aggregated_raw_prediction/ratio-1/,class 95,0.1111,0.6296,0.5185,0.02760,0.5648,19.67
+./imSitu_aggregated_raw_prediction/ratio-1/,class 96,0.1853,0.2353,0.05000,0.07446,0.1887,98.17
+./imSitu_aggregated_raw_prediction/ratio-1/,class 97,0.1304,0.1304,0,0.02671,0.08492,153.6
+./imSitu_aggregated_raw_prediction/ratio-1/,class 98,0.1286,0.2000,0.07143,0.03831,0.1120,114.8
+./imSitu_aggregated_raw_prediction/ratio-1/,class 99,0.1444,0.7000,0.5556,0.05596,0.5841,24.73
+./imSitu_aggregated_raw_prediction/ratio-1/,class100,0.1875,0.1875,0,0.06338,0.08108,231.2
+./imSitu_aggregated_raw_prediction/ratio-1/,class101,0.3182,0.3182,0,0.09447,0.2548,124.9
+./imSitu_aggregated_raw_prediction/ratio-1/,class102,0.1080,0.5625,0.4545,0.02202,0.5052,21.37
+./imSitu_aggregated_raw_prediction/ratio-1/,class103,0.1648,0.2273,0.0625,0.05562,0.1701,96.86
+./imSitu_aggregated_raw_prediction/ratio-1/,class104,0.1634,0.2222,0.05882,0.04436,0.08082,202.2
+./imSitu_aggregated_raw_prediction/ratio-1/,class105,0.07353,0.25,0.1765,0.03074,0.2323,31.65
+./imSitu_aggregated_raw_prediction/ratio-1/,class106,0.07190,0.7778,0.7059,0.02362,0.7169,10.03
+./imSitu_aggregated_raw_prediction/ratio-1/,class107,0.09412,0.2941,0.2000,0.02602,0.2369,39.72
+./imSitu_aggregated_raw_prediction/ratio-1/,class108,0.25,0.25,0,0.06303,0.07578,329.9
+./imSitu_aggregated_raw_prediction/ratio-1/,class109,0.02357,0.6774,0.6538,0.008181,0.6685,3.526
+./imSitu_aggregated_raw_prediction/ratio-1/,class110,0.1190,0.1667,0.04762,0.02700,0.06346,187.6
+./imSitu_aggregated_raw_prediction/ratio-1/,class111,0.2267,0.5600,0.3333,0.07231,0.4187,54.13
+./imSitu_aggregated_raw_prediction/ratio-1/,class112,0.2222,0.5556,0.3333,0.05664,0.4204,52.85
+./imSitu_aggregated_raw_prediction/ratio-1/,class113,0.06471,0.3000,0.2353,0.02174,0.2775,23.32
+./imSitu_aggregated_raw_prediction/ratio-1/,class114,0.08125,0.2812,0.2000,0.02479,0.2134,38.07
+./imSitu_aggregated_raw_prediction/ratio-1/,class115,0.1412,0.2000,0.05882,0.03686,0.1548,91.17
+./imSitu_aggregated_raw_prediction/ratio-1/,class116,0.2500,0.5833,0.3333,0.08385,0.4323,57.83
+./imSitu_aggregated_raw_prediction/ratio-1/,class117,0.2083,0.3333,0.1250,0.06428,0.2273,91.64
+./imSitu_aggregated_raw_prediction/ratio-1/,class118,0.1111,0.1111,0,0.02661,0.1014,109.6
+./imSitu_aggregated_raw_prediction/ratio-1/,class119,0.1835,0.5926,0.4091,0.05639,0.5396,34.01
+./imSitu_aggregated_raw_prediction/ratio-1/,class120,0.2143,0.7143,0.5,0.06992,0.5714,37.50
+./imSitu_aggregated_raw_prediction/ratio-1/,class121,0.05556,0.5,0.4444,0.01315,0.4675,11.88
+./imSitu_aggregated_raw_prediction/ratio-1/,class122,0.1244,0.6800,0.5556,0.04490,0.5829,21.35
+./imSitu_aggregated_raw_prediction/ratio-1/,class123,0.1362,0.2941,0.1579,0.04461,0.2585,52.70
+./imSitu_aggregated_raw_prediction/ratio-1/,class124,0.1429,0.5,0.3571,0.05352,0.4344,32.89
+./imSitu_aggregated_raw_prediction/ratio-1/,class125,0.09382,0.3043,0.2105,0.03561,0.2616,35.86
+./imSitu_aggregated_raw_prediction/ratio-1/,class126,0.1515,0.3333,0.1818,0.03713,0.2760,54.89
+./imSitu_aggregated_raw_prediction/ratio-1/,class127,0.1721,0.4615,0.2895,0.04156,0.3267,52.67
+./imSitu_aggregated_raw_prediction/ratio-1/,class128,0.07692,0.8846,0.8077,0.02639,0.8230,9.347
+./imSitu_aggregated_raw_prediction/ratio-1/,class129,0.3992,0.4706,0.07143,0.1235,0.1923,207.6
+./imSitu_aggregated_raw_prediction/ratio-1/,class130,0.1379,0.6207,0.4828,0.03969,0.5545,24.87
+./imSitu_aggregated_raw_prediction/ratio-1/,class131,0.1123,0.5789,0.4667,0.02935,0.5133,21.88
+./imSitu_aggregated_raw_prediction/ratio-1/,class132,0.3016,0.4444,0.1429,0.07318,0.2284,132.1
+./imSitu_aggregated_raw_prediction/ratio-1/,class133,0.1345,0.4286,0.2941,0.02819,0.3604,37.30
+./imSitu_aggregated_raw_prediction/ratio-1/,class134,0.2667,0.6667,0.4000,0.06299,0.5124,52.04
+./imSitu_aggregated_raw_prediction/ratio-1/,class135,0.03922,0.7059,0.6667,0.01148,0.6728,5.829
+./imSitu_aggregated_raw_prediction/ratio-1/,class136,0.1583,0.625,0.4667,0.05386,0.5725,27.65
+./imSitu_aggregated_raw_prediction/ratio-1/,class137,0.1686,0.2353,0.06667,0.05553,0.2041,82.63
+./imSitu_aggregated_raw_prediction/ratio-1/,class138,0.2067,0.4375,0.2308,0.05446,0.3476,59.47
+./imSitu_aggregated_raw_prediction/ratio-1/,class139,0.2000,0.2000,0,0.05556,0.08889,225.0
+./imSitu_aggregated_raw_prediction/ratio-1/,class140,0.2316,0.6316,0.4000,0.05053,0.5806,39.89
+./imSitu_aggregated_raw_prediction/ratio-1/,class141,0.1625,0.5625,0.4000,0.06354,0.4414,36.81
+./imSitu_aggregated_raw_prediction/ratio-1/,class142,0.3000,0.5,0.2000,0.09133,0.3451,86.92
+./imSitu_aggregated_raw_prediction/ratio-1/,class143,0.1079,0.1579,0.05000,0.02462,0.1011,106.8
+./imSitu_aggregated_raw_prediction/ratio-1/,class144,0.1429,0.1429,0,0.05138,0.06682,213.8
+./imSitu_aggregated_raw_prediction/ratio-1/,class145,0.2182,0.4000,0.1818,0.05504,0.2856,76.38
+./imSitu_aggregated_raw_prediction/ratio-1/,class146,0.05556,0.5556,0.5,0.01985,0.5396,10.30
+./imSitu_aggregated_raw_prediction/ratio-1/,class147,0.1631,0.5769,0.4138,0.04483,0.5118,31.88
+./imSitu_aggregated_raw_prediction/ratio-1/,class148,0.1261,0.4118,0.2857,0.03141,0.3208,39.29
+./imSitu_aggregated_raw_prediction/ratio-1/,class149,0.1111,0.6111,0.5,0.03192,0.5391,20.61
+./imSitu_aggregated_raw_prediction/ratio-1/,class150,0.2323,0.4545,0.2222,0.07334,0.3853,60.30
+./imSitu_aggregated_raw_prediction/ratio-1/,class151,0.07738,0.6190,0.5417,0.03097,0.5987,12.93
+./imSitu_aggregated_raw_prediction/ratio-1/,class152,0.25,0.75,0.5,0.08176,0.5794,43.15
+./imSitu_aggregated_raw_prediction/ratio-1/,class153,0.1242,0.2353,0.1111,0.04763,0.1526,81.35
+./imSitu_aggregated_raw_prediction/ratio-1/,class154,0.2842,0.6842,0.4000,0.06644,0.6220,45.70
+./imSitu_aggregated_raw_prediction/ratio-1/,class155,0.1000,0.6000,0.5,0.03474,0.5253,19.04
+./imSitu_aggregated_raw_prediction/ratio-1/,class156,0.2009,0.2778,0.07692,0.04819,0.1875,107.1
+./imSitu_aggregated_raw_prediction/ratio-1/,class157,0.01712,0.7838,0.7667,0.006436,0.7779,2.200
+./imSitu_aggregated_raw_prediction/ratio-1/,class158,0.3667,0.5,0.1333,0.1210,0.3595,102.0
+./imSitu_aggregated_raw_prediction/ratio-1/,class159,0.1667,0.5,0.3333,0.04892,0.3966,42.02
+./imSitu_aggregated_raw_prediction/ratio-1/,class160,0.1202,0.8261,0.7059,0.03304,0.7758,15.49
+./imSitu_aggregated_raw_prediction/ratio-1/,class161,0.25,0.5,0.25,0.06990,0.3406,73.40
+./imSitu_aggregated_raw_prediction/ratio-1/,class162,0.1000,0.2000,0.1000,0.03594,0.1257,79.56
+./imSitu_aggregated_raw_prediction/ratio-1/,class163,0.07778,0.6111,0.5333,0.02929,0.5499,14.14
+./imSitu_aggregated_raw_prediction/ratio-1/,class164,0.1524,0.6190,0.4667,0.03285,0.5421,28.11
+./imSitu_aggregated_raw_prediction/ratio-1/,class165,0.07174,0.5217,0.4500,0.02282,0.4883,14.69
+./imSitu_aggregated_raw_prediction/ratio-1/,class166,0.3750,0.5,0.1250,0.1347,0.3883,96.58
+./imSitu_aggregated_raw_prediction/ratio-1/,class167,0.1524,0.6190,0.4667,0.05455,0.5249,29.03
+./imSitu_aggregated_raw_prediction/ratio-1/,class168,0.09091,0.09091,0,0.02054,0.07867,115.6
+./imSitu_aggregated_raw_prediction/ratio-1/,class169,0.04247,0.7568,0.7143,0.01208,0.7219,5.883
+./imSitu_aggregated_raw_prediction/ratio-1/,class170,0.07519,0.2857,0.2105,0.01672,0.2359,31.87
+./imSitu_aggregated_raw_prediction/ratio-1/,class171,0.1429,0.1429,0,0.03957,0.05268,271.2
+./imSitu_aggregated_raw_prediction/ratio-1/,class172,0,1,1,0,1,0
+./imSitu_aggregated_raw_prediction/ratio-1/,class173,0.06725,0.7895,0.7222,0.02494,0.7612,8.834
+./imSitu_aggregated_raw_prediction/ratio-1/,class174,0.04894,0.6786,0.6296,0.01704,0.6612,7.402
+./imSitu_aggregated_raw_prediction/ratio-1/,class175,0.2222,0.3333,0.1111,0.06695,0.2066,107.6
+./imSitu_aggregated_raw_prediction/ratio-1/,class176,0.08081,0.6364,0.5556,0.01435,0.5995,13.48
+./imSitu_aggregated_raw_prediction/ratio-1/,class177,0.2000,0.7000,0.5,0.06290,0.5645,35.43
+./imSitu_aggregated_raw_prediction/ratio-1/,class178,0.1000,0.8500,0.75,0.02901,0.7945,12.59
+./imSitu_aggregated_raw_prediction/ratio-1/,class179,0.08333,0.6667,0.5833,0.02461,0.6149,13.55
+./imSitu_aggregated_raw_prediction/ratio-1/,class180,0.1182,0.8182,0.7000,0.02968,0.7987,14.80
+./imSitu_aggregated_raw_prediction/ratio-1/,class181,0.1437,0.7037,0.5600,0.05439,0.6030,23.83
+./imSitu_aggregated_raw_prediction/ratio-1/,class182,0.1333,0.3333,0.2000,0.03697,0.2866,46.52
+./imSitu_aggregated_raw_prediction/ratio-1/,class183,0.1190,0.7857,0.6667,0.04710,0.6986,17.04
+./imSitu_aggregated_raw_prediction/ratio-1/,class184,0.1128,0.6842,0.5714,0.03400,0.6214,18.15
+./imSitu_aggregated_raw_prediction/ratio-1/,class185,0.01780,0.7419,0.7241,0.004103,0.7399,2.405
+./imSitu_aggregated_raw_prediction/ratio-1/,class186,0.04348,0.6522,0.6087,0.01409,0.6176,7.040
+./imSitu_aggregated_raw_prediction/ratio-1/,class187,0.02585,0.8788,0.8529,0.01109,0.8597,3.007
+./imSitu_aggregated_raw_prediction/ratio-1/,class188,0.1369,0.5600,0.4231,0.04918,0.4498,30.44
+./imSitu_aggregated_raw_prediction/ratio-1/,class189,0.03968,0.7619,0.7222,0.01391,0.7554,5.253
+./imSitu_aggregated_raw_prediction/ratio-1/,class190,0.07721,0.7647,0.6875,0.01582,0.7141,10.81
+./imSitu_aggregated_raw_prediction/ratio-1/,class191,0.1104,0.6818,0.5714,0.02418,0.6097,18.11
+./imSitu_aggregated_raw_prediction/ratio-1/,class192,0.06316,0.8000,0.7368,0.01494,0.7894,8.001
+./imSitu_aggregated_raw_prediction/ratio-1/,class193,0.1333,0.6667,0.5333,0.05398,0.5641,23.64
+./imSitu_aggregated_raw_prediction/ratio-1/,class194,0.1111,0.8889,0.7778,0.03773,0.8303,13.38
+./imSitu_aggregated_raw_prediction/ratio-1/,class195,0.02976,0.9048,0.875,0.01162,0.8992,3.310
+./imSitu_aggregated_raw_prediction/ratio-1/,class196,0.05195,0.9091,0.8571,0.01399,0.9021,5.759
+./imSitu_aggregated_raw_prediction/ratio-1/,class197,0.1667,0.6667,0.5,0.07137,0.6224,26.78
+./imSitu_aggregated_raw_prediction/ratio-1/,class198,0.1143,0.7143,0.6000,0.04616,0.6339,18.03
+./imSitu_aggregated_raw_prediction/ratio-1/,class199,0.08571,0.7857,0.7000,0.03486,0.7591,11.29
+./imSitu_aggregated_raw_prediction/ratio-1/,class200,0.05238,0.7857,0.7333,0.01384,0.7546,6.941
+./imSitu_aggregated_raw_prediction/ratio-1/,class201,0.005929,0.8696,0.8636,0.002567,0.8651,0.6853
+./imSitu_aggregated_raw_prediction/ratio-1/,class202,0.5,0.5,0,0.2017,0.1146,436.4
+./imSitu_aggregated_raw_prediction/ratio-1/,class203,0.2042,0.9375,0.7333,0.08174,0.8872,23.01
+./imSitu_aggregated_raw_prediction/ratio-1/,class204,0.05556,0.8889,0.8333,0.01864,0.8503,6.533
+./imSitu_aggregated_raw_prediction/ratio-1/,class205,0.01389,0.8889,0.875,0.006890,0.8828,1.573
+./imSitu_aggregated_raw_prediction/ratio-1/,class206,0.1545,0.4545,0.3000,0.05296,0.3563,43.38
+./imSitu_aggregated_raw_prediction/ratio-1/,class207,0.07692,0.8462,0.7692,0.02683,0.7951,9.675
+./imSitu_aggregated_raw_prediction/ratio-1/,class208,0.2000,1,0.8000,0.06092,0.9771,20.47
+./imSitu_aggregated_raw_prediction/ratio-1/,class209,0.5,1,0.5,0.2017,0.8854,56.47
+./imSitu_aggregated_raw_prediction/ratio-1/,class210,0.25,0.5,0.25,0.1071,0.3177,78.69
+./imSitu_aggregated_raw_prediction/ratio-1/,overall,0.008807,0.4716,0.4628,0.002970,0.4669,1.886
+./imSitu_aggregated_raw_prediction/ratio-2/,class  0,0,1,1,0,1,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class  1,0,0.9524,0.9524,1.110E-16,0.9524,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class  2,0.007310,0.8684,0.8611,0.002848,0.8653,0.8448
+./imSitu_aggregated_raw_prediction/ratio-2/,class  3,0.1429,0.5,0.3571,0.03757,0.4452,32.09
+./imSitu_aggregated_raw_prediction/ratio-2/,class  4,0.009091,0.9091,0.9000,0.003146,0.9052,1.004
+./imSitu_aggregated_raw_prediction/ratio-2/,class  5,0.006254,0.8780,0.8718,0.001726,0.8758,0.7141
+./imSitu_aggregated_raw_prediction/ratio-2/,class  6,0.04023,0.8333,0.7931,0.01776,0.8180,4.918
+./imSitu_aggregated_raw_prediction/ratio-2/,class  7,0.1321,0.6538,0.5217,0.04232,0.6010,21.98
+./imSitu_aggregated_raw_prediction/ratio-2/,class  8,0.04762,0.7143,0.6667,0.01375,0.6917,6.884
+./imSitu_aggregated_raw_prediction/ratio-2/,class  9,0.2197,0.5833,0.3636,0.07210,0.4716,46.59
+./imSitu_aggregated_raw_prediction/ratio-2/,class 10,0.03333,1,0.9667,0.008069,0.9979,3.340
+./imSitu_aggregated_raw_prediction/ratio-2/,class 11,0.04194,0.7419,0.7000,0.01528,0.7124,5.886
+./imSitu_aggregated_raw_prediction/ratio-2/,class 12,0.1167,0.6667,0.5500,0.02818,0.6119,19.07
+./imSitu_aggregated_raw_prediction/ratio-2/,class 13,0.05072,0.8333,0.7826,0.01177,0.7936,6.392
+./imSitu_aggregated_raw_prediction/ratio-2/,class 14,0.09451,0.7241,0.6296,0.02353,0.6514,14.51
+./imSitu_aggregated_raw_prediction/ratio-2/,class 15,0.3000,0.3000,0,0.08053,0.1201,249.7
+./imSitu_aggregated_raw_prediction/ratio-2/,class 16,0.04878,0.8537,0.8049,0.01057,0.8310,5.870
+./imSitu_aggregated_raw_prediction/ratio-2/,class 17,0,1,1,0,1,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class 18,0.125,0.5625,0.4375,0.03806,0.5110,24.46
+./imSitu_aggregated_raw_prediction/ratio-2/,class 19,0.02846,0.7059,0.6774,0.008185,0.6915,4.116
+./imSitu_aggregated_raw_prediction/ratio-2/,class 20,0.05481,0.8148,0.7600,0.01441,0.7770,7.055
+./imSitu_aggregated_raw_prediction/ratio-2/,class 21,0,0.8333,0.8333,2.220E-16,0.8333,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class 22,0.01190,0.6786,0.6667,0.002882,0.6778,1.756
+./imSitu_aggregated_raw_prediction/ratio-2/,class 23,0.01418,0.6809,0.6667,0.005339,0.6720,2.111
+./imSitu_aggregated_raw_prediction/ratio-2/,class 24,0.04497,0.7857,0.7407,0.01866,0.7551,5.956
+./imSitu_aggregated_raw_prediction/ratio-2/,class 25,0.06882,0.9355,0.8667,0.02172,0.8932,7.705
+./imSitu_aggregated_raw_prediction/ratio-2/,class 26,0.05556,0.5,0.4444,0.01390,0.4733,11.74
+./imSitu_aggregated_raw_prediction/ratio-2/,class 27,0.1449,0.4783,0.3333,0.04423,0.4066,35.65
+./imSitu_aggregated_raw_prediction/ratio-2/,class 28,0.08187,0.5263,0.4444,0.02266,0.4797,17.07
+./imSitu_aggregated_raw_prediction/ratio-2/,class 29,0.1282,0.4615,0.3333,0.03388,0.3702,34.63
+./imSitu_aggregated_raw_prediction/ratio-2/,class 30,0.04762,0.7143,0.6667,0.01548,0.6981,6.821
+./imSitu_aggregated_raw_prediction/ratio-2/,class 31,0.07632,0.5500,0.4737,0.02722,0.5127,14.89
+./imSitu_aggregated_raw_prediction/ratio-2/,class 32,0.1042,0.6667,0.5625,0.03362,0.5900,17.66
+./imSitu_aggregated_raw_prediction/ratio-2/,class 33,0.01976,0.5652,0.5455,0.006536,0.5479,3.607
+./imSitu_aggregated_raw_prediction/ratio-2/,class 34,0.06703,0.4583,0.3913,0.02207,0.4426,15.14
+./imSitu_aggregated_raw_prediction/ratio-2/,class 35,0.06723,0.7143,0.6471,0.01777,0.6832,9.840
+./imSitu_aggregated_raw_prediction/ratio-2/,class 36,0.05000,0.5500,0.5,0.01210,0.5469,9.143
+./imSitu_aggregated_raw_prediction/ratio-2/,class 37,0.1597,0.2222,0.0625,0.05912,0.1515,105.4
+./imSitu_aggregated_raw_prediction/ratio-2/,class 38,0.1026,0.7692,0.6667,0.02815,0.7152,14.34
+./imSitu_aggregated_raw_prediction/ratio-2/,class 39,0.04416,0.8519,0.8077,0.009906,0.8153,5.416
+./imSitu_aggregated_raw_prediction/ratio-2/,class 40,0.01420,0.5455,0.5312,0.004698,0.5330,2.665
+./imSitu_aggregated_raw_prediction/ratio-2/,class 41,0.08889,0.5556,0.4667,0.02795,0.5117,17.37
+./imSitu_aggregated_raw_prediction/ratio-2/,class 42,0,0.625,0.625,0,0.625,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class 43,0.05616,0.7083,0.6522,0.01852,0.6932,8.102
+./imSitu_aggregated_raw_prediction/ratio-2/,class 44,0.05291,0.5714,0.5185,0.01823,0.5404,9.792
+./imSitu_aggregated_raw_prediction/ratio-2/,class 45,0,0.4783,0.4783,1.110E-16,0.4783,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class 46,0.1111,0.3889,0.2778,0.03711,0.3378,32.89
+./imSitu_aggregated_raw_prediction/ratio-2/,class 47,0.07143,0.2143,0.1429,0.01729,0.2098,34.04
+./imSitu_aggregated_raw_prediction/ratio-2/,class 48,0.2321,0.3750,0.1429,0.07260,0.2891,80.31
+./imSitu_aggregated_raw_prediction/ratio-2/,class 49,0.05231,0.6923,0.6400,0.02291,0.6656,7.859
+./imSitu_aggregated_raw_prediction/ratio-2/,class 50,0.1687,0.5600,0.3913,0.03759,0.5185,32.53
+./imSitu_aggregated_raw_prediction/ratio-2/,class 51,0.09524,0.6190,0.5238,0.02430,0.5708,16.68
+./imSitu_aggregated_raw_prediction/ratio-2/,class 52,0.05385,0.6538,0.6000,0.01709,0.6419,8.388
+./imSitu_aggregated_raw_prediction/ratio-2/,class 53,0.09890,0.7143,0.6154,0.02709,0.6537,15.13
+./imSitu_aggregated_raw_prediction/ratio-2/,class 54,0.1139,0.3043,0.1905,0.02896,0.2675,42.58
+./imSitu_aggregated_raw_prediction/ratio-2/,class 55,0.07143,0.1429,0.07143,0.03057,0.09196,77.67
+./imSitu_aggregated_raw_prediction/ratio-2/,class 56,0.1090,0.1923,0.08333,0.02707,0.1600,68.10
+./imSitu_aggregated_raw_prediction/ratio-2/,class 57,0.1610,0.6316,0.4706,0.03621,0.5771,27.89
+./imSitu_aggregated_raw_prediction/ratio-2/,class 58,0.09524,0.5714,0.4762,0.03367,0.5476,17.39
+./imSitu_aggregated_raw_prediction/ratio-2/,class 59,0.08333,0.08333,0,0.03172,0.01522,547.4
+./imSitu_aggregated_raw_prediction/ratio-2/,class 60,0.05909,0.4091,0.3500,0.01816,0.3692,16.01
+./imSitu_aggregated_raw_prediction/ratio-2/,class 61,0.05882,0.7059,0.6471,0.02848,0.6740,8.727
+./imSitu_aggregated_raw_prediction/ratio-2/,class 62,0,0.3750,0.3750,5.551E-17,0.3750,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class 63,0.09091,0.1818,0.09091,0.04510,0.1307,69.57
+./imSitu_aggregated_raw_prediction/ratio-2/,class 64,0.05769,0.3077,0.25,0.01548,0.2742,21.04
+./imSitu_aggregated_raw_prediction/ratio-2/,class 65,0.05882,0.4118,0.3529,0.01945,0.4044,14.55
+./imSitu_aggregated_raw_prediction/ratio-2/,class 66,0.08889,0.5556,0.4667,0.02244,0.5067,17.54
+./imSitu_aggregated_raw_prediction/ratio-2/,class 67,0.06703,0.4583,0.3913,0.02188,0.4227,15.86
+./imSitu_aggregated_raw_prediction/ratio-2/,class 68,0.1920,0.3684,0.1765,0.04456,0.2958,64.88
+./imSitu_aggregated_raw_prediction/ratio-2/,class 69,0.08867,0.5172,0.4286,0.02213,0.4790,18.51
+./imSitu_aggregated_raw_prediction/ratio-2/,class 70,0.04522,0.4800,0.4348,0.01958,0.4576,9.881
+./imSitu_aggregated_raw_prediction/ratio-2/,class 71,0.08824,0.5882,0.5,0.02565,0.5113,17.26
+./imSitu_aggregated_raw_prediction/ratio-2/,class 72,0.04329,0.09091,0.04762,0.01048,0.08820,49.08
+./imSitu_aggregated_raw_prediction/ratio-2/,class 73,0.1471,0.5,0.3529,0.03451,0.4391,33.49
+./imSitu_aggregated_raw_prediction/ratio-2/,class 74,0.1889,0.3000,0.1111,0.03344,0.2007,94.12
+./imSitu_aggregated_raw_prediction/ratio-2/,class 75,0.1429,0.6429,0.5,0.05223,0.5825,24.53
+./imSitu_aggregated_raw_prediction/ratio-2/,class 76,0.1061,0.2800,0.1739,0.03149,0.2394,44.32
+./imSitu_aggregated_raw_prediction/ratio-2/,class 77,0.0625,0.0625,0,0.02439,0.01172,533.3
+./imSitu_aggregated_raw_prediction/ratio-2/,class 78,0,0,0,0,0,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class 79,0.08824,0.5882,0.5,0.03791,0.5416,16.29
+./imSitu_aggregated_raw_prediction/ratio-2/,class 80,0.05882,0.05882,0,0.02296,0.04779,123.1
+./imSitu_aggregated_raw_prediction/ratio-2/,class 81,0.1474,0.2308,0.08333,0.04892,0.1386,106.4
+./imSitu_aggregated_raw_prediction/ratio-2/,class 82,0.1228,0.3333,0.2105,0.03396,0.2797,43.91
+./imSitu_aggregated_raw_prediction/ratio-2/,class 83,0.07273,0.2727,0.2000,0.01820,0.2377,30.60
+./imSitu_aggregated_raw_prediction/ratio-2/,class 84,0,0.625,0.625,0,0.625,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class 85,0.2222,0.2222,0,0.06880,0.1220,182.1
+./imSitu_aggregated_raw_prediction/ratio-2/,class 86,0.1167,0.6667,0.5500,0.03163,0.6167,18.92
+./imSitu_aggregated_raw_prediction/ratio-2/,class 87,0.04529,0.08696,0.04167,0.01610,0.05106,88.69
+./imSitu_aggregated_raw_prediction/ratio-2/,class 88,0.1875,0.625,0.4375,0.04879,0.6016,31.17
+./imSitu_aggregated_raw_prediction/ratio-2/,class 89,0.09706,0.4500,0.3529,0.02840,0.3918,24.77
+./imSitu_aggregated_raw_prediction/ratio-2/,class 90,0.1579,0.3158,0.1579,0.04558,0.2632,60.00
+./imSitu_aggregated_raw_prediction/ratio-2/,class 91,0.007389,0.7931,0.7857,0.003425,0.7880,0.9377
+./imSitu_aggregated_raw_prediction/ratio-2/,class 92,0.04583,0.3125,0.2667,0.02219,0.2953,15.52
+./imSitu_aggregated_raw_prediction/ratio-2/,class 93,0.1426,0.3600,0.2174,0.03909,0.2863,49.82
+./imSitu_aggregated_raw_prediction/ratio-2/,class 94,0.1538,0.1538,0,0.04273,0.08173,188.2
+./imSitu_aggregated_raw_prediction/ratio-2/,class 95,0.04762,0.5238,0.4762,0.01153,0.4792,9.938
+./imSitu_aggregated_raw_prediction/ratio-2/,class 96,0.06667,0.2667,0.2000,0.03181,0.2310,28.87
+./imSitu_aggregated_raw_prediction/ratio-2/,class 97,0.1111,0.1111,0,0.03402,0.08333,133.3
+./imSitu_aggregated_raw_prediction/ratio-2/,class 98,0.07143,0.2857,0.2143,0.02742,0.2297,31.09
+./imSitu_aggregated_raw_prediction/ratio-2/,class 99,0.1161,0.6875,0.5714,0.02578,0.6430,18.05
+./imSitu_aggregated_raw_prediction/ratio-2/,class100,0.1333,0.3333,0.2000,0.03358,0.2656,50.20
+./imSitu_aggregated_raw_prediction/ratio-2/,class101,0.09091,0.5455,0.4545,0.02394,0.5085,17.88
+./imSitu_aggregated_raw_prediction/ratio-2/,class102,0.1000,0.1000,0,0.03307,0.08750,114.3
+./imSitu_aggregated_raw_prediction/ratio-2/,class103,0.2458,0.3125,0.06667,0.06479,0.1959,125.5
+./imSitu_aggregated_raw_prediction/ratio-2/,class104,0.07143,0.1429,0.07143,0.03543,0.1027,69.57
+./imSitu_aggregated_raw_prediction/ratio-2/,class105,0.06593,0.1429,0.07692,0.02573,0.1305,50.53
+./imSitu_aggregated_raw_prediction/ratio-2/,class106,0.05556,0.7222,0.6667,0.01345,0.7187,7.729
+./imSitu_aggregated_raw_prediction/ratio-2/,class107,0,0.2609,0.2609,5.551E-17,0.2609,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class108,0.07535,0.4828,0.4074,0.02289,0.4431,17.01
+./imSitu_aggregated_raw_prediction/ratio-2/,class109,0.1654,0.3529,0.1875,0.04687,0.2925,56.56
+./imSitu_aggregated_raw_prediction/ratio-2/,class110,0.1333,0.4000,0.2667,0.04841,0.3458,38.55
+./imSitu_aggregated_raw_prediction/ratio-2/,class111,0.07792,0.3636,0.2857,0.02571,0.3136,24.85
+./imSitu_aggregated_raw_prediction/ratio-2/,class112,0.09357,0.3158,0.2222,0.03158,0.2889,32.38
+./imSitu_aggregated_raw_prediction/ratio-2/,class113,0.02569,0.4348,0.4091,0.01191,0.4268,6.020
+./imSitu_aggregated_raw_prediction/ratio-2/,class114,0.07186,0.3143,0.2424,0.01624,0.2701,26.61
+./imSitu_aggregated_raw_prediction/ratio-2/,class115,0.06250,0.3750,0.3125,0.02206,0.3413,18.31
+./imSitu_aggregated_raw_prediction/ratio-2/,class116,0.1889,0.3000,0.1111,0.04827,0.2833,66.67
+./imSitu_aggregated_raw_prediction/ratio-2/,class117,0.08050,0.3158,0.2353,0.03170,0.2610,30.84
+./imSitu_aggregated_raw_prediction/ratio-2/,class118,0.1439,0.4167,0.2727,0.04897,0.3802,37.86
+./imSitu_aggregated_raw_prediction/ratio-2/,class119,0.04004,0.4194,0.3793,0.01188,0.3935,10.18
+./imSitu_aggregated_raw_prediction/ratio-2/,class120,0.08235,0.8824,0.8000,0.03337,0.8422,9.778
+./imSitu_aggregated_raw_prediction/ratio-2/,class121,0.04545,0.6818,0.6364,0.01177,0.6471,7.024
+./imSitu_aggregated_raw_prediction/ratio-2/,class122,0.05503,0.7647,0.7097,0.01599,0.7320,7.518
+./imSitu_aggregated_raw_prediction/ratio-2/,class123,0.1579,0.3158,0.1579,0.03481,0.2237,70.59
+./imSitu_aggregated_raw_prediction/ratio-2/,class124,0.09091,0.8182,0.7273,0.04510,0.7670,11.85
+./imSitu_aggregated_raw_prediction/ratio-2/,class125,0.1046,0.2222,0.1176,0.02601,0.1773,59.00
+./imSitu_aggregated_raw_prediction/ratio-2/,class126,0.07143,0.07143,0,0.03571,0.03571,200
+./imSitu_aggregated_raw_prediction/ratio-2/,class127,0.09333,0.3333,0.2400,0.02458,0.2904,32.13
+./imSitu_aggregated_raw_prediction/ratio-2/,class128,0.05006,0.7742,0.7241,0.01454,0.7557,6.624
+./imSitu_aggregated_raw_prediction/ratio-2/,class129,0.1373,0.4706,0.3333,0.03224,0.4369,31.41
+./imSitu_aggregated_raw_prediction/ratio-2/,class130,0.1139,0.3043,0.1905,0.02800,0.2615,43.55
+./imSitu_aggregated_raw_prediction/ratio-2/,class131,0,0.2667,0.2667,5.551E-17,0.2667,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class132,0.08333,0.08333,0,0.03358,0.05809,143.4
+./imSitu_aggregated_raw_prediction/ratio-2/,class133,0,0.2381,0.2381,0,0.2381,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class134,0.07407,0.4444,0.3704,0.02268,0.4074,18.18
+./imSitu_aggregated_raw_prediction/ratio-2/,class135,0.009231,0.7692,0.7600,0.002234,0.7687,1.201
+./imSitu_aggregated_raw_prediction/ratio-2/,class136,0.3000,0.3000,0,0.07713,0.1588,189.0
+./imSitu_aggregated_raw_prediction/ratio-2/,class137,0.07143,0.07143,0,0.03255,0.04821,148.1
+./imSitu_aggregated_raw_prediction/ratio-2/,class138,0.1111,0.1111,0,0.03675,0.09722,114.3
+./imSitu_aggregated_raw_prediction/ratio-2/,class139,0.2143,0.2143,0,0.06820,0.1201,178.5
+./imSitu_aggregated_raw_prediction/ratio-2/,class140,0.1444,0.2778,0.1333,0.04471,0.1975,73.13
+./imSitu_aggregated_raw_prediction/ratio-2/,class141,0.2863,0.3529,0.06667,0.07408,0.2221,128.9
+./imSitu_aggregated_raw_prediction/ratio-2/,class142,0.06905,0.6190,0.5500,0.01497,0.6004,11.50
+./imSitu_aggregated_raw_prediction/ratio-2/,class143,0.03846,0.5385,0.5,0.01411,0.5205,7.389
+./imSitu_aggregated_raw_prediction/ratio-2/,class144,0.1404,0.4737,0.3333,0.03789,0.4257,32.97
+./imSitu_aggregated_raw_prediction/ratio-2/,class145,0.1538,0.1538,0,0.05363,0.06771,227.2
+./imSitu_aggregated_raw_prediction/ratio-2/,class146,0.04924,0.4583,0.4091,0.01232,0.4345,11.33
+./imSitu_aggregated_raw_prediction/ratio-2/,class147,0.07212,0.6875,0.6154,0.01782,0.6601,10.92
+./imSitu_aggregated_raw_prediction/ratio-2/,class148,0.1888,0.4615,0.2727,0.05277,0.3715,50.82
+./imSitu_aggregated_raw_prediction/ratio-2/,class149,0.1615,0.4615,0.3000,0.03757,0.3956,40.83
+./imSitu_aggregated_raw_prediction/ratio-2/,class150,0.1818,0.6364,0.4545,0.04817,0.5545,32.79
+./imSitu_aggregated_raw_prediction/ratio-2/,class151,0.05556,0.5556,0.5,0.02064,0.5353,10.38
+./imSitu_aggregated_raw_prediction/ratio-2/,class152,0.2667,0.6667,0.4000,0.06550,0.5847,45.61
+./imSitu_aggregated_raw_prediction/ratio-2/,class153,0.1429,0.1429,0,0.04842,0.04375,326.5
+./imSitu_aggregated_raw_prediction/ratio-2/,class154,0.07029,0.7241,0.6538,0.01675,0.6774,10.38
+./imSitu_aggregated_raw_prediction/ratio-2/,class155,0.09048,0.7333,0.6429,0.02463,0.6811,13.28
+./imSitu_aggregated_raw_prediction/ratio-2/,class156,0.1532,0.3913,0.2381,0.04776,0.3228,47.46
+./imSitu_aggregated_raw_prediction/ratio-2/,class157,0.02778,0.7778,0.75,0.01345,0.7674,3.620
+./imSitu_aggregated_raw_prediction/ratio-2/,class158,0.3000,0.3000,0,0.06993,0.1569,191.2
+./imSitu_aggregated_raw_prediction/ratio-2/,class159,0.07895,0.5789,0.5,0.02438,0.5299,14.90
+./imSitu_aggregated_raw_prediction/ratio-2/,class160,0.08489,0.6087,0.5238,0.02567,0.5696,14.90
+./imSitu_aggregated_raw_prediction/ratio-2/,class161,0.09524,0.6190,0.5238,0.03203,0.5898,16.15
+./imSitu_aggregated_raw_prediction/ratio-2/,class162,0.1013,0.2778,0.1765,0.02868,0.2358,42.96
+./imSitu_aggregated_raw_prediction/ratio-2/,class163,0.05952,0.6429,0.5833,0.02054,0.6180,9.632
+./imSitu_aggregated_raw_prediction/ratio-2/,class164,0.1257,0.7368,0.6111,0.04149,0.6806,18.47
+./imSitu_aggregated_raw_prediction/ratio-2/,class165,0.07692,0.7308,0.6538,0.02339,0.6816,11.29
+./imSitu_aggregated_raw_prediction/ratio-2/,class166,0.09722,0.2222,0.1250,0.02353,0.1311,74.17
+./imSitu_aggregated_raw_prediction/ratio-2/,class167,0.08497,0.5556,0.4706,0.03178,0.5329,15.94
+./imSitu_aggregated_raw_prediction/ratio-2/,class168,0.07692,0.1538,0.07692,0.03724,0.1250,61.54
+./imSitu_aggregated_raw_prediction/ratio-2/,class169,0.006349,0.7778,0.7714,0.002100,0.7770,0.8172
+./imSitu_aggregated_raw_prediction/ratio-2/,class170,0.1139,0.3043,0.1905,0.03351,0.2362,48.21
+./imSitu_aggregated_raw_prediction/ratio-2/,class171,0.07359,0.4545,0.3810,0.02541,0.4022,18.30
+./imSitu_aggregated_raw_prediction/ratio-2/,class172,0.09091,1,0.9091,0.04545,0.9545,9.524
+./imSitu_aggregated_raw_prediction/ratio-2/,class173,0.006154,0.8462,0.8400,0.001490,0.8458,0.7276
+./imSitu_aggregated_raw_prediction/ratio-2/,class174,0.05405,0.7568,0.7027,0.01767,0.7278,7.427
+./imSitu_aggregated_raw_prediction/ratio-2/,class175,0.2143,0.4286,0.2143,0.04945,0.2881,74.37
+./imSitu_aggregated_raw_prediction/ratio-2/,class176,0,0.75,0.75,0,0.75,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class177,0.06275,0.5294,0.4667,0.01111,0.4998,12.56
+./imSitu_aggregated_raw_prediction/ratio-2/,class178,0.01754,0.6842,0.6667,0.004247,0.6678,2.627
+./imSitu_aggregated_raw_prediction/ratio-2/,class179,0.01429,0.8000,0.7857,0.006186,0.7893,1.810
+./imSitu_aggregated_raw_prediction/ratio-2/,class180,0,1,1,0,1,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class181,0.05049,0.5862,0.5357,0.02082,0.5593,9.028
+./imSitu_aggregated_raw_prediction/ratio-2/,class182,0.04396,0.4286,0.3846,0.02181,0.4038,10.88
+./imSitu_aggregated_raw_prediction/ratio-2/,class183,0.1273,0.7273,0.6000,0.04971,0.6559,19.41
+./imSitu_aggregated_raw_prediction/ratio-2/,class184,0.05411,0.8636,0.8095,0.01565,0.8498,6.368
+./imSitu_aggregated_raw_prediction/ratio-2/,class185,0.03226,0.7742,0.7419,0.007808,0.7440,4.336
+./imSitu_aggregated_raw_prediction/ratio-2/,class186,0.0625,0.625,0.5625,0.02897,0.5820,10.74
+./imSitu_aggregated_raw_prediction/ratio-2/,class187,0.03704,0.8519,0.8148,0.01446,0.8449,4.384
+./imSitu_aggregated_raw_prediction/ratio-2/,class188,0.01053,0.8000,0.7895,0.002632,0.7948,1.324
+./imSitu_aggregated_raw_prediction/ratio-2/,class189,0.05628,0.8182,0.7619,0.02493,0.7881,7.141
+./imSitu_aggregated_raw_prediction/ratio-2/,class190,0.09524,0.6667,0.5714,0.03258,0.6302,15.11
+./imSitu_aggregated_raw_prediction/ratio-2/,class191,0.07660,0.6957,0.6190,0.02079,0.6712,11.41
+./imSitu_aggregated_raw_prediction/ratio-2/,class192,0,0.6364,0.6364,1.110E-16,0.6364,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class193,0.01082,0.7727,0.7619,0.005239,0.7687,1.408
+./imSitu_aggregated_raw_prediction/ratio-2/,class194,0.07083,0.9375,0.8667,0.01684,0.8771,8.076
+./imSitu_aggregated_raw_prediction/ratio-2/,class195,0.09231,0.6923,0.6000,0.02320,0.6562,14.07
+./imSitu_aggregated_raw_prediction/ratio-2/,class196,0,0.8000,0.8000,1.110E-16,0.8000,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class197,0.1500,0.4000,0.25,0.05855,0.2781,53.93
+./imSitu_aggregated_raw_prediction/ratio-2/,class198,0,0.5,0.5,0,0.5,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class199,0.02273,0.75,0.7273,0.01127,0.7401,3.071
+./imSitu_aggregated_raw_prediction/ratio-2/,class200,0.01634,0.7222,0.7059,0.007911,0.7161,2.282
+./imSitu_aggregated_raw_prediction/ratio-2/,class201,0,0.875,0.875,0,0.875,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class202,0.1500,0.4000,0.25,0.03631,0.3906,38.40
+./imSitu_aggregated_raw_prediction/ratio-2/,class203,0,0.8636,0.8636,2.220E-16,0.8636,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class204,0,0.9200,0.9200,0,0.9200,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class205,0,0.8571,0.8571,3.331E-16,0.8571,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class206,0.07018,0.7368,0.6667,0.02366,0.7092,9.895
+./imSitu_aggregated_raw_prediction/ratio-2/,class207,0.06579,0.75,0.6842,0.02412,0.7253,9.070
+./imSitu_aggregated_raw_prediction/ratio-2/,class208,0.07143,0.5714,0.5,0.03311,0.5223,13.68
+./imSitu_aggregated_raw_prediction/ratio-2/,class209,0,0.75,0.75,0,0.75,0
+./imSitu_aggregated_raw_prediction/ratio-2/,class210,0,0,0,0,0,0
+./imSitu_aggregated_raw_prediction/ratio-2/,overall,0.006611,0.4949,0.4883,0.002020,0.4911,1.346
+./imSitu_aggregated_raw_prediction/ratio-3/,class  0,0,1,1,0,1,0
+./imSitu_aggregated_raw_prediction/ratio-3/,class  1,0.06970,0.9697,0.9000,0.02482,0.9484,7.349
+./imSitu_aggregated_raw_prediction/ratio-3/,class  2,0.01840,0.9048,0.8864,0.007660,0.8949,2.056
+./imSitu_aggregated_raw_prediction/ratio-3/,class  3,0.07632,0.5500,0.4737,0.01833,0.5193,14.70
+./imSitu_aggregated_raw_prediction/ratio-3/,class  4,0.09524,1,0.9048,0.04542,0.9547,9.976
+./imSitu_aggregated_raw_prediction/ratio-3/,class  5,0.002385,0.9767,0.9744,0.0007343,0.9756,0.2445
+./imSitu_aggregated_raw_prediction/ratio-3/,class  6,0.09677,0.7742,0.6774,0.03601,0.7294,13.27
+./imSitu_aggregated_raw_prediction/ratio-3/,class  7,0.1026,0.7692,0.6667,0.03474,0.7191,14.26
+./imSitu_aggregated_raw_prediction/ratio-3/,class  8,0.1818,0.8182,0.6364,0.06131,0.7080,25.68
+./imSitu_aggregated_raw_prediction/ratio-3/,class  9,0.07692,0.5385,0.4615,0.02793,0.4928,15.61
+./imSitu_aggregated_raw_prediction/ratio-3/,class 10,0.08889,1,0.9111,0.02416,0.9339,9.519
+./imSitu_aggregated_raw_prediction/ratio-3/,class 11,0.05903,0.8158,0.7568,0.01372,0.7882,7.489
+./imSitu_aggregated_raw_prediction/ratio-3/,class 12,0.06818,0.8182,0.75,0.02408,0.7823,8.715
+./imSitu_aggregated_raw_prediction/ratio-3/,class 13,0.07967,0.9643,0.8846,0.02393,0.9236,8.626
+./imSitu_aggregated_raw_prediction/ratio-3/,class 14,0.1407,0.7407,0.6000,0.03383,0.6402,21.98
+./imSitu_aggregated_raw_prediction/ratio-3/,class 15,0.2308,0.4615,0.2308,0.05249,0.2778,83.07
+./imSitu_aggregated_raw_prediction/ratio-3/,class 16,0.03509,0.8684,0.8333,0.01120,0.8498,4.129
+./imSitu_aggregated_raw_prediction/ratio-3/,class 17,0.1167,0.9500,0.8333,0.02951,0.8801,13.26
+./imSitu_aggregated_raw_prediction/ratio-3/,class 18,0.1485,0.6818,0.5333,0.05183,0.5975,24.85
+./imSitu_aggregated_raw_prediction/ratio-3/,class 19,0.07722,0.7742,0.6970,0.02031,0.7311,10.56
+./imSitu_aggregated_raw_prediction/ratio-3/,class 20,0.1212,0.8485,0.7273,0.04067,0.7950,15.25
+./imSitu_aggregated_raw_prediction/ratio-3/,class 21,0.08405,0.8966,0.8125,0.02315,0.8663,9.702
+./imSitu_aggregated_raw_prediction/ratio-3/,class 22,0.07983,0.7941,0.7143,0.03704,0.7560,10.56
+./imSitu_aggregated_raw_prediction/ratio-3/,class 23,0.07778,0.6333,0.5556,0.02760,0.5969,13.03
+./imSitu_aggregated_raw_prediction/ratio-3/,class 24,0.01786,0.875,0.8571,0.005607,0.8662,2.062
+./imSitu_aggregated_raw_prediction/ratio-3/,class 25,0.05231,0.6923,0.6400,0.01534,0.6771,7.726
+./imSitu_aggregated_raw_prediction/ratio-3/,class 26,0.1806,0.625,0.4444,0.07576,0.5465,33.04
+./imSitu_aggregated_raw_prediction/ratio-3/,class 27,0.1602,0.5238,0.3636,0.04241,0.4379,36.58
+./imSitu_aggregated_raw_prediction/ratio-3/,class 28,0.1467,0.6667,0.5200,0.04321,0.5871,24.98
+./imSitu_aggregated_raw_prediction/ratio-3/,class 29,0.2083,0.625,0.4167,0.05543,0.5153,40.43
+./imSitu_aggregated_raw_prediction/ratio-3/,class 30,0.1201,0.6757,0.5556,0.02991,0.6156,19.51
+./imSitu_aggregated_raw_prediction/ratio-3/,class 31,0.1818,0.3182,0.1364,0.05443,0.2142,84.88
+./imSitu_aggregated_raw_prediction/ratio-3/,class 32,0.1597,0.5714,0.4118,0.04714,0.4795,33.30
+./imSitu_aggregated_raw_prediction/ratio-3/,class 33,0.08824,0.5882,0.5,0.03008,0.5603,15.75
+./imSitu_aggregated_raw_prediction/ratio-3/,class 34,0.1083,0.4583,0.3500,0.03295,0.3980,27.22
+./imSitu_aggregated_raw_prediction/ratio-3/,class 35,0.3480,0.7368,0.3889,0.08169,0.6824,50.99
+./imSitu_aggregated_raw_prediction/ratio-3/,class 36,0.1208,0.5652,0.4444,0.03994,0.5224,23.12
+./imSitu_aggregated_raw_prediction/ratio-3/,class 37,0.1412,0.2000,0.05882,0.05142,0.1318,107.1
+./imSitu_aggregated_raw_prediction/ratio-3/,class 38,0.1378,0.8462,0.7083,0.02640,0.7619,18.09
+./imSitu_aggregated_raw_prediction/ratio-3/,class 39,0.09682,0.8276,0.7308,0.03371,0.7892,12.27
+./imSitu_aggregated_raw_prediction/ratio-3/,class 40,0.1030,0.5405,0.4375,0.02841,0.4858,21.21
+./imSitu_aggregated_raw_prediction/ratio-3/,class 41,0.1923,0.5,0.3077,0.04526,0.4617,41.65
+./imSitu_aggregated_raw_prediction/ratio-3/,class 42,0.2143,0.7143,0.5,0.1007,0.6108,35.08
+./imSitu_aggregated_raw_prediction/ratio-3/,class 43,0.1288,0.8529,0.7241,0.03458,0.7662,16.81
+./imSitu_aggregated_raw_prediction/ratio-3/,class 44,0.07407,0.7407,0.6667,0.02239,0.7133,10.38
+./imSitu_aggregated_raw_prediction/ratio-3/,class 45,0.1146,0.4783,0.3636,0.04342,0.4228,27.11
+./imSitu_aggregated_raw_prediction/ratio-3/,class 46,0.2647,0.5,0.2353,0.07874,0.3487,75.91
+./imSitu_aggregated_raw_prediction/ratio-3/,class 47,0.05263,0.4211,0.3684,0.01997,0.3971,13.25
+./imSitu_aggregated_raw_prediction/ratio-3/,class 48,0.2637,0.6923,0.4286,0.1048,0.5914,44.59
+./imSitu_aggregated_raw_prediction/ratio-3/,class 49,0.04167,0.5,0.4583,0.01734,0.4742,8.787
+./imSitu_aggregated_raw_prediction/ratio-3/,class 50,0.2458,0.3125,0.06667,0.05537,0.2266,108.5
+./imSitu_aggregated_raw_prediction/ratio-3/,class 51,0.1078,0.6316,0.5238,0.03133,0.5794,18.60
+./imSitu_aggregated_raw_prediction/ratio-3/,class 52,0.04138,0.8000,0.7586,0.01126,0.7754,5.336
+./imSitu_aggregated_raw_prediction/ratio-3/,class 53,0.2051,0.5385,0.3333,0.04481,0.4282,47.90
+./imSitu_aggregated_raw_prediction/ratio-3/,class 54,0.2632,0.2632,0,0.06379,0.09436,278.9
+./imSitu_aggregated_raw_prediction/ratio-3/,class 55,0.2857,0.2857,0,0.1106,0.1392,205.3
+./imSitu_aggregated_raw_prediction/ratio-3/,class 56,0.2045,0.25,0.04545,0.05076,0.1260,162.4
+./imSitu_aggregated_raw_prediction/ratio-3/,class 57,0.09000,0.6400,0.5500,0.02891,0.6019,14.95
+./imSitu_aggregated_raw_prediction/ratio-3/,class 58,0.1500,0.5,0.3500,0.05028,0.4362,34.39
+./imSitu_aggregated_raw_prediction/ratio-3/,class 59,0.1875,0.1875,0,0.06949,0.09066,206.8
+./imSitu_aggregated_raw_prediction/ratio-3/,class 60,0.01905,0.4000,0.3810,0.004611,0.3988,4.776
+./imSitu_aggregated_raw_prediction/ratio-3/,class 61,0.2256,0.8571,0.6316,0.06109,0.7213,31.27
+./imSitu_aggregated_raw_prediction/ratio-3/,class 62,0.08013,0.5385,0.4583,0.03854,0.5020,15.96
+./imSitu_aggregated_raw_prediction/ratio-3/,class 63,0.2424,0.3333,0.09091,0.05900,0.2026,119.7
+./imSitu_aggregated_raw_prediction/ratio-3/,class 64,0.1169,0.5714,0.4545,0.03529,0.5138,22.75
+./imSitu_aggregated_raw_prediction/ratio-3/,class 65,0.1099,0.5714,0.4615,0.03240,0.5158,21.31
+./imSitu_aggregated_raw_prediction/ratio-3/,class 66,0.3012,0.5789,0.2778,0.07177,0.4644,64.85
+./imSitu_aggregated_raw_prediction/ratio-3/,class 67,0.07039,0.2609,0.1905,0.02688,0.2175,32.36
+./imSitu_aggregated_raw_prediction/ratio-3/,class 68,0.1373,0.6667,0.5294,0.04045,0.5805,23.64
+./imSitu_aggregated_raw_prediction/ratio-3/,class 69,0.2424,0.4091,0.1667,0.05419,0.2475,97.95
+./imSitu_aggregated_raw_prediction/ratio-3/,class 70,0.1548,0.5833,0.4286,0.03957,0.4952,31.25
+./imSitu_aggregated_raw_prediction/ratio-3/,class 71,0.1987,0.6154,0.4167,0.07179,0.5087,39.07
+./imSitu_aggregated_raw_prediction/ratio-3/,class 72,0.07143,0.2143,0.1429,0.02116,0.1643,43.48
+./imSitu_aggregated_raw_prediction/ratio-3/,class 73,0.1190,0.6190,0.5,0.03256,0.5658,21.04
+./imSitu_aggregated_raw_prediction/ratio-3/,class 74,0.2033,0.3571,0.1538,0.04979,0.2632,77.25
+./imSitu_aggregated_raw_prediction/ratio-3/,class 75,0.2582,0.6429,0.3846,0.06092,0.4708,54.86
+./imSitu_aggregated_raw_prediction/ratio-3/,class 76,0.2098,0.3462,0.1364,0.07343,0.2407,87.16
+./imSitu_aggregated_raw_prediction/ratio-3/,class 77,0.1288,0.5455,0.4167,0.04144,0.4601,27.99
+./imSitu_aggregated_raw_prediction/ratio-3/,class 78,0.1357,0.2857,0.1500,0.04379,0.1995,68.02
+./imSitu_aggregated_raw_prediction/ratio-3/,class 79,0.1333,0.8000,0.6667,0.04429,0.7569,17.61
+./imSitu_aggregated_raw_prediction/ratio-3/,class 80,0.2308,0.2308,0,0.08917,0.1445,159.7
+./imSitu_aggregated_raw_prediction/ratio-3/,class 81,0.3083,0.3750,0.06667,0.06814,0.1919,160.7
+./imSitu_aggregated_raw_prediction/ratio-3/,class 82,0.1190,0.2857,0.1667,0.03438,0.2364,50.36
+./imSitu_aggregated_raw_prediction/ratio-3/,class 83,0.1600,0.5600,0.4000,0.04494,0.4862,32.91
+./imSitu_aggregated_raw_prediction/ratio-3/,class 84,0.1629,0.4706,0.3077,0.06096,0.4078,39.94
+./imSitu_aggregated_raw_prediction/ratio-3/,class 85,0.3750,0.5,0.1250,0.09979,0.2229,168.2
+./imSitu_aggregated_raw_prediction/ratio-3/,class 86,0.1181,0.5556,0.4375,0.04937,0.5003,23.60
+./imSitu_aggregated_raw_prediction/ratio-3/,class 87,0.1491,0.2400,0.09091,0.03988,0.1557,95.73
+./imSitu_aggregated_raw_prediction/ratio-3/,class 88,0.1987,0.6154,0.4167,0.04765,0.5055,39.31
+./imSitu_aggregated_raw_prediction/ratio-3/,class 89,0.1107,0.5455,0.4348,0.03340,0.4810,23.01
+./imSitu_aggregated_raw_prediction/ratio-3/,class 90,0.07632,0.5500,0.4737,0.02487,0.5197,14.69
+./imSitu_aggregated_raw_prediction/ratio-3/,class 91,0.03862,0.7586,0.7200,0.009508,0.7278,5.307
+./imSitu_aggregated_raw_prediction/ratio-3/,class 92,0.2169,0.6875,0.4706,0.05895,0.6275,34.57
+./imSitu_aggregated_raw_prediction/ratio-3/,class 93,0.2573,0.3684,0.1111,0.07060,0.2893,88.95
+./imSitu_aggregated_raw_prediction/ratio-3/,class 94,0.1071,0.25,0.1429,0.03981,0.1873,57.21
+./imSitu_aggregated_raw_prediction/ratio-3/,class 95,0.1801,0.5714,0.3913,0.04428,0.5045,35.70
+./imSitu_aggregated_raw_prediction/ratio-3/,class 96,0.2857,0.2857,0,0.08975,0.1437,198.9
+./imSitu_aggregated_raw_prediction/ratio-3/,class 97,0.1667,0.1667,0,0.04514,0.1190,140.0
+./imSitu_aggregated_raw_prediction/ratio-3/,class 98,0.2143,0.2143,0,0.07016,0.07589,282.4
+./imSitu_aggregated_raw_prediction/ratio-3/,class 99,0.07059,0.6000,0.5294,0.02437,0.5548,12.72
+./imSitu_aggregated_raw_prediction/ratio-3/,class100,0.3571,0.4286,0.07143,0.08324,0.3361,106.2
+./imSitu_aggregated_raw_prediction/ratio-3/,class101,0.3622,0.4211,0.05882,0.1460,0.2332,155.3
+./imSitu_aggregated_raw_prediction/ratio-3/,class102,0.1636,0.3636,0.2000,0.06689,0.2670,61.29
+./imSitu_aggregated_raw_prediction/ratio-3/,class103,0.4211,0.4211,0,0.1043,0.3015,139.7
+./imSitu_aggregated_raw_prediction/ratio-3/,class104,0.3333,0.3333,0,0.1412,0.1578,211.3
+./imSitu_aggregated_raw_prediction/ratio-3/,class105,0.1538,0.1538,0,0.04710,0.1155,133.1
+./imSitu_aggregated_raw_prediction/ratio-3/,class106,0.07778,0.8000,0.7222,0.02297,0.7778,10.00
+./imSitu_aggregated_raw_prediction/ratio-3/,class107,0.2222,0.2222,0,0.05424,0.07336,302.9
+./imSitu_aggregated_raw_prediction/ratio-3/,class108,0.2153,0.4375,0.2222,0.05822,0.3485,61.78
+./imSitu_aggregated_raw_prediction/ratio-3/,class109,0.1806,0.625,0.4444,0.04076,0.5071,35.61
+./imSitu_aggregated_raw_prediction/ratio-3/,class110,0.2667,0.2667,0,0.08882,0.09122,292.3
+./imSitu_aggregated_raw_prediction/ratio-3/,class111,0.1184,0.3684,0.25,0.02312,0.3237,36.58
+./imSitu_aggregated_raw_prediction/ratio-3/,class112,0.3810,0.7143,0.3333,0.1230,0.5371,70.93
+./imSitu_aggregated_raw_prediction/ratio-3/,class113,0.1311,0.5385,0.4074,0.04204,0.4680,28.00
+./imSitu_aggregated_raw_prediction/ratio-3/,class114,0.05746,0.2188,0.1613,0.01936,0.1835,31.32
+./imSitu_aggregated_raw_prediction/ratio-3/,class115,0.3333,0.3333,0,0.1255,0.1872,178.0
+./imSitu_aggregated_raw_prediction/ratio-3/,class116,0.1692,0.5263,0.3571,0.06877,0.4336,39.01
+./imSitu_aggregated_raw_prediction/ratio-3/,class117,0.2092,0.4444,0.2353,0.04599,0.3692,56.65
+./imSitu_aggregated_raw_prediction/ratio-3/,class118,0.2727,0.2727,0,0.07367,0.07017,388.7
+./imSitu_aggregated_raw_prediction/ratio-3/,class119,0.2258,0.2258,0,0.08000,0.09192,245.7
+./imSitu_aggregated_raw_prediction/ratio-3/,class120,0.08095,0.8667,0.7857,0.02484,0.8459,9.570
+./imSitu_aggregated_raw_prediction/ratio-3/,class121,0.1048,0.5333,0.4286,0.03514,0.4777,21.93
+./imSitu_aggregated_raw_prediction/ratio-3/,class122,0.2147,0.7917,0.5769,0.06322,0.6987,30.74
+./imSitu_aggregated_raw_prediction/ratio-3/,class123,0.1429,0.1429,0,0.03905,0.06912,206.7
+./imSitu_aggregated_raw_prediction/ratio-3/,class124,0.1593,0.9286,0.7692,0.03488,0.8465,18.82
+./imSitu_aggregated_raw_prediction/ratio-3/,class125,0.1765,0.1765,0,0.05142,0.05290,333.6
+./imSitu_aggregated_raw_prediction/ratio-3/,class126,0.3873,0.4706,0.08333,0.09556,0.2130,181.8
+./imSitu_aggregated_raw_prediction/ratio-3/,class127,0.1939,0.3939,0.2000,0.07516,0.3064,63.29
+./imSitu_aggregated_raw_prediction/ratio-3/,class128,0.1889,0.8889,0.7000,0.05959,0.8119,23.26
+./imSitu_aggregated_raw_prediction/ratio-3/,class129,0.1332,0.4375,0.3043,0.03303,0.3777,35.25
+./imSitu_aggregated_raw_prediction/ratio-3/,class130,0.1434,0.4615,0.3182,0.03371,0.3884,36.91
+./imSitu_aggregated_raw_prediction/ratio-3/,class131,0.4056,0.7692,0.3636,0.1753,0.5555,73.01
+./imSitu_aggregated_raw_prediction/ratio-3/,class132,0.2260,0.5789,0.3529,0.04658,0.4520,50.00
+./imSitu_aggregated_raw_prediction/ratio-3/,class133,0.1184,0.3684,0.25,0.03657,0.3262,36.30
+./imSitu_aggregated_raw_prediction/ratio-3/,class134,0.1117,0.5517,0.4400,0.02882,0.5020,22.26
+./imSitu_aggregated_raw_prediction/ratio-3/,class135,0.1529,0.8000,0.6471,0.07024,0.7335,20.85
+./imSitu_aggregated_raw_prediction/ratio-3/,class136,0.2308,0.2308,0,0.07438,0.06313,365.5
+./imSitu_aggregated_raw_prediction/ratio-3/,class137,0.04286,0.4000,0.3571,0.01417,0.3625,11.82
+./imSitu_aggregated_raw_prediction/ratio-3/,class138,0.2111,0.6111,0.4000,0.05791,0.5133,41.13
+./imSitu_aggregated_raw_prediction/ratio-3/,class139,0.2667,0.2667,0,0.07918,0.08201,325.1
+./imSitu_aggregated_raw_prediction/ratio-3/,class140,0.1882,0.6000,0.4118,0.07686,0.5118,36.78
+./imSitu_aggregated_raw_prediction/ratio-3/,class141,0.1923,0.5,0.3077,0.04579,0.4555,42.22
+./imSitu_aggregated_raw_prediction/ratio-3/,class142,0.1895,0.7778,0.5882,0.05001,0.6980,27.15
+./imSitu_aggregated_raw_prediction/ratio-3/,class143,0.1733,0.3333,0.1600,0.07595,0.2435,71.19
+./imSitu_aggregated_raw_prediction/ratio-3/,class144,0.2297,0.5238,0.2941,0.06747,0.4264,53.87
+./imSitu_aggregated_raw_prediction/ratio-3/,class145,0.2857,0.2857,0,0.1099,0.1344,212.5
+./imSitu_aggregated_raw_prediction/ratio-3/,class146,0.09905,0.4800,0.3810,0.03212,0.4345,22.80
+./imSitu_aggregated_raw_prediction/ratio-3/,class147,0.1786,0.9286,0.75,0.07312,0.8552,20.88
+./imSitu_aggregated_raw_prediction/ratio-3/,class148,0.3453,0.5217,0.1765,0.08832,0.3766,91.67
+./imSitu_aggregated_raw_prediction/ratio-3/,class149,0.25,0.25,0,0.07128,0.1190,210.1
+./imSitu_aggregated_raw_prediction/ratio-3/,class150,0.2879,0.4545,0.1667,0.07690,0.3211,89.65
+./imSitu_aggregated_raw_prediction/ratio-3/,class151,0.1148,0.6800,0.5652,0.04587,0.6252,18.36
+./imSitu_aggregated_raw_prediction/ratio-3/,class152,0.1049,0.6818,0.5769,0.03716,0.6071,17.28
+./imSitu_aggregated_raw_prediction/ratio-3/,class153,0.1629,0.4706,0.3077,0.04123,0.3977,40.96
+./imSitu_aggregated_raw_prediction/ratio-3/,class154,0.08924,0.8261,0.7368,0.02706,0.8009,11.14
+./imSitu_aggregated_raw_prediction/ratio-3/,class155,0.1667,1,0.8333,0.07261,0.9024,18.47
+./imSitu_aggregated_raw_prediction/ratio-3/,class156,0.1765,0.2353,0.05882,0.06161,0.1546,114.1
+./imSitu_aggregated_raw_prediction/ratio-3/,class157,0.06044,0.7143,0.6538,0.01353,0.6990,8.646
+./imSitu_aggregated_raw_prediction/ratio-3/,class158,0.1786,0.4286,0.25,0.07921,0.3558,50.19
+./imSitu_aggregated_raw_prediction/ratio-3/,class159,0.1190,0.6190,0.5,0.02831,0.5302,22.45
+./imSitu_aggregated_raw_prediction/ratio-3/,class160,0.2424,0.9091,0.6667,0.05973,0.7221,33.57
+./imSitu_aggregated_raw_prediction/ratio-3/,class161,0.1621,0.7273,0.5652,0.07426,0.6518,24.86
+./imSitu_aggregated_raw_prediction/ratio-3/,class162,0.1625,0.5625,0.4000,0.05928,0.5084,31.96
+./imSitu_aggregated_raw_prediction/ratio-3/,class163,0.1875,0.8125,0.625,0.04584,0.7187,26.09
+./imSitu_aggregated_raw_prediction/ratio-3/,class164,0.1364,0.8182,0.6818,0.03228,0.7104,19.19
+./imSitu_aggregated_raw_prediction/ratio-3/,class165,0.125,0.5,0.375,0.04557,0.4370,28.61
+./imSitu_aggregated_raw_prediction/ratio-3/,class166,0.1875,0.5,0.3125,0.04680,0.4606,40.71
+./imSitu_aggregated_raw_prediction/ratio-3/,class167,0.4474,0.5,0.05263,0.1343,0.2953,151.5
+./imSitu_aggregated_raw_prediction/ratio-3/,class168,0.25,0.4167,0.1667,0.05093,0.3105,80.52
+./imSitu_aggregated_raw_prediction/ratio-3/,class169,0.04473,0.8378,0.7931,0.009618,0.8227,5.437
+./imSitu_aggregated_raw_prediction/ratio-3/,class170,0.1429,0.3810,0.2381,0.03783,0.2732,52.28
+./imSitu_aggregated_raw_prediction/ratio-3/,class171,0.1643,0.7143,0.5500,0.06690,0.6282,26.15
+./imSitu_aggregated_raw_prediction/ratio-3/,class172,0.08718,0.9333,0.8462,0.03037,0.8942,9.749
+./imSitu_aggregated_raw_prediction/ratio-3/,class173,0.08070,0.9474,0.8667,0.03320,0.9027,8.940
+./imSitu_aggregated_raw_prediction/ratio-3/,class174,0.1500,0.7333,0.5833,0.03976,0.6418,23.37
+./imSitu_aggregated_raw_prediction/ratio-3/,class175,0.1434,0.6818,0.5385,0.05893,0.6172,23.23
+./imSitu_aggregated_raw_prediction/ratio-3/,class176,0.01515,0.8333,0.8182,0.006561,0.8220,1.843
+./imSitu_aggregated_raw_prediction/ratio-3/,class177,0.07602,0.6316,0.5556,0.02194,0.5830,13.04
+./imSitu_aggregated_raw_prediction/ratio-3/,class178,0.1077,0.8077,0.7000,0.03524,0.7399,14.55
+./imSitu_aggregated_raw_prediction/ratio-3/,class179,0.06364,0.8636,0.8000,0.01565,0.8419,7.558
+./imSitu_aggregated_raw_prediction/ratio-3/,class180,0.07692,0.9231,0.8462,0.01852,0.8630,8.913
+./imSitu_aggregated_raw_prediction/ratio-3/,class181,0.05157,0.7907,0.7391,0.01171,0.7735,6.667
+./imSitu_aggregated_raw_prediction/ratio-3/,class182,0.1723,0.5294,0.3571,0.05276,0.4356,39.55
+./imSitu_aggregated_raw_prediction/ratio-3/,class183,0.07692,0.6923,0.6154,0.01697,0.6502,11.83
+./imSitu_aggregated_raw_prediction/ratio-3/,class184,0.009740,0.9643,0.9545,0.002462,0.9616,1.013
+./imSitu_aggregated_raw_prediction/ratio-3/,class185,0.05747,0.7241,0.6667,0.01778,0.6988,8.225
+./imSitu_aggregated_raw_prediction/ratio-3/,class186,0.1010,0.5455,0.4444,0.02407,0.4860,20.78
+./imSitu_aggregated_raw_prediction/ratio-3/,class187,0.03571,0.8571,0.8214,0.01696,0.8383,4.260
+./imSitu_aggregated_raw_prediction/ratio-3/,class188,0.1292,0.7692,0.6400,0.03107,0.7223,17.89
+./imSitu_aggregated_raw_prediction/ratio-3/,class189,0.02778,0.75,0.7222,0.01265,0.7348,3.780
+./imSitu_aggregated_raw_prediction/ratio-3/,class190,0.03261,0.7826,0.75,0.01135,0.7635,4.271
+./imSitu_aggregated_raw_prediction/ratio-3/,class191,0.09714,0.8571,0.7600,0.02214,0.8009,12.13
+./imSitu_aggregated_raw_prediction/ratio-3/,class192,0.02476,0.9048,0.8800,0.006097,0.8863,2.794
+./imSitu_aggregated_raw_prediction/ratio-3/,class193,0.03472,0.7222,0.6875,0.008217,0.7078,4.906
+./imSitu_aggregated_raw_prediction/ratio-3/,class194,0.08123,0.9048,0.8235,0.02956,0.8521,9.533
+./imSitu_aggregated_raw_prediction/ratio-3/,class195,0.06140,0.8947,0.8333,0.02499,0.8685,7.070
+./imSitu_aggregated_raw_prediction/ratio-3/,class196,0.2000,0.6000,0.4000,0.05787,0.5074,39.42
+./imSitu_aggregated_raw_prediction/ratio-3/,class197,0.06303,0.7059,0.6429,0.02386,0.6663,9.459
+./imSitu_aggregated_raw_prediction/ratio-3/,class198,0.1667,1,0.8333,0.05555,0.9396,17.74
+./imSitu_aggregated_raw_prediction/ratio-3/,class199,0.04412,0.75,0.7059,0.01068,0.7472,5.904
+./imSitu_aggregated_raw_prediction/ratio-3/,class200,0.1158,0.8000,0.6842,0.04215,0.7281,15.90
+./imSitu_aggregated_raw_prediction/ratio-3/,class201,0.02098,0.8846,0.8636,0.008688,0.8754,2.397
+./imSitu_aggregated_raw_prediction/ratio-3/,class202,0.1905,0.8571,0.6667,0.04738,0.8208,23.21
+./imSitu_aggregated_raw_prediction/ratio-3/,class203,0.06667,0.8000,0.7333,0.02656,0.7708,8.649
+./imSitu_aggregated_raw_prediction/ratio-3/,class204,0.01437,0.9310,0.9167,0.005695,0.9253,1.553
+./imSitu_aggregated_raw_prediction/ratio-3/,class205,0.06667,0.9000,0.8333,0.01614,0.8375,7.960
+./imSitu_aggregated_raw_prediction/ratio-3/,class206,0.2417,0.8667,0.625,0.05701,0.7329,32.97
+./imSitu_aggregated_raw_prediction/ratio-3/,class207,0.125,0.75,0.625,0.02909,0.6875,18.18
+./imSitu_aggregated_raw_prediction/ratio-3/,class208,0.2000,0.8000,0.6000,0.07634,0.7280,27.47
+./imSitu_aggregated_raw_prediction/ratio-3/,class209,0.3333,0.8333,0.5,0.1509,0.6823,48.85
+./imSitu_aggregated_raw_prediction/ratio-3/,class210,0.3333,1,0.6667,0.1283,0.8646,38.55
+./imSitu_aggregated_raw_prediction/ratio-3/,overall,0.01154,0.5360,0.5245,0.004194,0.5300,2.177

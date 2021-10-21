@@ -1,0 +1,10 @@
+Aggregation of all the raw results
+
+Display them in LaTeX table, box plot etc.
+
+File format:
+Each model has four files: overall stat result (max, min, etc.); per-class stat result; overall raw value; overall per-class value
+Each file contains all the settings (baseline vs. all the mitigations)
+
+in 'stats', DI is 1-DI for comparison
+Do NOT use this for printing tables

@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/root/.venv/fairness/bin/python",
+    "python.formatting.provider": "yapf",
+    "python.formatting.yapfArgs": [
+        "--style={ column_limit: 120, split_all_top_level_comma_separated_values: true, each_dict_entry_on_separate_line: true }"
+    ],
+    "python.languageServer": "Pylance"
+}

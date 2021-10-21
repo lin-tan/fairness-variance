@@ -1,0 +1,115 @@
+Using label attribute: 5_o_Clock_Shadow  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': '5_o_Clock_Shadow', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_5_o_Clock_Shadow_Young_NO_CONSTRAINTS_SGD_0.01'}
+Using label attribute: Arched_Eyebrows  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': 'Arched_Eyebrows', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Arched_Eyebrows_Young_NO_CONSTRAINTS_SGD_0.01'}
+Using label attribute: Attractive  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': 'Attractive', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Attractive_Young_NO_CONSTRAINTS_SGD_0.01'}
+Exception ignored in: <bound method _DataLoaderIter.__del__ of <torch.utils.data.dataloader._DataLoaderIter object at 0x7fc96efc60f0>>
+Traceback (most recent call last):
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 349, in __del__
+    self._shutdown_workers()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 328, in _shutdown_workers
+    self.worker_result_queue.get()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/queues.py", line 337, in get
+    return _ForkingPickler.loads(res)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/multiprocessing/reductions.py", line 70, in rebuild_storage_fd
+    fd = df.detach()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/resource_sharer.py", line 58, in detach
+    return reduction.recv_handle(conn)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/reduction.py", line 182, in recv_handle
+    return recvfds(s, 1)[0]
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/reduction.py", line 153, in recvfds
+    msg, ancdata, flags, addr = sock.recvmsg(1, socket.CMSG_SPACE(bytes_size))
+ConnectionResetError: [Errno 104] Connection reset by peer
+Using label attribute: Bags_Under_Eyes  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': 'Bags_Under_Eyes', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Bags_Under_Eyes_Young_NO_CONSTRAINTS_SGD_0.01'}
+Using label attribute: Bald  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': 'Bald', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Bald_Young_NO_CONSTRAINTS_SGD_0.01'}
+Exception ignored in: <bound method _DataLoaderIter.__del__ of <torch.utils.data.dataloader._DataLoaderIter object at 0x7fc96efc69e8>>
+Traceback (most recent call last):
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 349, in __del__
+    self._shutdown_workers()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 328, in _shutdown_workers
+    self.worker_result_queue.get()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/queues.py", line 337, in get
+    return _ForkingPickler.loads(res)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/multiprocessing/reductions.py", line 70, in rebuild_storage_fd
+    fd = df.detach()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/resource_sharer.py", line 57, in detach
+    with _resource_sharer.get_connection(self._id) as conn:
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/resource_sharer.py", line 87, in get_connection
+    c = Client(address, authkey=process.current_process().authkey)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 493, in Client
+    answer_challenge(c, authkey)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 737, in answer_challenge
+    response = connection.recv_bytes(256)        # reject large message
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Using label attribute: Bangs  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': 'Bangs', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Bangs_Young_NO_CONSTRAINTS_SGD_0.01'}
+Exception ignored in: <bound method _DataLoaderIter.__del__ of <torch.utils.data.dataloader._DataLoaderIter object at 0x7fc96efc6470>>
+Traceback (most recent call last):
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 349, in __del__
+    self._shutdown_workers()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 328, in _shutdown_workers
+    self.worker_result_queue.get()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/queues.py", line 337, in get
+    return _ForkingPickler.loads(res)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/multiprocessing/reductions.py", line 70, in rebuild_storage_fd
+    fd = df.detach()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/resource_sharer.py", line 57, in detach
+    with _resource_sharer.get_connection(self._id) as conn:
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/resource_sharer.py", line 87, in get_connection
+    c = Client(address, authkey=process.current_process().authkey)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 494, in Client
+    deliver_challenge(c, authkey)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 722, in deliver_challenge
+    response = connection.recv_bytes(256)        # reject large message
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 383, in _recv
+    raise EOFError
+EOFError: 
+Using label attribute: Big_Lips  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': 'Big_Lips', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Big_Lips_Young_NO_CONSTRAINTS_SGD_0.01'}
+Using label attribute: Big_Nose  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': 'Big_Nose', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Big_Nose_Young_NO_CONSTRAINTS_SGD_0.01'}
+Using label attribute: Black_Hair  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': 'Black_Hair', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Black_Hair_Young_NO_CONSTRAINTS_SGD_0.01'}
+Exception ignored in: <bound method _DataLoaderIter.__del__ of <torch.utils.data.dataloader._DataLoaderIter object at 0x7fc9453f37f0>>
+Traceback (most recent call last):
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 349, in __del__
+    self._shutdown_workers()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 328, in _shutdown_workers
+    self.worker_result_queue.get()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/queues.py", line 337, in get
+    return _ForkingPickler.loads(res)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/site-packages/torch/multiprocessing/reductions.py", line 70, in rebuild_storage_fd
+    fd = df.detach()
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/resource_sharer.py", line 57, in detach
+    with _resource_sharer.get_connection(self._id) as conn:
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/resource_sharer.py", line 87, in get_connection
+    c = Client(address, authkey=process.current_process().authkey)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 493, in Client
+    answer_challenge(c, authkey)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 732, in answer_challenge
+    message = connection.recv_bytes(256)         # reject large message
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lokhande/anaconda2/envs/pytorch-0.4/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Using label attribute: Blond_Hair  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': 'Blond_Hair', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Blond_Hair_Young_NO_CONSTRAINTS_SGD_0.01'}
+Using label attribute: Blurry  protected attribute: Young
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.01, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': True, 'PROTECTED': 'Young', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 1, 'NUM_INNER': 1, 'BATCH_SIZE': 1, 'IMAGE_SIZE': 28, 'RESPONSE': 'Blurry', 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Blurry_Young_NO_CONSTRAINTS_SGD_0.01'}
+Using label attribute: Brown_Hair  protected attribute: Young

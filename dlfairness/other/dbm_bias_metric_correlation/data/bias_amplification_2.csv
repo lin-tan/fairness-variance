@@ -1,0 +1,11 @@
+,max_diff,max,min,std_dev,mean,rel_maxdiff(%)
+./aggregated_raw_prediction/baseline/,0.006904,0.07765,0.07075,0.001817,0.07372,9.366
+./aggregated_raw_prediction/domain-discriminative/Max-of-prob-prior-shift/,0.005162,0.04319,0.03803,0.001442,0.04045,12.76
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-no-prior-shift/,0.009401,0.09127,0.08187,0.002404,0.08631,10.89
+./aggregated_raw_prediction/domain-discriminative/Sum-of-prob-prior-shift/,0.005009,0.04303,0.03802,0.001441,0.04044,12.39
+./aggregated_raw_prediction/domain-discriminative/rba/,0.003447,0.05644,0.05299,0.0007475,0.05454,6.320
+./aggregated_raw_prediction/domain-independent/Conditional/,0.006216,0.06943,0.06322,0.001588,0.06604,9.412
+./aggregated_raw_prediction/domain-independent/Sum/,0.003208,0.006518,0.003310,0.0007063,0.005255,61.05
+./aggregated_raw_prediction/gradproj-adv/,0.07434,0.1358,0.06149,0.01419,0.09178,80.99
+./aggregated_raw_prediction/sampling/,0.008010,0.07437,0.06636,0.001783,0.07059,11.35
+./aggregated_raw_prediction/uniconf-adv/,0.02713,0.1146,0.08744,0.006686,0.1015,26.74

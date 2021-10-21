@@ -1,0 +1,211 @@
+? A case-study on using an Automated In-process Software Engineering Measurement and
+  Analysis system in an industrial environment.
+: - https://doi.org/10.1109/ICSE.2009.5070511
+  - 2009
+A toolset for automated failure analysis.:
+- https://doi.org/10.1109/ICSE.2009.5070556
+- 2009
+Accurate Interprocedural Null-Dereference Analysis for Java.:
+- https://doi.org/10.1109/ICSE.2009.5070515
+- 2009
+Alitheia Core - An extensible software quality monitoring platform.:
+- https://doi.org/10.1109/ICSE.2009.5070560
+- 2009
+Analyzing critical process models through behavior model synthesis.:
+- https://doi.org/10.1109/ICSE.2009.5070543
+- 2009
+Automatic creation of SQL Injection and cross-site scripting attacks.:
+- https://doi.org/10.1109/ICSE.2009.5070521
+- 2009
+Automatic dimension inference and checking for object-oriented programs.:
+- https://doi.org/10.1109/ICSE.2009.5070517
+- 2009
+Automatically capturing source code context of NL-queries for software maintenance and reuse.:
+- https://doi.org/10.1109/ICSE.2009.5070524
+- 2009
+Automatically finding patches using genetic programming.:
+- https://doi.org/10.1109/ICSE.2009.5070536
+- 2009
+CloneDetective - A workbench for clone detection research.:
+- https://doi.org/10.1109/ICSE.2009.5070566
+- 2009
+CocoViz with ambient audio software exploration.:
+- https://doi.org/10.1109/ICSE.2009.5070558
+- 2009
+Complete and accurate clone detection in graph-based models.:
+- https://doi.org/10.1109/ICSE.2009.5070528
+- 2009
+ConcernLines - A timeline view of co-occurring concerns.:
+- https://doi.org/10.1109/ICSE.2009.5070559
+- 2009
+ContextServ - A platform for rapid and flexible development of context-aware Web services.:
+- https://doi.org/10.1109/ICSE.2009.5070570
+- 2009
+Discovering and representing systematic code changes.:
+- https://doi.org/10.1109/ICSE.2009.5070531
+- 2009
+Do code clones matter?:
+- https://doi.org/10.1109/ICSE.2009.5070547
+- 2009
+Does distributed development affect software quality? An empirical case study of Windows Vista.:
+- https://doi.org/10.1109/ICSE.2009.5070550
+- 2009
+Effective static deadlock detection.:
+- https://doi.org/10.1109/ICSE.2009.5070538
+- 2009
+Equality and hashing for (almost) free - Generating implementations from abstraction functions.:
+- https://doi.org/10.1109/ICSE.2009.5070534
+- 2009
+FEATUREHOUSE - Language-independent, automated software composition.:
+- https://doi.org/10.1109/ICSE.2009.5070523
+- 2009
+FeatureIDE - A tool framework for feature-oriented software development.:
+- https://doi.org/10.1109/ICSE.2009.5070568
+- 2009
+Feedback-driven requirements engineering - The Heuristic Requirements Assistant.:
+- https://doi.org/10.1109/ICSE.2009.5070562
+- 2009
+FlexSync - An aspect-oriented approach to Java synchronization.:
+- https://doi.org/10.1109/ICSE.2009.5070537
+- 2009
+HOLMES - Effective statistical debugging via efficient path profiling.:
+- https://doi.org/10.1109/ICSE.2009.5070506
+- 2009
+How tagging helps bridge the gap between social and technical aspects in software development.:
+- https://doi.org/10.1109/ICSE.2009.5070504
+- 2009
+How to avoid drastic software process change (using stochastic stability).:
+- https://doi.org/10.1109/ICSE.2009.5070552
+- 2009
+How we refactor, and how we know it.:
+- https://doi.org/10.1109/ICSE.2009.5070529
+- 2009
+ITACA - An integrated toolbox for the automatic composition and adaptation of Web services.:
+- https://doi.org/10.1109/ICSE.2009.5070572
+- 2009
+Improving API documentation usability with knowledge pushing.:
+- https://doi.org/10.1109/ICSE.2009.5070532
+- 2009
+In-field healing of integration problems with COTS components.:
+- https://doi.org/10.1109/ICSE.2009.5070518
+- 2009
+Invariant-based automatic testing of AJAX user interfaces.:
+- https://doi.org/10.1109/ICSE.2009.5070522
+- 2009
+JUnitMX - A change-aware unit testing tool.:
+- https://doi.org/10.1109/ICSE.2009.5070557
+- 2009
+Ldiff - An enhanced line differencing tool.:
+- https://doi.org/10.1109/ICSE.2009.5070564
+- 2009
+Learning operational requirements from goal models.:
+- https://doi.org/10.1109/ICSE.2009.5070527
+- 2009
+License integration patterns - Addressing license mismatches in component-based development.:
+- https://doi.org/10.1109/ICSE.2009.5070520
+- 2009
+Lightweight fault-localization using multiple coverage types.:
+- https://doi.org/10.1109/ICSE.2009.5070508
+- 2009
+Listening to programmers - Taxonomies and characteristics of comments in operating system code.:
+- https://doi.org/10.1109/ICSE.2009.5070533
+- 2009
+Locating need-to-translate constant strings for software internationalization.:
+- https://doi.org/10.1109/ICSE.2009.5070535
+- 2009
+MINTS - A general framework and tool for supporting test-suite minimization.:
+- https://doi.org/10.1109/ICSE.2009.5070541
+- 2009
+Maintaining and evolving GUI-directed test scripts.:
+- https://doi.org/10.1109/ICSE.2009.5070540
+- 2009
+Mining exception-handling rules as sequence association rules.:
+- https://doi.org/10.1109/ICSE.2009.5070548
+- 2009
+Model evolution by run-time parameter adaptation.:
+- https://doi.org/10.1109/ICSE.2009.5070513
+- 2009
+Modular string-sensitive permission analysis with demand-driven precision.:
+- https://doi.org/10.1109/ICSE.2009.5070519
+- 2009
+Predicting build failures using social network analysis on developer communication.:
+- https://doi.org/10.1109/ICSE.2009.5070503
+- 2009
+Predicting faults using the complexity of code changes.:
+- https://doi.org/10.1109/ICSE.2009.5070510
+- 2009
+ReMan - A pro-active reputation management infrastructure for composite Web services.:
+- https://doi.org/10.1109/ICSE.2009.5070571
+- 2009
+Reasoning about edits to feature models.:
+- https://doi.org/10.1109/ICSE.2009.5070526
+- 2009
+Refactoring sequential Java code for concurrency via concurrent libraries.:
+- https://doi.org/10.1109/ICSE.2009.5070539
+- 2009
+Safe-commit analysis to facilitate team software development.:
+- https://doi.org/10.1109/ICSE.2009.5070549
+- 2009
+Save-IDE - A tool for design, analysis and implementation of component-based embedded systems.:
+- https://doi.org/10.1109/ICSE.2009.5070567
+- 2009
+SemDiff - Analysis and recommendation support for API evolution.:
+- https://doi.org/10.1109/ICSE.2009.5070565
+- 2009
+Semantics-based code search.:
+- https://doi.org/10.1109/ICSE.2009.5070525
+- 2009
+SmartTutor - Creating IDE-based interactive tutorials via editable replay.:
+- https://doi.org/10.1109/ICSE.2009.5070555
+- 2009
+Succession - Measuring transfer of code and developer productivity.:
+- https://doi.org/10.1109/ICSE.2009.5070509
+- 2009
+Synthesis of timed behavior from scenarios in the Fujaba Real-Time Tool Suite.:
+- https://doi.org/10.1109/ICSE.2009.5070569
+- 2009
+Synthesizing intensional behavior models by graph transformation.:
+- https://doi.org/10.1109/ICSE.2009.5070542
+- 2009
+Taint-based directed whitebox fuzzing.:
+- https://doi.org/10.1109/ICSE.2009.5070546
+- 2009
+Taming Dynamically Adaptive Systems using models and aspects.:
+- https://doi.org/10.1109/ICSE.2009.5070514
+- 2009
+Taming coincidental correctness - Coverage refinement with context patterns to improve fault localization.:
+- https://doi.org/10.1109/ICSE.2009.5070507
+- 2009
+Tesseract - Interactive visual exploration of socio-technical relationships in software development.:
+- https://doi.org/10.1109/ICSE.2009.5070505
+- 2009
+The impact of process choice in high maturity environments - An empirical analysis.:
+- https://doi.org/10.1109/ICSE.2009.5070551
+- 2009
+The road not taken - Estimating path execution frequency statically.:
+- https://doi.org/10.1109/ICSE.2009.5070516
+- 2009
+The secret life of bugs - Going past the errors and omissions in software repositories.:
+- https://doi.org/10.1109/ICSE.2009.5070530
+- 2009
+TranStrL - An automatic need-to-translate string locator for software internationalization.:
+- https://doi.org/10.1109/ICSE.2009.5070554
+- 2009
+UEMan - A tool to manage user evaluation in development environments.:
+- https://doi.org/10.1109/ICSE.2009.5070553
+- 2009
+Using quantitative analysis to implement autonomic IT systems.:
+- https://doi.org/10.1109/ICSE.2009.5070512
+- 2009
+VIDA - Visual interactive debugging.:
+- https://doi.org/10.1109/ICSE.2009.5070561
+- 2009
+Validation of contracts using enabledness preserving finite state abstractions.:
+- https://doi.org/10.1109/ICSE.2009.5070544
+- 2009
+WISE - Automated test generation for worst-case complexity.:
+- https://doi.org/10.1109/ICSE.2009.5070545
+- 2009
+"\xC6vol - A tool for defining and planning architecture evolution.":
+- https://doi.org/10.1109/ICSE.2009.5070563
+- 2009

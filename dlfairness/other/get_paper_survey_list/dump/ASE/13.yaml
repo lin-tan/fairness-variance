@@ -1,0 +1,312 @@
+? 22nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2007),
+  November 5-9, 2007, Atlanta, Georgia, USA
+: - https://doi.org/10.1145/1321631
+  - 2007
+A buffer overflow benchmark for software model checkers.:
+- https://doi.org/10.1145/1321631.1321691
+- 2007
+A dynamic birthmark for java.:
+- https://doi.org/10.1145/1321631.1321672
+- 2007
+A framework and tool supports for testing modularity of software design.:
+- https://doi.org/10.1145/1321631.1321704
+- 2007
+Adaptation hiding modularity.:
+- https://doi.org/10.1145/1321631.1321740
+- 2007
+An approach to mining call-usage patternswith syntactic context.:
+- https://doi.org/10.1145/1321631.1321708
+- 2007
+An aspect-oriented weaving mechanism based on component and connector architecture.:
+- https://doi.org/10.1145/1321631.1321656
+- 2007
+An automated approach to monitoring and diagnosing requirements.:
+- https://doi.org/10.1145/1321631.1321675
+- 2007
+An automated model-based debugging approach.:
+- https://doi.org/10.1145/1321631.1321659
+- 2007
+An energy consumption framework for distributed java-based systems.:
+- https://doi.org/10.1145/1321631.1321699
+- 2007
+An evaluation scheme of adaptive configuration techniques.:
+- https://doi.org/10.1145/1321631.1321717
+- 2007
+An infrastructure for autonomic system development - the selflet approach.:
+- https://doi.org/10.1145/1321631.1321706
+- 2007
+Assertion-based repair of complex data structures.:
+- https://doi.org/10.1145/1321631.1321643
+- 2007
+Assisting potentially-repetitive small-scale changes via semi-automated heuristic search.:
+- https://doi.org/10.1145/1321631.1321718
+- 2007
+Automated detection of api refactorings in libraries.:
+- https://doi.org/10.1145/1321631.1321688
+- 2007
+Automated gui testing guided by usage profiles.:
+- https://doi.org/10.1145/1321631.1321681
+- 2007
+Automatic code stylizing.:
+- https://doi.org/10.1145/1321631.1321645
+- 2007
+Automatic extraction of framework-specific models from framework-based application code.:
+- https://doi.org/10.1145/1321631.1321664
+- 2007
+Automating the identification of variability realisation techniques from feature models.:
+- https://doi.org/10.1145/1321631.1321741
+- 2007
+Behavioral adaptation of component compositions based on process algebra encodings.:
+- https://doi.org/10.1145/1321631.1321690
+- 2007
+Checking threat modeling data flow diagrams for implementation conformance and security.:
+- https://doi.org/10.1145/1321631.1321692
+- 2007
+Clustering support for automated tracing.:
+- https://doi.org/10.1145/1321631.1321668
+- 2007
+CodeGenie - using test-cases to search and reuse source code.:
+- https://doi.org/10.1145/1321631.1321726
+- 2007
+Coevolving programs and unit tests from their specification.:
+- https://doi.org/10.1145/1321631.1321693
+- 2007
+Combined static and dynamic mutability analysis.:
+- https://doi.org/10.1145/1321631.1321649
+- 2007
+Combining environment generation and slicing for modular software model checking.:
+- https://doi.org/10.1145/1321631.1321694
+- 2007
+Concolic testing.:
+- https://doi.org/10.1145/1321631.1321746
+- 2007
+Context-aware statistical debugging - from bug predictors to faulty control flow paths.:
+- https://doi.org/10.1145/1321631.1321660
+- 2007
+Covering array sampling of input event sequences for automated gui testing.:
+- https://doi.org/10.1145/1321631.1321695
+- 2007
+DESERT - a decentralized monitoring tool generator.:
+- https://doi.org/10.1145/1321631.1321728
+- 2007
+Decor - a tool for the detection of design defects.:
+- https://doi.org/10.1145/1321631.1321727
+- 2007
+Diconic addition of failsafe fault-tolerance.:
+- https://doi.org/10.1145/1321631.1321641
+- 2007
+Direct-dependency-based software compatibility testing.:
+- https://doi.org/10.1145/1321631.1321696
+- 2007
+Directed test generation using symbolic grammars.:
+- https://doi.org/10.1145/1321631.1321653
+- 2007
+Driving the selection of cots components on the basis of system requirements.:
+- https://doi.org/10.1145/1321631.1321697
+- 2007
+Effective memory protection using dynamic tainting.:
+- https://doi.org/10.1145/1321631.1321673
+- 2007
+Effective random testing of concurrent programs.:
+- https://doi.org/10.1145/1321631.1321679
+- 2007
+Efficient unit test case minimization.:
+- https://doi.org/10.1145/1321631.1321698
+- 2007
+Efficiently monitoring data-flow test coverage.:
+- https://doi.org/10.1145/1321631.1321682
+- 2007
+Empirical research methods for software engineering.:
+- https://doi.org/10.1145/1321631.1321749
+- 2007
+Ensuring consistency in long running transactions.:
+- https://doi.org/10.1145/1321631.1321642
+- 2007
+Evacon - a framework for integrating evolutionary and concolic testing for object-oriented programs.:
+- https://doi.org/10.1145/1321631.1321700
+- 2007
+Exploring the neighborhood with dora to expedite software maintenance.:
+- https://doi.org/10.1145/1321631.1321637
+- 2007
+Extracting rights and obligations from regulations - toward a tool-supported process.:
+- https://doi.org/10.1145/1321631.1321701
+- 2007
+Extraction of bug localization benchmarks from history.:
+- https://doi.org/10.1145/1321631.1321702
+- 2007
+Feature interaction analysis - a maintenance perspective.:
+- https://doi.org/10.1145/1321631.1321703
+- 2007
+Feature location via information retrieval based filtering of a single scenario execution trace.:
+- https://doi.org/10.1145/1321631.1321667
+- 2007
+Finding errors in components that exchange xml data.:
+- https://doi.org/10.1145/1321631.1321671
+- 2007
+? Formal specification generator for KAOS - model transformation approach to generate
+  formal specifications from KAOS requirements models.
+: - https://doi.org/10.1145/1321631.1321729
+  - 2007
+IMP - a meta-tooling platform for creating language-specific ides in eclipse.:
+- https://doi.org/10.1145/1321631.1321715
+- 2007
+Improving change prediction with fine-grained source code mining.:
+- https://doi.org/10.1145/1321631.1321742
+- 2007
+Improving evolutionary class testing in the presence of non-public methods.:
+- https://doi.org/10.1145/1321631.1321689
+- 2007
+Improving uml profile design practices by leveraging conceptual domain models.:
+- https://doi.org/10.1145/1321631.1321705
+- 2007
+Inferring structural patterns for concern traceability in evolving software.:
+- https://doi.org/10.1145/1321631.1321669
+- 2007
+Integrated tool support for software product line engineering.:
+- https://doi.org/10.1145/1321631.1321730
+- 2007
+Iterative model-driven development of adaptable service-based applications.:
+- https://doi.org/10.1145/1321631.1321707
+- 2007
+Keyword programming in java.:
+- https://doi.org/10.1145/1321631.1321646
+- 2007
+Mastering combinatorial explosion with the tobias-2 test generator.:
+- https://doi.org/10.1145/1321631.1321731
+- 2007
+Meta tools for implementing domain specific visual languages.:
+- https://doi.org/10.1145/1321631.1321751
+- 2007
+Mining concepts from code with probabilistic topic models.:
+- https://doi.org/10.1145/1321631.1321709
+- 2007
+Mining modal scenario-based specifications from execution traces of reactive systems.:
+- https://doi.org/10.1145/1321631.1321710
+- 2007
+Model checking concurrent linux device drivers.:
+- https://doi.org/10.1145/1321631.1321719
+- 2007
+Model-driven derivation of product architectures.:
+- https://doi.org/10.1145/1321631.1321711
+- 2007
+Modeling bug report quality.:
+- https://doi.org/10.1145/1321631.1321639
+- 2007
+Modular and generic programming with interpreterlib.:
+- https://doi.org/10.1145/1321631.1321712
+- 2007
+Netstub - a framework for verification of distributed java applications.:
+- https://doi.org/10.1145/1321631.1321638
+- 2007
+Nighthawk - a two-level genetic-random unit test data generator.:
+- https://doi.org/10.1145/1321631.1321654
+- 2007
+Object ownership profiling - a technique for finding and fixing memory leaks.:
+- https://doi.org/10.1145/1321631.1321661
+- 2007
+Pallino - automation to support regression test selection for cots-based applications.:
+- https://doi.org/10.1145/1321631.1321665
+- 2007
+Parseweb - a programmer assistant for reusing open source code on the web.:
+- https://doi.org/10.1145/1321631.1321663
+- 2007
+Reducing irrelevant trace variations.:
+- https://doi.org/10.1145/1321631.1321713
+- 2007
+? Residual dynamic typestate analysis exploiting static analysis - results to reformulate
+  and reduce the cost of dynamic analysis.
+: - https://doi.org/10.1145/1321631.1321651
+  - 2007
+Rosetta - language support for system-level design.:
+- https://doi.org/10.1145/1321631.1321752
+- 2007
+Rteq - modeling and validating infinite-state hard-real-time systems.:
+- https://doi.org/10.1145/1321631.1321714
+- 2007
+Scalable automatic test data generation from modeling diagrams.:
+- https://doi.org/10.1145/1321631.1321635
+- 2007
+Scheduling of conflicting refactorings to promote quality improvement.:
+- https://doi.org/10.1145/1321631.1321716
+- 2007
+Sequential circuits for program analysis.:
+- https://doi.org/10.1145/1321631.1321650
+- 2007
+Smart - a tool for application reference testing.:
+- https://doi.org/10.1145/1321631.1321732
+- 2007
+Software reuse and evolution with generative techniques.:
+- https://doi.org/10.1145/1321631.1321750
+- 2007
+Specifying and verifying software.:
+- https://doi.org/10.1145/1321631.1321633
+- 2007
+Synthesis of test purpose directed reactive planning tester for nondeterministic systems.:
+- https://doi.org/10.1145/1321631.1321685
+- 2007
+Synthesizing client load models for performance engineering via web crawling.:
+- https://doi.org/10.1145/1321631.1321684
+- 2007
+Test automation for kernel code and disk arrays with virtual devices.:
+- https://doi.org/10.1145/1321631.1321720
+- 2007
+Test suite reduction and prioritization with call trees.:
+- https://doi.org/10.1145/1321631.1321733
+- 2007
+Testing concurrent programs using value schedules.:
+- https://doi.org/10.1145/1321631.1321678
+- 2007
+The business case for automated software engineering.:
+- https://doi.org/10.1145/1321631.1321676
+- 2007
+The embarrassing truth about software automation and what should be done about it.:
+- https://doi.org/10.1145/1321631.1321634
+- 2007
+The eureka tool for software model checking.:
+- https://doi.org/10.1145/1321631.1321734
+- 2007
+Tool support for the compile-time execution structure of object-oriented programs with ownership annotations.:
+- https://doi.org/10.1145/1321631.1321735
+- 2007
+Tools for model-based security engineering - models vs. code.:
+- https://doi.org/10.1145/1321631.1321736
+- 2007
+Toward automated software development.:
+- https://doi.org/10.1145/1321631.1321632
+- 2007
+Towards automated consistency checks of product line requirements specifications.:
+- https://doi.org/10.1145/1321631.1321687
+- 2007
+Towards automatic model synchronization from model transformations.:
+- https://doi.org/10.1145/1321631.1321657
+- 2007
+Towards leveraging model transformation to support model-based testing.:
+- https://doi.org/10.1145/1321631.1321721
+- 2007
+Towards supporting awareness of indirect conflicts across software configuration management workspaces.:
+- https://doi.org/10.1145/1321631.1321647
+- 2007
+Tutorial on JML, the java modeling language.:
+- https://doi.org/10.1145/1321631.1321747
+- 2007
+UMLtoCSP - a tool for the formal verification of UML/OCL models using constraint programming.:
+- https://doi.org/10.1145/1321631.1321737
+- 2007
+Unit testing concurrent software.:
+- https://doi.org/10.1145/1321631.1321722
+- 2007
+Using information retrieval to support design of incremental change of software.:
+- https://doi.org/10.1145/1321631.1321743
+- 2007
+Using traceability to support model-based regression testing.:
+- https://doi.org/10.1145/1321631.1321744
+- 2007
+Validating system properties exhibited in execution traces.:
+- https://doi.org/10.1145/1321631.1321723
+- 2007
+Verifying C++ with STL containers via predicate abstraction.:
+- https://doi.org/10.1145/1321631.1321724
+- 2007
+Visualizing clone detection results.:
+- https://doi.org/10.1145/1321631.1321738
+- 2007

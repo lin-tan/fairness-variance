@@ -1,0 +1,100 @@
+Conf,Title,Link
+FSE2020,Adapting bug prediction models to predict reverted commits at Wayfair.,https://doi.org/10.1145/3368089.3417062
+FSE2020,"Biases and differences in code review using medical imaging and eye-tracking - genders, humans, and machines.",https://doi.org/10.1145/3368089.3409681
+FSE2020,Do the machine learning models on a crowd sourced platform exhibit bias? an empirical study on model fairness.,https://doi.org/10.1145/3368089.3409704
+FSE2020,Effort-aware just-in-time defect identification in practice - a case study at Alibaba.,https://doi.org/10.1145/3368089.3417048
+FSE2020,Fairway - a way to build fair ML software.,https://doi.org/10.1145/3368089.3409697
+FSE2020,Graph-based trace analysis for microservice architecture understanding and problem diagnosis.,https://doi.org/10.1145/3368089.3417066
+FSE2020,"Interactive, effort-aware library version harmonization.",https://doi.org/10.1145/3368089.3409689
+FSE2020,Reducing implicit gender biases in software development - does intergroup contact theory work?,https://doi.org/10.1145/3368089.3409762
+FSE2020,Repairing confusion and bias errors for DNN-based image classifiers.,https://doi.org/10.1145/3368089.3418776
+FSE2020,Towards automated verification of smart contract fairness.,https://doi.org/10.1145/3368089.3409740
+FSE2019,Black box fairness testing of machine learning models.,https://doi.org/10.1145/3338906.3338937
+FSE2019,Cerebro - context-aware adaptive fuzzing for effective vulnerability detection.,https://doi.org/10.1145/3338906.3338975
+FSE2019,Context-aware test case adaptation.,https://doi.org/10.1145/3338906.3342510
+FSE2019,Eagle - a team practices audit framework for agile software development.,https://doi.org/10.1145/3338906.3341181
+FSE2019,Effects of explicit feature traceability on program comprehension.,https://doi.org/10.1145/3338906.3338968
+FSE2019,Event trace reduction for effective bug replay of Android apps via differential GUI state analysis.,https://doi.org/10.1145/3338906.3341183
+FSE2019,File tracing by intercepting disk requests.,https://doi.org/10.1145/3338906.3342485
+FSE2019,Identifying the most valuable developers using artifact traceability graphs.,https://doi.org/10.1145/3338906.3342487
+FSE2019,Latent error prediction and fault localization for microservice applications by learning from system trace logs.,https://doi.org/10.1145/3338906.3338961
+FSE2019,Monitoring-aware IDEs.,https://doi.org/10.1145/3338906.3338926
+FSE2019,Suggesting reviewers of software artifacts using traceability graphs.,https://doi.org/10.1145/3338906.3342507
+FSE2018,Automated patch extraction via syntax- and semantics-aware Delta debugging on source code changes.,https://doi.org/10.1145/3236024.3236047
+FSE2018,Code vectors - understanding programs through embedded abstracted symbolic traces.,https://doi.org/10.1145/3236024.3236085
+FSE2018,Data race detection on compressed traces.,https://doi.org/10.1145/3236024.3236025
+FSE2018,Does ACM&apos;s code of ethics change ethical decision making in software development?,https://doi.org/10.1145/3236024.3264833
+FSE2018,Feature-interaction aware configuration prioritization.,https://doi.org/10.1145/3236024.3275437
+FSE2018,Improving IR-based bug localization with context-aware query reformulation.,https://doi.org/10.1145/3236024.3236065
+FSE2018,Practical AJAX race detection for JavaScript web applications.,https://doi.org/10.1145/3236024.3236038
+FSE2018,Software fairness.,https://doi.org/10.1145/3236024.3264838
+FSE2018,Themis - automatically testing software for discrimination.,https://doi.org/10.1145/3236024.3264590
+FSE2017,A tool for automated reasoning about traces based on configurable formal semantics.,https://doi.org/10.1145/3106237.3122825
+FSE2017,AtexRace - across thread and execution sampling for in-house race detection.,https://doi.org/10.1145/3106237.3106242
+FSE2017,Automating traceability link recovery through classification.,https://doi.org/10.1145/3106237.3121280
+FSE2017,Fairness testing - testing software for discrimination.,https://doi.org/10.1145/3106237.3106277
+FSE2017,JoanAudit - a tool for auditing common injection vulnerabilities.,https://doi.org/10.1145/3106237.3122822
+FSE2017,PATDroid - permission-aware GUI testing of Android.,https://doi.org/10.1145/3106237.3106250
+FSE2017,QTEP - quality-aware test case prioritization.,https://doi.org/10.1145/3106237.3106258
+FSE2017,Reflections on the REST architectural style and &quot;principled design of the modern web architecture&quot; (impact paper award).,https://doi.org/10.1145/3106237.3121282
+FSE2017,User- and analysis-driven context aware software development in mobile computing.,https://doi.org/10.1145/3106237.3119873
+FSE2017,µDroid - an energy-aware mutation testing framework for Android.,https://doi.org/10.1145/3106237.3106244
+FSE2016,&quot;Womenomics&quot; and gender-inclusive software - what software engineers need to know (invited talk).,https://doi.org/10.1145/2950290.2994159
+FSE2016,A deployable sampling strategy for data race detection.,https://doi.org/10.1145/2950290.2950310
+FSE2016,Building a socio-technical theory of coordination - why and how (outstanding research award).,https://doi.org/10.1145/2950290.2994160
+FSE2016,Constraint-based event trace reduction.,https://doi.org/10.1145/2950290.2983964
+FSE2016,Correct or usable? the limits of traditional verification (impact paper award).,https://doi.org/10.1145/2950290.2994161
+FSE2016,ECHO - instantaneous in situ race detection in the IDE.,https://doi.org/10.1145/2950290.2950332
+FSE2016,Effort-aware just-in-time defect prediction - simple unsupervised models could be better than supervised models.,https://doi.org/10.1145/2950290.2950353
+FSE2016,Gray links in the use of requirements traceability.,https://doi.org/10.1145/2950290.2950354
+FSE2016,Minimizing GUI event traces.,https://doi.org/10.1145/2950290.2950342
+FSE2016,Parallel data race detection for task parallel programs with locks.,https://doi.org/10.1145/2950290.2950329
+FSE2016,Relationship-aware code search for JavaScript frameworks.,https://doi.org/10.1145/2950290.2950341
+FSE2015,Detecting JavaScript races that matter.,https://doi.org/10.1145/2786805.2786820
+FSE2015,Detecting semantic merge conflicts with variability-aware execution.,https://doi.org/10.1145/2786805.2803208
+FSE2015,Effective and precise dynamic detection of hidden races for Java programs.,https://doi.org/10.1145/2786805.2786839
+FSE2015,Iterative distribution-aware sampling for probabilistic symbolic execution.,https://doi.org/10.1145/2786805.2786832
+FSE2015,RDIT - race detection from incomplete traces.,https://doi.org/10.1145/2786805.2803209
+FSE2015,Tracing software developers&apos; eyes and interactions for change tasks.,https://doi.org/10.1145/2786805.2786864
+FSE2015,UEDashboard - awareness of unusual events in commit histories.,https://doi.org/10.1145/2786805.2803184
+FSE2014,Aalta - an LTL satisfiability checker over Infinite/Finite traces.,https://doi.org/10.1145/2635868.2661669
+FSE2014,Achieving lightweight trustworthy traceability.,https://doi.org/10.1145/2635868.2666612
+FSE2014,Automatic mining of specifications from invocation traces and method invariants.,https://doi.org/10.1145/2635868.2635890
+FSE2014,Balancing trade-offs in test-suite reduction.,https://doi.org/10.1145/2635868.2635921
+FSE2014,Discovering refactoring opportunities in cascading style sheets.,https://doi.org/10.1145/2635868.2635879
+FSE2014,Grail - context-aware fixing of concurrency bugs.,https://doi.org/10.1145/2635868.2635881
+FSE2014,RefDistiller - a refactoring aware code review tool for inspecting manual refactoring edits.,https://doi.org/10.1145/2635868.2661674
+FSE2014,Traceability and model checking to support safety requirement verification.,https://doi.org/10.1145/2635868.2666606
+FSE2013,Distributed program tracing.,https://doi.org/10.1145/2491411.2491451
+FSE2013,Improving trace accuracy through data-driven configuration and composition of tracing features.,https://doi.org/10.1145/2491411.2491432
+FSE2013,Sample size vs. bias in defect prediction.,https://doi.org/10.1145/2491411.2491418
+FSE2013,SocialCDE - a social awareness tool for global software teams.,https://doi.org/10.1145/2491411.2494592
+FSE2013,Towards emotional awareness in software development teams.,https://doi.org/10.1145/2491411.2494578
+FSE2011,A software lifecycle process for context-aware adaptive systems.,https://doi.org/10.1145/2025113.2025177
+FSE2011,Testing software in age of data privacy - a balancing act.,https://doi.org/10.1145/2025113.2025143
+FSE2010,A trace simplification technique for effective debugging of concurrent programs.,https://doi.org/10.1145/1882291.1882302
+FSE2010,Avoiding the classic catastrophic computer science failure mode - 2010 acm sigsoft outstanding research award talk.,https://doi.org/10.1145/1882291.1882294
+FSE2010,RT-simex - retro-analysis of execution traces.,https://doi.org/10.1145/1882291.1882357
+FSE2010,Using dynamic analysis to create trace-focused user interfaces for IDEs.,https://doi.org/10.1145/1882291.1882351
+FSE2009,Debugging debugging - acm sigsoft impact paper award keynote.,https://doi.org/10.1145/1595696.1595736
+FSE2009,Evaluating recovery aware components for grid reliability.,https://doi.org/10.1145/1595696.1595741
+FSE2009,Fair and balanced? - bias in bug-fix datasets.,https://doi.org/10.1145/1595696.1595716
+FSE2009,Static data race detection for concurrent programs with asynchronous calls.,https://doi.org/10.1145/1595696.1595701
+FSE2008,ACM SIGSOFT impact paper award - reflections and prospects.,https://doi.org/10.1145/1453101.1453141
+FSE2008,Empirical evidence of the benefits of workspace awareness in software configuration management.,https://doi.org/10.1145/1453101.1453118
+FSE2008,Javert - fully automatic mining of general temporal properties from dynamic traces.,https://doi.org/10.1145/1453101.1453150
+FSE2008,Model-based fault detection in context-aware adaptive applications.,https://doi.org/10.1145/1453101.1453136
+FSE2007,An end-to-end industrial software traceability tool.,https://doi.org/10.1145/1287624.1287642
+FSE2007,"An iterative, multi-level, and scalable approach to comparing execution traces.",https://doi.org/10.1145/1287624.1287704
+FSE2007,CTG - a connectivity trace generator for testing the performance of opportunistic mobile systems.,https://doi.org/10.1145/1287624.1287684
+FSE2007,Predictive testing - amplifying the effectiveness of software testing.,https://doi.org/10.1145/1287624.1287710
+FSE2007,RELAY - static race detection on millions of lines of code.,https://doi.org/10.1145/1287624.1287654
+FSE2007,Recovering and using use-case-diagram-to-source-code traceability links.,https://doi.org/10.1145/1287624.1287640
+FSE2006,Testing context-aware middleware-centric programs - a data flow approach and an RFID-based experimentation.,https://doi.org/10.1145/1181775.1181805
+FSE2006,Using positive tainting and syntax-aware evaluation to counter SQL injection attacks.,https://doi.org/10.1145/1181775.1181797
+FSE2005,A case study on value-based requirements tracing.,https://doi.org/10.1145/1081706.1081717
+FSE2005,HATARI - raising risk awareness.,https://doi.org/10.1145/1081706.1081725
+FSE2005,Inconsistency detection and resolution for context-aware middleware support.,https://doi.org/10.1145/1081706.1081759
+FSE2004,Resolving uncertainties during trace analysis.,https://doi.org/10.1145/1029894.1029899
+FSE2002,Egocentric context-aware programming in ad hoc mobile environments.,https://doi.org/10.1145/587051.587056
+FSE1999,Checking Progress with Action Priority - Is it Fair?,https://doi.org/10.1007/3-540-48166-4_31

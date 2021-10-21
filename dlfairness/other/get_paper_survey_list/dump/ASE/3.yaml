@@ -1,0 +1,355 @@
+A comprehensive study of real-world numerical bug characteristics.:
+- https://doi.org/10.1109/ASE.2017.8115662
+- 2017
+A comprehensive study on real world concurrency bugs in Node.js.:
+- https://doi.org/10.1109/ASE.2017.8115663
+- 2017
+A demonstration of simultaneous execution and editing in a development environment.:
+- https://doi.org/10.1109/ASE.2017.8115701
+- 2017
+A language model for statements of software code.:
+- https://doi.org/10.1109/ASE.2017.8115678
+- 2017
+A static analysis tool with optimizations for reachability determination.:
+- https://doi.org/10.1109/ASE.2017.8115706
+- 2017
+ANDROFLEET - testing WiFi peer-to-peer mobile apps in the large.:
+- https://doi.org/10.1109/ASE.2017.8115712
+- 2017
+APIBot - question answering bot for API documentation.:
+- https://doi.org/10.1109/ASE.2017.8115628
+- 2017
+All about activity injection - threats, semantics, and detection.:
+- https://doi.org/10.1109/ASE.2017.8115638
+- 2017
+"AnswerBot - automated generation of answer summary to developers\u017A technical questions.":
+- https://doi.org/10.1109/ASE.2017.8115681
+- 2017
+Are developers aware of the architectural impact of their changes?:
+- https://doi.org/10.1109/ASE.2017.8115622
+- 2017
+Automated cross-platform inconsistency detection for mobile apps.:
+- https://doi.org/10.1109/ASE.2017.8115644
+- 2017
+Automatic loop-invariant generation and refinement through selective sampling.:
+- https://doi.org/10.1109/ASE.2017.8115689
+- 2017
+Automatic summarization of API reviews.:
+- https://doi.org/10.1109/ASE.2017.8115629
+- 2017
+Automatic testing of symbolic execution engines via program generation and differential testing.:
+- https://doi.org/10.1109/ASE.2017.8115669
+- 2017
+Automatically assessing code understandability - how far are we?:
+- https://doi.org/10.1109/ASE.2017.8115654
+- 2017
+Automatically assessing crashes from heap overflows.:
+- https://doi.org/10.1109/ASE.2017.8115640
+- 2017
+Automatically generating commit messages from diffs using neural machine translation.:
+- https://doi.org/10.1109/ASE.2017.8115626
+- 2017
+Automatically reducing tree-structured test inputs.:
+- https://doi.org/10.1109/ASE.2017.8115697
+- 2017
+BProVe - a formal verification framework for business process models.:
+- https://doi.org/10.1109/ASE.2017.8115635
+- 2017
+BProVe - tool support for business process verification.:
+- https://doi.org/10.1109/ASE.2017.8115708
+- 2017
+Boosting complete-code tool for partial program.:
+- https://doi.org/10.1109/ASE.2017.8115677
+- 2017
+Can automated pull requests encourage software developers to upgrade out-of-date dependencies?:
+- https://doi.org/10.1109/ASE.2017.8115621
+- 2017
+Characterizing and taming non-deterministic bugs in JavaScript applications.:
+- https://doi.org/10.1109/ASE.2017.8115720
+- 2017
+Cobra - an interactive static code analyzer.:
+- https://doi.org/10.1109/ASE.2017.8115610
+- 2017
+CogniCrypt - supporting developers in using cryptography.:
+- https://doi.org/10.1109/ASE.2017.8115707
+- 2017
+Comprehensive failure characterization.:
+- https://doi.org/10.1109/ASE.2017.8115649
+- 2017
+Context-aware integrated development environment command recommender systems.:
+- https://doi.org/10.1109/ASE.2017.8115679
+- 2017
+Contract-based program repair without the contracts.:
+- https://doi.org/10.1109/ASE.2017.8115674
+- 2017
+Crowd intelligence enhances automated mobile testing.:
+- https://doi.org/10.1109/ASE.2017.8115614
+- 2017
+DSIbin - identifying dynamic data structures in C/C++ binaries.:
+- https://doi.org/10.1109/ASE.2017.8115646
+- 2017
+DSSynth - an automated digital controller synthesis tool for physical plants.:
+- https://doi.org/10.1109/ASE.2017.8115705
+- 2017
+Defaultification refactoring - a tool for automatically converting Java methods to default.:
+- https://doi.org/10.1109/ASE.2017.8115716
+- 2017
+Detecting fragile comments.:
+- https://doi.org/10.1109/ASE.2017.8115624
+- 2017
+Detecting information flow by mutating input data.:
+- https://doi.org/10.1109/ASE.2017.8115639
+- 2017
+Detecting unknown inconsistencies in web applications.:
+- https://doi.org/10.1109/ASE.2017.8115667
+- 2017
+Diagnosing assumption problems in safety-critical products.:
+- https://doi.org/10.1109/ASE.2017.8115659
+- 2017
+EHBDroid - beyond GUI testing for Android applications.:
+- https://doi.org/10.1109/ASE.2017.8115615
+- 2017
+ELIXIR - effective object oriented program repair.:
+- https://doi.org/10.1109/ASE.2017.8115675
+- 2017
+EventFlowSlicer - a tool for generating realistic goal-driven GUI tests.:
+- https://doi.org/10.1109/ASE.2017.8115711
+- 2017
+Exploring regular expression comprehension.:
+- https://doi.org/10.1109/ASE.2017.8115653
+- 2017
+FEMIR - a tool for recommending framework extension examples.:
+- https://doi.org/10.1109/ASE.2017.8115713
+- 2017
+FiB - squeezing loop invariants by interpolation between Forward/Backward predicate transformers.:
+- https://doi.org/10.1109/ASE.2017.8115690
+- 2017
+Floating-point symbolic execution - a case study in n-version programming.:
+- https://doi.org/10.1109/ASE.2017.8115670
+- 2017
+Generating simpler AST edit scripts by considering copy-and-paste.:
+- https://doi.org/10.1109/ASE.2017.8115664
+- 2017
+Gremlin-ATL - a scalable model transformation framework.:
+- https://doi.org/10.1109/ASE.2017.8115658
+- 2017
+Improved query reformulation for concept location using CodeRank and document structures.:
+- https://doi.org/10.1109/ASE.2017.8115655
+- 2017
+Improving missing issue-commit link recovery using positive and unlabeled data.:
+- https://doi.org/10.1109/ASE.2017.8115627
+- 2017
+Improving software text retrieval using conceptual knowledge in source code.:
+- https://doi.org/10.1109/ASE.2017.8115625
+- 2017
+In-memory fuzzing for binary code similarity analysis.:
+- https://doi.org/10.1109/ASE.2017.8115645
+- 2017
+Incrementally slicing editable submodels.:
+- https://doi.org/10.1109/ASE.2017.8115704
+- 2017
+IntPTI - automatic integer error repair with proper-type inference.:
+- https://doi.org/10.1109/ASE.2017.8115718
+- 2017
+Kobold - web usability as a service.:
+- https://doi.org/10.1109/ASE.2017.8115717
+- 2017
+Learn&amp;Fuzz - machine learning for input fuzzing.:
+- https://doi.org/10.1109/ASE.2017.8115618
+- 2017
+Learning effective changes for software projects.:
+- https://doi.org/10.1109/ASE.2017.8115719
+- 2017
+Learning to share - engineering adaptive decision-support for online social networks.:
+- https://doi.org/10.1109/ASE.2017.8115641
+- 2017
+Leveraging abstract interpretation for efficient dynamic symbolic execution.:
+- https://doi.org/10.1109/ASE.2017.8115672
+- 2017
+Leveraging syntax-related code for automated program repair.:
+- https://doi.org/10.1109/ASE.2017.8115676
+- 2017
+Managing software evolution through semantic history slicing.:
+- https://doi.org/10.1109/ASE.2017.8115722
+- 2017
+Mining constraints for event-based monitoring in systems of systems.:
+- https://doi.org/10.1109/ASE.2017.8115693
+- 2017
+Mining implicit design templates for actionable code reuse.:
+- https://doi.org/10.1109/ASE.2017.8115652
+- 2017
+Mining structures from massive text data - will it help software engineering?:
+- https://doi.org/10.1109/ASE.2017.8115611
+- 2017
+Model checker execution reports.:
+- https://doi.org/10.1109/ASE.2017.8115633
+- 2017
+ModelWriter - text and model-synchronized document engineering platform.:
+- https://doi.org/10.1109/ASE.2017.8115703
+- 2017
+Modular verification of interrupt-driven software.:
+- https://doi.org/10.1109/ASE.2017.8115634
+- 2017
+More effective interpolations in software model checking.:
+- https://doi.org/10.1109/ASE.2017.8115631
+- 2017
+O2O service composition with social collaboration.:
+- https://doi.org/10.1109/ASE.2017.8115657
+- 2017
+Opiner - an opinion search and summarization engine for APIs.:
+- https://doi.org/10.1109/ASE.2017.8115715
+- 2017
+PAD - programming third-party web advertisement censorship.:
+- https://doi.org/10.1109/ASE.2017.8115637
+- 2017
+Parallel bug-finding in concurrent programs via reduced interleaving instances.:
+- https://doi.org/10.1109/ASE.2017.8115686
+- 2017
+Parsimony - an IDE for example-guided synthesis of lexers and parsers.:
+- https://doi.org/10.1109/ASE.2017.8115692
+- 2017
+Perceived language complexity in GitHub issue discussions and their effect on issue resolution.:
+- https://doi.org/10.1109/ASE.2017.8115620
+- 2017
+Predicting relevance of change recommendations.:
+- https://doi.org/10.1109/ASE.2017.8115680
+- 2017
+Privacy-aware data-intensive applications.:
+- https://doi.org/10.1109/ASE.2017.8115726
+- 2017
+? Proceedings of the 32nd IEEE/ACM International Conference on Automated Software
+  Engineering, ASE 2017, Urbana, IL, USA, October 30 - November 03, 2017
+: - https://ieeexplore.ieee.org/xpl/conhome/8106906/proceeding
+  - 2017
+Programming bots by synthesizing natural language expressions into API invocations.:
+- https://doi.org/10.1109/ASE.2017.8115694
+- 2017
+Promoting secondary orders of event pairs in randomized scheduling using a randomized stride.:
+- https://doi.org/10.1109/ASE.2017.8115685
+- 2017
+Proof-based coverage metrics for formal verification.:
+- https://doi.org/10.1109/ASE.2017.8115632
+- 2017
+Quick verification of concurrent programs by iteratively relaxed scheduling.:
+- https://doi.org/10.1109/ASE.2017.8115688
+- 2017
+Recommending crowdsourced software developers in consideration of skill improvement.:
+- https://doi.org/10.1109/ASE.2017.8115682
+- 2017
+Renaming and shifted code in structured merging - looking ahead for precision and performance.:
+- https://doi.org/10.1109/ASE.2017.8115665
+- 2017
+Rethinking pointer reasoning in symbolic execution.:
+- https://doi.org/10.1109/ASE.2017.8115671
+- 2017
+RuntimeSearch - Ctrl+F for a running program.:
+- https://doi.org/10.1109/ASE.2017.8115651
+- 2017
+SEALANT - a detection and visualization tool for inter-app security vulnerabilities in Android.:
+- https://doi.org/10.1109/ASE.2017.8115699
+- 2017
+STARTS - STAtic regression test selection.:
+- https://doi.org/10.1109/ASE.2017.8115710
+- 2017
+Saying &apos;hi!&apos; is not enough - mining inputs for effective test generation.:
+- https://doi.org/10.1109/ASE.2017.8115617
+- 2017
+Semantics-assisted code review - an efficient toolchain and a user study.:
+- https://doi.org/10.1109/ASE.2017.8115666
+- 2017
+SentiCR - a customized sentiment analysis tool for code review interactions.:
+- https://doi.org/10.1109/ASE.2017.8115623
+- 2017
+SimplyDroid - efficient event sequence simplification for Android application.:
+- https://doi.org/10.1109/ASE.2017.8115643
+- 2017
+Sketch-guided GUI test generation for mobile applications.:
+- https://doi.org/10.1109/ASE.2017.8115616
+- 2017
+Software engineering without borders.:
+- https://doi.org/10.1109/ASE.2017.8115612
+- 2017
+Software performance self-adaptation through efficient model predictive control.:
+- https://doi.org/10.1109/ASE.2017.8115660
+- 2017
+Static detection of asymptotic resource side-channel vulnerabilities in web applications.:
+- https://doi.org/10.1109/ASE.2017.8115636
+- 2017
+SymInfer - inferring program invariants using symbolic states.:
+- https://doi.org/10.1109/ASE.2017.8115691
+- 2017
+Synthetic data generation for statistical testing.:
+- https://doi.org/10.1109/ASE.2017.8115698
+- 2017
+Systematic reduction of GUI test sequences.:
+- https://doi.org/10.1109/ASE.2017.8115696
+- 2017
+Systematically testing background services of mobile apps.:
+- https://doi.org/10.1109/ASE.2017.8115613
+- 2017
+TREM - a tool for mining timed regular specifications from system traces.:
+- https://doi.org/10.1109/ASE.2017.8115702
+- 2017
+Test suite parallelization in open-source projects - a study on its usage and impact.:
+- https://doi.org/10.1109/ASE.2017.8115695
+- 2017
+Testing intermediate representations for binary analysis.:
+- https://doi.org/10.1109/ASE.2017.8115648
+- 2017
+The impact of continuous integration on other software development practices - a large-scale empirical study.:
+- https://doi.org/10.1109/ASE.2017.8115619
+- 2017
+The rise of the (modelling) bots - towards assisted modelling via social networks.:
+- https://doi.org/10.1109/ASE.2017.8115683
+- 2017
+TiQi - a natural language interface for querying software project data.:
+- https://doi.org/10.1109/ASE.2017.8115714
+- 2017
+Tortoise - interactive system configuration repair.:
+- https://doi.org/10.1109/ASE.2017.8115673
+- 2017
+Towards API-specific automatic program repair.:
+- https://doi.org/10.1109/ASE.2017.8115721
+- 2017
+Towards a software vulnerability prediction model using traceable code patterns and software metrics.:
+- https://doi.org/10.1109/ASE.2017.8115724
+- 2017
+Towards robust instruction-level trace alignment of binary code.:
+- https://doi.org/10.1109/ASE.2017.8115647
+- 2017
+Towards search-based modelling and analysis of requirements and architecture decisions.:
+- https://doi.org/10.1109/ASE.2017.8115725
+- 2017
+Towards the automatic classification of traceability links.:
+- https://doi.org/10.1109/ASE.2017.8115723
+- 2017
+TrEKer - tracing error propagation in operating system kernels.:
+- https://doi.org/10.1109/ASE.2017.8115650
+- 2017
+Transfer learning for performance modeling of configurable systems - an exploratory analysis.:
+- https://doi.org/10.1109/ASE.2017.8115661
+- 2017
+UI driven Android application reduction.:
+- https://doi.org/10.1109/ASE.2017.8115642
+- 2017
+UNDEAD - detecting and preventing deadlocks in production software.:
+- https://doi.org/10.1109/ASE.2017.8115684
+- 2017
+Understanding and overcoming parallelism bottlenecks in ForkJoin applications.:
+- https://doi.org/10.1109/ASE.2017.8115687
+- 2017
+Understanding feature requests by leveraging fuzzy method and linguistic analysis.:
+- https://doi.org/10.1109/ASE.2017.8115656
+- 2017
+Visualization support for requirements monitoring in systems of systems.:
+- https://doi.org/10.1109/ASE.2017.8115700
+- 2017
+Why and how JavaScript developers use linters.:
+- https://doi.org/10.1109/ASE.2017.8115668
+- 2017
+iCoq - regression proof selection for large-scale verification projects.:
+- https://doi.org/10.1109/ASE.2017.8115630
+- 2017
+taco - a tool to generate tensor algebra kernels.:
+- https://doi.org/10.1109/ASE.2017.8115709
+- 2017

@@ -1,0 +1,286 @@
+? 2013 28th IEEE/ACM International Conference on Automated Software Engineering, ASE
+  2013, Silicon Valley, CA, USA, November 11-15, 2013
+: - https://ieeexplore.ieee.org/xpl/conhome/6684409/proceeding
+  - 2013
+A comparative analysis of software architecture recovery techniques.:
+- https://doi.org/10.1109/ASE.2013.6693106
+- 2013
+A pattern-based approach to parametric specification mining.:
+- https://doi.org/10.1109/ASE.2013.6693129
+- 2013
+A scalable approach for malware detection through bounded feature space behavior modeling.:
+- https://doi.org/10.1109/ASE.2013.6693090
+- 2013
+A study of repetitiveness of code changes in software evolution.:
+- https://doi.org/10.1109/ASE.2013.6693078
+- 2013
+Adding context to fault localization with integration coverage.:
+- https://doi.org/10.1109/ASE.2013.6693124
+- 2013
+Assessing the maturity of requirements through argumentation - A good enough approach.:
+- https://doi.org/10.1109/ASE.2013.6693131
+- 2013
+AutoComment - Mining question and answer sites for automatic comment generation.:
+- https://doi.org/10.1109/ASE.2013.6693113
+- 2013
+Automated inference of classifications and dependencies for combinatorial testing.:
+- https://doi.org/10.1109/ASE.2013.6693123
+- 2013
+Automated planning for software architecture evolution.:
+- https://doi.org/10.1109/ASE.2013.6693081
+- 2013
+Automated testing of cloud-based elastic systems with AUToCLES.:
+- https://doi.org/10.1109/ASE.2013.6693140
+- 2013
+Automated unit testing of large industrial embedded software using concolic testing.:
+- https://doi.org/10.1109/ASE.2013.6693109
+- 2013
+Automated verification of interactive rule-based configuration systems.:
+- https://doi.org/10.1109/ASE.2013.6693112
+- 2013
+Automated verification of pattern-based interaction invariants in Ajax applications.:
+- https://doi.org/10.1109/ASE.2013.6693076
+- 2013
+Automatic recommendation of API methods from feature requests.:
+- https://doi.org/10.1109/ASE.2013.6693088
+- 2013
+Automatically partition software into least privilege components using dynamic data dependency analysis.:
+- https://doi.org/10.1109/ASE.2013.6693091
+- 2013
+Automatically synthesizing SQL queries from input-output examples.:
+- https://doi.org/10.1109/ASE.2013.6693082
+- 2013
+BLITZ - Compositional bounded model checking for real-world programs.:
+- https://doi.org/10.1109/ASE.2013.6693074
+- 2013
+BOOM - Experiences in language and tool design for distributed systems (keynote).:
+- https://doi.org/10.1109/ASE.2013.6693058
+- 2013
+Big problems in industry (panel).:
+- https://doi.org/10.1109/ASE.2013.6693060
+- 2013
+Bita - Coverage-guided, automatic testing of actor programs.:
+- https://doi.org/10.1109/ASE.2013.6693072
+- 2013
+CCmutator - A mutation generator for concurrency constructs in multithreaded C/C++ applications.:
+- https://doi.org/10.1109/ASE.2013.6693142
+- 2013
+CSeq - A concurrency pre-processor for sequential C verification tools.:
+- https://doi.org/10.1109/ASE.2013.6693139
+- 2013
+Characteristic studies of loop problems for structural test generation via symbolic execution.:
+- https://doi.org/10.1109/ASE.2013.6693084
+- 2013
+Characterizing and detecting resource leaks in Android applications.:
+- https://doi.org/10.1109/ASE.2013.6693097
+- 2013
+Class level fault prediction using software clustering.:
+- https://doi.org/10.1109/ASE.2013.6693126
+- 2013
+Cloud Twin - Native execution of android applications on the Windows Phone.:
+- https://doi.org/10.1109/ASE.2013.6693119
+- 2013
+Consistency-preserving edit scripts in model versioning.:
+- https://doi.org/10.1109/ASE.2013.6693079
+- 2013
+Constraint-based automatic symmetry detection.:
+- https://doi.org/10.1109/ASE.2013.6693062
+- 2013
+Context-aware task allocation for distributed agile team.:
+- https://doi.org/10.1109/ASE.2013.6693151
+- 2013
+Crushinator - A framework towards game-independent testing.:
+- https://doi.org/10.1109/ASE.2013.6693143
+- 2013
+Dangling references in multi-configuration and dynamic PHP-based Web applications.:
+- https://doi.org/10.1109/ASE.2013.6693098
+- 2013
+Detecting and characterizing semantic inconsistencies in ported code.:
+- https://doi.org/10.1109/ASE.2013.6693095
+- 2013
+Detecting and fixing emergent behaviors in Distributed Software Systems using a message content independent method.:
+- https://doi.org/10.1109/ASE.2013.6693148
+- 2013
+Detecting bad smells in source code using change history information.:
+- https://doi.org/10.1109/ASE.2013.6693086
+- 2013
+Detecting system use cases and validations from documents.:
+- https://doi.org/10.1109/ASE.2013.6693114
+- 2013
+Developing self-verifying service-based systems.:
+- https://doi.org/10.1109/ASE.2013.6693145
+- 2013
+Dynamically transforming data structures.:
+- https://doi.org/10.1109/ASE.2013.6693099
+- 2013
+Efficient data race prediction with incremental reasoning on time-stamped lock history.:
+- https://doi.org/10.1109/ASE.2013.6693064
+- 2013
+Efficient parametric runtime verification with deterministic string rewriting.:
+- https://doi.org/10.1109/ASE.2013.6693067
+- 2013
+Entropy-based test generation for improved fault localization.:
+- https://doi.org/10.1109/ASE.2013.6693085
+- 2013
+Environment rematching - Toward dependability improvement for self-adaptive applications.:
+- https://doi.org/10.1109/ASE.2013.6693118
+- 2013
+ExPort - Detecting and visualizing API usages in large source code repositories.:
+- https://doi.org/10.1109/ASE.2013.6693127
+- 2013
+Finding architectural flaws using constraints.:
+- https://doi.org/10.1109/ASE.2013.6693092
+- 2013
+Flow Permissions for Android.:
+- https://doi.org/10.1109/ASE.2013.6693128
+- 2013
+From comparison matrix to Variability Model - The Wikipedia case study.:
+- https://doi.org/10.1109/ASE.2013.6693116
+- 2013
+Identifying execution points for dynamic analyses.:
+- https://doi.org/10.1109/ASE.2013.6693069
+- 2013
+Improving bug localization using structured information retrieval.:
+- https://doi.org/10.1109/ASE.2013.6693093
+- 2013
+Improving efficiency of dynamic analysis with dynamic dependence summaries.:
+- https://doi.org/10.1109/ASE.2013.6693066
+- 2013
+JFlow - Practical refactorings for flow-based parallelism.:
+- https://doi.org/10.1109/ASE.2013.6693080
+- 2013
+Learning effective query transformations for enhanced requirements trace retrieval.:
+- https://doi.org/10.1109/ASE.2013.6693117
+- 2013
+Leveraging program equivalence for adaptive program repair - Models and first results.:
+- https://doi.org/10.1109/ASE.2013.6693094
+- 2013
+Lightweight control-flow instrumentation and postmortem analysis in support of debugging.:
+- https://doi.org/10.1109/ASE.2013.6693096
+- 2013
+Measuring the structural complexity of feature models.:
+- https://doi.org/10.1109/ASE.2013.6693103
+- 2013
+Minimizing CPU time shortage risks in integrated embedded software.:
+- https://doi.org/10.1109/ASE.2013.6693110
+- 2013
+Mining branching-time scenarios.:
+- https://doi.org/10.1109/ASE.2013.6693102
+- 2013
+Model based test validation and oracles for data acquisition systems.:
+- https://doi.org/10.1109/ASE.2013.6693111
+- 2013
+Model repair and transformation with Echo.:
+- https://doi.org/10.1109/ASE.2013.6693135
+- 2013
+Model/code co-refactoring - An MDE approach.:
+- https://doi.org/10.1109/ASE.2013.6693133
+- 2013
+Multi-user variability configuration - A game theoretic approach.:
+- https://doi.org/10.1109/ASE.2013.6693115
+- 2013
+Natural language requirements quality analysis based on business domain models.:
+- https://doi.org/10.1109/ASE.2013.6693132
+- 2013
+OCRA - A tool for checking the refinement of temporal contracts.:
+- https://doi.org/10.1109/ASE.2013.6693137
+- 2013
+Operator-based and random mutant selection - Better together.:
+- https://doi.org/10.1109/ASE.2013.6693070
+- 2013
+PIEtrace - Platform independent executable trace.:
+- https://doi.org/10.1109/ASE.2013.6693065
+- 2013
+PYTHIA - Generating test cases with oracles for JavaScript applications.:
+- https://doi.org/10.1109/ASE.2013.6693121
+- 2013
+Personalized defect prediction.:
+- https://doi.org/10.1109/ASE.2013.6693087
+- 2013
+Pex4Fun - A web-based environment for educational gaming via automated test generation.:
+- https://doi.org/10.1109/ASE.2013.6693144
+- 2013
+Preventing erosion of architectural tactics through their strategic implementation, preservation, and visualization.:
+- https://doi.org/10.1109/ASE.2013.6693152
+- 2013
+Proving MCAPI executions are correct using SMT.:
+- https://doi.org/10.1109/ASE.2013.6693063
+- 2013
+Randomizing regression tests using game theory.:
+- https://doi.org/10.1109/ASE.2013.6693122
+- 2013
+Ranger - Parallel analysis of alloy models by range partitioning.:
+- https://doi.org/10.1109/ASE.2013.6693075
+- 2013
+Recovering model transformation traces using multi-objective optimization.:
+- https://doi.org/10.1109/ASE.2013.6693134
+- 2013
+Round-up - Runtime checking quasi linearizability of concurrent data structures.:
+- https://doi.org/10.1109/ASE.2013.6693061
+- 2013
+SABRINE - State-based robustness testing of operating systems.:
+- https://doi.org/10.1109/ASE.2013.6693073
+- 2013
+SBFR - A search based approach for reproducing failures of programs with grammar based input.:
+- https://doi.org/10.1109/ASE.2013.6693120
+- 2013
+SEDGE - Symbolic example data generation for dataflow programs.:
+- https://doi.org/10.1109/ASE.2013.6693083
+- 2013
+Scalable product line configuration - A straw to break the camel&apos;s back.:
+- https://doi.org/10.1109/ASE.2013.6693104
+- 2013
+Semi-automatic generation of metamodels from model sketches.:
+- https://doi.org/10.1109/ASE.2013.6693130
+- 2013
+Smart Cloud Broker - Finding your home in the clouds.:
+- https://doi.org/10.1109/ASE.2013.6693136
+- 2013
+Software analytics for incident management of online services - An experience report.:
+- https://doi.org/10.1109/ASE.2013.6693105
+- 2013
+Software model checking for distributed systems with selector-based, non-blocking communication.:
+- https://doi.org/10.1109/ASE.2013.6693077
+- 2013
+Supporting bug investigation using history analysis.:
+- https://doi.org/10.1109/ASE.2013.6693150
+- 2013
+Synthesizing fault-tolerant programs from deontic logic specifications.:
+- https://doi.org/10.1109/ASE.2013.6693149
+- 2013
+TRAM - A tool for transforming textual requirements into analysis models.:
+- https://doi.org/10.1109/ASE.2013.6693146
+- 2013
+Testing properties of dataflow program operators.:
+- https://doi.org/10.1109/ASE.2013.6693071
+- 2013
+The bounded model checker LLBMC.:
+- https://doi.org/10.1109/ASE.2013.6693138
+- 2013
+The challenges of verification and validation of automated planning systems (keynote).:
+- https://doi.org/10.1109/ASE.2013.6693059
+- 2013
+The potential of polyhedral optimization - An empirical study.:
+- https://doi.org/10.1109/ASE.2013.6693108
+- 2013
+Tool support for automatic model transformation specification using concrete visualisations.:
+- https://doi.org/10.1109/ASE.2013.6693141
+- 2013
+Towards contextual and on-demand code clone management by continuous monitoring.:
+- https://doi.org/10.1109/ASE.2013.6693107
+- 2013
+Towards precise metrics for predicting graph query performance.:
+- https://doi.org/10.1109/ASE.2013.6693100
+- 2013
+TzuYu - Learning stateful typestates.:
+- https://doi.org/10.1109/ASE.2013.6693101
+- 2013
+Using automatically generated invariants for regression testing and bug localization.:
+- https://doi.org/10.1109/ASE.2013.6693125
+- 2013
+Variability-aware performance prediction - A statistical learning approach.:
+- https://doi.org/10.1109/ASE.2013.6693089
+- 2013
+iProbe - A lightweight user-level dynamic instrumentation tool.:
+- https://doi.org/10.1109/ASE.2013.6693147
+- 2013

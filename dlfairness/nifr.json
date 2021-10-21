@@ -1,0 +1,52 @@
+[
+    {
+      "description": "NIFR-Baseline",
+      "network": "NIFR",
+      "training_type": "baseline",
+      "dataset": "CelebA",
+      "random_seed": "fixed1",
+      "no_tries": 16,
+      "shared_dir": "/dlfairness",
+      "working_dir": "/working_dir",
+      "source_dir": "original_code/nifr",
+      "modified_target_dir": "/modified_dir",
+      "main_file": "run_simple_baselines.py",
+      "running_command": [
+          "python3.8 -m pip install -e .",
+          "python3.8 run_simple_baselines.py --dataset celeba --task-mixing-factor 0.0 --lr 1e-3 --batch-size 128 --weight-decay 0 --epochs 40 --pred-s False --seed 1 --root ./data --save-dir variance_proj/baseline --data-split-seed 888"
+        ],
+      "docker_env": "dlfairness:nifr",
+      "conda_env": "##_NO_CONDA_##",
+      "eval_file": ["run_simple_baselines.py"],
+      "eval_running_command": [
+          "rm -rf data"
+        ],
+        "main_result_rel_path": "variance_proj/baseline/test_result.txt",
+        "bias_result_rel_path": "variance_proj/baseline/bias_result.txt"
+    },
+    {
+        "description": "NIFR-INN",
+        "network": "NIFR",
+        "training_type": "inn",
+        "dataset": "CelebA",
+        "random_seed": "fixed1",
+        "no_tries": 16,
+        "shared_dir": "/dlfairness",
+        "working_dir": "/working_dir",
+        "source_dir": "original_code/nifr",
+        "modified_target_dir": "/modified_dir",
+        "main_file": "start_inn.py",
+        "running_command": [
+            "python3.8 -m pip install -e .",
+            "python3.8 start_inn.py --dataset celeba --levels 3 --level-depth 32 --glow True --reshape-method squeeze --autoencode False --input-noise True --quant-level 5 --use-wandb False --factor-splits 0=0.5 1=0.5 --train-on-recon False --recon-detach False --batch-size 32 --nll-weight 1 --pred-s-weight 1e-2 --zs-frac 0.001 --coupling-channels 512 --super-val True --task-mixing 0.5 --gpu 0 --num-discs 10 --disc-channels 512 --data-split-seed 1 --seed 1 --root ./data --save-dir variance_proj/inn --iters 76000"
+          ],
+        "docker_env": "dlfairness:nifr",
+        "conda_env": "##_NO_CONDA_##",
+        "eval_file": ["start_inn.py"],
+        "eval_running_command": [
+            "rm -rf data"
+          ],
+          "main_result_rel_path": "variance_proj/inn/test_result.txt",
+          "bias_result_rel_path": "variance_proj/inn/bias_result.txt"
+      }
+]

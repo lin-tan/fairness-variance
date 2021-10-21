@@ -1,0 +1,320 @@
+A foundation for refactoring C with macros.:
+- https://doi.org/10.1145/2635868.2635908
+- 2014
+A large scale study of programming languages and code quality in github.:
+- https://doi.org/10.1145/2635868.2635922
+- 2014
+A path-sensitively sliced control flow graph.:
+- https://doi.org/10.1145/2635868.2635884
+- 2014
+A tool suite for the model-driven software engineering of cyber-physical systems.:
+- https://doi.org/10.1145/2635868.2661665
+- 2014
+A variability perspective of mutation analysis.:
+- https://doi.org/10.1145/2635868.2666610
+- 2014
+AI - a lightweight system for tolerating concurrency bugs.:
+- https://doi.org/10.1145/2635868.2635885
+- 2014
+Aalta - an LTL satisfiability checker over Infinite/Finite traces.:
+- https://doi.org/10.1145/2635868.2661669
+- 2014
+Achieving lightweight trustworthy traceability.:
+- https://doi.org/10.1145/2635868.2666612
+- 2014
+An empirical analysis of flaky tests.:
+- https://doi.org/10.1145/2635868.2635920
+- 2014
+An empirical study on program comprehension with reactive programming.:
+- https://doi.org/10.1145/2635868.2635895
+- 2014
+Apposcopy - semantics-based detection of Android malware through static analysis.:
+- https://doi.org/10.1145/2635868.2635869
+- 2014
+Archie - a tool for detecting, monitoring, and preserving architecturally significant code.:
+- https://doi.org/10.1145/2635868.2661671
+- 2014
+Architecture challenges for internal software ecosystems - a large-scale industry case study.:
+- https://doi.org/10.1145/2635868.2635876
+- 2014
+Are mutants a valid substitute for real faults in software testing?:
+- https://doi.org/10.1145/2635868.2635929
+- 2014
+Are you getting traction? tales from the tech transfer trenches (invited talk).:
+- https://doi.org/10.1145/2635868.2684430
+- 2014
+Automatic generation of release notes.:
+- https://doi.org/10.1145/2635868.2635870
+- 2014
+Automatic mining of specifications from invocation traces and method invariants.:
+- https://doi.org/10.1145/2635868.2635890
+- 2014
+Automatically generated patches as debugging aids - a human study.:
+- https://doi.org/10.1145/2635868.2635873
+- 2014
+Autonomous compliance monitoring of non-functional properties.:
+- https://doi.org/10.1145/2635868.2666599
+- 2014
+Balancing trade-offs in test-suite reduction.:
+- https://doi.org/10.1145/2635868.2635921
+- 2014
+Beyond the rainbow - self-adaptive failure avoidance in configurable systems.:
+- https://doi.org/10.1145/2635868.2635915
+- 2014
+BugLocalizer - integrated tool support for bug localization.:
+- https://doi.org/10.1145/2635868.2661678
+- 2014
+Building call graphs for embedded client-side code in dynamic web applications.:
+- https://doi.org/10.1145/2635868.2635928
+- 2014
+BumbleBee - a refactoring environment for spreadsheet formulas.:
+- https://doi.org/10.1145/2635868.2661673
+- 2014
+CHOReOSynt - enforcing choreography realizability in the future internet.:
+- https://doi.org/10.1145/2635868.2661667
+- 2014
+ConceptCloud - a tagcloud browser for software archives.:
+- https://doi.org/10.1145/2635868.2661676
+- 2014
+Counterexample guided abstraction refinement of product-line behavioural models.:
+- https://doi.org/10.1145/2635868.2635919
+- 2014
+Critics - an interactive code review tool for searching and inspecting systematic changes.:
+- https://doi.org/10.1145/2635868.2661675
+- 2014
+Data hard with a vengeance (invited talk).:
+- https://doi.org/10.1145/2635868.2684431
+- 2014
+Dealing with uncertainty in verification of nondeterministic systems.:
+- https://doi.org/10.1145/2635868.2666598
+- 2014
+Detecting and preventing the architectural roots of bugs.:
+- https://doi.org/10.1145/2635868.2661679
+- 2014
+Detecting energy bugs and hotspots in mobile apps.:
+- https://doi.org/10.1145/2635868.2635871
+- 2014
+Detecting, isolating, and enforcing dependencies among and within test cases.:
+- https://doi.org/10.1145/2635868.2666597
+- 2014
+Developers&apos; code context models for change tasks.:
+- https://doi.org/10.1145/2635868.2635905
+- 2014
+Diagnose crashing faults on production software.:
+- https://doi.org/10.1145/2635868.2666601
+- 2014
+Discovering refactoring opportunities in cascading style sheets.:
+- https://doi.org/10.1145/2635868.2635879
+- 2014
+Efficient runtime-enforcement techniques for policy weaving.:
+- https://doi.org/10.1145/2635868.2635907
+- 2014
+Enablers, inhibitors, and perceptions of testing in novice software teams.:
+- https://doi.org/10.1145/2635868.2635925
+- 2014
+Estimating the effectiveness of spectrum-based fault localization.:
+- https://doi.org/10.1145/2635868.2661680
+- 2014
+EvoDroid - segmented evolutionary testing of Android apps.:
+- https://doi.org/10.1145/2635868.2635896
+- 2014
+Experiences developing tools for developers (invited talk).:
+- https://doi.org/10.1145/2635868.2684429
+- 2014
+Feedback generation for performance problems in introductory programming assignments.:
+- https://doi.org/10.1145/2635868.2635912
+- 2014
+FlowTwist - efficient context-sensitive inside-out taint analysis for large codebases.:
+- https://doi.org/10.1145/2635868.2635878
+- 2014
+Focus-shifting patterns of OSS developers and their congruence with call graphs.:
+- https://doi.org/10.1145/2635868.2635914
+- 2014
+From software engineering to software systems (invited talk).:
+- https://doi.org/10.1145/2635868.2684427
+- 2014
+Grail - context-aware fixing of concurrency bugs.:
+- https://doi.org/10.1145/2635868.2635881
+- 2014
+How should we measure functional sameness from program source code? an exploratory study on Java methods.:
+- https://doi.org/10.1145/2635868.2635886
+- 2014
+How we get there - a context-guided search strategy in concolic testing.:
+- https://doi.org/10.1145/2635868.2635872
+- 2014
+Identifying the characteristics of vulnerable code changes - an empirical study.:
+- https://doi.org/10.1145/2635868.2635880
+- 2014
+Improving oracle quality by detecting brittle assertions and unused inputs in tests.:
+- https://doi.org/10.1145/2635868.2635917
+- 2014
+Improving the software testing skills of novices during onboarding through social transparency.:
+- https://doi.org/10.1145/2635868.2666604
+- 2014
+Integrating approaches for feature implementation.:
+- https://doi.org/10.1145/2635868.2666605
+- 2014
+JSAI - a static analysis platform for JavaScript.:
+- https://doi.org/10.1145/2635868.2635904
+- 2014
+Known unknowns - testing in the presence of uncertainty.:
+- https://doi.org/10.1145/2635868.2666608
+- 2014
+Learning natural coding conventions.:
+- https://doi.org/10.1145/2635868.2635883
+- 2014
+Learning to rank relevant files for bug reports using domain knowledge.:
+- https://doi.org/10.1145/2635868.2635874
+- 2014
+Let&apos;s talk about it - evaluating contributions through discussion in GitHub.:
+- https://doi.org/10.1145/2635868.2635882
+- 2014
+Linking sketches and diagrams to source code artifacts.:
+- https://doi.org/10.1145/2635868.2661672
+- 2014
+Managing lots of models - the FaMine approach.:
+- https://doi.org/10.1145/2635868.2661681
+- 2014
+Methodology and culture - drivers of mediocrity in software engineering?:
+- https://doi.org/10.1145/2635868.2666607
+- 2014
+Minimizing software conflicts through proactive detection of conflicts and task scheduling.:
+- https://doi.org/10.1145/2635868.2666600
+- 2014
+Mining idioms from source code.:
+- https://doi.org/10.1145/2635868.2635901
+- 2014
+Mining micro-practices from operational data.:
+- https://doi.org/10.1145/2635868.2666611
+- 2014
+Mining preconditions of APIs in large-scale code corpus.:
+- https://doi.org/10.1145/2635868.2635924
+- 2014
+No issue left behind - reducing information overload in issue tracking.:
+- https://doi.org/10.1145/2635868.2635887
+- 2014
+Numerical program analysis and testing.:
+- https://doi.org/10.1145/2635868.2666603
+- 2014
+ORBS - language-independent program slicing.:
+- https://doi.org/10.1145/2635868.2635893
+- 2014
+Omen+ - a precise dynamic deadlock detector for multithreaded Java libraries.:
+- https://doi.org/10.1145/2635868.2661670
+- 2014
+Omlet - a revolution against big-brother social networks (invited talk).:
+- https://doi.org/10.1145/2635868.2684426
+- 2014
+On the efficiency of automated testing.:
+- https://doi.org/10.1145/2635868.2635923
+- 2014
+On the localness of software.:
+- https://doi.org/10.1145/2635868.2635875
+- 2014
+Panning requirement nuggets in stream of software maintenance tickets.:
+- https://doi.org/10.1145/2635868.2635897
+- 2014
+Powering the static driver verifier using corral.:
+- https://doi.org/10.1145/2635868.2635894
+- 2014
+Prioritizing the devices to test your app on - a case study of Android game apps.:
+- https://doi.org/10.1145/2635868.2635909
+- 2014
+? Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software
+  Engineering, (FSE-22), Hong Kong, China, November 16 - 22, 2014
+: - http://dl.acm.org/citation.cfm?id=2635868
+  - 2014
+Querying sequential software engineering data.:
+- https://doi.org/10.1145/2635868.2635902
+- 2014
+RaPiD - a toolkit for reliability analysis of non-deterministic systems.:
+- https://doi.org/10.1145/2635868.2661668
+- 2014
+RefDistiller - a refactoring aware code review tool for inspecting manual refactoring edits.:
+- https://doi.org/10.1145/2635868.2661674
+- 2014
+Retrofitting concurrency for Android applications through refactoring.:
+- https://doi.org/10.1145/2635868.2635903
+- 2014
+SAFEWAPI - web API misuse detector for web applications.:
+- https://doi.org/10.1145/2635868.2635916
+- 2014
+Search-based synthesis of equivalent method sequences.:
+- https://doi.org/10.1145/2635868.2635888
+- 2014
+Selection and presentation practices for code example summarization.:
+- https://doi.org/10.1145/2635868.2635877
+- 2014
+? Semantics-based obfuscation-resilient binary code similarity comparison with applications
+  to software plagiarism detection.
+: - https://doi.org/10.1145/2635868.2635900
+  - 2014
+Sherlock - scalable deadlock detection for concurrent programs.:
+- https://doi.org/10.1145/2635868.2635918
+- 2014
+Sketches and diagrams in practice.:
+- https://doi.org/10.1145/2635868.2635891
+- 2014
+Social network analysis in open source software peer review.:
+- https://doi.org/10.1145/2635868.2661682
+- 2014
+Software developers&apos; perceptions of productivity.:
+- https://doi.org/10.1145/2635868.2635892
+- 2014
+Software maintenance like maintenance in other engineering disciplines.:
+- https://doi.org/10.1145/2635868.2666613
+- 2014
+Software programmer management - a machine learning and human computer interaction framework for optimal task assignment.:
+- https://doi.org/10.1145/2635868.2661684
+- 2014
+Solving complex path conditions through heuristic search on induced polytopes.:
+- https://doi.org/10.1145/2635868.2635889
+- 2014
+Speculative reprogramming.:
+- https://doi.org/10.1145/2635868.2666609
+- 2014
+Static analysis driven performance and energy testing.:
+- https://doi.org/10.1145/2635868.2666602
+- 2014
+Statistical symbolic execution with informed sampling.:
+- https://doi.org/10.1145/2635868.2635899
+- 2014
+SymJS - automatic symbolic testing of JavaScript web applications.:
+- https://doi.org/10.1145/2635868.2635913
+- 2014
+Techniques for improving regression testing in continuous integration development environments.:
+- https://doi.org/10.1145/2635868.2635910
+- 2014
+Ten years with evidence-based software engineering. What is it? Has it had any impact? What&apos;s next?:
+- https://doi.org/10.1145/2635868.2684428
+- 2014
+Test case purification for improving fault localization.:
+- https://doi.org/10.1145/2635868.2635906
+- 2014
+The plastic surgery hypothesis.:
+- https://doi.org/10.1145/2635868.2635898
+- 2014
+Titan - a toolset that connects software architecture with quality analysis.:
+- https://doi.org/10.1145/2635868.2661677
+- 2014
+Towards a theory of architectural styles.:
+- https://doi.org/10.1145/2635868.2661683
+- 2014
+Traceability and model checking to support safety requirement verification.:
+- https://doi.org/10.1145/2635868.2666606
+- 2014
+Tsmart-GalsBlock - a toolkit for modeling, validation, and synthesis of multi-clocked embedded systems.:
+- https://doi.org/10.1145/2635868.2661664
+- 2014
+Variable-specific resolutions for feature interactions.:
+- https://doi.org/10.1145/2635868.2635927
+- 2014
+Vector abstraction and concretization for scalable detection of refactorings.:
+- https://doi.org/10.1145/2635868.2635926
+- 2014
+Verifying CTL-live properties of infinite state models using an SMT solver.:
+- https://doi.org/10.1145/2635868.2635911
+- 2014
+XMLMate - evolutionary XML test generation.:
+- https://doi.org/10.1145/2635868.2661666
+- 2014

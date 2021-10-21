@@ -1,0 +1,303 @@
+36th International Conference on Software Engineering, ICSE &apos;14, Hyderabad, India - May 31 - June 07, 2014:
+- http://dl.acm.org/citation.cfm?id=2568225
+- 2014
+? A critical review of &quot;automatic patch generation learned from human-written
+  patches&quot; - essay on the problem statement and the evaluation of automatic software
+  repair.
+: - https://doi.org/10.1145/2568225.2568324
+  - 2014
+A study and toolkit for asynchronous programming in c#.:
+- https://doi.org/10.1145/2568225.2568309
+- 2014
+A study of equivalent and stubborn mutation operators using human analysis of equivalence.:
+- https://doi.org/10.1145/2568225.2568265
+- 2014
+APE - an annotation language and middleware for energy-efficient mobile application development.:
+- https://doi.org/10.1145/2568225.2568288
+- 2014
+AR-miner - mining informative reviews for developers from mobile app marketplace.:
+- https://doi.org/10.1145/2568225.2568263
+- 2014
+Achieving accuracy and scalability simultaneously in detecting application clones on Android markets.:
+- https://doi.org/10.1145/2568225.2568286
+- 2014
+Alternate refactoring paths reveal usability problems.:
+- https://doi.org/10.1145/2568225.2568282
+- 2014
+An analysis of the relationship between conditional entropy and failed error propagation in software testing.:
+- https://doi.org/10.1145/2568225.2568314
+- 2014
+An exploratory study of the pull-based software development model.:
+- https://doi.org/10.1145/2568225.2568260
+- 2014
+Analyze this! 145 questions for data scientists in software engineering.:
+- https://doi.org/10.1145/2568225.2568233
+- 2014
+AsDroid - detecting stealthy behaviors in Android applications by user interface and program behavior contradiction.:
+- https://doi.org/10.1145/2568225.2568301
+- 2014
+Automated design of self-adaptive software with control-theoretical formal guarantees.:
+- https://doi.org/10.1145/2568225.2568272
+- 2014
+Automated goal operationalisation based on interpolation and SAT solving.:
+- https://doi.org/10.1145/2568225.2568323
+- 2014
+Automated memory leak detection for production use.:
+- https://doi.org/10.1145/2568225.2568311
+- 2014
+Brownout - building more robust cloud applications.:
+- https://doi.org/10.1145/2568225.2568227
+- 2014
+Building it together - synchronous development in OSS.:
+- https://doi.org/10.1145/2568225.2568238
+- 2014
+CARE - cache guided deterministic replay for concurrent Java programs.:
+- https://doi.org/10.1145/2568225.2568236
+- 2014
+Case studies and tools for contract specifications.:
+- https://doi.org/10.1145/2568225.2568285
+- 2014
+Characterizing and detecting performance bugs for smartphone applications.:
+- https://doi.org/10.1145/2568225.2568229
+- 2014
+Checking app behavior against app descriptions.:
+- https://doi.org/10.1145/2568225.2568276
+- 2014
+Code coverage for suite evaluation by developers.:
+- https://doi.org/10.1145/2568225.2568278
+- 2014
+CodeHint - dynamic and interactive synthesis of code snippets.:
+- https://doi.org/10.1145/2568225.2568250
+- 2014
+Comparing static bug finders and statistical prediction.:
+- https://doi.org/10.1145/2568225.2568269
+- 2014
+ConLock - a constraint-based approach to dynamic checking on deadlocks in multithreaded programs.:
+- https://doi.org/10.1145/2568225.2568312
+- 2014
+Controlled modeling environment using flexibly-formatted spreadsheets.:
+- https://doi.org/10.1145/2568225.2568231
+- 2014
+Coverage is not strongly correlated with test suite effectiveness.:
+- https://doi.org/10.1145/2568225.2568271
+- 2014
+Cowboys, ankle sprains, and keepers of quality - how is video game development different from software development?:
+- https://doi.org/10.1145/2568225.2568226
+- 2014
+Cross-checking oracles from intrinsic software redundancy.:
+- https://doi.org/10.1145/2568225.2568287
+- 2014
+Data-guided repair of selection statements.:
+- https://doi.org/10.1145/2568225.2568303
+- 2014
+Design rule spaces - a new form of architecture insight.:
+- https://doi.org/10.1145/2568225.2568241
+- 2014
+Detecting differences across multiple instances of code clones.:
+- https://doi.org/10.1145/2568225.2568298
+- 2014
+Detecting memory leaks through introspective dynamic behavior modelling using machine learning.:
+- https://doi.org/10.1145/2568225.2568307
+- 2014
+Detecting performance anti-patterns for applications developed using object-relational mapping.:
+- https://doi.org/10.1145/2568225.2568259
+- 2014
+Dictionary learning based software defect prediction.:
+- https://doi.org/10.1145/2568225.2568320
+- 2014
+Distilling privacy requirements for mobile applications.:
+- https://doi.org/10.1145/2568225.2568240
+- 2014
+? Does latitude hurt while longitude kills? geographical and temporal separation in
+  a large scale software development project.
+: - https://doi.org/10.1145/2568225.2568279
+  - 2014
+Easing software component repository evolution.:
+- https://doi.org/10.1145/2568225.2568262
+- 2014
+Effects of using examples on structural model comprehension - a controlled experiment.:
+- https://doi.org/10.1145/2568225.2568270
+- 2014
+Enhancing symbolic execution with veritesting.:
+- https://doi.org/10.1145/2568225.2568293
+- 2014
+Exploring variability-aware execution for testing plugin-based web applications.:
+- https://doi.org/10.1145/2568225.2568300
+- 2014
+Feature maintenance with emergent interfaces.:
+- https://doi.org/10.1145/2568225.2568289
+- 2014
+Hope for the best, prepare for the worst - multi-tier control for adaptive systems.:
+- https://doi.org/10.1145/2568225.2568264
+- 2014
+How do API documentation and static typing affect API usability?:
+- https://doi.org/10.1145/2568225.2568299
+- 2014
+How do centralized and distributed version control systems impact software changes?:
+- https://doi.org/10.1145/2568225.2568322
+- 2014
+How do professionals perceive legacy systems and software modernization?:
+- https://doi.org/10.1145/2568225.2568318
+- 2014
+How to make best use of cross-company data in software effort estimation?:
+- https://doi.org/10.1145/2568225.2568228
+- 2014
+Improving automated source code summarization via an eye-tracking study of programmers.:
+- https://doi.org/10.1145/2568225.2568247
+- 2014
+Inductive verification of data model invariants for web applications.:
+- https://doi.org/10.1145/2568225.2568281
+- 2014
+Inferring models of concurrent systems from logs of their behavior with CSight.:
+- https://doi.org/10.1145/2568225.2568246
+- 2014
+Influence of social and technical factors for evaluating contribution in GitHub.:
+- https://doi.org/10.1145/2568225.2568315
+- 2014
+Integrating adaptive user interface capabilities in enterprise applications.:
+- https://doi.org/10.1145/2568225.2568230
+- 2014
+Interpolated n-grams for model based testing.:
+- https://doi.org/10.1145/2568225.2568242
+- 2014
+Is spreadsheet ambiguity harmful? detecting and repairing spreadsheet smells due to ambiguous computation.:
+- https://doi.org/10.1145/2568225.2568316
+- 2014
+Lifting model transformations to product lines.:
+- https://doi.org/10.1145/2568225.2568267
+- 2014
+Live API documentation.:
+- https://doi.org/10.1145/2568225.2568313
+- 2014
+Making web applications more energy efficient for OLED smartphones.:
+- https://doi.org/10.1145/2568225.2568321
+- 2014
+Manual refactoring changes with automated refactoring validation.:
+- https://doi.org/10.1145/2568225.2568280
+- 2014
+Micro execution.:
+- https://doi.org/10.1145/2568225.2568273
+- 2014
+Mind the gap - assessing the conformance of software traceability to relevant guidelines.:
+- https://doi.org/10.1145/2568225.2568290
+- 2014
+Mining behavior models from user-intensive web applications.:
+- https://doi.org/10.1145/2568225.2568234
+- 2014
+Mining billions of AST nodes to study actual and potential usage of Java language features.:
+- https://doi.org/10.1145/2568225.2568295
+- 2014
+Mining configuration constraints - static analyses and empirical results.:
+- https://doi.org/10.1145/2568225.2568283
+- 2014
+Mining fine-grained code changes to detect unknown change patterns.:
+- https://doi.org/10.1145/2568225.2568317
+- 2014
+Mining interprocedural, data-oriented usage patterns in JavaScript web applications.:
+- https://doi.org/10.1145/2568225.2568302
+- 2014
+MintHint - automated synthesis of repair hints.:
+- https://doi.org/10.1145/2568225.2568258
+- 2014
+Patch verification via multiversion interprocedural control flow graphs.:
+- https://doi.org/10.1145/2568225.2568304
+- 2014
+Performance regression testing target prioritization via performance risk analysis.:
+- https://doi.org/10.1145/2568225.2568232
+- 2014
+Perturbation analysis of stochastic systems with empirical distribution parameters.:
+- https://doi.org/10.1145/2568225.2568256
+- 2014
+Programmers&apos; build errors - a case study (at google).:
+- https://doi.org/10.1145/2568225.2568255
+- 2014
+Property differencing for incremental checking.:
+- https://doi.org/10.1145/2568225.2568319
+- 2014
+Requirements fixation.:
+- https://doi.org/10.1145/2568225.2568235
+- 2014
+Reuse-oriented reverse engineering of functional components from x86 binaries.:
+- https://doi.org/10.1145/2568225.2568296
+- 2014
+Reviser - efficiently updating IDE-/IFDS-based data-flow analyses in response to incremental program changes.:
+- https://doi.org/10.1145/2568225.2568243
+- 2014
+SEEDS - a software engineer&apos;s energy-optimization decision support framework.:
+- https://doi.org/10.1145/2568225.2568297
+- 2014
+Self-adaptation through incremental generative model transformations at runtime.:
+- https://doi.org/10.1145/2568225.2568310
+- 2014
+SimRT - an automated framework to support regression testing for data races.:
+- https://doi.org/10.1145/2568225.2568294
+- 2014
+Software engineering at the speed of light - how developers stay current using twitter.:
+- https://doi.org/10.1145/2568225.2568305
+- 2014
+Spotting working code examples.:
+- https://doi.org/10.1145/2568225.2568292
+- 2014
+Symbolic assume-guarantee reasoning through BDD learning.:
+- https://doi.org/10.1145/2568225.2568253
+- 2014
+The dimensions of software engineering success.:
+- https://doi.org/10.1145/2568225.2568261
+- 2014
+The strength of random search on automated program repair.:
+- https://doi.org/10.1145/2568225.2568254
+- 2014
+Time pressure - a controlled experiment of test case development and requirements review.:
+- https://doi.org/10.1145/2568225.2568245
+- 2014
+Towards efficient optimization in package management systems.:
+- https://doi.org/10.1145/2568225.2568306
+- 2014
+TradeMaker - automated dynamic analysis of synthesized tradespaces.:
+- https://doi.org/10.1145/2568225.2568291
+- 2014
+Trading robustness for maintainability - an empirical study of evolving c# programs.:
+- https://doi.org/10.1145/2568225.2568308
+- 2014
+Transition from centralized to decentralized version control systems - a case study on reasons, barriers, and outcomes.:
+- https://doi.org/10.1145/2568225.2568284
+- 2014
+Two&apos;s company, three&apos;s a crowd - a case study of crowdsourcing software development.:
+- https://doi.org/10.1145/2568225.2568249
+- 2014
+Uncertainty, risk, and information value in software requirements and architecture.:
+- https://doi.org/10.1145/2568225.2568239
+- 2014
+Understanding JavaScript event-based interactions.:
+- https://doi.org/10.1145/2568225.2568268
+- 2014
+Understanding and improving software build teams.:
+- https://doi.org/10.1145/2568225.2568274
+- 2014
+Understanding understanding source code with functional magnetic resonance imaging.:
+- https://doi.org/10.1145/2568225.2568252
+- 2014
+Unit test virtualization with VMVM.:
+- https://doi.org/10.1145/2568225.2568248
+- 2014
+Unleashing concurrency for irregular data structures.:
+- https://doi.org/10.1145/2568225.2568277
+- 2014
+Us and them - a study of privacy requirements across north america, asia, and europe.:
+- https://doi.org/10.1145/2568225.2568244
+- 2014
+Using dynamic analysis to generate disjunctive invariants.:
+- https://doi.org/10.1145/2568225.2568275
+- 2014
+Using psycho-physiological measures to assess task difficulty in software development.:
+- https://doi.org/10.1145/2568225.2568266
+- 2014
+Vejovis - suggesting fixes for JavaScript faults.:
+- https://doi.org/10.1145/2568225.2568257
+- 2014
+Verifying component and connector models against crosscutting structural views.:
+- https://doi.org/10.1145/2568225.2568237
+- 2014
+Which configuration option should I change?:
+- https://doi.org/10.1145/2568225.2568251
+- 2014

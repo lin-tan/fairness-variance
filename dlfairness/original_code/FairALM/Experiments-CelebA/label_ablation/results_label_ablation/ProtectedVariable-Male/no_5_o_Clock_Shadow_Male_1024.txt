@@ -1,0 +1,6 @@
+Using label attribute: 5_o_Clock_Shadow  protected attribute: Male
+{'ALGORITHM': 'NO_CONSTRAINTS', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 0.1, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': False, 'RESPONSE': '5_o_Clock_Shadow', 'PROTECTED': 'Male', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 5, 'NUM_INNER': 1, 'BATCH_SIZE': 1024, 'IMAGE_SIZE': 28, 'OPTIMIZER_': 'SGD', 'MODEL_': 'fcn', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_5_o_Clock_Shadow_Male_NO_CONSTRAINTS_SGD'}
+Traceback (most recent call last):
+  File "main.py", line 246, in <module>
+    loss_t1_s0 = loss_all[(targets == 1) & (protected==0)].mean()
+RuntimeError: invalid argument 1: empty Tensor at /opt/conda/conda-bld/pytorch_1524586445097/work/aten/src/THC/generated/../generic/THCTensorMathReduce.cu:305

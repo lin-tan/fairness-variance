@@ -1,0 +1,77 @@
+Using label attribute: Attractive  protected attribute: Male
+{'ALGORITHM': 'FAIR_ALM', 'CONSTRAINT': 'DEO', 'LAM0_PRIOR': 0.0, 'LAM1_PRIOR': 0.0, 'LAM2_PRIOR': 0.0, 'ETA_INIT': 1.0, 'ETA_BETA': 1.01, 'SAVE_CKPT': True, 'DEBUG': False, 'RESPONSE': 'Attractive', 'PROTECTED': 'Male', 'RANDOM_SEED': 42, 'LR': 0.01, 'NUM_EPOCHS': 5, 'NUM_INNER': 1, 'BATCH_SIZE': 1024, 'IMAGE_SIZE': 28, 'OPTIMIZER_': 'SGD', 'MODEL_': 'resnet18', 'SHUFFLE_': True, 'file_name': '/home/lokhande/ckpt_dump_celeba_ablation/putnam_celebA_Attractive_Male_FAIR_ALM_SGD'}
+Epoch: 001/005 | Batch 0000/0159 | train_loss: 0.9316 | penalty_loss: 0.0534
+eta: 1.010 | lam0: 0.006 | lam1: -0.009 | lam2: 0.000
+Epoch: 001/005 | Batch 0050/0159 | train_loss: 0.9282 | penalty_loss: 0.0615
+eta: 1.010 | lam0: -0.210 | lam1: 0.213 | lam2: 0.000
+Epoch: 001/005 | Batch 0100/0159 | train_loss: 0.9261 | penalty_loss: 0.1125
+eta: 1.010 | lam0: -0.063 | lam1: 0.059 | lam2: 0.000
+Epoch: 001/005 | Batch 0150/0159 | train_loss: 0.8918 | penalty_loss: 0.1427
+eta: 1.010 | lam0: -0.087 | lam1: 0.085 | lam2: 0.000
+Epoch: 001/005 | Train PRC: 55.044% | Train Acc: 57.750% | Train Ddp: 29.441% | Train Ppv: 38.900% | Train Fpr: 6.382% | Train Fnr: 0.194% 
+                 | Train TN0: 3751 | Train FP0: 26169 | Train FN0: 2092 | Train TP0: 62497
+                 | Train TN1: 9317 | Train FP1: 39930 | Train FN1: 579 | Train TP1: 18435
+Epoch: 001/005 | Valid PRC: 55.473% | Valid Acc: 57.905% | Valid Ddp: 25.645% | Valid Ppv: 34.057% | Valid Fpr: 6.811% | Valid Fnr: 0.397% 
+                 | Valid TN0: 442 | Valid FP0: 3286 | Valid FN0: 271 | Valid TP0: 7410
+                 | Valid TN1: 1084 | Valid FP1: 4723 | Valid FN1: 83 | Valid TP1: 2568
+Time elapsed: 2.75 min
+Epoch: 002/005 | Batch 0000/0159 | train_loss: 0.8957 | penalty_loss: 0.1760
+eta: 1.020 | lam0: -0.001 | lam1: -0.002 | lam2: 0.000
+Epoch: 002/005 | Batch 0050/0159 | train_loss: 0.8825 | penalty_loss: 0.1761
+eta: 1.020 | lam0: -0.214 | lam1: 0.207 | lam2: 0.000
+Epoch: 002/005 | Batch 0100/0159 | train_loss: 0.8392 | penalty_loss: 0.1774
+eta: 1.020 | lam0: 0.042 | lam1: -0.043 | lam2: 0.000
+Epoch: 002/005 | Batch 0150/0159 | train_loss: 0.8134 | penalty_loss: 0.2162
+eta: 1.020 | lam0: -0.239 | lam1: 0.249 | lam2: 0.000
+Epoch: 002/005 | Train PRC: 58.212% | Train Acc: 61.850% | Train Ddp: 19.214% | Train Ppv: 36.978% | Train Fpr: 9.933% | Train Fnr: 1.436% 
+                 | Train TN0: 7391 | Train FP0: 22529 | Train FN0: 5911 | Train TP0: 58678
+                 | Train TN1: 17057 | Train FP1: 32190 | Train FN1: 1467 | Train TP1: 17547
+Epoch: 002/005 | Valid PRC: 58.559% | Valid Acc: 61.786% | Valid Ddp: 16.364% | Valid Ppv: 32.108% | Valid Fpr: 9.717% | Valid Fnr: 1.931% 
+                 | Valid TN0: 914 | Valid FP0: 2814 | Valid FN0: 751 | Valid TP0: 6930
+                 | Valid TN1: 1988 | Valid FP1: 3819 | Valid FN1: 208 | Valid TP1: 2443
+Time elapsed: 5.66 min
+Epoch: 003/005 | Batch 0000/0159 | train_loss: 0.8312 | penalty_loss: 0.2290
+eta: 1.030 | lam0: -0.263 | lam1: 0.265 | lam2: 0.000
+Epoch: 003/005 | Batch 0050/0159 | train_loss: 0.7919 | penalty_loss: 0.1898
+eta: 1.030 | lam0: -0.299 | lam1: 0.300 | lam2: 0.000
+Epoch: 003/005 | Batch 0100/0159 | train_loss: 0.7783 | penalty_loss: 0.2226
+eta: 1.030 | lam0: 0.123 | lam1: -0.100 | lam2: 0.000
+Epoch: 003/005 | Batch 0150/0159 | train_loss: 0.7929 | penalty_loss: 0.2102
+eta: 1.030 | lam0: -0.420 | lam1: 0.413 | lam2: 0.000
+Epoch: 003/005 | Train PRC: 59.118% | Train Acc: 62.962% | Train Ddp: 17.055% | Train Ppv: 36.325% | Train Fpr: 10.962% | Train Fnr: 1.752% 
+                 | Train TN0: 8124 | Train FP0: 21796 | Train FN0: 6448 | Train TP0: 58141
+                 | Train TN1: 18770 | Train FP1: 30477 | Train FN1: 1565 | Train TP1: 17449
+Epoch: 003/005 | Valid PRC: 59.253% | Valid Acc: 62.566% | Valid Ddp: 14.120% | Valid Ppv: 31.275% | Valid Fpr: 11.271% | Valid Fnr: 2.372% 
+                 | Valid TN0: 980 | Valid FP0: 2748 | Valid FN0: 837 | Valid TP0: 6844
+                 | Valid TN1: 2181 | Valid FP1: 3626 | Valid FN1: 226 | Valid TP1: 2425
+Time elapsed: 9.41 min
+Epoch: 004/005 | Batch 0000/0159 | train_loss: 0.7757 | penalty_loss: 0.1978
+eta: 1.041 | lam0: -0.495 | lam1: 0.473 | lam2: 0.000
+Epoch: 004/005 | Batch 0050/0159 | train_loss: 0.7628 | penalty_loss: 0.1925
+eta: 1.041 | lam0: -0.093 | lam1: 0.127 | lam2: 0.000
+Epoch: 004/005 | Batch 0100/0159 | train_loss: 0.8178 | penalty_loss: 0.2744
+eta: 1.041 | lam0: -0.108 | lam1: 0.098 | lam2: 0.000
+Epoch: 004/005 | Batch 0150/0159 | train_loss: 0.8208 | penalty_loss: 0.2598
+eta: 1.041 | lam0: -0.222 | lam1: 0.218 | lam2: 0.000
+Epoch: 004/005 | Train PRC: 60.198% | Train Acc: 64.188% | Train Ddp: 14.521% | Train Ppv: 35.513% | Train Fpr: 12.626% | Train Fnr: 1.356% 
+                 | Train TN0: 8902 | Train FP0: 21018 | Train FN0: 7072 | Train TP0: 57517
+                 | Train TN1: 20870 | Train FP1: 28377 | Train FN1: 1824 | Train TP1: 17190
+Epoch: 004/005 | Valid PRC: 60.286% | Valid Acc: 63.704% | Valid Ddp: 11.839% | Valid Ppv: 30.478% | Valid Fpr: 13.228% | Valid Fnr: 1.436% 
+                 | Valid TN0: 1072 | Valid FP0: 2656 | Valid FN0: 910 | Valid TP0: 6771
+                 | Valid TN1: 2438 | Valid FP1: 3369 | Valid FN1: 276 | Valid TP1: 2375
+Time elapsed: 13.42 min
+Epoch: 005/005 | Batch 0000/0159 | train_loss: 0.7590 | penalty_loss: 0.2309
+eta: 1.051 | lam0: -0.115 | lam1: 0.154 | lam2: 0.000
+Epoch: 005/005 | Batch 0050/0159 | train_loss: 0.7254 | penalty_loss: 0.0742
+eta: 1.051 | lam0: -0.203 | lam1: 0.201 | lam2: 0.000
+Epoch: 005/005 | Batch 0100/0159 | train_loss: 0.7293 | penalty_loss: 0.1588
+eta: 1.051 | lam0: -0.566 | lam1: 0.554 | lam2: 0.000
+Epoch: 005/005 | Batch 0150/0159 | train_loss: 0.7835 | penalty_loss: 0.2885
+eta: 1.051 | lam0: -0.006 | lam1: 0.028 | lam2: 0.000
+Epoch: 005/005 | Train PRC: 60.800% | Train Acc: 65.029% | Train Ddp: 13.793% | Train Ppv: 35.015% | Train Fpr: 14.548% | Train Fnr: 0.053% 
+                 | Train TN0: 8913 | Train FP0: 21007 | Train FN0: 6577 | Train TP0: 58012
+                 | Train TN1: 21835 | Train FP1: 27412 | Train FN1: 1926 | Train TP1: 17088
+Epoch: 005/005 | Valid PRC: 60.929% | Valid Acc: 64.615% | Valid Ddp: 11.223% | Valid Ppv: 29.958% | Valid Fpr: 15.347% | Valid Fnr: 0.131% 
+                 | Valid TN0: 1072 | Valid FP0: 2656 | Valid FN0: 836 | Valid TP0: 6845
+                 | Valid TN1: 2561 | Valid FP1: 3246 | Valid FN1: 292 | Valid TP1: 2359
+Time elapsed: 18.10 min

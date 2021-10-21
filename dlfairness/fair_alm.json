@@ -1,0 +1,74 @@
+[
+    {
+      "description": "CelebA-No_Constraints",
+      "network": "ResNet18",
+      "training_type": "no-constraints",
+      "dataset": "CelebA",
+      "random_seed": "fixed1",
+      "no_tries": 16,
+      "shared_dir": "/dlfairness",
+      "working_dir": "/working_dir",
+      "source_dir": "original_code/FairALM/Experiments-CelebA",
+      "modified_target_dir": "/modified_dir",
+      "main_file": "main.py",
+      "running_command": [
+          "python3 main.py --algorithm NO_CONSTRAINTS --num_epochs 100 --checkpoint_path ./checkpoint --seed 1"
+        ],
+      "docker_env": "dlfairness:balanced_dataset_not_enough_coco",
+      "conda_env": "##_NO_CONDA_##",
+      "eval_file": ["main.py"],
+      "eval_running_command": [
+          "rm -rf data"
+        ],
+        "main_result_rel_path": "logs/test_result.txt",
+        "bias_result_rel_path": "logs/bias_result.txt"
+    },
+    {
+        "description": "CelebA-L2-Penalty",
+        "network": "ResNet18",
+        "training_type": "l2-penalty",
+        "dataset": "CelebA",
+        "random_seed": "fixed1",
+        "no_tries": 16,
+        "shared_dir": "/dlfairness",
+        "working_dir": "/working_dir",
+        "source_dir": "original_code/FairALM/Experiments-CelebA",
+        "modified_target_dir": "/modified_dir",
+        "main_file": "main.py",
+        "running_command": [
+            "python3 main.py --algorithm L2_PENALTY --num_epochs 100 --checkpoint_path ./checkpoint --seed 1"
+          ],
+        "docker_env": "dlfairness:balanced_dataset_not_enough_coco",
+        "conda_env": "##_NO_CONDA_##",
+        "eval_file": ["main.py"],
+        "eval_running_command": [
+            "rm -rf data"
+          ],
+          "main_result_rel_path": "logs/test_result.txt",
+          "bias_result_rel_path": "logs/bias_result.txt"
+      },
+      {
+        "description": "CelebA-FairALM",
+        "network": "ResNet18",
+        "training_type": "fair-alm",
+        "dataset": "CelebA",
+        "random_seed": "fixed1",
+        "no_tries": 16,
+        "shared_dir": "/dlfairness",
+        "working_dir": "/working_dir",
+        "source_dir": "original_code/FairALM/Experiments-CelebA",
+        "modified_target_dir": "/modified_dir",
+        "main_file": "main.py",
+        "running_command": [
+            "python3 main.py --algorithm FAIR_ALM --num_epochs 100 --checkpoint_path ./checkpoint --seed 1"
+          ],
+        "docker_env": "dlfairness:balanced_dataset_not_enough_coco",
+        "conda_env": "##_NO_CONDA_##",
+        "eval_file": ["main.py"],
+        "eval_running_command": [
+            "rm -rf data"
+          ],
+          "main_result_rel_path": "logs/test_result.txt",
+          "bias_result_rel_path": "logs/bias_result.txt"
+      }
+]
