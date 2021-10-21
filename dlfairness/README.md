@@ -1,4 +1,4 @@
-# Reproduction Guide for "Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training"
+# Reproducibility Guide for "Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training"
 
 ## Introduction
 
@@ -18,7 +18,7 @@ Docker-CE 19.03+
 
 Packages inside `requirements.txt` (`pip3 install -r requirements.txt`)
 
-Two docker images provided (`docker load -i dlfairness_balanced_dataset_not_enough_coco.tar` and `docker load -i dlfairness_nifr.tar`)
+Two [docker images](https://github.com/lin-tan/fairness-variance/releases/tag/docker_image) provided (`docker load -i dlfairness_balanced_dataset_not_enough_coco.tar` and `docker load -i dlfairness_nifr.tar`)
 
 **We strongly recommend running the experiments under a separate Python Virtual Environment (virtualenv).**
 
@@ -208,15 +208,12 @@ The code is stored under `original_code/FairALM/Experiments-CelebA`.
 
 #### Prepare the dataset
 
-Obtain `img_align_celeba.zip` from https://drive.google.com/file/d/0B7EVK8r0v71pZjFTYXZWM3FlRnM/view?usp=sharing
-
-Obtain `list_eval_partition.txt` from https://drive.google.com/file/d/0B7EVK8r0v71pY0NSMzRuSXJEVkk/view?usp=sharing
-
-Obtain `list_attr_celeba.txt` from https://drive.google.com/file/d/0B7EVK8r0v71pblRyaVFSWGxPY0U/view?usp=sharing
-
-Place all three files under `original_code/FairALM/Experiments-CelebA/data`
-
 ```bash
+# CelebA
+cd original_code/FairALM/Experiments-CelebA/data
+wget https://github.com/lin-tan/fairness-variance/releases/download/dataset/img_align_celeba.zip
+wget https://github.com/lin-tan/fairness-variance/releases/download/dataset/list_attr_celeba.txt
+wget https://github.com/lin-tan/fairness-variance/releases/download/dataset/list_eval_partition.txt
 unzip img_align_celeba.zip
 ```
 
@@ -263,15 +260,12 @@ The code is stored under `original_code/nifr`.
 
 #### Prepare the dataset
 
-Obtain `img_align_celeba.zip` from https://drive.google.com/file/d/0B7EVK8r0v71pZjFTYXZWM3FlRnM/view?usp=sharing
-
-Obtain `list_eval_partition.txt` from https://drive.google.com/file/d/0B7EVK8r0v71pY0NSMzRuSXJEVkk/view?usp=sharing
-
-Obtain `list_attr_celeba.txt` from https://drive.google.com/file/d/0B7EVK8r0v71pblRyaVFSWGxPY0U/view?usp=sharing
-
-Place all three files under `original_code/nifr/data/celeba`
-
 ```bash
+# CelebA
+cd original_code/nifr/data/celeba
+wget https://github.com/lin-tan/fairness-variance/releases/download/dataset/img_align_celeba.zip
+wget https://github.com/lin-tan/fairness-variance/releases/download/dataset/list_attr_celeba.txt
+wget https://github.com/lin-tan/fairness-variance/releases/download/dataset/list_eval_partition.txt
 unzip img_align_celeba.zip
 ```
 
@@ -405,7 +399,7 @@ Each csv file has four columns:
 * `prediction_result`: The predicted (task) label of the model.
 * `protected_label`: The protected label of the sample.
 
-The results of our experiments can be found at: https://github.com/fairnessvariance/fairnessvariance/releases/tag/prediction
+The results of our experiments can be found at: https://github.com/lin-tan/fairness-variance/releases/tag/prediction
 
 
 
@@ -482,7 +476,7 @@ Each csv file has four columns:
 * `prediction_result`: The predicted (task) label of the model.
 * `protected_label`: The protected label of the sample.
 
-The results of our experiments can be found at: https://github.com/fairnessvariance/fairnessvariance/releases/tag/prediction
+The results of our experiments can be found at: https://github.com/lin-tan/fairness-variance/releases/tag/prediction
 
 
 
@@ -543,7 +537,7 @@ Each csv file has four columns:
 * `prediction_result`: The predicted (task) label of the model.
 * `protected_label`: The protected label of the sample.
 
-The results of our experiments can be found at: https://github.com/fairnessvariance/fairnessvariance/releases/tag/prediction
+The results of our experiments can be found at: https://github.com/lin-tan/fairness-variance/releases/tag/prediction
 
 
 
@@ -593,7 +587,7 @@ Each csv file has four columns:
 * `prediction_result`: The predicted (task) label of the model.
 * `protected_label`: The protected label of the sample.
 
-The results of our experiments can be found at: https://github.com/fairnessvariance/fairnessvariance/releases/tag/prediction
+The results of our experiments can be found at: https://github.com/lin-tan/fairness-variance/releases/tag/prediction
 
 
 
@@ -620,7 +614,7 @@ The value to each key is a list containing the accuracies from 16 FIT runs.
 
 The code for bias metric calculation is self-contained and is located under `other/metric_calculation`. You will need the content of all the `OUTPUT_DIR`s in the previous section (RS2).
 
-Details of bias metric calculation code can be found in `Bias Metric Calculation.pdf`.
+Details of bias metric calculation code can be found [here](other/metric_calculation/README.md).
 
 
 
@@ -876,7 +870,7 @@ Now, you will have everything we need to write the paper.
 
 ## Result Files
 
-Files in our https://github.com/fairnessvariance/fairnessvariance repo can be find in these places:
+Files in our https://github.com/lin-tan/fairness-variance repo can be find in these places:
 
 * `raw_data.csv`: `other/bias_result_display/table/supp_material.csv`
 * Everything under `raw_bias_numbers`: `other/bias_result_display/result_submit`
