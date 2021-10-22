@@ -304,7 +304,7 @@ After running the scripts, you will find similar files and directories under you
 
 ### What you need for this step
 
-**From [RS1](#what-you-need-for-this-step)**: `shared_dir`, `working_dir`, `modified_target_dir`, `NAS_DIR`, and `RESULT_DIR` for all four reproduced papers
+**From [RS1](#rs1-executing-code-for-reproduced-papers)**: `shared_dir`, `working_dir`, `modified_target_dir`, `NAS_DIR`, and `RESULT_DIR` for all four reproduced papers
 
 **Define** `OUTPUT_DIR` for each set of techniques with the same initial
 
@@ -467,7 +467,7 @@ i_aggregated_raw_prediction
 └── ratio-3			# I-R3
 ```
 
-For MS-COCO dataset, we only focus the files under `threshold_0.5` as suggested by the original paper. However, you will still need to copy all the files under `OUTPUT_DIR` in RS3.
+For MS-COCO dataset, we only focus the files under `threshold_0.5` as suggested by the original paper. However, you will still need to copy all the files under `OUTPUT_DIR` in [RS3](#rs3-bias-metric-calculation).
 
 Each csv file has four columns:
 
@@ -606,13 +606,13 @@ The value to each key is a list containing the accuracies from 16 FIT runs.
 
 ### What you need for this step
 
-**From [RS2](#what-you-need-for-this-step-1)**: Contents under all the `OUTPUT_DIR`s in RS2, including the parent folder `OUTPUT_DIR`
+**From [RS2](#rs2-collecting-prediction-results)**: Contents under all the `OUTPUT_DIR`s in RS2, including the parent folder `OUTPUT_DIR`
 
 
 
 ### Overview
 
-The code for bias metric calculation is self-contained and is located under `other/metric_calculation`. You will need the content of all the `OUTPUT_DIR`s in the previous section (RS2).
+The code for bias metric calculation is self-contained and is located under `other/metric_calculation`. You will need the content of all the `OUTPUT_DIR`s in the previous section ([RS2](#rs2-collecting-prediction-results)).
 
 Details of bias metric calculation code can be found [here](other/metric_calculation/README.md).
 
@@ -653,7 +653,7 @@ Details of bias metric calculation code can be found [here](other/metric_calcula
 
 
 
-Assume the `OUTPUT_DIR`s follow the example in the previous section (RS2), five folders will be created under `other/metric_calculation`:
+Assume the `OUTPUT_DIR`s follow the example in the previous section ([RS2](#rs2-collecting-prediction-results)), five folders will be created under `other/metric_calculation`:
 
 * `other/metric_calculation/s_aggregated_raw_prediction`
 * `other/metric_calculation/c_aggregated_raw_prediction`
@@ -726,7 +726,7 @@ The csv and json files contains the bias values for all the experiments. A mappi
 
 ### What you need for this step
 
-**From [RS2](#what-you-need-for-this-step-1)**: yaml files containing model accuracy:
+**From [RS2](rs2-collecting-prediction-results)**: yaml files containing model accuracy:
 
 * `other/prediction_result/dbm_csv_pred_result/cifar-10s.yaml`
 * `other/prediction_result/balanced_dataset_csv_pred_result/coco_mAP.yaml`
@@ -734,7 +734,7 @@ The csv and json files contains the bias values for all the experiments. A mappi
 * `other/prediction_result/fair_alm/celeba_alm_acc.yaml`
 * `other/prediction_result/nifr/celeba_nifr_acc.yaml`
 
-**From [RS3](#what-you-need-for-this-step-2)**: csv and json files under:
+**From [RS3](#rs3-bias-metric-calculation)**: csv and json files under:
 
 * `metric_calculation/s_aggregated_raw_prediction/result`
 * `metric_calculation/c_aggregated_raw_prediction/result`
