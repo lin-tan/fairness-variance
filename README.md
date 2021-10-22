@@ -16,5 +16,5 @@ This is the artifact repository for the NeurIPS 2021 paper: Are My Deep Learning
 | [Dataset](https://github.com/lin-tan/fairness-variance/releases/tag/dataset) | This release contains a backup of all the datasets used in our study. |
 | [Replication package](dlfairness)                            | This folder contains the code and scripts to reproduce our study. |
 | [Code README](dlfairness/README.md)                          | This file is the guide to use our replication package.       |
-| [Bias metric calculation](dlfairness/other/metric_calculation/README.md) | This file is the details about the bias metric calculation part of the replication package. |
+| [Bias metric calculation README](dlfairness/other/metric_calculation/README.md) | This file is the details about the bias metric calculation part of the replication package. |
 
