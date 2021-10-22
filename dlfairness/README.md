@@ -26,13 +26,13 @@ Two [docker images](https://github.com/lin-tan/fairness-variance/releases/tag/do
 
 ## Overview
 
-All the results in the paper can be replicated with five steps:
+All the results in the paper can be replicated with five steps (**RS**: Reproduce Step):
 
-1. Prepare the dataset for each reproduced paper
-2. Executing the code for each reproduced paper
-3. Collecting the prediction results on the testset
-4. Calculating the bias metrics
-5. Generate results from the the bias values calculated
+1. Prepare the dataset for each reproduced paper ([RS1](#rs1-executing-code-for-reproduced-papers))
+2. Execute the code for each reproduced paper ([RS1](#rs1-executing-code-for-reproduced-papers))
+3. Collect the prediction results on the testset ([RS2](#rs2-collecting-prediction-results))
+4. Calculate the bias metrics ([RS3](#rs3-bias-metric-calculation))
+5. Generate the results from the bias values calculated ([RS4](#rs4-generate-final-results))
 
 
 
@@ -304,7 +304,7 @@ After running the scripts, you will find similar files and directories under you
 
 ### What you need for this step
 
-**From RS1**: `shared_dir`, `working_dir`, `modified_target_dir`, `NAS_DIR`, and `RESULT_DIR` for all four reproduced papers
+**From [RS1](#what-you-need-for-this-step)**: `shared_dir`, `working_dir`, `modified_target_dir`, `NAS_DIR`, and `RESULT_DIR` for all four reproduced papers
 
 **Define** `OUTPUT_DIR` for each set of techniques with the same initial
 
@@ -606,7 +606,7 @@ The value to each key is a list containing the accuracies from 16 FIT runs.
 
 ### What you need for this step
 
-**From RS2**: Contents under all the `OUTPUT_DIR`s in RS2, including the parent folder `OUTPUT_DIR`
+**From [RS2](#what-you-need-for-this-step-1)**: Contents under all the `OUTPUT_DIR`s in RS2, including the parent folder `OUTPUT_DIR`
 
 
 
@@ -726,7 +726,7 @@ The csv and json files contains the bias values for all the experiments. A mappi
 
 ### What you need for this step
 
-**From RS2**: yaml files containing model accuracy:
+**From [RS2](#what-you-need-for-this-step-1)**: yaml files containing model accuracy:
 
 * `other/prediction_result/dbm_csv_pred_result/cifar-10s.yaml`
 * `other/prediction_result/balanced_dataset_csv_pred_result/coco_mAP.yaml`
@@ -734,7 +734,7 @@ The csv and json files contains the bias values for all the experiments. A mappi
 * `other/prediction_result/fair_alm/celeba_alm_acc.yaml`
 * `other/prediction_result/nifr/celeba_nifr_acc.yaml`
 
-**From RS3**: csv and json files under:
+**From [RS3](#what-you-need-for-this-step-2)**: csv and json files under:
 
 * `metric_calculation/s_aggregated_raw_prediction/result`
 * `metric_calculation/c_aggregated_raw_prediction/result`
