@@ -726,7 +726,7 @@ The csv and json files contains the bias values for all the experiments. A mappi
 
 ### What you need for this step
 
-**From [RS2](rs2-collecting-prediction-results)**: yaml files containing model accuracy:
+**From [RS2](#rs2-collecting-prediction-results)**: yaml files containing model accuracy:
 
 * `other/prediction_result/dbm_csv_pred_result/cifar-10s.yaml`
 * `other/prediction_result/balanced_dataset_csv_pred_result/coco_mAP.yaml`
