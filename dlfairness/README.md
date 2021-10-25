@@ -61,6 +61,27 @@ We provide the following sample set of path to reproduce our study.
 
 All four json config files can be found under `/dlfairness`. Column _Technique_ is the initials for tasks in our paper.
 
+## Table of Contents
+
+1. RS1: [Executing the code for reproduced papers](#rs1-executing-code-for-reproduced-papers)
+    * [What you need for this step](#what-you-need-for-this-step)
+    * [Technique "S"](#technique-s)
+    * [Technique "C" and "I"](#technique-c-and-i)
+    * [Technique "A"](#technique-a)
+    * [Technique "N"](#technique-n)
+2. RS2: [Collecting the prediction results](#rs2-collecting-prediction-results)
+    * [What you need for this step](#what-you-need-for-this-step-1)
+    * [Technique "S"](#technique-s-1)
+    * [Technique "C" and "I"](#technique-c-and-i-1)
+    * [Technique "A"](#technique-a-1)
+    * [Technique "N"](#technique-n-1)
+3. RS3: [Calculating the bias metrics](#rs3-bias-metric-calculation)
+    * [What you need for this step](#what-you-need-for-this-step-2)
+    * [Follow these steps to run the calculation](#overview-2)
+4. RS4: [Generating the results](#rs4-generate-final-results)
+    * [What you need for this step](#what-you-need-for-this-step-3)
+    * [Follow these steps to get the results](#steps)
+5. [Where to get the results](#result-files)
 
 
 ## RS1. Executing Code for Reproduced Papers
