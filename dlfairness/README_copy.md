@@ -48,7 +48,7 @@ We refer to the json config file as `json_filename`.
 
 
 
-### Path Samples
+### Path Examples
 
 We provide the following sample set of path to reproduce our study.
 
