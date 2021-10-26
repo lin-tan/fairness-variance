@@ -5,8 +5,8 @@ The code for "S" techniques is under `other/prediction_result/dbm_csv_pred_resul
 To the the model accuracy and prediction results, change the following variables in `run.sh` and `run_acc.sh` under `other/prediction_result/dbm_csv_pred_result`:
 
 * `CONFIG`: The full path of `json_filename`. For example, `/dlfairness/fairness_variance_test_config.json`
-* `RAW_RESULT_DIR`: Use `RESULT_DIR`
-* `OUTPUT_DIR`: Fill in the  prepared `OUTPUT_DIR` 
+* `RAW_RESULT_DIR`: Use `RESULT_DIR`. For example, `/working_dir/result_s`
+* `OUTPUT_DIR`: Fill in the  prepared `OUTPUT_DIR`. For example, `/working_dir/result_s/s_aggregated_raw_prediction`
 
 ```bash
 bash run.sh

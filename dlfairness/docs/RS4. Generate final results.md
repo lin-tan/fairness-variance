@@ -12,11 +12,11 @@
 
 **From [RS3](#rs3-bias-metric-calculation)**: csv and json files under:
 
-* `metric_calculation/s_aggregated_raw_prediction/result`
-* `metric_calculation/c_aggregated_raw_prediction/result`
-* `metric_calculation/i_aggregated_raw_prediction/result`
-* `metric_calculation/a_aggregated_raw_prediction/result`
-* `metric_calculation/n_aggregated_raw_prediction/result`
+* `other/metric_calculation/s_aggregated_raw_prediction/result`
+* `other/metric_calculation/c_aggregated_raw_prediction/result`
+* `other/metric_calculation/i_aggregated_raw_prediction/result`
+* `other/metric_calculation/a_aggregated_raw_prediction/result`
+* `other/metric_calculation/n_aggregated_raw_prediction/result`
 
 
 

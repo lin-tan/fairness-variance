@@ -5,8 +5,8 @@ The code for "N" technique is under `other/prediction_result/nifr`.
 To the the model accuracy and prediction results, change the following variables in `run_celeba.sh` and `run_model_acc.sh` under `other/prediction_result/nifr`:
 
 * `CONFIG`: The full path of `json_filename`. For example, `/dlfairness/nifr.json`
-* `RAW_RESULT_DIR`: Use `RESULT_DIR`
-* `OUTPUT_DIR`: Fill in the  prepared `OUTPUT_DIR` 
+* `RAW_RESULT_DIR`: Use `RESULT_DIR`. For example, `/working_dir/result_n`
+* `OUTPUT_DIR`: Fill in the  prepared `OUTPUT_DIR`. For example, `/working_dir/result_n/n_aggregated_raw_prediction`
 
 ```bash
 bash run_celea.sh

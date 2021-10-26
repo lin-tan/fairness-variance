@@ -5,8 +5,8 @@ The code for "C" and "I" techniques is under `other/prediction_result/balanced_d
 To the the model accuracy and prediction results, change the following variables in `run_coco.sh`, `run_coco_adv.sh`, `run_imSitu.sh`, `run_imSitu_adv.sh`, and `run_model_acc.sh` under `other/prediction_result/balanced_dataset_csv_pred_result`:
 
 * `CONFIG`: The full path of `json_filename`. For example, `/dlfairness/balanced_dataset_not_enough_coco.json`
-* `RAW_RESULT_DIR`: Use `RESULT_DIR`
-* `OUTPUT_DIR`: Fill in the  prepared `OUTPUT_DIR` 
+* `RAW_RESULT_DIR`: Use `RESULT_DIR`. For example, `/working_dir/result_c`
+* `OUTPUT_DIR`: Fill in the  prepared `OUTPUT_DIR`. For example, `/working_dir/result_c/c_aggregated_raw_prediction` (Technique "C") and `/working_dir/result_c/i_aggregated_raw_prediction` (Technique "I")
 
 ```bash
 bash run_coco.sh

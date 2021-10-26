@@ -22,6 +22,14 @@ Open `1_1_1_setup_server_runs_fairness.sh`, modify `NAS_DIR` on Line 2 and `json
 
 Open `1_2_1_multiple_server_runs_deepgpu3_fairness.sh`, modify `RESULT_DIR` on Line 2 and `NAS_DIR` on Line 3.
 
+### Example paths
+
+* `json_filename`: `fairness_variance_test_config.json`
+* `shared_dir`: `/dlfairness`
+* `working_dir`: `/working_dir`
+* `NAS_DIR`: `/dlfairness/result_s`
+* `RESULT_DIR`: `/working_dir/result_s`
+
 ## Run the scripts
 
 ```bash
