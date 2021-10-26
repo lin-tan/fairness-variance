@@ -10,14 +10,22 @@ You can read [RS2.1](<RS2.1 Technique S.md>) for Technique "S", [RS2.2](<RS2.2 T
 
 **From RS1**: `shared_dir`, `working_dir`, `modified_target_dir`, `NAS_DIR`, and `RESULT_DIR` for all four reproduced papers
 
+| Technique | shared_dir  | working_dir  | modified_target_dir | NAS_DIR              | RESULT_DIR            |
+| --------- | ----------- | ------------ | ------------------- | -------------------- | --------------------- |
+| S         | /dlfairness | /working_dir | N/A                 | /dlfairness/result_s | /working_dir/result_s |
+| C, I      | /dlfairness | /working_dir | /modified_dir       | /dlfairness/result_c | /working_dir/result_c |
+| A         | /dlfairness | /working_dir | /modified_dir       | /dlfairness/result_a | /working_dir/result_a |
+| N         | /dlfairness | /working_dir | /modified_dir       | /dlfairness/result_n | /working_dir/result_n |
+
+
 **Define** `OUTPUT_DIR` for each set of techniques with the same initial
 
 In addition of the five paths mentioned above (`shared_dir`, `working_dir`, `modified_target_dir`, `NAS_DIR`, and `RESULT_DIR`), we will need another path `OUTPUT_DIR` to store all the prediction results.
 
-| Technique | RESULT_DIR            | OUTPUT_DIR                                        |
-| --------- | --------------------- | ------------------------------------------------- |
-| S         | /working_dir/result_s | /working_dir/result_s/s_aggregated_raw_prediction |
-| C         | /working_dir/result_c | /working_dir/result_c/c_aggregated_raw_prediction |
-| I         | /working_dir/result_c | /working_dir/result_c/i_aggregated_raw_prediction |
-| A         | /working_dir/result_a | /working_dir/result_a/a_aggregated_raw_prediction |
-| N         | /working_dir/result_n | /working_dir/result_n/n_aggregated_raw_prediction |
+| Technique | OUTPUT_DIR                                        |
+| --------- | ------------------------------------------------- |
+| S         | /working_dir/result_s/s_aggregated_raw_prediction |
+| C         | /working_dir/result_c/c_aggregated_raw_prediction |
+| I         | /working_dir/result_c/i_aggregated_raw_prediction |
+| A         | /working_dir/result_a/a_aggregated_raw_prediction |
+| N         | /working_dir/result_n/n_aggregated_raw_prediction |

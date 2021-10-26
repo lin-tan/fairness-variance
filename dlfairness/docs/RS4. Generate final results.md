@@ -2,7 +2,7 @@
 
 ## What you need for this step
 
-**From [RS2](#rs2-collecting-prediction-results)**: yaml files containing model accuracy:
+**From [RS2](<RS2. Collect prediction results.md>)**: yaml files containing model accuracy:
 
 * `other/prediction_result/dbm_csv_pred_result/cifar-10s.yaml`
 * `other/prediction_result/balanced_dataset_csv_pred_result/coco_mAP.yaml`
@@ -10,7 +10,7 @@
 * `other/prediction_result/fair_alm/celeba_alm_acc.yaml`
 * `other/prediction_result/nifr/celeba_nifr_acc.yaml`
 
-**From [RS3](#rs3-bias-metric-calculation)**: csv and json files under:
+**From [RS3](<RS3. Bias metric calculation.md>)**: csv and json files under:
 
 * `other/metric_calculation/s_aggregated_raw_prediction/result`
 * `other/metric_calculation/c_aggregated_raw_prediction/result`

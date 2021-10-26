@@ -4,6 +4,13 @@
 
 **From RS2**: Contents under all the `OUTPUT_DIR`s in RS2, including the parent folder `OUTPUT_DIR`
 
+| Technique | OUTPUT_DIR                                        |
+| --------- | ------------------------------------------------- |
+| S         | /working_dir/result_s/s_aggregated_raw_prediction |
+| C         | /working_dir/result_c/c_aggregated_raw_prediction |
+| I         | /working_dir/result_c/i_aggregated_raw_prediction |
+| A         | /working_dir/result_a/a_aggregated_raw_prediction |
+| N         | /working_dir/result_n/n_aggregated_raw_prediction |
 
 
 ## Overview
@@ -49,7 +56,7 @@ Details of bias metric calculation code can be found [here](../other/metric_calc
 
 
 
-Assume the `OUTPUT_DIR`s follow the example in the previous section ([RS2](#rs2-collecting-prediction-results)), five folders will be created under `other/metric_calculation`:
+Assume the `OUTPUT_DIR`s follow the example in the previous section ([RS2](<RS2. Collect prediction results.md>)), five folders will be created under `other/metric_calculation`:
 
 * `other/metric_calculation/s_aggregated_raw_prediction`
 * `other/metric_calculation/c_aggregated_raw_prediction`

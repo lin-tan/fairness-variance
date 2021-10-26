@@ -28,11 +28,11 @@ Two [docker images](https://github.com/lin-tan/fairness-variance/releases/tag/do
 
 All the results in the paper can be replicated with five steps (**RS**: Reproduce Step):
 
-1. Prepare the dataset for each reproduced paper ([RS1](#rs1-executing-code-for-reproduced-papers))
-2. Execute the code for each reproduced paper ([RS1](#rs1-executing-code-for-reproduced-papers))
-3. Collect the prediction results on the testset ([RS2](#rs2-collecting-prediction-results))
-4. Calculate the bias metrics ([RS3](#rs3-bias-metric-calculation))
-5. Generate the results from the bias values calculated ([RS4](#rs4-generate-final-results))
+1. Prepare the dataset for each reproduced paper ([RS1](<docs/RS1. Execute the code.md>))
+2. Execute the code for each reproduced paper ([RS1](<docs/RS1. Execute the code.md>))
+3. Collect the prediction results on the testset ([RS2](<docs/RS2. Collect prediction results.md>))
+4. Calculate the bias metrics ([RS3](<docs/RS3. Bias metric calculation.md>))
+5. Generate the results from the bias values calculated ([RS4](<docs/RS4. Generate final results.md>))
 
 
 
